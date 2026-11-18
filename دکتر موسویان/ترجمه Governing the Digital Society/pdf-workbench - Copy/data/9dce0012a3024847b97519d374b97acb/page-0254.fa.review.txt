@@ -1,0 +1,25 @@
+ارزیابی تأثیر بر حقوق بنیادین و الگوریتم‌ها ۲۵۱
+
+منابع
+
+DEDA. بدون تاریخ. «کمک‌کننده تصمیم اخلاق داده.» https://deda.dataschool.nl/en/.
+Gerards, Janneke, Mirko Tobias Schäfer, Arthur Vankan, and Iris Muis. ۲۰۲۲.
+   ارزیابی تأثیر: حقوق بنیادین و الگوریتم‌ها. لاهه: وزارت امور داخلی و روابط پادشاهی. https://www.government.nl/documents/
+   reports/2022/03/31/impact-assessment-fundamental-rights-and-algorithms.
+Google. ۲۰۲۳. «سیاست حریم خصوصی.» ۱۵ نوامبر. https://policies.google.com/privacy.
+Nederland Digitaal. ۲۰۲۱. «راهبرد دیجیتال‌سازی هلند ۲۰۲۱.» https://
+   www.nederlanddigitaal.nl/documenten/publicaties/2021/06/22/the-dutch-
+   digitalisation-strategy-2021-eng.
+Reisman, Dillon, Jason Schultz, Kate Crawford, and Meredith Whittaker. ۲۰۱۸.
+   «ارزیابی‌های تأثیر الگوریتمی: یک چارچوب عملی برای نهادهای عمومی.»
+   AI Now، ۴ اکتبر. https://www.nist.gov/system/files/documents/2021/10/04/
+   aiareport2018.pdf.
+Van Til, Gijs. ۲۰۱۹. «هلند: خودکارسازی جامعه ۲۰۱۹.» Algorithm Watch. https://
+   algorithmwatch.org/en/automating-society-2019/netherlands/.
+Wieringa, Maranke. ۲۰۲۳. «ای SyRI، درباره پاسخگویی الگوریتمی برایم بگو:
+   درس‌هایی از یک پرونده شاخص.» Data & Policy 5: e2. https://doi.org/10.1017/
+   dap.2022.39.
+
+درباره نویسنده
+
+Viktorija Morozovaite استادیار دانشگاه آمستردام است.

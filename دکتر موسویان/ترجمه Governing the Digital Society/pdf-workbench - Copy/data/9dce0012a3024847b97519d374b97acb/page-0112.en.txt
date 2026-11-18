@@ -1,0 +1,40 @@
+Governing the Global Proliferation of Digital Surveillance Technologies  109
+
+  The “Dual-Use Regulation” mentioned by the European Parliament is
+one of the legal instruments which can be applied to prevent some of the
+problematic consequences of the global sale of surveillance technologies.
+The instrument in question is the EU’s Dual-Use Export Control Regulation
+(EU) 2021/821 to control the international transfer of items which serve
+both civilian and military purposes. Despite the rather technical nature
+of the regulation, this legal instrument came under the spotlight as a legal
+tool to prevent the uncontrolled proliferation of surveillance technologies
+(Kanetake 2019a).
+  Against this background, the present chapter examines the EU’s attempt
+between 2013 and 2023 to use the Dual-Use Regulation to control the trade
+of digital surveillance technologies. The central argument of this chapter
+is that the EU’s Dual-Use Export Control Regulation has not developed
+sufficiently to address multifaceted human rights risks associated with the
+sale of digital surveillance technologies. This is primarily because the field
+of law has evolved based on the duality and dichotomy of “civil and military”
+purposes, within the broader regional and international policies on security
+and defense (Kanetake 2018). While the EU has strengthened rights-based
+control regarding cyber surveillance technologies, such control sits oddly
+with the traditional civil–military dichotomy which, more importantly,
+leaves rights-based risk assessment effectively marginalized.
+  The chapter will start with explaining the relevance of dual-use export
+control for the regulation of digital surveillance technologies (section 2).
+Then the chapter provides the interpretation of the EU’s export control
+provision over cyber surveillance items (section 3). This will be followed by
+the analysis of some reported cases of the misuse of spyware, which may
+illustrate key regulatory gaps in the EU’s dual-use export control (section 4).
+The chapter will end with articulating a set of lessons learnt from the EU’s
+experience in regulating the transfer of digital surveillance technologies
+(section 5 and conclusion).
+
+Digital surveillance
+
+The market for digital surveillance tools is “shrouded in secrecy,” as the UN’s
+Special Rapporteur on freedom of opinion and expression acknowledged
+(UN Human Rights Council 2019, para. 1). Such secrecy is connected to
+the secrecy of the governmental use of surveillance technologies, which
+limits the possibilities for external scrutiny (Van der Vlist 2017, 137–38).

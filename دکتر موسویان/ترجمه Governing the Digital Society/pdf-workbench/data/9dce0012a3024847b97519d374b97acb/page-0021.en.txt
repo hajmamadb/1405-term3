@@ -1,0 +1,42 @@
+18       José van Dijck, Karin van Es, Anne Helmond, and Fernando van der Vlist
+
+Section 1: Governing Platforms
+In the first section, four contributions explore how online platforms are
+governed from various disciplinary perspectives starting with one from
+media studies and public management to study the organization of social
+media platforms. Mathilde Sanders and José van Dijck argue how decentral-
+ized online social networks (DOSNs), such as Mastodon or BlueSky, seem to
+be the refuge for those who want to quit “mainstream” social media such as
+Facebook and X. These two types of platforms are often categorically pitted
+against each other. In this chapter, Sanders and Van Dijck argue that the
+choice for decentralization is neither categorical nor binary but should be the
+outcome of nuanced considerations based on public values. “Decentraliza-
+tion” concerns both the technical aspects (open-source software, software
+protocols, and data servers), and organizational aspects (content moderation,
+ownership, and business model) of a platform. To cement public values in
+a platform design, a combination of both centralized and decentralized
+technological and organizational elements may be preferable over a static
+category. “Good governance” hence requires a heuristic for deliberation
+to help developers and users navigate the inevitable trade-offs between
+sometimes conflicting values.
+  The second contribution explores “good governance” from a labor per-
+spective. Gabriël van Rosmalen examines the European Union’s attempt
+to improve the precarious position of platform workers. He focuses on the
+directive aimed at reducing the power imbalance between workers and
+platforms by reclassifying the employment status of platform workers. This
+chapter investigates the effectiveness of this approach. While the EU’s at-
+tempt is a step into the right direction, it remains uncertain whether workers
+will truly benefit. Therefore, this chapter presents platform cooperatives as
+an alternative model for governing digital labor platforms. Characterized
+by democratic structures and worker ownership, cooperatives have the
+potential to effectively tackle specific labor issues. Platform cooperatives and
+their governance structures warrant more attention from legislators, as the
+policies of EU member states and local governments can play a significant
+role in fostering their growth.
+  The next two chapters highlight the issue of content and user mod-
+eration, which is often a complex interplay between human and machine
+intervention. Computational linguist Cedric Waterschoot, in his chapter,
+examines how the governance of online user comments on news sites has
+primarily focused on identifying and banning unwanted comments. His
+study highlights a more recent development: the promotion of constructive
+comments. Waterschoot analyzes how banning toxicity and promoting

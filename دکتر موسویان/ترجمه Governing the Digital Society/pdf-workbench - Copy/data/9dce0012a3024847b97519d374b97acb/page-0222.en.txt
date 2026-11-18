@@ -1,0 +1,51 @@
+Motherhood in the Datafied Welfare State                                219
+
+
+Table 12.2.   Selection of Indicators from a List of 315 Indicators Used in Richard
+            Moti’s Welfare Fraud Risk-Scoring Algorithm
+
+ Indicator         Relative     Number Explanation               Removed
+                importance   in list                                      in 2021
+ Age              100.00        1       Age at time of investigation     No
+ Language         15.15          11      Number of days after a person    Yes
+ requirement                             has been assigned a language
+ period                                   requirement
+ Exemption days   13.82         13      Number of days people have     Yes
+ for medical                           been exempt from applying for
+ reasons                                    jobs for medical reasons
+ Length of current  12.44         14       Length of relationship with     No
+ relationship                                 current partner in days
+ Age at first         11.17          16      Age of the mother minus the    No
+ childbirth                             age of her oldest child, which
+                                                 translates to the age of first
+                                             giving birth.
+ Number of        10.85          17        Total number of children       No
+ children
+ Sex—woman      9.90          19       Whether or not the person is a    Yes
+                               woman (0 = No, 1 = Yes)
+ Number of young  7.99          26        Total number of young adult    No
+ adult children                               children in a household
+ Obstructed due    7.33          28       Hindered from work due to      Yes
+ to psychological                            psychological problems
+ problems
+ Language          4.18          44        Successfully finished a language  Yes
+ requirement met                             proficiency course
+ Obstructed        3.94          48       Hindered from work due to      Yes
+ due to physical                              physical problems
+ problems
+ Spoken language  3.84          49       Spoken Dutch proficiency        Yes
+ Partner—married  1.10          105      Whether or not a person is     No
+                                          married to their partner
+ Number of        0.45           174     Number of past relationships in  No
+ partners—un-                             the category “unmarried”
+ married
+
+Source: Compiled from table 2 in the appendix of a letter by Rotterdam Alderman Richard Moti (2021).
+
+
+Second, while the Rotterdam welfare fraud risk-scoring algorithm is designed
+to appear as a measurement of trustworthiness, it is, in fact, a crude estima-
+tion of risk. This is evident in the fact that almost none of the indicators
+are directly causally related to fraud but, instead, mostly focus on identity
+characteristics and contextual factors. Obvious missing indicators are data
+points related to received forms of welfare (the amounts of money and the

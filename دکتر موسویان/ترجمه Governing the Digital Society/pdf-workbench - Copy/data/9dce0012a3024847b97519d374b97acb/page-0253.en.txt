@@ -1,0 +1,41 @@
+250                                                       Viktorija Morozovaite
+
+JG: Yes, I think many of the questions we ask governmental organizations
+are equally relevant to private organizations. We would probably need
+to make some changes because public values do not necessarily need to
+be the main consideration for many companies, and we need to see to
+what extent it is possible to translate this particular model to private
+organizations.
+  Indeed, in developing FRAIA, we looked into public governance theory
+and studies and what we know about how public authorities and civil
+servants behave. Perhaps it would be possible to do something similar
+together with scholars in the field of how companies behave and what kind
+of incentives they have. It would be great if there would be ways to apply
+this without just having to rely on the “stick approach” of imposing FRAIA
+as a full-blown obligation, but to be able to find some kind of “carrot”—an
+incentive that makes it actually attractive for private organizations to engage
+in a FRAIA-like exercise.
+  When it comes to the AI Act, everyone is currently waiting for the final
+text to be released. This act includes a fundamental rights impact assessment,
+which is actually based on our previous work. GroenLinks (Green Party)
+MEP Kim Sparrentak knew about our FRAIA and did a great deal of fantastic
+lobbying to ensure that the European Parliament was in favor of adding
+some kind of an impact assessment to the AI Act. It is not yet known if the
+EU will also provide a kind of blueprint for the impact assessment that we
+have to apply. We will have to wait and see how this unfolds and if we can
+still opt to use FRAIA for the assessment process.
+
+VM: Are there any emerging AI trends or developments (e.g., the rise of genera-
+tive AI applications) that could affect the future relevance of this instrument?
+If so, how might it be affected?
+
+JG: Taking the example of the new large language models (such as ChatGPT)
+or distributed ledger technologies (such as non-fungible tokens), I think
+FRAIA can be applied to them, too. It is clear that the impact is probably
+going to be bigger, and that the data used are different, but the questions
+contained in FRAIA are equally relevant and will remain more or less the
+same. That said, I am wondering whether it could be useful to have more
+dedicated and precise questions or modules that are more closely geared
+to specific technologies. In fact, I think there is still a lot of work to be done
+to further develop FRAIA, and I really hope will be given the opportunity
+to do so.

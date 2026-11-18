@@ -1,0 +1,42 @@
+Governing the “Third Half of the Internet”                            69
+
+Combating toxicity with AI-based moderation
+
+(Partially) automating the moderation process provides the advantage of
+expanding comment and moderation possibilities, especially in terms of
+enabling more articles with open comment spaces. Prior to the integration
+of AI in comment sections, it was not uncommon for platforms to disable
+comment sections altogether (Goldberg 2018; Hoekman 2016). As an exam-
+ple, the New York Times only opened comment sections for approximately
+10 percent of articles before implementing the Perspective API (application
+programming interface), primarily due to the manual workload associated
+with content moderation (New York Times 2017). By 2017, the implementa-
+tion of AI tools had increased the comment space to 25 percent. Although
+AI-based tools alleviate some of the pressure on moderators, they still
+necessitate significant human judgment and expertise.
+   AI-assisted moderation has become a standard feature in the comment
+spaces of most major media outlets. They generally employ AI-assisted
+moderation in a limited and focused manner, primarily for detecting and
+preventing toxic content. The rapid increase in user comments necessitated
+the implementation of these systems, as human moderators were unable
+to manage the sheer volume. These AI tools are specifically trained to
+assess comments for toxicity, restricting their application to this area. In
+this hybrid setup, AI plays a specific role, allowing human moderators to
+concentrate on other aspects of moderation.
+   Additionally, we see that either they rely on pre-built solutions or develop
+their own solutions. As an example of a pre-built AI solution, the New York
+Times collaborated with Jigsaw (Google) in 2016 to develop the Perspective
+API (Salganik and Lee 2020; New York Times 2016). This API incorporates
+toxicity filtering in comments, empowering the New York Times to partly
+automate their moderation process within the “Moderator” toolkit (Rieder
+and Skop 2021). Marked comments are evaluated by human moderators
+who determine whether they can be published (Salganik and Lee 2020).
+This approach has enabled the New York Times to open more comment
+sections (New York Times 2017). While Perspective API was originally based
+on English data, it has been subsequently expanded to encompass multiple
+languages. Notably, the Spanish newspaper El País has adopted the same
+system for filtering toxicity in their comment space since 2018 (Delgado
+2019; El País 2018). El País utilizes a real-time evaluation to detect toxicity
+through a warning system (figure 3.2). Users attempting to submit a post
+flagged as toxic by the API receive a warning and are prompted to modify
+their comment appropriately.

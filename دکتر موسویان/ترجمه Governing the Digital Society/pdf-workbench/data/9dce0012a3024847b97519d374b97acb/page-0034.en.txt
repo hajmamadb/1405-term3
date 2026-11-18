@@ -1,0 +1,31 @@
+Decentralized Online Social Networks                                         31
+
+
+
+
+
+Figure 1.1. The three-legged stool architecture. Source: Paul Baran, 1964, under Creative Commons
+attribution License.
+
+blockchain network (Murray et al. 2021). Distributed platforms are usually
+powered by some kind of investor support and are often financed by private
+and venture capital (Ito et al. 2017).
+  For reasons of brevity, this chapter will not delve into this third model of
+distributed (DLT-based) platforms. Instead, we focus on the second model
+of decentralized architectures, which we consider not as a uniform, static
+category, but as a set of elementary choices underpinning the design and
+organization of a social media platform. In the following sections, we will
+explore how value negotiations may inform choices at the technical and
+the organizational level.
+
+Technical elements
+
+While the academic literature on DOSNs highlights various technical aspects
+of decentralization (Guidi et al. 2019; La Cava et al. 2021), we limit our focus to
+three recurring technical elements: the choice for (1) open-source software,
+(2) software protocols, and (3) data servers. These prime technical choices
+are often premeditated by value negotiations regarding the degree of open-
+ness a platform should aspire to, weighing arguments for openness against
+those for “closedness.” In this context, “openness” can imply accessibility,
+inclusiveness, or modifiability, while “closedness” encompasses values such
+as privacy, security, and stability. It is important to discern these underlying

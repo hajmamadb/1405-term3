@@ -1,0 +1,41 @@
+The Governance of Generative AI: Three Conditions for Research and Policy  139
+
+Accessing domain-specific training datasets for fine-tuning
+Commercial systems typically shield these datasets, citing competitive
+reasons. A counterexample is Google’s Med-PaLM, where Google has been
+open about which databases were used for fine-tuning PaLM for medical
+purposes, including more than 200,000 question-and-answer sets from
+medical exams, and consumer questions and reference answers by the
+US National Institute of Health (Singhal et al. 2023). Open systems often
+refer to widely used benchmark data and evaluation scores of the systems
+themselves on these data.
+
+Accessing neural network architectures, trained models, and training scripts
+In the case of openly available foundation models, comprehensive informa-
+tion about neural network architectures is usually provided, often available
+on platforms like HuggingFace. For example, the BLOOM model was shared
+openly via the HuggingFace platform (Scao et al. 2023). However, in closed
+(commercial) systems, such details are not disclosed and may be under-
+specified in model cards. Regarding trained models and their parameters,
+open systems typically offer full access, providing the weights file and
+all necessary information about the configuration of the neural network
+architectures. Conversely, closed-source systems in the commercial domain
+usually do not provide complete access. When it comes to scripts for training
+and generating output, closed systems may offer code to interact with their
+APIs (i.e., without downloading the model), ensuring controlled access
+to the model. Open systems, on the other hand, often provide a range of
+scripts and code, which is frequently contributed by multiple users, thereby
+enabling collaboration and validity checks.
+    It is important to note that the pre-final version of the provisional agree-
+ment of the EU’s AI Act lacks explicit details for conducting these audit
+processes (Mökander et al. 2023), as it does not sufficiently distinguish
+between the different levels of information and their formats mentioned
+earlier. As table 7.1 illustrates, different layers of information come in
+different formats, such as configuration files versus text or image data,
+necessitating distinct approaches for external inspection—for example,
+reviewing files versus examining datasets. Instead of merely lamenting
+the limits of algorithmic opacity, this chapter emphasizes the significance
+of identifying specific technical details that require examination. Simply
+using the term “AI transparency” without specifically defining which layers
+of information about generative AI systems should be inspectable and for
+whom is therefore inadequate. As the following section illustrates, this

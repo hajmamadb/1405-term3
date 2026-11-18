@@ -1,0 +1,41 @@
+108                                                  Machiko Kanetake
+
+the same technology could also be a medium with which to monitor and
+suppress journalists and dissidents, bringing enormous human rights risks
+to the destination country (Feldstein 2019; Wagner 2012). In the case of the
+German-based company FinFisher, for example, its surveillance technol-
+ogy was deployed against Bahrain’s pro-democracy activists, Ethiopia’s
+opposition members, and Egyptian human rights defenders, to name a few
+(Amnesty International 2020; Marczak et al. 2015, 12). The global sale of
+FinFisher products has led to a series of non-judicial complaints and juridical
+proceedings in the UK and Germany (as will be discussed in section 5).
+Despite the multifaceted risks and competing interests, there is still little
+transparency and accountability in global surveillance trade (UN Human
+Rights Council 2019, para. 5).1
+  The call for rule-based control of the global transfer of surveillance
+technologies has been on the agenda of the UN, the EU, governments,
+NGOs, and research institutions for several years (e.g., Privacy International
+2016; UN Human Rights Council 2019). In 2015, the EU’s Action Plan on
+Human Rights and Democracy 2015–19 called for the mitigation of risks
+associated with the “uncontrolled export of ICT products” (Council of the
+EU 2015, 40). In 2019, the UN’s Special Rapporteur on freedom of opinion
+and expression called for an “immediate moratorium on the global sale and
+transfer of the tools of the private surveillance industry” until necessary
+safeguards are put in place (UN Human Rights Council 2019, paras. 2, 66).
+In 2021, the UN’s call for a moratorium was reiterated and endorsed by
+as many as 156 civil society organizations across the globe, following the
+Pegasus Project revelations (Access Now et al. 2021). In 2022, the Pegasus
+Project led the European Parliament to launch an inquiry committee
+(PEGA Committee) on the use of Pegasus and other spyware. In June 2023,
+the European Parliament adopted a series of recommendations based on
+the findings of the Committee (PEGA Committee 2023a; 2023b). Having
+referred to the UN Special Rapporteur’s call for an immediate moratorium,
+the Parliament took the position that “the trade in and use of spyware
+needs to be regulated strictly” (European Parliament 2023, recital AQ and
+para. 28). On this basis, the European Parliament listed the conditions
+that EU member states must fulfill. Included therein was to repeal “all
+export licences that are not fully in line with the Dual-Use Regulations”
+(ibid., para. 29(d)).
+
+1   This chapter builds upon the research project that the author has conducted in 2023 for the
+Center for Democracy and Technology (CDT) on the EU’s Dual-Use Regulation.

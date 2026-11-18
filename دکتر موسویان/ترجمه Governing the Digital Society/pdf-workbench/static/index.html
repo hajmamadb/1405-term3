@@ -1,0 +1,463 @@
+<!doctype html>
+<html lang="fa" dir="rtl"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>برگه | دستیار ترجمه PDF</title>
+<style>
+/* ---- Local Vazirmatn (variable woff2, offline) ---- */
+@font-face{font-family:'Vazirmatn';font-style:normal;font-weight:100 900;font-display:swap;
+  src:url('/fonts/vazirmatn-var.woff2') format('woff2')}
+
+/* ---- Design tokens ---- */
+:root{
+  --bg:#0a0f1c;--bg-soft:#0f1626;--card:#141d30;--card-2:#18243a;
+  --line:#26344e;--line-soft:#1d2a41;
+  --text:#e8edf7;--muted:#93a2bd;--faint:#6b7a96;
+  --accent:#4fd6a8;--accent-ink:#06231a;--accent-2:#8fe6c8;
+  --blue:#6aa5ff;--warn:#f6c667;--err:#ff9a9a;--ok:#4fd6a8;
+  --r-sm:9px;--r-md:13px;--r-lg:18px;
+  --shadow:0 1px 2px rgba(0,0,0,.35),0 8px 24px rgba(0,0,0,.28);
+  --font:'Vazirmatn','Vazir','IRANSansX','Tahoma',Arial,sans-serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;font-family:var(--font);color:var(--text);font-size:14px;line-height:1.75;
+  background:radial-gradient(1200px 600px at 80% -10%,#12203a 0%,transparent 60%),var(--bg);
+  min-height:100vh}
+main{max-width:1180px;margin:0 auto;padding:30px 22px 60px}
+a{color:var(--blue)}
+::selection{background:rgba(79,214,168,.28)}
+
+/* ---- Header ---- */
+header{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:24px;flex-wrap:wrap}
+.brand{display:flex;flex-direction:column;gap:4px}
+h1{font-size:26px;margin:0;font-weight:800;letter-spacing:-.3px}
+h1 .dot{color:var(--accent)}
+.tagline{color:var(--muted);font-size:13px;margin:0}
+.badge{border:1px solid var(--line);border-radius:30px;padding:8px 15px;color:var(--accent-2);font-size:12px;background:var(--bg-soft)}
+
+/* ---- Layout ---- */
+.grid{display:grid;grid-template-columns:340px 1fr;gap:20px;align-items:start}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--r-lg);padding:22px;
+  box-shadow:var(--shadow);margin-bottom:18px}
+.card h2{font-size:16px;margin:0 0 4px;font-weight:700}
+.card .sub{color:var(--muted);font-size:12.5px;margin:0 0 6px}
+.section-title{display:flex;align-items:center;gap:8px}
+.section-title::before{content:'';width:4px;height:16px;border-radius:2px;background:var(--accent)}
+
+/* ---- Toast ---- */
+#toast{min-height:22px;margin-bottom:10px;font-size:13px;color:var(--warn);
+  opacity:0;transition:opacity .25s}
+#toast.show{opacity:1}
+#toast.err{color:var(--err)}
+
+/* ---- Forms ---- */
+label{display:block;margin:14px 0 7px;font-size:12.5px;color:var(--muted);font-weight:500}
+input,select{width:100%;padding:11px 13px;background:var(--bg-soft);color:#fff;border:1px solid var(--line);
+  border-radius:var(--r-sm);font:inherit;font-size:13.5px;transition:border-color .15s,box-shadow .15s}
+input::placeholder{color:var(--faint)}
+input:focus,select:focus{outline:0;border-color:var(--accent);box-shadow:0 0 0 3px rgba(79,214,168,.18)}
+input[type=file]{padding:9px;line-height:1.7;font-size:13px}
+.field-hint{font-size:11.5px;color:var(--faint);margin:5px 0 0;line-height:1.7}
+
+/* ---- Buttons ---- */
+button,.link{display:inline-flex;align-items:center;justify-content:center;gap:7px;text-decoration:none;cursor:pointer;
+  border:1px solid transparent;border-radius:var(--r-sm);padding:11px 16px;font:inherit;font-weight:600;font-size:13.5px;
+  background:var(--accent);color:var(--accent-ink);transition:transform .06s,filter .15s,background .15s,border-color .15s}
+button:hover:not(:disabled),.link:hover{filter:brightness(1.07)}
+button:active:not(:disabled),.link:active{transform:translateY(1px)}
+button.secondary{background:var(--card-2);color:var(--text);border-color:var(--line)}
+button.secondary:hover{border-color:var(--accent-2)}
+button.ghost{background:transparent;color:var(--muted);border-color:var(--line)}
+button.ghost:hover{color:var(--text);border-color:var(--accent-2)}
+button:disabled,.link[aria-disabled=true]{opacity:.42;cursor:not-allowed}
+button:focus-visible,.link:focus-visible,.job:focus-visible,.chip input:focus-visible+span{outline:2px solid var(--accent);outline-offset:2px}
+.btn-row{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+
+/* ---- Jobs list ---- */
+.job{display:flex;align-items:center;justify-content:space-between;gap:10px;text-align:right;width:100%;
+  background:var(--card-2);color:#eef3ff;padding:12px 14px;border:1px solid var(--line-soft);border-radius:var(--r-md);
+  margin-bottom:8px;cursor:pointer;font:inherit;font-size:13px;transition:border-color .15s,background .15s}
+.job:hover{background:#20304b}
+.job.active{border-color:var(--accent);background:#173029}
+.job .job-name{font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.job .job-count{color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums;flex:none}
+
+/* ---- Status chip ---- */
+.status-chip{display:inline-flex;align-items:center;gap:7px;border-radius:30px;padding:6px 14px;font-size:12.5px;
+  font-weight:600;background:var(--card-2);color:var(--text);border:1px solid var(--line)}
+.status-chip .pulse{width:8px;height:8px;border-radius:50%;background:var(--faint)}
+.status-chip.running{background:#0f3327;border-color:#1d5a44;color:var(--accent-2)}
+.status-chip.running .pulse{background:var(--accent);animation:pulse 1.3s ease-in-out infinite}
+.status-chip.done{background:#0f2f24;border-color:#1c5340;color:var(--accent)}
+.status-chip.done .pulse{background:var(--accent)}
+.status-chip.error{background:#341417;border-color:#5a2529;color:var(--err)}
+.status-chip.error .pulse{background:var(--err)}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(.7)}}
+.detail-head{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:6px}
+.detail-head h2{font-size:18px;margin:0;font-weight:700}
+
+/* ---- Progress panel ---- */
+.progress-wrap{margin:16px 0 6px;background:var(--bg-soft);border:1px solid var(--line-soft);border-radius:var(--r-md);padding:16px}
+.bar-row{display:grid;grid-template-columns:1fr auto;align-items:baseline;gap:10px;margin:12px 0 7px;font-size:12.5px}
+.bar-row:first-child{margin-top:0}
+.bar-row .lbl{font-weight:600}
+.bar-row .val{color:var(--muted);font-variant-numeric:tabular-nums;font-size:12px}
+.bar{position:relative;width:100%;height:12px;background:var(--bg);border:1px solid var(--line);border-radius:8px;overflow:hidden;margin-top:6px}
+.bar .fill{position:absolute;inset:0 auto 0 0;width:0%;border-radius:7px;transition:width .6s cubic-bezier(.2,.7,.3,1)}
+.bar .fill.tr{background:linear-gradient(90deg,#2fae83,var(--accent))}
+.bar .fill.rv{background:linear-gradient(90deg,#5b8def,#9fc2ff)}
+.bar .fill.ov{background:linear-gradient(90deg,#caa13c,var(--warn))}
+.current-page{margin-top:12px;font-size:12.5px;color:var(--blue);display:flex;align-items:center;gap:7px}
+.current-page .spin{width:13px;height:13px;border:2px solid var(--line);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;flex:none}
+@keyframes spin{to{transform:rotate(360deg)}}
+.legend{display:flex;flex-wrap:wrap;gap:16px;margin-top:14px;padding-top:12px;border-top:1px solid var(--line-soft);font-size:12px;color:var(--muted)}
+.legend span{display:inline-flex;align-items:center;gap:7px}
+.dot{width:9px;height:9px;border-radius:50%;display:inline-block;flex:none}
+
+/* ---- Actions ---- */
+.actions{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:14px}
+.actions .group{display:flex;flex-wrap:wrap;gap:8px}
+.divider{width:1px;align-self:stretch;background:var(--line);margin:2px 4px}
+.actions label{width:auto;margin:0 0 5px}
+.model-pick{display:flex;flex-direction:column;gap:5px;min-width:210px}
+
+/* ---- Tick chips (single-select) ---- */
+.chips{display:flex;flex-wrap:wrap;gap:7px}
+.chip{position:relative;cursor:pointer;user-select:none}
+.chip input{position:absolute;opacity:0;pointer-events:none}
+.chip span{display:inline-block;padding:7px 13px;border:1px solid var(--line);border-radius:20px;background:var(--bg-soft);
+  color:var(--muted);font-size:12.5px;transition:all .15s}
+.chip:hover span{border-color:var(--accent-2);color:var(--text)}
+.chip input:checked+span{background:var(--accent);color:var(--accent-ink);border-color:var(--accent);font-weight:600}
+
+/* ---- Pages list ---- */
+.pages{max-height:430px;overflow:auto;border:1px solid var(--line-soft);border-radius:var(--r-md);
+  padding:4px 10px;margin-top:14px;background:var(--bg-soft)}
+.page{display:flex;justify-content:space-between;align-items:center;gap:10px;border-bottom:1px solid var(--line-soft);
+  padding:9px 6px;transition:background .12s}
+.page:hover{background:rgba(255,255,255,.02)}
+.page:last-child{border-bottom:0}
+.page .num{font-weight:600;min-width:64px;font-size:13px}
+.page .st{font-size:12px;color:var(--muted);flex:1;text-align:left}
+.page .st.done{color:var(--accent)}
+.page .st.processing{color:var(--blue)}
+.page .st.skipped,.page .st.error{color:var(--err)}
+.page .st.pending{color:var(--faint)}
+.page a{color:var(--blue);text-decoration:none;font-size:12px}
+.page a:hover{text-decoration:underline}
+.page-link{color:var(--blue);background:none;border:0;cursor:pointer;font:inherit;font-size:12px;padding:0 6px}
+.page-link:hover{text-decoration:underline}
+.error{color:var(--err);white-space:pre-wrap;overflow-wrap:anywhere;font-size:12px;margin:4px 6px 8px;
+  background:rgba(255,154,154,.07);border:1px solid rgba(255,154,154,.2);border-radius:8px;padding:7px 10px}
+.job-error{color:var(--err);background:rgba(255,154,154,.07);border:1px solid rgba(255,154,154,.22);
+  border-radius:var(--r-sm);padding:10px 13px;margin:12px 0;font-size:13px;white-space:pre-wrap;overflow-wrap:anywhere}
+
+/* ---- Info / notes ---- */
+.note{font-size:12px;line-height:1.9;color:var(--muted)}
+.note strong{color:var(--text)}
+.empty{text-align:center;padding:70px 0;color:var(--faint)}
+.info-card{background:var(--bg-soft);border:1px solid var(--line-soft)}
+.info-card p{margin:0 0 10px}.info-card p:last-child{margin-bottom:0}
+
+/* ---- Modal ---- */
+#modal{position:fixed;inset:0;background:rgba(4,8,18,.72);backdrop-filter:blur(3px);display:none;
+  align-items:center;justify-content:center;z-index:50;padding:24px}
+#modal.open{display:flex}
+.modal-card{background:var(--card);border:1px solid var(--line);border-radius:var(--r-lg);max-width:840px;width:100%;
+  max-height:86vh;display:flex;flex-direction:column;box-shadow:0 24px 70px rgba(0,0,0,.55)}
+.modal-head{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:15px 20px;border-bottom:1px solid var(--line)}
+.modal-head h3{margin:0;font-size:15px;font-weight:700}
+.modal-body{padding:20px 22px;overflow:auto;white-space:pre-wrap;overflow-wrap:anywhere;font-size:14px;line-height:2}
+.modal-body.rtl{direction:rtl;text-align:right}
+.modal-close{background:var(--card-2);color:var(--text);border:1px solid var(--line);border-radius:8px;
+  padding:8px 14px;cursor:pointer;font:inherit;font-size:13px}
+.modal-close:hover{border-color:var(--accent-2)}
+
+@media(max-width:860px){.grid{grid-template-columns:1fr}header{align-items:start}.badge{display:none}
+  .page{flex-wrap:wrap}.page .st{width:100%;text-align:right}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body><main>
+<header>
+  <div class="brand">
+    <h1>برگه<span class="dot">.</span></h1>
+    <p class="tagline">استخراج، تصویر و ترجمهٔ PDF — صفحه‌به‌صفحه، قابل ادامه و بدون اتصال به اینترنت برای اجرا</p>
+  </div>
+  <span class="badge">ذخیرهٔ پایدار روی دیسک • SQLite</span>
+</header>
+
+<div id="toast" role="status" aria-live="polite"></div>
+
+<div id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+  <div class="modal-card">
+    <div class="modal-head"><h3 id="modalTitle">متن صفحه</h3><button class="modal-close" id="modalClose" aria-label="بستن پنجره">بستن</button></div>
+    <div class="modal-body" id="modalBody"></div>
+  </div>
+</div>
+
+<div class="grid">
+  <aside>
+    <section class="card" aria-labelledby="newJobH">
+      <h2 id="newJobH" class="section-title">پروژهٔ جدید</h2>
+      <label for="pdf">فایل PDF</label>
+      <input id="pdf" type="file" accept="application/pdf">
+      <div class="btn-row"><button id="upload">افزودن فایل و شروع</button></div>
+      <p class="field-hint">حداکثر ۳۰۰ مگابایت. نسخهٔ فعلی برای PDF دارای لایهٔ متن است؛ اسکن‌شده‌ها به OCR نیاز دارند.</p>
+
+      <hr style="border:0;border-top:1px solid var(--line-soft);margin:18px 0">
+
+      <label for="url">آدرس API سازگار با OpenAI</label>
+      <input id="url" dir="ltr" value="https://ai.ismc.ir/api" autocomplete="off">
+      <label for="key">کلید API</label>
+      <input id="key" type="password" dir="ltr" value="" autocomplete="off">
+      <div class="btn-row"><button id="toggleKey" type="button" class="ghost">نمایش / پنهان‌کردن کلید</button></div>
+      <label for="model">شناسهٔ دقیق مدل در سرویس شما</label>
+      <input id="model" dir="ltr" value="qwen38-nothinking" autocomplete="off">
+      <div class="btn-row">
+        <button id="saveSettings" type="button" class="secondary">ذخیرهٔ تنظیمات</button>
+        <button id="checkBackend" type="button" class="ghost">ذخیره و بررسی سرویس</button>
+      </div>
+      <p id="backendStatus" class="field-hint">پورت محلی: ۴۳۵۶ — تنظیمات به‌صورت محلی در دیتابیس برنامه نگهداری می‌شوند.</p>
+    </section>
+
+    <section class="card" aria-labelledby="jobsH">
+      <h2 id="jobsH" class="section-title">پروژه‌ها</h2>
+      <div id="jobs" style="margin-top:12px"></div>
+    </section>
+  </aside>
+
+  <section>
+    <div class="card" id="detail"><div class="empty">برای شروع یک PDF اضافه کنید یا یکی از پروژه‌ها را انتخاب کنید.</div></div>
+    <div class="card info-card" aria-label="راهنما">
+      <p><strong>چطور کار می‌کند:</strong> هر صفحه پس از ذخیرهٔ تصویر، متن‌ها و Word مستقل، «تکمیل‌شده» ثبت می‌شود و ادامه فقط برای صفحات ناتمام انجام می‌گیرد. صفحه‌ای که متن قابل استخراج ندارد (جلد/اسکن) خطا نیست؛ اسکرین‌شاتش گرفته و در خروجی‌ها «Not Found / فاقد متن» درج می‌شود. صفحهٔ خطادار (مثلاً خطای گذرای مدل) «ردشده» علامت‌خورد و پردازش ادامه می‌یابد؛ برای تکرار «تلاش مجدد» بزنید.</p>
+      <p><strong>بازبینی کیفیت ترجمه:</strong> پس از تکمیل هر صفحه می‌توانید (حتی هم‌زمان با ترجمه) «بازبینی و اصلاح کیفیت ترجمه» را اجرا کنید؛ متن انگلیسی و فارسی هر صفحه مقایسه و ترجمهٔ فارسی اصلاح می‌شود. مدل و تعداد موازی را انتخاب کنید. خروجی نهایی از «دانلود ترجمهٔ فارسی (بازبینی‌شده)» دریافت می‌شود. ترجمهٔ ماشینی تضمین بی‌خطایی ندارد؛ متن تخصصی را بازبینی کنید.</p>
+    </div>
+  </section>
+</div>
+</main>
+
+<script>
+let selected=null,busy=false;const $=id=>document.getElementById(id);
+// Persisted review selection so the poll-rebuild doesn't reset the user's choice.
+let revModel=null,revConc=2;let toastTimer=null;
+const fa=n=>Number(n).toLocaleString('fa-IR');
+const statusNames={paused:'متوقف',running:'در حال پردازش',done:'تکمیل‌شده',error:'خطا',skipped:'ردشده',pending:'در انتظار',processing:'در حال پردازش'};
+const pageStatus={done:'تکمیل‌شده',skipped:'ردشده',pending:'در انتظار',processing:'در حال پردازش',error:'خطا'};
+const pageStClass={done:'done',skipped:'skipped',error:'error',processing:'processing',pending:'pending'};
+function text(tag,value,cls){const el=document.createElement(tag);el.textContent=value;if(cls)el.className=cls;return el}
+async function api(path,options){const r=await fetch('/api'+path,options);if(!r.ok){let d;try{d=await r.json()}catch{d={detail:r.statusText}}throw Error(typeof d.detail==='string'?d.detail:JSON.stringify(d.detail))}return r.json()}
+function notify(e,kind){const t=$('toast');const msg=e.message||String(e);t.textContent=/fetch|network|load failed/i.test(msg)?'ارتباط با سامانه موقتی قطع شده؛ در حال تلاش مجدد…':msg;t.className=kind==='err'?'show err':'show';clearTimeout(toastTimer);toastTimer=setTimeout(()=>t.classList.remove('show'),4000)}
+const settingsBody=()=>({base_url:$('url').value,api_key:$('key').value,model:$('model').value});
+async function saveSettings(){await api('/settings',{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify(settingsBody())})}
+$('saveSettings').onclick=async()=>{try{await saveSettings();notify('تنظیمات در دیتابیس ذخیره شد')}catch(e){notify(e,'err')}};
+$('toggleKey').onclick=()=>{$('key').type=$('key').type==='password'?'text':'password'};
+async function checkBackend(){const b=$('checkBackend');b.disabled=true;$('backendStatus').textContent='در حال ذخیرهٔ تنظیمات و بررسی سرویس…';try{const r=await api('/settings/check',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(settingsBody())});$('backendStatus').textContent=r.message}catch(e){notify(e,'err')}finally{b.disabled=false}}
+$('checkBackend').onclick=checkBackend;
+async function loadSettings(){try{const s=await api('/settings');$('url').value=s.base_url;$('key').value=s.api_key;$('model').value=s.model;$('backendStatus').textContent='سامانه آماده است • تنظیمات از دیتابیس خوانده شد'}catch(e){notify(e,'err')}}loadSettings();
+
+/* Rebuild the small detail skeleton each refresh (tiny; not the scrollable page list). */
+function ensureDetail(j){
+  const box=$('detail');box.dataset.jobid=j.id;
+  box.replaceChildren(
+    (()=>{const head=text('div','','detail-head');
+      head.append(text('h2',j.name));
+      const chip=text('span','','status-chip');chip.id='statusChip';
+      chip.append(text('span','','pulse'),text('span','','chip-label'));head.append(chip);
+      return head})(),
+  );
+  const pwrap=text('div','','progress-wrap');pwrap.id='progressWrap';
+  const actions=text('div','','actions');actions.id='actions';
+  const pages=text('div','','pages');pages.id='pages';
+  box.append(pwrap,actions,pages);
+}
+function bar(cls){const b=document.createElement('div');b.className='bar';const f=document.createElement('div');f.className='fill '+cls;b.append(f);return{b,f}}
+function setBar(f,frac){f.style.width=Math.max(0,Math.min(100,frac*100)).toFixed(1)+'%'}
+
+async function refresh(){
+  if(busy)return;busy=true;
+  try{
+    const list=await api('/jobs');
+    const jobsBox=$('jobs');jobsBox.replaceChildren();
+    if(!list.length){jobsBox.append(text('p','','note'));jobsBox.firstChild.textContent='هنوز پروژه‌ای ایجاد نشده است.'}
+    for(const j of list){
+      const b=document.createElement('button');b.className='job'+(j.id===selected?' active':'');
+      const nm=text('span','', 'job-name');nm.textContent=j.name;
+      const ct=text('span','', 'job-count');ct.textContent=fa(j.completed)+'/'+fa(j.total);
+      b.append(nm,ct);b.onclick=()=>{selected=j.id;refresh()};jobsBox.append(b);
+    }
+    if(selected){
+      const j=await api('/jobs/'+selected);
+      const [rv]=await Promise.all([api('/jobs/'+selected+'/review/status').catch(()=>null)]);
+      renderDetail(j,rv);
+    }
+  }catch(e){notify(e,'err')}finally{busy=false}
+}
+
+function renderDetail(j,rv){
+  const box=$('detail');ensureDetail(j);
+  const pages=j.pages||[];
+  const done=pages.filter(p=>p.status==='done').length;
+  const skipped=pages.filter(p=>p.status==='skipped'||p.status==='error').length;
+  const processing=pages.find(p=>p.status==='processing');
+  const total=j.total||0;
+  const finalPages=done+skipped;
+  const pct=total?Math.round(finalPages/total*100):0;
+
+  // Status chip
+  const chip=$('statusChip');
+  chip.className='status-chip '+(j.status==='running'?'running':j.status==='done'?'done':j.status==='error'?'error':'');
+  chip.querySelector('.chip-label').textContent=statusNames[j.status]||j.status;
+
+  // Progress panel
+  const wrap=$('progressWrap');wrap.replaceChildren();
+  const ov=bar('ov'),tr=bar('tr');
+  const ovRow=text('div','','bar-row');ovRow.append(text('span','پیشرفت کل پروژه','lbl'),text('span',fa(finalPages)+' / '+fa(total)+'  ('+fa(pct)+'٪)','val'));ovRow.append(ov.b);
+  const trRow=text('div','','bar-row');
+  const trVal=processing?('در حال پردازش صفحهٔ '+fa(processing.number)+' — '+fa(done)+' صفحه تکمیل'):(fa(done)+' از '+fa(total)+' صفحه تکمیل شده');
+  trRow.append(text('span','ترجمه','lbl'),text('span',trVal,'val'));trRow.append(tr.b);
+  setBar(ov.f, total?finalPages/total:0);
+  setBar(tr.f, total?done/total:0);
+  wrap.append(ovRow,trRow);
+  if(rv&&rv.total){
+    const rvRow=text('div','','bar-row');
+    const rvPct=Math.round(rv.done/rv.total*100);
+    rvRow.append(text('span','بازبینی کیفیت ترجمه','lbl'),text('span',fa(rv.done)+' / '+fa(rv.total)+'  ('+fa(rvPct)+'٪)'+(rv.active?' • در حال بازبینی…':(rv.skipped?' • '+fa(rv.skipped)+' ردشده/خطادار':'')),'val'));
+    const rvbar=bar('rv');setBar(rvbar.f, rv.total?rv.done/rv.total:0);rvRow.append(rvbar.b);wrap.append(rvRow);
+  }
+  const cur=text('div','','current-page');
+  if(j.status==='running'&&processing){
+    const remaining=total-finalPages;
+    const sp=text('span','','spin');cur.append(sp);
+    cur.append(text('span','الان روی صفحهٔ '+fa(processing.number)+' کار می‌کند'+(remaining?' — '+fa(remaining)+' صفحه باقی‌مانده':'')));
+  } else if(j.status==='running'){cur.append(text('span','در حال آماده‌سازی…'))}
+  if(cur.childNodes.length)wrap.append(cur);
+  const legend=text('div','','legend');
+  legend.append(
+    (()=>{const s=text('span','');s.append(text('span','','dot'));s.firstChild.style.background='var(--accent)';s.append(text('span','تکمیل‌شده: '+fa(done)));return s})(),
+    (()=>{const s=text('span','');s.append(text('span','','dot'));s.firstChild.style.background='var(--err)';s.append(text('span','ردشده: '+fa(skipped)));return s})(),
+    (()=>{const s=text('span','');s.append(text('span','','dot'));s.firstChild.style.background='var(--faint)';s.append(text('span','در انتظار: '+fa(total-finalPages)));return s})(),
+  );
+  wrap.append(legend);
+
+  // Job error
+  let je=$('jobError');
+  if(j.error){if(!je){je=text('p','','job-error');je.id='jobError';wrap.after(je)}je.textContent=j.error}else if(je){je.remove()}
+
+  // Actions
+  const actions=$('actions');actions.replaceChildren();
+  const g1=text('div','','group');
+  const start=text('button','شروع / ادامه');start.disabled=j.status==='running';
+  start.onclick=async()=>{try{await saveSettings();await command('start',settingsBody())}catch(e){notify(e,'err')}};
+  const pause=text('button','توقف پس از این صفحه','secondary');pause.disabled=j.status!=='running';pause.onclick=()=>command('pause');
+  const retry=text('button','تلاش مجدد صفحات خطادار','ghost');retry.disabled=j.status==='running'||!skipped;retry.title='صفحات ردشده را دوباره در صف می‌گذارد (پس از رفع علت، مثلاً OCR)';
+  retry.onclick=async()=>{try{await api(`/jobs/${selected}/retry`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify([])});await refresh()}catch(e){notify(e,'err')}};
+  g1.append(start,pause,retry);actions.append(g1);
+
+  if(done){
+    actions.append(text('div','','divider'));
+    const g2=text('div','','group');
+    const dl=text('a','دریافت Word تجمیعی','link');dl.href='/api/jobs/'+selected+'/download';
+    const dlEnW=text('a','متن انگلیسی (Word)','link');dlEnW.href='/api/jobs/'+selected+'/download/english-word';dlEnW.title='متن انگلیسی همهٔ صفحات تکمیل‌شده در یک فایل Word';
+    const dlFaW=text('a','متن فارسی (Word)','link');dlFaW.href='/api/jobs/'+selected+'/download/persian-word';dlFaW.title='ترجمهٔ فارسی اولیهٔ همهٔ صفحات تکمیل‌شده در یک فایل Word';
+    const dlFaWr=text('a','متن فارسی بازبینی‌شده (Word)','link');dlFaWr.href='/api/jobs/'+selected+'/download/persian-word-improved';dlFaWr.title='ترجمهٔ فارسی همهٔ صفحات (بازبینی‌شده در صورت انجام) در یک فایل Word';
+    const dlEn=text('a','متن انگلیسی (txt)','link');dlEn.href='/api/jobs/'+selected+'/download/english';
+    const dlFa=text('a','ترجمهٔ فارسی (txt)','link');dlFa.href='/api/jobs/'+selected+'/download/persian';
+    const dlFa2=text('a','ترجمهٔ فارسی بازبینی‌شده (txt)','link');dlFa2.href='/api/jobs/'+selected+'/download/persian-improved';
+    const dlZip=text('a','اسکرین‌شات‌ها (ZIP)','link');dlZip.href='/api/jobs/'+selected+'/download/images-zip';dlZip.title='تصویر PNG همهٔ صفحات در یک فایل زیپ';
+    g2.append(dl,dlEnW,dlFaW,dlFaWr,dlEn,dlFa,dlFa2,dlZip);actions.append(g2);
+  }
+
+  // Review controls (only when there is at least one done page). Can run in parallel with translation.
+  if(done){
+    actions.append(text('div','','divider'));
+    const g3=text('div','','group');
+    const rvActive=!!(rv&&rv.active);
+    const pick=document.createElement('div');pick.className='model-pick';
+    const lab=document.createElement('label');lab.textContent='مدل بازبینی کیفیت ترجمه';
+    const sel=document.createElement('select');
+    (rv?rv.models:['qwen38-nothinking']).forEach(m=>{const o=document.createElement('option');o.value=m;o.textContent=m;sel.append(o)});
+    const defModel=(rv&&rv.default_model)||'qwen38-nothinking';
+    if(!revModel||![...sel.options].some(o=>o.value===revModel))revModel=defModel;
+    sel.value=revModel;
+    sel.onchange=()=>{revModel=sel.value};
+    pick.append(lab,sel);
+    const clab=document.createElement('label');clab.textContent='تعداد موازی بازبینی (هرچه بیشتر، سریع‌تر)';
+    const chips=document.createElement('div');chips.className='chips';chips.dataset.val=revConc;
+    [1,2,3,4].forEach(n=>{
+      const c=document.createElement('label');c.className='chip';
+      const cb=document.createElement('input');cb.type='checkbox';cb.value=n;
+      if(n===revConc)cb.checked=true;
+      cb.addEventListener('change',()=>{
+        chips.querySelectorAll('input').forEach(x=>{if(x!==cb)x.checked=false});
+        chips.dataset.val=cb.value;
+        revConc=Number(cb.value);
+      });
+      const sp=document.createElement('span');sp.textContent=n===1?'۱ (ترددی)':fa(n)+' صفحه هم‌زمان';
+      c.append(cb,sp);chips.append(c);
+    });
+    const cpick=document.createElement('div');cpick.className='model-pick';cpick.append(clab,chips);
+    const rbtn=text('button',rvActive?'توقف بازبینی':'بازبینی و اصلاح کیفیت ترجمه','secondary');
+    rbtn.disabled=rvActive;
+    rbtn.title='متن انگلیسی و فارسی هر صفحه را با هم مقایسه و ترجمهٔ فارسی را اصلاح می‌کند (قابل اجرا هم‌زمان با ترجمه)';
+    rbtn.onclick=async()=>{try{
+      if(rvActive){await api(`/jobs/${selected}/review/pause`,{method:'POST'});notify('بازبینی متوقف شد')}
+      else{const body=JSON.stringify({base_url:$('url').value,model:sel.value,api_key:$('key').value,concurrency:Number(chips.dataset.val)});await api(`/jobs/${selected}/review/start`,{method:'POST',headers:{'Content-Type':'application/json'},body});notify('بازبینی کیفیت ترجمه شروع شد'+(j.status==='running'?' (موازی با ترجمه)':''))}
+      await refresh()}catch(e){notify(e,'err')}};
+    g3.append(pick,cpick,rbtn);actions.append(g3);
+  }
+
+  // Pages list (incremental, keyed by data-num so error paragraphs don't shift indices)
+  const pagesBox=$('pages');
+  if(!pagesBox.dataset.jobid || pagesBox.dataset.jobid!==j.id){pagesBox.replaceChildren();pagesBox.dataset.jobid=j.id}
+  const existing={};
+  for(const el of pagesBox.querySelectorAll('.page'))existing[el.dataset.num]=el;
+  for(const p of pages){
+    let row=existing[p.number];
+    if(!row){row=document.createElement('div');row.className='page';row.dataset.num=p.number;
+      row.append(text('span','صفحهٔ '+fa(p.number),'num'),text('span','','st'));
+      pagesBox.append(row);}
+    const st=row.querySelector('.st');
+    st.textContent=pageStatus[p.status]||p.status;
+    st.className='st '+(pageStClass[p.status]||'');
+    let a=row.querySelector('a');
+    if(p.status==='done'){if(!a){a=document.createElement('a');a.textContent='تصویر';a.href=`/api/jobs/${selected}/pages/${p.number}/image`;a.target='_blank';a.rel='noopener';row.append(a)}}
+    else if(a){a.remove()}
+    let enL=row.querySelector('.en-view');
+    if(p.status==='done'){if(!enL){enL=document.createElement('button');enL.className='page-link en-view';enL.textContent='متن انگلیسی';enL.title='مشاهدهٔ متن انگلیسی صفحه';enL.onclick=()=>openTextModal(p.number,'english');row.append(enL)}}
+    else if(enL){enL.remove()}
+    let faL=row.querySelector('.fa-view');
+    if(p.status==='done'){if(!faL){faL=document.createElement('button');faL.className='page-link fa-view';faL.textContent='متن فارسی';faL.title='مشاهدهٔ ترجمهٔ فارسی صفحه';faL.onclick=()=>openTextModal(p.number,'persian');row.append(faL)}}
+    else if(faL){faL.remove()}
+    const errId='pe'+j.id+'-'+p.number;
+    let er=document.getElementById(errId);
+    if(p.error){
+      if(!er){er=document.createElement('p');er.className='error';er.id=errId;row.insertAdjacentElement('afterend',er)}
+      if(er.textContent!==p.error)er.textContent=p.error;
+    } else if(er){er.remove()}
+  }
+}
+
+async function command(action,body){try{$('toast').classList.remove('show');await api(`/jobs/${selected}/${action}`,{method:'POST',headers:{'Content-Type':'application/json'},...(body?{body:JSON.stringify(body)}:{})});await refresh()}catch(e){notify(e,'err')}}
+
+/* Text-view modal: fetch a page's English or Persian text on demand */
+function openTextModal(number,kind){
+  const modal=$('modal');const body=$('modalBody');const isFa=kind==='persian';
+  body.className='modal-body'+(isFa?' rtl':'');
+  body.textContent='در حال بارگذاری…';
+  $('modalTitle').textContent='صفحهٔ '+fa(number)+' — '+(isFa?'متن فارسی':'متن انگلیسی');
+  modal.classList.add('open');
+  fetch('/api/jobs/'+selected+'/pages/'+number+'/text?kind='+kind)
+    .then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.text()})
+    .then(t=>{body.textContent=(t&&t.trim())||(isFa?'فاقد متن':'Not Found')})
+    .catch(e=>{body.textContent='خطا: '+(e.message||String(e))});
+}
+function closeModal(){$('modal').classList.remove('open')}
+$('modalClose').onclick=closeModal;
+$('modal').onclick=e=>{if(e.target===$('modal'))closeModal()};
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()});
+$('upload').onclick=async()=>{const file=$('pdf').files[0];if(!file)return notify('یک فایل انتخاب کنید','err');$('upload').disabled=true;try{const form=new FormData();form.append('file',file);const j=await api('/jobs',{method:'POST',body:form});selected=j.id;await refresh()}catch(e){notify(e,'err')}finally{$('upload').disabled=false}};
+refresh();setInterval(refresh,2500);
+</script>
+</body></html>

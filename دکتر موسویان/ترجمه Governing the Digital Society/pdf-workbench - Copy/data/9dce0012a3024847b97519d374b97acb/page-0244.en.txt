@@ -1,0 +1,41 @@
+Fostering Autonomy in the Digital Classroom                             241
+
+in close partnership with the education sector and supported by public
+organizations, to build their AI-based DEPs on top of it.
+  But tackling these issues on a national level alone is insufficient, unsus-
+tainable, and undesirable as European countries face similar challenges
+and share European regulation. Therefore, it is important to exchange
+experiences, successes, and failures in the development of alternative
+infrastructures and DEPs in different European countries. Isolating the
+development and reflection on the use of alternative education platforms,
+such as the DD platform in Spain, from similar initiatives in other Euro-
+pean countries should be avoided. Furthermore, it is important to also
+join forces in Europe in infrastructure and platform development, funded
+and supported by governments at national and EU levels. A promising
+candidate is the European Schoolnet, a non-profit organization composed
+of thirty-four European Ministries of Education which aims “to support
+ministries of education, schools, teachers and relevant education stakehold-
+ers in Europe in the transformation of education processes for 21st century
+digitalized societies” (European Schoolnet 2024). Moreover, for Big Tech
+independent collaborations focused on developing viable alternatives in
+particular, schools and public organizations may need to engage in strong
+partnerships with governments. As Van Dijck et al. (2018, 156–61) clarify,
+beyond being regulators and users, governments can also act as platform
+developers, establishing a more balanced relationship between market forces
+and societal actors. Nonetheless, as we have emphasized in this chapter,
+educational sectors should always operate as leading bodies in governing
+schools’ digital autonomy through cooperative responsibility, supported by
+public organizations, where possible by government and developers of DEPs
+
+References
+
+Adams, Catherine, and Sean Groten. 2023. “A TechnoEthical Framework for Teach-
+   ers.” Learning, Media and Technology 49(4): 701–718. https://doi.org/10.1080/17
+   439884.2023.2280058.
+Apps, Tiffani, Karley Beckman, and Sarah K. Howard. 2022. “Valuable Data? Using
+  Walkthrough Methods to Understand the Impact of Digital Reading Platforms
+   in Australian Primary Schools.” Learning, Media and Technology 48(2): 294–309.
+   https://doi.org/10.1080/17439884.2022.2160458.
+Birch, Kean, D. T. Cochrane, and Callum Ward. 2021. “Data as Asset? The Measure-
+   ment, Governance, and Valuation of Digital Personal Data by Big Tech.” Big Data
+  & Society 8(1). https://doi.org/10.1177/20539517211017308.

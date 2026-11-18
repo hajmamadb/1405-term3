@@ -1,0 +1,29 @@
+The Techno-Politics of Conversational AI’s Moral Agency                   177
+
+
+
+
+
+Figure 10.2. The two main steps involved in building ChatGPT. Source: OpenAI (2023).
+
+substantial portion of the training data for LLMs is extracted from text
+found on the internet, these models reproduce biases and toxic language
+present in such sources (Faal et al. 2023; Zhuo et al. 2023). For instance,
+Google’s C4 dataset, utilized in the training of several prominent English
+LLMs like Meta’s Llama, includes content from websites affiliated with
+white supremacists, anti-trans groups, and sites promoting conspiracy
+theories with anti-government ideologies (Schaul et al. 2023). Another
+notable example is OpenAI’s internal training corpus, WebText, which
+includes text content from 45 million links harvested from Reddit. This
+corpus was used in the training of GPT-2 (2019). Given the nature of the
+training data, it is not surprising that GPT-2 is predisposed to generate
+problematic content (Faal et al. 2023; Sheng et al. 2023).
+   In the latest updates, OpenAI has enhanced its models with advancements
+in functionality and a stronger focus on ethical considerations. Nevertheless,
+even with these newer models, there are persisting vulnerabilities in generat-
+ing content that may endorse violence, sexism, racism, and hate (Deshpande
+et al. 2023; Zhuo et al. 2023). Regarding ErnieBot specifically, there is limited
+academic research on the toxicity and bias within its foundational models.
+However, Baidu, the Chinese technology giant that developed ErnieBot,
+also operates a search engine. This search engine uses trillions of web pages
+and billions of search and image data points for training (Wu 2023). Given

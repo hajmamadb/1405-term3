@@ -1,0 +1,42 @@
+116                                                  Machiko Kanetake
+
+of international human rights and humanitarian law. The Commission’s
+guidelines also made it clear that, under Article 5(2), exporters are “re-
+quired to carry out due diligence” through transaction-screening measures
+(Commission Recommendation (EU) 2024/2659, 10, emphasis added). The
+guidelines expect exporters to “draw up plans to prevent and mitigate
+potential future adverse impacts” on the basis of due diligence findings
+(Commission Recommendation (EU) 2024/2659, 12). This means that
+exporters’ due diligence is by no means static; it has to evolve on the basis
+of past practices. To reiterate, the concept of due diligence is nothing new
+in the field of export controls. Yet Article 5(2) of Regulation 2021/821 is
+novel in terms of its explicit reference to human rights and international
+humanitarian law, which serve as the yardsticks for conducting risk
+assessment by exporters.
+
+Awareness of the intended use
+Finally, under Article 5(2) of Regulation 2021/821, an exporter’s obligation
+to inform arises when the exporter is “aware” of the intended use of cyber
+surveillance items for the serious violations of human rights and humani-
+tarian law. The question is how to interpret the exporter’s “awareness.”
+According to the BAFA’s interpretation, awareness here means “positive
+knowledge” or, in the terminology of criminal law, “direct intent” (BAFA
+2021, 10). The fact that such uses “deem possible” is not sufficient, according
+to the BAFA (2021, 10). The Commission’s guidelines seem to follow the
+BAFA’s description, in that the guidelines also require an exporter’s “positive
+knowledge of the intended misuse.” The Commission made it clear that
+the “mere possibility of such a risk is not sufficient to establish awareness”
+(Commission Recommendation (EU) 2024/2659, 7, Section 1.2.6; European
+Commission 2023, 6 (II.2.6)).
+  At the same time, the European Commission’s guidelines note that
+awareness here “cannot be assimilated to passivity” because such aware-
+ness “requires that the exporter has taken steps to obtain sufficient and
+adequate knowledge for assessing risks.” What the guidelines do not state
+is whether awareness is deemed to have existed when the exporter had
+sufficient sources of knowledge but still failed to take steps to analyze such
+sources. In the field of export controls, knowledge is generally understood as
+“positive” knowledge. Nonetheless, Article 5(2) seems to lose its normative
+significance if it cannot be invoked against an exporter (who did not conduct
+a substantial risk assessment and therefore was not positively aware) as a
+ground for arguing that the exporter should have been aware of the intended
+misuse of technologies.

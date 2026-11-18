@@ -1,0 +1,42 @@
+102                                                        Taylor Annabell
+
+democracy (e.g., the proliferation of hidden advertising, war propaganda,
+misinformation), it is absolutely essential to develop methods to the
+activities shaping it. Regulation such as the Digital Services Act, which
+aims to bring more transparency, is a step in the right direction, but such
+rules also require swift and meaningful enforcement, otherwise they are
+rendered useless. For a very long time, questions about market practices in
+the platform economy have been difficult to answer by public authorities
+and academic researchers because of the opacity of the platform ecosystem
+developing them. But the time has come for enforcement activities to be
+able to mirror the markets it is supposed to oversee—in the words of my
+colleague and friend Thibault Schrepel, that would be “to fight fire with
+fire.” Second, while necessary, our computational research highlights that
+technology can introduce additional risks, such as bias or accuracy. This is
+why we try to focus on modeling qualitative, context-aware insights from
+media studies into measurement methodologies for monitoring monetiza-
+tion and detecting undisclosed advertising, in the hope of developing
+responsible computational frameworks. In other words, quantitative
+methods of studying monetization at scale have generally failed to capture
+culturally or societally specific contexts that can be revealed through
+other approaches, such as ethnography. In our work, we try to bridge these
+two worlds.
+
+TA: You mentioned the opacity of the platform ecosystem, which brings us
+to another aspect of governance, namely the rules and policies that regulate
+users on platforms. As you began through the Twitter case study (Goanta
+2023a) and now moving into research on TikTok platform documentation, what
+does examining the perspective of the platform reveal about the regulation
+of monetization?
+
+GC: While platform governance has been a popular field of research in the
+past years, I find that not enough research focuses on the very clear mon-
+etization shifts that social media platforms have been recently embracing.
+Social media platforms have long been seen as public squares that need to
+provide sufficient protections for freedom of expression. This has been a very
+North American, First Amendment–focused theme dominating platform
+regulation debates and narratives. Yet, the emergence of content creators as
+a new stakeholder group on social media made the transactionality of this
+space more evident. The gloves are off: social media platforms are digital
+services that constantly develop new monetization products. Researching
+these products from the perspective of platform documentation allows us

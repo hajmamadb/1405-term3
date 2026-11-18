@@ -1,0 +1,40 @@
+96                                                   Jacob van de Kerkhof
+
+avoid unnecessarily blocking content in areas where it is not illegal. The
+legitimacy of those flags can be underlined by an indication of what aim it is
+serving under Article 10(2) of the ECHR. Since this is a finite list, adding one
+of the aims to a flag is not an excessive burden but does create transparency
+and accountability on the legitimacy of flags by state bodies. Finally, a flag by
+a state body should include an account of why the right of the internet user
+is outweighed by societies’ needs, as well as an indication why the sought
+remedy is the appropriate way to fulfill those needs. Although this is not a
+scalable solution, it is possible to achieve this in the case-by-case context
+of trusted flagging. These are simple solutions to ensure that a valuable
+addition to the content moderation process—state bodies functioning as
+trusted flaggers—gains legitimacy and is ensured to respect the right to
+freedom of expression of internet users.
+
+References
+
+Appelman, Naomi, and Paddy Leerssen. 2022. “On Trusted Flaggers.” Yale Journal
+   of Law & Technology 24: 452–75. https://yjolt.org/trusted-flaggers.
+Arcila, Beatriz Botero, and Rachel Griffin. 2023. “Social Media Platforms and
+   Challenges for Democracy, Rule of Law and Fundamental Rights.” PE 743.400.
+   Policy Department for Citizen’s Rights and Constitutional Affairs. European
+   Parliament. https://sciencespo.hal.science/hal-04320778v1.
+Are, Carolina, and Pam Briggs. 2023. “The Emotional and Financial Impact of
+   De-platforming on Creators at the Margins.” Social Media + Society 9(1): 1–12.
+   https://doi.org/10.1177/20563051231155103.
+Balkin, Jack M. 2018. “Free Speech in the Algorithmic Society: Big Data, Private
+   Governance, and New School Speech Regulation.” University of California, Davis
+  Law Review 51: 1149–10. https://doi.org/10.2139/ssrn.3038939.
+Bambauer, Derek. 2015. “Against Jawboning.” Minnesota Law Review 100(51):
+   51–128. https://www.minnesotalawreview.org/wp-content/uploads/2015/11/
+  Bambauer_ONLINE.pdf.
+Caplan, Robyn. 2023. “Networked Platform Governance: The Construction of the
+  Democratic Platform.” International Journal of Communication 17: 3451–72.
+   https://ijoc.org/index.php/ijoc/article/view/20035.
+Chang, Brian. 2017. “From Internet Referral Units to International Agreements:
+   Censorship of the Internet by the UK and EU.” Columbia Human Rights Law
+   Review 49(2): 114–212. https://hrlr.law.columbia.edu/files/2018/07/BrianChang-
+   FromInternetRef.pdf.

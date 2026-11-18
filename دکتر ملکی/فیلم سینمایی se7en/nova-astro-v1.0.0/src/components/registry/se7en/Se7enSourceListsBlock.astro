@@ -1,0 +1,194 @@
+---
+// Curated source lists block: groups of links (books, articles, online
+// databases, legal streaming links) with title, meta, url and note.
+import Section from "@components/ui/layout/Section.astro";
+import Container from "@components/ui/layout/Container.astro";
+import Heading from "@components/ui/atoms/Heading.astro";
+import Text from "@components/ui/atoms/Text.astro";
+import jsonData from "@data/sections/se7en-source-lists.json";
+
+interface SourceItem {
+  title: string;
+  meta?: string;
+  url?: string;
+  note?: string;
+}
+
+interface SourceGroup {
+  label: string;
+  items: SourceItem[];
+}
+
+interface Props {
+  sectionId?: string;
+  title?: string;
+  description?: string;
+  groups?: SourceGroup[];
+  attribution?: string;
+  headingTag?: string;
+  class?: string;
+}
+
+const {
+  sectionId = "se7en-source-lists",
+  title,
+  description,
+  groups,
+  attribution,
+  headingTag = "h2",
+  class: className = "",
+} = Astro.props as Props;
+
+const fallback = jsonData as Record<string, unknown>;
+const resolvedTitle = (title as string) || (fallback.title as string) || "";
+const resolvedDescription = (description as string) || (fallback.description as string) || "";
+const resolvedGroups = ((groups as SourceGroup[]) && groups.length ? groups : (fallback.groups as SourceGroup[])) ?? [];
+const resolvedAttribution = (attribution as string) || (fallback.attribution as string) || "";
+---
+
+<Section id={sectionId} tone="page" class:list={["se7en-sources-section", className]}>
+  <Container>
+    <div class="mx-auto max-w-3xl text-center">
+      <Heading tag={headingTag} variant="section-heading-lg" class="se7en-sources-title">{resolvedTitle}</Heading>
+      {resolvedDescription && (
+        <Text variant="lead" class="se7en-sources-description mx-auto mt-4 max-w-2xl">{resolvedDescription}</Text>
+      )}
+    </div>
+
+    <div class="se7en-sources-grid">
+      {resolvedGroups.map((group) => (
+        <section class="se7en-sources-group">
+          <h3 class="se7en-sources-group-label">{group.label}</h3>
+          <ul class="se7en-sources-list">
+            {group.items.map((item) => (
+              <li>
+                {item.url ? (
+                  <a class="se7en-sources-link" href={item.url} target="_blank" rel="noopener noreferrer">
+                    <span class="se7en-sources-link-title">{item.title}</span>
+                    <span class="se7en-sources-external" aria-hidden="true">↗</span>
+                  </a>
+                ) : (
+                  <span class="se7en-sources-link-title">{item.title}</span>
+                )}
+                {item.meta && <span class="se7en-sources-meta">{item.meta}</span>}
+                {item.note && <span class="se7en-sources-note">{item.note}</span>}
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </div>
+
+    {resolvedAttribution && <p class="se7en-sources-attribution">{resolvedAttribution}</p>}
+  </Container>
+
+  <style>
+    .se7en-sources-section {
+      padding-block: clamp(4rem, 8vw, 7rem);
+    }
+
+    .se7en-sources-title {
+      font-size: clamp(1.6rem, 3vw, 2.25rem) !important;
+      font-weight: 800 !important;
+    }
+
+    .se7en-sources-description {
+      color: var(--color-on-surface-variant);
+      font-size: 1.02rem;
+      line-height: 1.9;
+    }
+
+    .se7en-sources-grid {
+      margin-top: clamp(2rem, 4vw, 3rem);
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1.25rem;
+    }
+
+    .se7en-sources-group {
+      border: 1px solid color-mix(in oklab, var(--color-on-surface) 14%, transparent);
+      border-radius: 1rem;
+      background: color-mix(in oklab, var(--color-on-surface) 4%, transparent);
+      padding: 1.25rem 1.4rem;
+    }
+
+    .se7en-sources-group-label {
+      margin: 0 0 0.9rem;
+      font-size: 0.9rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      color: var(--color-brand-accent);
+      border-bottom: 1px solid color-mix(in oklab, var(--color-on-surface) 12%, transparent);
+      padding-bottom: 0.7rem;
+    }
+
+    .se7en-sources-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.9rem;
+    }
+
+    .se7en-sources-list li {
+      display: flex;
+      flex-direction: column;
+      gap: 0.15rem;
+    }
+
+    .se7en-sources-link {
+      display: inline-flex;
+      align-items: baseline;
+      gap: 0.4rem;
+      color: var(--color-on-surface);
+      font-weight: 600;
+      font-size: 0.98rem;
+      line-height: 1.7;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    .se7en-sources-link:hover {
+      color: var(--color-brand-accent);
+    }
+
+    .se7en-sources-link-title {
+      font-weight: 600;
+      font-size: 0.98rem;
+      line-height: 1.7;
+      color: var(--color-on-surface);
+    }
+
+    .se7en-sources-external {
+      font-size: 0.8rem;
+      color: var(--color-brand-accent);
+    }
+
+    .se7en-sources-meta {
+      font-size: 0.82rem;
+      color: var(--color-on-surface-variant);
+      line-height: 1.7;
+    }
+
+    .se7en-sources-note {
+      font-size: 0.85rem;
+      line-height: 1.8;
+      color: var(--color-on-surface-variant);
+    }
+
+    .se7en-sources-attribution {
+      margin-top: clamp(1.5rem, 3vw, 2.5rem);
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--color-on-surface-variant);
+      opacity: 0.75;
+    }
+
+    @media (min-width: 768px) {
+      .se7en-sources-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+  </style>
+</Section>

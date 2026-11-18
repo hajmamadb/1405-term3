@@ -1,0 +1,42 @@
+112                                                   Machiko Kanetake
+
+The EU’s export control over cyber surveillance
+
+As mentioned above, the export control of “cyber surveillance items” became
+one of the most contested issues during the legislative process leading to
+the adoption of Regulation 2021/821.
+
+Article 5(2) of Regulation 2021/821
+Under Article 5, Regulation 2021/821 introduced export controls over such
+items as part of “catch-all” clauses. At the heart of legislative debates was
+Article 5(2), which provides:
+
+  Where an exporter is aware, according to its due diligence findings, that
+   cyber-surveillance items which the exporter proposes to export, not listed
+   in Annex I, are intended, in their entirety or in part, for any of the uses
+   referred to in paragraph 1 of this Article [i.e., for use in connection with
+   internal repression and/or the commission of serious violations of human
+   rights and international humanitarian law], the exporter shall notify the
+  competent authority. (Emphasis added)
+
+According to Article 5(2), an exporter’s awareness of the intended uses of
+dual-use items for the serious violations of human rights and international
+humanitarian law gives rise to an obligation to notify a relevant EU member
+state authority. In accordance with Article 5(2), once the authority is notified
+by the exporter, that competent authority shall decide whether to make the
+export concerned subject to authorization.
+
+Definition of “cyber surveillance items”
+To understand the meaning of Article 5(2), we must examine the meaning
+of “cyber surveillance items” in the first place. According to Article 2(2) of
+the regulation, they are defined as follows:
+
+   Article 2(20): “Cyber-surveillance items” means dual-use items spe-
+   cially designed to enable the covert surveillance of natural persons by
+   monitoring, extracting, collecting or analysing data from information
+  and telecommunication systems.
+
+Among a number of interpretive elements, the following four merit further
+explanation in particular: (1) the concept of “dual-use” items; (2) the meaning
+of “covert surveillance”; (3) the interpretation of the analysis of data “from”
+IT systems; and (4) the understanding of the phrase “specially designed.”

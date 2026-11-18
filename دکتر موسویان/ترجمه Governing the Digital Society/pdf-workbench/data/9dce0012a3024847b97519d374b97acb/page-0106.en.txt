@@ -1,0 +1,41 @@
+Interview with Catalina Goanta                                          103
+
+to better understand the commercial interests and strategies of social media
+organizations, as well as what challenges can be identified in the coming
+years for regulatory frameworks.
+
+TA: Finally, you also referred to the Digital Services Act (DSA) earlier. As this
+legislation comes into effect with its aim to transform platform liability and
+increase the protection of consumers and their fundamental rights online,
+does this have implications for the regulation of content monetization and
+influencer practices? Does the DSA present opportunities to extend your
+existing research?
+
+GC: During the negotiations of the Digital Services Act, at some point,
+influencer marketing was included in the text of the act in three different
+places. However, the final version removed these references and favored a
+narrower definition of advertising. This definition now solely includes what
+we refer to as “platform ads,” namely advertising for which social media
+platforms receive direct payment. Since influencer marketing mostly takes
+place off-platform, it falls outside this definition, and by extension, the
+obligations platforms have in terms of advertising. Nonetheless, the DSA
+introduces the very interesting concept of “systemic risks,” defined as risks
+that can occur from the way in which a platform is designed or functions.
+Seeing how little native advertising is disclosed on social media, and that
+undisclosed ads constitute illegal content, a compelling argument can be
+made that hidden advertising is a systemic risk, because it engulfs consumers
+in deceit. It will be interesting to see how authorities, courts, and academics
+will further interpret the scope of systemic risks.
+
+References
+
+Duivenvoorde, Bram, and Catalina Goanta. 2023. “The Regulation of Digital
+   Advertising under the DSA: A Critical Assessment.” Computer Law & Security
+   Review 51. https://doi.org/10.1016/j.clsr.2023.105870.
+Goanta, Catalina. 2023a. “Content Monetization on Twitter: A Study of Platform
+  Documentation and Transatlantic Legal Implications.” Stanford Law School.
+   https://law.stanford.edu/publications/no-103-content-monetization-on-twitter-
+   a-study-of-platform-documentation-and-transatlantic-legal-implications/.
+Goanta, Catalina. 2023b. “The New Social Media: Contracts, Consumers, and
+   Chaos.” Iowa Law Review Online 108: 118–30. https://ilr.law.uiowa.edu/volume-
+   108-response-pieces/2023/05/new-social-media-contracts-consumers-and-chaos.

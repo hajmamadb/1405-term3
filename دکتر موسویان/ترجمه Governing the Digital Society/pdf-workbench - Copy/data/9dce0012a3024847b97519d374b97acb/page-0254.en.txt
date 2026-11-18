@@ -1,0 +1,26 @@
+Fundamental Rights and Algorithms Impact Assessment                     251
+
+References
+
+DEDA. N.d. “Data Ethics Decision Aid.” https://deda.dataschool.nl/en/.
+Gerards, Janneke, Mirko Tobias Schäfer, Arthur Vankan, and Iris Muis. 2022.
+   Impact Assessment: Fundamental Rights and Algorithms. The Hague: Ministry
+   of the Interior and Kingdom Relations. https://www.government.nl/documents/
+   reports/2022/03/31/impact-assessment-fundamental-rights-and-algorithms.
+Google. 2023. “Privacy Policy.” November 15. https://policies.google.com/privacy.
+Nederland Digitaal. 2021. “The Dutch Digitalisation Strategy 2021.” https://
+   www.nederlanddigitaal.nl/documenten/publicaties/2021/06/22/the-dutch-
+   digitalisation-strategy-2021-eng.
+Reisman, Dillon, Jason Schultz, Kate Crawford, and Meredith Whittaker. 2018.
+   “Algorithmic Impact Assessments: A Practical Framework for Public Agency.”
+   AI Now, October 4. https://www.nist.gov/system/files/documents/2021/10/04/
+   aiareport2018.pdf.
+Van Til, Gijs. 2019. “Netherlands: Automating Society 2019.” Algorithm Watch. https://
+   algorithmwatch.org/en/automating-society-2019/netherlands/.
+Wieringa, Maranke. 2023. “Hey SyRI, Tell Me about Algorithmic Accountability:
+   Lessons from a Landmark Case.” Data & Policy 5: e2. https://doi.org/10.1017/
+   dap.2022.39.
+
+About the Author
+
+Viktorija Morozovaite is assistant professor at the University of Amsterdam.

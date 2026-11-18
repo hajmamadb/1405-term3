@@ -1,0 +1,41 @@
+The Long-term Usefulness of Regulating AI in the EU                        159
+
+  The lack of (effective) regulation of foundational models therefore ties
+into the control over AI markets, as it will allow the companies developing
+these models to design the architecture of AI and thereby regulate the space
+without having to comply with the strict obligations for high-risk systems
+in the AI Act. It is likely that Big Tech companies will try to dominate the
+rapidly developing market of LLMs, the generative AI systems, and the
+developer tools that will be available for others to build AI applications.
+Following Lessig’s “code is law,” they will be the ones that determine the
+basic architecture on which others build their applications and therefore
+determine the rules of the game.
+
+Inhibiting innovation
+The fact that developers of foundational models (may) escape the regulatory
+burden is also worrisome because it interferes with the AI Act’s goal of
+promoting innovation, as announced in section 3. Innovation is impacted
+by the architecture of the digital space. Lessig (1999) has argued that some
+digital architectures invite innovation, whereas others chill innovation.
+Studies in evolutionary economics and complexity economics support
+these conclusions and imply that diversity of resources and research paths
+in a market is necessary for innovation to flourish (Farrell 2006; Kerber
+2011). The more diverse a market in terms of resources and different types
+of knowledge, the more likely it is that innovation will continue to play an
+important role in markets (Kerber 2011). Therefore, generally speaking, open
+digital architectures facilitate open innovation.
+  When the market for foundational models is in the hands of a few
+companies, innovation could be stymied. As set out in section 2, history
+in other digital markets reveals that competitors struggle to enter digital
+markets once one or two companies dominate the platform market. The
+control over foundational models in AI markets could produce a similar
+effect. The providers of these models will determine the extent to which
+other developers can create new applications on top of those models and
+the companies operating the foundational models could obtain (unfair)
+advantages in the downstream AI application markets. This inhibits competi-
+tion and innovation, while creating unfair markets because of the initial
+infrastructural advantage that Big Tech companies have and will have.
+    If there are only a few companies present in the market for foundational
+AI models, innovation might therefore be impeded. To achieve the goal of
+protecting innovation in AI markets, the issue of control over these markets
+will therefore be important to include in AI legislation. For legislators seeking

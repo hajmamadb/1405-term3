@@ -1,0 +1,41 @@
+122                                                  Machiko Kanetake
+
+of the criminal proceedings remain to be seen, these administrative, civil,
+and criminal proceedings in the UK and Germany concerning FinFisher
+products provide a test case for examining the availability of procedural
+avenues and substantive bases for seeking accountability in the global
+market of digital surveillance.
+   Finally, transparency is central to all the initiatives for improving the
+regulation of cyber surveillance exports. Amnesty International’s report
+on the NSO Group articulated that transparency is required with regard to
+corporate structure, company’s decision-making policies and processes, and
+the records of sales and exports (Amnesty International et al. 2021, 62–63).
+As the PEGA Committee’s report articulated, “secrecy” is a “major obstacle in
+detecting and investigating the illegitimate use of spyware” (PEGA Committee
+2023b, 144). National security grounds are often used by authorities to deny or
+restrict the scope of information to be made available to affected individuals
+and entities (PEGA Committee 2023b, 144). That is why the European Parlia-
+ment also emphasized the need for obliging, through the future amendment
+of the Dual-Use Regulation, the authorities in member states to provide
+specific details of the approval and denial of export licenses for dual-use
+items, without broad exceptions that justify the withholding of information
+(European Parliament 2023, paras. 63–64). Without any transparency, it is
+not feasible for external observers, including civil society organizations, to
+engage with the industry to assess whether exporters have duly taken into
+account risks of the serious violations of human rights and international
+humanitarian law. Without any transparency, the affected victims, including
+dissidents and journalists whose digital footprints are monitored, would be
+left with no or little information necessary to seek remedies.
+
+Conclusion
+
+In the aftermath of the Arab Spring, the EU’s Dual-Use Regulation was given
+a political significance, perhaps rather unexpectedly, partly to respond
+to a series of reports that EU companies sold surveillance tools to those
+governments which had experienced popular uprising. As noted at the
+beginning of the chapter, the EU’s dual-use export control is merely one of
+the tools available for the EU to mitigate the problematic consequences of
+transferring cyber surveillance technologies to non-EU destinations. This
+has to be combined with broader efforts to promote domestic compliance
+with human rights law, including the protection of journalists, both by EU
+member states themselves and their trading partners.

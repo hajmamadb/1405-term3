@@ -1,0 +1,41 @@
+156                                                          Lisanne Hummel
+
+no mention of foundational models and generative AI. At the time of writing
+this chapter, the Commission, the Council, and the European Parliament
+are still negotiating the final text of the AI Act. The Council proposed to
+apply certain requirements of high-risk systems to general-purpose AI, but
+to leave the specifics of these requirements to a delegated act to be adopted
+at a later date (EU Council 2023). The European Parliament proposed that for
+foundational models of generative AI, it needs to be demonstrated through
+appropriate design, testing, and analyses that foreseeable risks to overriding
+public interests are mitigated prior to and throughout the development of
+the AI model (EU Parliament 2023). These proposed amendments might
+entail that part of the regulatory burden will reside with Big Tech companies.
+However, it is not yet clear what the extent of the responsibilities will be for
+companies introducing foundational models. In the proposed amendments,
+it seems that the responsibilities for these models will be lower than those
+for applying AI systems in high-risk sectors.
+  Although the AI Act was welcomed by scholars, businesses, organizations,
+and agencies, others have expressed their concern about the basic approach
+to regulating AI as proposed by the regulation (Edwards 2022; Schyns 2023).
+Relevant to the power of Big Tech companies and the development of AI is
+that in the lead up to the AI Act, Big Tech companies heavily lobbied with
+European institutions to escape or limit their responsibility (Edwards 2022;
+Schyns 2023). It seems that these lobbying efforts were reflected in the
+mechanisms that the AI Act introduces to regulate AI. For example, the
+AI Act seems to heavily rely on ex ante self-certification that is not backed
+by ex post third-party certification.
+    It is not only because of lobbying efforts that Big Tech companies have
+been mainly excluded from the regulatory obligations in the AI Act. It also
+seems in line with the EU’s risk-based approach that Big Tech companies are
+not the focus of the AI Act. By focusing on applications of AI-driven systems
+in specific sectors, the EU explicitly chose not to focus on the earlier stages
+of the AI lifecycle and concentrate on the lower “stacks” of AI markets, as
+discussed in section 2. Although it seems in line with the chosen risk-based
+approach, the—maybe unintended—consequence of this choice is that Big
+Tech companies evade regulatory responsibilities in the AI Act.
+
+Long-term usefulness of regulating AI
+
+Although excluding Big Tech companies’ power seems to be in line with
+the AI Act’s risk-based approach, this exclusion seems to free companies

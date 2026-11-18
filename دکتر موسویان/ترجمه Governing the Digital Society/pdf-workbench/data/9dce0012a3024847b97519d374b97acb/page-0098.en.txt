@@ -1,0 +1,41 @@
+Constitutional Aspects of Trusted Flaggers in the Netherlands            95
+
+toward removal, and removal restricts the freedom of expression of internet
+users, it is problematic that such nudges can be made based on community
+guidelines. This is at odds with the requirement of lawfulness of Article 7 of
+the Gw and Article 10(2) of the ECHR. Further, this scenario has the opacity
+and legitimacy issues that the DSA has tried to overcome. Transparency
+and accountability are principles of good governance that can diminish in
+the existing trusted flagger framework for state bodies, in which they flag
+based on community guidelines. One way to overcome this is to only allow
+state bodies to function as trusted flaggers within the framework of the
+DSA: this ensures the lawfulness of their flagging and makes the extent of
+their flagging transparent. The downside is that this proverbially handcuffs
+state bodies in their quest to reduce societal risks caused by harmful content
+since they can no longer flag based on community guidelines. This could
+negatively affect the detection of “awful but lawful” content by internet
+intermediaries.
+
+Conclusion
+
+This contribution examined the trusted flagger framework in the Neth-
+erlands and the fragilities of the right of freedom of expression therein.
+Trusted flaggers are an exponent of networked governance that helps
+internet intermediaries engage with third parties’ expertise in combating
+harmful content. Those third parties also involve state actors. Since a flag by
+a state actor functioning as a trusted flagger can be seen as a nudge toward
+removal of content, this can raise concerns for the protection of the freedom
+of expression. The Digital Services Act has attempted to legitimize the
+trusted flagger framework and remove the shroud of opacity that currently
+surrounds private arrangements between trusted flaggers and internet
+intermediaries. While it succeeds in some regards, it raises some concerns for
+the right to freedom of expression under Article 7 of the Gw and Article 10 of
+the ECHR when state entities operate as trusted flaggers, due to the indirect
+pressure for removal that might be exerted on the internet intermediary.
+  These concerns can be addressed with simple adjustments to the notice-
+and-action mechanisms used by internet intermediaries for trusted flaggers
+that better ensure the adherence to requirements for limitation of the
+freedom of expression laid down in Article 7(3) of the Gw and Article 10(2)
+of the ECHR. The lawfulness of flags can be ascertained by state actors
+solely flagging on the basis of national or EU law, by indicating the type of
+sanction they are looking for, and, if possible, by applying geo-blocking to

@@ -1,0 +1,45 @@
+Governing the Global Proliferation of Digital Surveillance Technologies   121
+
+alleged non-observance of the OECD Guidelines for Multinational Enterprises.
+In fact, the international sale of Finfisher—mentioned at the beginning of
+this chapter—has led the UK NCP to find the UK-based company (Gamma
+International UK, part of Gamma Group to which FinFisher belonged) to be
+in violation of human rights standards under the guidelines (UK National
+Contact Point 2014). At the same time, the processes before the OECD NCPs
+have some fundamental limitations. As the UK NCP reiterated in Privacy
+International v. Gamma International UK LTD (2014), the NCP has “no pow-
+ers to require any part to provide information to it, nor any special status
+permitting it to obtain confidential information” that is legally protected (UK
+National Contact Point 2014, para. 27). Ultimately, the findings of the NCPs
+consist of recommendations, and their effectiveness relies on both companies’
+willingness to act upon them and the NCPs’ follow-up mechanisms.
+    It is therefore necessary to provide judicial venues in holding the com-
+panies or the governments accountable in connection to the export of
+cyber surveillance items. In thinking about the ways to resort to judicial
+proceedings, a series of court cases concerning the sale of FinFisher products
+provide some concrete examples. In the UK, there have been a series of
+judicial proceedings against (1) the licensing authorities,2 (2) the companies
+involved,3 and (3) a foreign government4 that used FinFisher products. Yet
+perhaps most significantly, in Germany, the public prosecutor’s office in
+Munich has filed, in May 2023, criminal charges against the executives
+of FinFisher (Staatsanwaltschaft München I 2023). The executives were
+charged on the basis of their allegedly intentional breach of obligations
+under the Foreign Trade and Payments Act to seek export authorization
+for the export of the surveillance software. While the ultimate outcomes
+
+2   Privacy International filed for judicial review of the UK government’s decision to refuse to
+provide any details regarding investigation to Gamma’s export practices. In May 2014, the UK’s
+High Court (Administrative Court) declared that the UK authorities acted unlawfully in issuing
+blanket refusals into the status of any investigation into the export of surveillance technologies:
+R (on the application of Privacy International) v. The Commissioner for HM Revenue & Customs
+[2014] EWHC 1475 (Admin) (UK).
+3  A group of four pro-democracy activists and politicians launched judicial proceedings in
+2018 against Gamma Group. The claimants argued that the companies involved had sold the
+spyware to the Government of Bahrain despite the well-documented record of human rights
+violations (Leigh Day 2018).
+4  Two Bahrani activists have also brought proceedings against the government of Bahrain,
+on the basis that it hacked or infected their computers with FinSpy while the activists and
+their computers were in the UK. In February 2023, the High Court dismissed Bahrain’s claim
+of jurisdictional immunity, allowing the case to proceed further: Dr Saeed Shehabi and Moosa
+Mohammed v. The Kingdom of Bahrain [2023] EWHC 89 (KB) (High Court of Justice, Queen’s
+Bench Division, February 8, 2023) (UK).

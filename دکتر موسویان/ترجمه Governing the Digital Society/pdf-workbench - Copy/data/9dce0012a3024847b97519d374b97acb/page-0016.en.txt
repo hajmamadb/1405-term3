@@ -1,0 +1,39 @@
+     Introduction: Governing the Digital
+     Society
+        José van Dijck, Karin van Es, Anne Helmond, and
+      Fernando van der Vlist
+
+
+The acquisition of Twitter by Elon Musk, completed in 2022, led to its
+rebranding as “X” and was followed by a rapid decline in the platform’s
+popularity, particularly among academics and journalists. In late 2022,
+OpenAI launched ChatGPT, which quickly amassed 100 million users within
+a few months. The weaponization of AI in global misinformation campaigns
+has become increasingly prevalent. Meanwhile, Bitcoin and other cryptocur-
+rencies are allegedly disrupting the global financial system and challenging
+international equity standards. Mark Zuckerberg’s ambitious project of
+creating the “Metaverse” has been developed at a staggering cost of US$36
+billion. Global platforms are significantly influencing the organization of
+labor markets in countries worldwide. Additionally, algorithms are increas-
+ingly involved in decision-making processes related to welfare eligibility,
+and AI-trained chatbots are being introduced into public schools.
+  As the above examples illustrate, in recent years, a growing number
+of digital technologies has permeated our daily routines, transforming
+everything from state and institutional functions to labor processes, eco-
+nomic dynamics, and social interactions (Schäfer and Van Es 2017). These
+technological innovations are seamlessly woven into the social fabric of
+communities and societies at an almost unfathomable pace. They have led
+to accelerated fears around misinformation and disinformation and have
+also mounted concerns about online polarization, discrimination, and
+inequalities. These combined issues prompt a critical and urgent question:
+Can digital societies still be effectively governed?
+  In 1996, John Perry Barlow’s “Declaration of the Independence of
+Cyberspace,” envisioned the internet as a realm of “all society” and “no
+government.” His utopic and idealistic view of Cyberspace, widely criticized,
+
+
+
+Van Dijck, José, Karin van Es, Anne Helmond, and Fernando van der Vlist, eds. Governing the
+Digital Society: Platforms, Artificial Intelligence, and Public Values. Amsterdam: Amsterdam
+University Press, 2025
+doi 10.5117/9789048562718_intro

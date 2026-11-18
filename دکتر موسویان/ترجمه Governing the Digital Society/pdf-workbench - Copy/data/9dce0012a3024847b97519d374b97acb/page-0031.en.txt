@@ -1,0 +1,41 @@
+28                                     Mathilde Sanders and José van Dijck
+
+presence of hate speech and misinformation on the platform had increased
+substantially. Musk’s strategy, along with his dubious geopolitical ties
+(Maddox 2023), led many Twitter users to seek decentralized alternatives.
+Mastodon emerged as the preferred refuge for users who instinctively moved
+away from the new owner’s autocratic tendency to rule the Twitterverse
+single-handedly. However, many users were disappointed by Mastodon’s
+inconvenient interface and lack of user-friendliness. Two years later, after
+Elon Musk joined forces with Donald Trump’s presidential campaign and
+won the 2024 US election, another exodus took place on X. This time, many
+users switched to BlueSky.
+  The incorporation of Twitter by Musk revamped the public debate about
+designing social media platforms that protect public values such as privacy,
+security, accuracy, openness, and inclusiveness. This debate is often framed
+as a binary opposition between the “centralized” platforms of mainstream
+social media (MsSM), such as Facebook, Instagram, X, and TikTok, and
+“decentralized” online social networks (DOSNs), such as Mastodon, Steem,
+BlueSky and others. For example, Michael Kwet (2020) argues that open
+decentralized systems offer a technological fix to the harmful excesses
+of Big Tech’s social networks, as these “open networks” fundamentally
+challenge the controlling nature of the tech giants. Originating from the
+free software movement in the 1980s, the development of decentralized
+platforms primarily evolved from the resistance against centralization.
+In recent years, other grassroots movements, regulators, politicians, and
+small entrepreneurs have also joined this opposition. What unites them is
+what they are against (e.g., centralized control, walled gardens, proprietary,
+for-profit) but it is often not exactly clear what they stand for in terms of
+upholding public values. On the one hand, these values include openness,
+non-profit, democratic control; on the other hand, they relate to privacy,
+security, and accuracy of information—values which are not evidently
+aligned.
+  In this chapter, we will use such value negotiation as a departure point
+to explore the debate surrounding decentralized social networks. First, we
+describe how the choice for decentralization is often unjustly depicted as
+a binary one in public discourse. Second, we argue that decentralization
+is not just a technological fix that concerns choices regarding software,
+protocols, and servers. Decentralization can also be accomplished via content
+moderation rules, as well as through the ownership and the business model of
+the organization behind the platform. To embed public values in a platform,
+a combination of both centralized and decentralized technological and

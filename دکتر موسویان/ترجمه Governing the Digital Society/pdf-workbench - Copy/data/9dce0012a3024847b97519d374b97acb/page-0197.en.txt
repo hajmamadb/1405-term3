@@ -1,0 +1,42 @@
+194                           Michiel de Lange, Erna Ruijer, and Krisztina Varró
+
+between “enclaves of ‘superconnected’ people, firms and institutions” and
+“people with non-existent or rudimentary access to communications
+technologies” (Graham 2002, 33). As cities worldwide aspire to become
+“smart,” longstanding discussions on digital divides and digital inequalities
+have continued with a focus on the urban sphere (Lahat and Nathansohn
+2023). In the context of datafied cities, Nguyen understands digital inclusion
+as “ensuring that all individuals and communities in society have equal
+opportunity and ability to access and effectively use digital technologies”
+(2020, 2). Morte-Nadal and Esteban-Navarro (2022, 2) define inclusion as
+bringing knowledge and technologies to those who are left behind.
+  Recent scholarship ventures beyond mere access and skills, for example,
+with the notion of “technological sovereignty,” where technology should
+serve local needs and be owned collectively (Ribera-Fumaz 2019). For Rosol
+and Blue (2022), technological sovereignty involves democratic control and
+public ownership of the entire chain of digital infrastructures, platforms,
+and policies, based on principles of solidarity, democratic governance,
+and care. Hence, “struggles for a just city in the digital age cannot concern
+themselves with access and control over digital technology alone” (Rosol
+and Blue 2022, 699). This is particularly pertinent given the fact that smart
+urban infrastructures are often no longer in public hands.
+  Technology-centric views of inclusion-as-access have been criticized.
+Critics state that mere access to digital technologies does not equal genu-
+ine inclusion, as even “smart citizens” with access and sufficient digital
+skills still tend to be enrolled under a broader neoliberal discourse as data
+consumers and providers, “rather than out of a sense of civic duty or the
+public good” (Shelton and Lodato 2019, 40). Marginalized people whose work
+is essential to the functioning of smart cities are often rendered invisible
+in those discourses (Burns and Andrucki 2021). A shift in emphasis has
+occurred from digital divide to “digital inclusion” or “e-inclusion” (Helbig
+et al. 2009). This involves broader “connectivity” that encompasses access
+and availability of information but also user-friendliness of e-government
+services, informational literacy skills, and whether users can enter and
+influence participatory (network) processes (Ruijer and Piotrowski 2022).
+In the next subsection, we too shift our focus from technological inclusion
+to what we call digital social inclusion.
+
+2. Digital social inclusion: Representation and equity
+The second perspective considers inclusion not as a technological challenge
+but looks at how datafication and smart tech (re)produce broad struc-
+tural social inequalities understood as intersectional. Since the late 1980s,

@@ -1,0 +1,42 @@
+222                  Gerwin van Schie, Laura Candidatu, and Diletta Huyskes
+
+Aung, Htet, Eva Constantaris, Rik Delhaas, David Davidson, Gabriel Geiger, Ludo Hek-
+  man, Daniel Howden, Evaline Schot, and Reinier Tromp. 2021. “Inside a Fraud Pre-
+   diction Algorithm.” Lighthouse Reports. December 18. https://www.lighthousere-
+   ports.com/investigation/unlocking-a-welfare-fraud-prediction-algorithm/.
+Buolamwini, Joy, and Timnit Gebru. 2018. “Gender Shades: Intersectional Accuracy
+   Disparities in Commercial Gender Classification.” In Proceedings of Machine
+   Learning Research, 77–91. https://proceedings.mlr.press/v81/buolamwini18a/
+   buolamwini18a.pdf
+Casimir-Braun, Justin, Eva Constantaras, Htet Aung, Gabriel Geiger, Dhruv Mehro-
+   tra, and Daniel Howden. 2023. “Suspicion Machine Methodology.” Lighthouse
+   Reports. https://www.lighthousereports.com/suspicion-machines-methodology/.
+Choroszewicz, Marta, and Beata Mäihäniemi. 2020. “Developing a Digital Welfare
+   State: Data Protection and the Use of Automated Decision-making in the
+   Public Sector across Six EU Countries.” Global Perspectives 1(1): 1–15. https://
+   doi.org/10.1525/gp.2020.12910.
+Collins, Patricia Hill. 2000. Black Feminist Thought: Knowledge, Consciousness, and
+   the Politics of Empowerment. 2nd ed. New York: Routledge.
+Constantaris, Eva, Gabriel Geiger, Justin-Casimir Braun, Dhruv Mehrothra, and
+   Htet Aung. 2023. “Inside the Suspicion Machine.” Wired. https://www.wired.
+   com/story/welfare-state-algorithms/.
+Dencik, Lina. 2022. “The Datafied Welfare State: A Perspective from the UK.” In New
+   Perspectives in Critical Data Studies: The Ambivalences of Data Power, edited by
+  Andreas Hepp, Juliane Jarke, and Leif Kramp, 145–66. Cham: Springer. https://
+   link.springer.com/10.1007/978-3-030-96180-0.
+Dencik, Lina, and Anne Kaun. 2020. “Datafication and the Welfare State.” Global
+   Perspectives 1(1): 1–8. https://doi.org/10.1525/gp.2020.12912.
+Entzinger, Han. 2003. “The Rise and Fall of Multiculturalism: The Case of the
+   Netherlands.” In Toward Assimilation and Citizenship: Immigrants in Liberal
+   Nation-States, edited by Christian Joppke and Ewa Morawska, 59–86. London:
+   Palgrave Macmillan.
+Franzke, Aline Shakti. 2022. “An Exploratory Qualitative Analysis of AI Ethics
+   Guidelines.” Journal of Information, Communication and Ethics in Society 20(4):
+   401–23. https://doi.org/10.1108/JICES-12-2020-0125.
+Franzke, Aline Shakti, Iris Muis, and Mirko Tobias Schäfer. 2021. “Data Ethics
+   Decision Aid (DEDA): A Dialogical Framework for Ethical Inquiry of AI and
+  Data Projects in the Netherlands.” Ethics and Information Technology 23(3):
+   551–67. https://doi.org/10.1007/s10676-020-09577-5.
+Ghorashi, Halleh, and Ulrike M. Vieten. 2012. “Female Narratives of ‘New’ Citizens’
+   Belonging(s) and Identities in Europe: Case Studies from the Netherlands and
+   Britain.” Identities 19(6): 725–741. https://doi.org/10.1080/1070289X.2012.745410.

@@ -1,0 +1,41 @@
+22       José van Dijck, Karin van Es, Anne Helmond, and Fernando van der Vlist
+
+They present inventory strategies for safeguarding and strengthening the
+digital autonomy (control over data and pedagogy) of primary schools
+during their transition to digital education by stressing the importance of
+collective and cooperative actions at the sectoral level, involving schools,
+public organizations, and educational technology (edtech) market players.
+The authors provide examples of collective initiatives aimed at expanding
+the governance focus from data autonomy to pedagogical autonomy. By
+proposing pathways for collective action and the development of alternative
+ecosystems for digital education, Kerssens and Van Es aim to counterbal-
+ance the mounting influence of Big Tech companies within “platformized”
+national educational systems across Europe and globally.
+  The section concludes with an interview by Viktorija Morozovaitė with
+Professor Janneke Gerards, an expert in fundamental rights law, on the
+implementation of public values and moral agency in legal frameworks
+that assist governments in algorithmic decision-making processes. Gerards
+discusses her contributions to developing important instruments like the
+Fundamental Rights and Algorithms Impact Assessment (FRAIA), aiming
+to enhance the quality of public governance in the digital age.
+  Concluding the edited book, Professor of Public Management Albert
+Meijer offers his bird’s-eye view on matters of governance in the digital age.
+In his contribution, he aims to connect the dots between all the chapters and
+interviews in the volume, reflecting on the concept of “governing the digital
+society” in relation to the various theoretical, disciplinary, and professional
+perspectives that were brought together in this book.
+
+References
+
+Barlow, John Perry. 1996. “A Declaration of the Independence of Cyberspace.”
+   Electronic Frontier Foundation. https://www.eff.org/cyberspace-independence.
+Gillespie, Tarleton. 2018. Custodians of the Internet: Platforms, Content Modera-
+   tion, and the Hidden Decisions That Shape Social Media. New Haven, CT: Yale
+   University Press.
+Hanisch, Marvin, Curtis M. Goldsby, Nicolai E. Fabian, and Jana Oehmiche. 2023.
+   “Digital Governance: A Conceptual Framework and Research Agenda.” Journal
+   of Business Research 162(July). https://doi.org/10.1016/j.jbusres.2023.113777.
+Schäfer, Mirko Tobias, and Karin van Es, eds. 2017. The Datafied Society: Studying
+   Culture through Data. Amsterdam: Amsterdam University Press.
+Schäfer, Mirko Tobias, Karin van Es, and Tracey Lauriault, eds. 2024. Collaborative
+   Research in a Datafied Society. Amsterdam: Amsterdam University Press.

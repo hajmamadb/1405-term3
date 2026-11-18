@@ -1,0 +1,42 @@
+Decentralized Online Social Networks                                   43
+
+   In Proceedings of the International AAAI Conference on Web and Social Media
+   16: 1378–82. https://doi.org/10.1609/icwsm.v16i1.19391.
+Maddox, Jessica. 2023. “The Hidden Dangers of the Decentralized Web.” Wired, May 19.
+   https://www.wired.com/story/the-hidden-dangers-of-the-decentralized-web/.
+Murray, Alex, Scott Kuban, Matt Josefy, and Jon Anderson. 2021. “Contracting in
+   the Smart Era: The Implications of Blockchain and Decentralized Autonomous
+   Organizations for Contracting and Corporate Governance.” Academy of Manage-
+  ment Perspectives 35(4): 622–41. https://doi.org/10.5465/amp.2018.0066.
+Newton, Casey. 2023. “Bluesky’s Big Moment.” Platformer, May 2. https://www.
+   platformer.news/blueskys-big-moment/.
+Ortiz Freuler, Juan. 2023. “The Weaponization of Private Corporate Infrastructure:
+   Internet Fragmentation and Coercive Diplomacy in the 21st Century.” Global
+  Media and China 8(1): 6–23. https://doi.org/10.1177/20594364221139729.
+O’Sullivan, Andrea. 2022. “The Decentralized Web and the Future of Section 230.”
+  Working Paper. The Center for Growth and Opportunity, Utah State Univer-
+   sity, November. https://www.thecgo.org/wp-content/uploads/2022/11/The-
+   Decentralized-Web-Section-230.pdf.
+Pierce, David. 2023. “Can ActivityPub Save the Internet?” The Verge, April 20.
+   https://www.theverge.com/2023/4/20/23689570/activitypub-protocol-standard-
+   social-network.
+Rajendra-Nicolucci, Chand, and Ethan Zuckerman. 2021. An Illustrated Field
+  Guide to Social Media. New York: Knight First Amendment Institute. https://
+   knightcolumbia.org/blog/an-illustrated-field-guide-to-social-media.
+Raman, Aravindh, Sagar Joglekar, Emiliano De Cristofaro, Nishanth Sastry, and
+  Gareth Tyson. 2019. “Challenges in the Decentralized Web: The Mastodon
+   Case.” In Proceedings of the Internet Measurement Conference, 217–29. https://
+   doi.org/10.1145/3355369.3355572.
+Sanders, Mathilde. 2018. “Eigendom en Businessmodellen van Europese Jour-
+   nalistieke Start-Ups.” Tijdschrift voor Communicatiewetenschap 46(2): 154–73.
+   https://doi.org/10.1080/16522354.2024.2356362.
+Sanders, Mathilde. 2021. “Owner Identity and Interdependent Markets: An Examina-
+   tion of Ownership Filters of Institutional Complexity, Coalitional Change, and
+   Value Creation in Disrupted Two-Sided Market Categories.” Doctoral dissertation,
+  Erasmus University Rotterdam.
+Sanders, Mathilde, and Vareska van de Vrande. 2024. “Value Creation in Interde-
+  pendent Digital and Analog Markets.” Journal of Media Business Studies 21(1):
+   1–29. http://doi.org/10.1080/16522354.2023.2300195.
+Schneider, Nathan. 2018. “An Internet of Ownership: Democratic Design for
+   the Online Economy.” The Sociological Review 66(2): 320–40. https://doi.
+   org/10.1177/0038026118758533.

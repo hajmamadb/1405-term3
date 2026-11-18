@@ -1,0 +1,46 @@
+The Governance of Generative AI: Three Conditions for Research and Policy  141
+
+interests of the people” and detrimental to “national security and social
+stability,” offer autocratic oversight regimes ample room for interpretation
+and enforcement of digital censorship. By defining the scope of generative
+AI systems that can become subject to technical modifications as widely
+as possible, regulators gain greater control over choosing which AI systems
+fall within the purview of restrictive regulatory frameworks.
+  In the European Union, by contrast, the modifiability of generative AI
+systems must be firmly anchored in democratic principles, encompass-
+ing public values such as openness, privacy, and autonomy. For example,
+while provisions mandating the use of watermarks can have relevance for
+democratic oversight within the EU legal framework, it is vital to prevent
+dominant firms like OpenAI or Google from having a monopolistic influence
+on determining the application of watermarking techniques. In line with
+the previously mentioned five layers of information pertaining to generative
+AI systems, I hold that each of those layers also offers distinct approaches
+and rationales for technical modifiability (see table 7.2).
+
+Table 7.2.   Five Layers of Modifiable Properties of Generative Foundation Models
+
+ Type of information        Modifiable by whom?       Rationale for modifying
+ 1. Training datasets for      Model developers (in the     Reduction of bias or harmful
+ foundation models           process of pre-training)       content in AI-generated
+                                                           outputs, enforcement of
+                                                        data protection regulations
+                                                                                (e.g., GDPR)
+ 2. Domain-specific training   Model deployers (in the       Control over post-processing
+ datasets for fine-tuning       process of fine-tuning)        of the foundation model
+                                                                                (e.g., ChatGPT’s RLHF layer),
+                                                     enforcement of data protec-
+                                                              tion regulations (e.g., GDPR)
+ 3. Neural network           Developers (pre-training),     Control over (and reduction
+ architectures                 users (trainable models)       of) the size, training time,
+                                                 and energy consumption;
+                                                               retraining on selected
+                                                               training datasets
+ 4. Trained models (with all    Developers (pre-training),   No reason to modify
+ trained parameters)          users (trained from scratch)
+ 5. Scripts for training and     Developers (pre-training),     Control over replication,
+ output generation            users (trained from scratch)    retraining from scratch and
+                                                        generation of output
+
+Modifying training datasets for foundation models
+In the case of pre-trained models, the possibility of modifying training
+datasets has already been concluded, and making significant modifications

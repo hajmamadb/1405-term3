@@ -1,0 +1,10 @@
+{
+  "name": "mcp-plugin-academic-paper-harvest",
+  "version": "1.0.0",
+  "description": "Harvest, download, classify, and tabulate academic papers from paper sites (e.g. Academia.edu) via the user's logged-in Chrome over CDP.",
+  "author": "academic-paper-harvest",
+  "license": "MIT",
+  "homepage": "",
+  "minDshVersion": "1.0",
+  "tags": ["research", "academia", "cdp", "literature-review", "pdf"]
+}

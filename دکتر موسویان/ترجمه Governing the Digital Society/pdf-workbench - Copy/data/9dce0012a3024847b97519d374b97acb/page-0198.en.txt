@@ -1,0 +1,42 @@
+Doing Inclusion                                                        195
+
+scholars have increasingly emphasized that the “information poor” are not
+a homogeneous social group but fragmented and divided by gender, race,
+disability, class, location, and/or religion (cf. Helbig et al. 2009). Inclusion
+became problematized through the prism of intersectionality to identify
+how the interplay of structural mechanisms of exclusion along these and
+other lines not only inhibits access to digital technology and information
+but fundamentally shapes how people may experience and participate
+in the datafied city (e.g., Burns and Andrucki 2021; Calvi 2022; Listerborn
+and De Neergaard 2021). Such factors contribute to inequalities in domains
+like mobility, housing, living conditions, and access to infrastructures and
+services (Lee et al. 2020). In the Netherlands, attempts to detect welfare
+fraud—like the use of System Risk Indication (SyRI) in Rotterdam and
+the kinderopvangtoeslagaffaire (childcare benefits scandal)—have been
+shown to disproportionately target people of color (Peeters and Widlak
+2023; Van Schie 2022).
+  In public administration literature about smart city governance the
+concept of “social equity” is frequently used. Scholars emphasize the im-
+portance of “smart equitable cities” (Lahat and Nathansohn 2023; Okafor
+et al. 2023). According to Lahat and Nathansohn, “equitable smart city
+projects are intended to allow residents to digitally participate in the social,
+economic, and political life of the city without reproducing or reinforcing
+pre-existing exclusionary practices and without producing new ones” (2023,
+4). Okafor et al. (2023) observe that local governments are failing to create
+and implement those social equity policies for smart cities. Definitions of
+social equity have in common that members of the public should receive fair
+treatment and expect similar outcomes when using public services (Cepiku
+and Mastrodascio 2021; Ruijer et al. 2023). In essence, it is understood as
+both process and outcome, looking at the involvement of diverse groups in
+policy procedures and results (Lahat and Nathansohn 2023).
+  Data and digital tools in this perspective are more than resources. They
+are tied up with identities and representations in a Janus-faced way. Data
+harms must be actively countered through data justice, which Taylor
+describes as “fairness in the way people are made visible, represented and
+treated as a result of their production of digital data” (2017; see also Dencik
+et al. 2022). This translates into (policy) initiatives around data justice
+and algorithmic justice, data auditing, data ethics teams, and bottom-up
+initiatives for/with specific interest groups to expose discriminatory data
+practices and algorithmic bias. Nonetheless, identity politics is a double-
+edged sword. It can facilitate the inclusion of marginalized groups but may
+also reproduce exclusionary and discriminatory practices by branding them

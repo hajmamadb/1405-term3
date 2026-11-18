@@ -1,0 +1,42 @@
+Introduction: Governing the Digital Society                                19
+
+constructive comments is performed internationally across five news
+outlets: the New York Times, The Guardian, Die Zeit, El Pais, and NU.nl. The
+discussion explains the role of news platforms as institutional safeguards by
+fostering constructive comment sections through a combination of human
+intervention and AI-assisted moderation.
+  In the fourth entry of this section, legal scholar Jacob van de Kerkhof
+explores the use of “trusted flaggers” as an established practice in content
+moderation by internet intermediaries. This practice leverages the expertise
+of governmental and non-governmental organizations in flagging content.
+However, the compatibility of this practice with recent European legal
+frameworks that regulate platforms, such as the Digital Services Act (DSA),
+which has formalized this practice in Article 22, raises questions. This
+chapter discusses the constitutional tensions that emerge between the
+DSA’s new framework for trusted flaggers and pre-existing legislation,
+focusing on two critical areas: first, the right to freedom of expression as
+laid down in Article 7 of the Dutch constitution and, second, Article 10 of the
+European Convention on Human Rights. The author concludes by offering
+several suggestions aimed at enhancing the lawfulness, legitimacy, and
+accountability of the DSA framework.
+  The final piece in this section features an interview focusing on the
+governance of advertising on social media platforms. Taylor Annabell
+converses with legal expert Catalina Goanta about the regulation of social
+media influencers within the European Union. The integration of advertising
+into influencers’ “self-brands” and the cultivation of relationships with
+audiences has raised serious legal and governance concerns.
+
+Section 2: Governing Artificial Intelligence
+The second section of this volume focuses on the governance of artificial
+intelligence (AI), with all three chapters addressing AI regulation in the
+European Union, covering high-risk sectors such as the military to the
+broader implications of generative AI and its risk-based regulatory approach.
+  In her chapter, Machiko Kanetake engages with the EU’s legal discourse
+surrounding the regulation of digital surveillance technologies or so-called
+“spyware.” The chapter does so by focusing on the EU’s attempt to regulate
+the international sale of digital surveillance technologies. Within the EU, a
+particular legal instrument—the dual-use export control—came under the
+spotlight as a tool to mitigate human rights risks associated with the sale and
+transfer of spyware. While the field of law has developed to mitigate military
+risks within the EU’s security and defense policies, Kanetake’s analysis
+underscores the fact that the field of law has not sufficiently addressed the

@@ -1,0 +1,42 @@
+114                                                  Machiko Kanetake
+
+Article 5 pointed out, it does not require an item to be exclusively designed
+for the covert surveillance of natural persons (BAFA 2021, 5). This is also
+articulated in the European Commission’s guidelines of 2024. According
+to the guidelines, the product’s “technical features are suitable for and
+objectively enable covert surveillance of natural persons” (Commission
+Recommendation (EU) 2024/2659, 5, Section 1.2.1, emphasis added). At the
+same time, the technical features do not always dictate the problematic uses
+of technologies. In that sense, the Commission’s guidelines are in line with
+BAFA’s position that the term “specially designed” “does not require that
+the item can solely be used for the covert surveillance of natural persons”
+(Commission Recommendation (EU) 2024/2659, 5).
+   In short, despite many interpretive uncertainties, it becomes clear that a
+variety of technologies fall under the definition of cyber surveillance items.
+Regulation 2021/821 is applicable, for example, to the export of the algorithm
+and user interface components of facial and emotion recognition technolo-
+gies, location tracking technologies, and open-source intelligence software
+(Van Daalen et al. 2021, 54–57). The European Parliament stressed that “the
+definition of cyber-surveillance items in the recast Dual-Use Regulation
+cannot be given a restrictive interpretation but should include all technologies
+in this area” including “Unmanned Aerial Vehicles capable of conducting
+surveillance” (European Parliament 2023, para. 65, emphasis added). How
+exactly EU member states define the concept of “cyber surveillance items”
+should be monitored by relevant stakeholders, as the definition is the entry
+point for exercising export controls.
+
+Serious violations of human rights and humanitarian law
+As mentioned above, the drafting of Article 5 was one of the most contested
+questions during the legislative process. This is especially because of its
+novelty, where the export control of surveillance is explicitly linked to
+consideration to “internal repression and/or the commission of serious viola-
+tions of human rights and international humanitarian law” as a standard
+with which to determine the imposition of authorization requirements.
+“Internal repression” is understood as “major violations of human rights”
+(Council Common Position 2008/944/CFSP 2008, Article 2(2)(b) criterion
+2) and it can overlap with “serious” violations of human rights.
+  While Regulation 2021/821 does not define what constitutes “serious”
+violations of human rights and international humanitarian law, these are
+the terms often used in the context of arms trade controls. With regard to
+the latter (humanitarian law), serious violations of international humanitar-
+ian law are generally understood as “war crimes” (ICRC 2012). Regarding

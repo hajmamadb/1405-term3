@@ -1,0 +1,41 @@
+254                                                            Albert Meijer
+
+as unemployment benefits), or (4) situations where the state regulates the
+provision of services by other actors (for instance, regulation of the media).
+Building on these insights on the nature of governance, this concluding
+chapter provides a broad assessment framework for discussing the govern-
+ance of the digital society.
+  The assessment framework presented here should be seen as a starting
+point for an academic debate on the governance of the digital society. It
+aims to provide an umbrella for bringing together the host of interesting
+and important arguments presented in this book. I will not systematically
+analyze all the chapters but I want to show how they are connected to the
+overarching issue of how we should govern the digital society to ensure the
+realization of public values in a legitimate manner.
+
+Questions for an assessment of governing the digital society
+
+From a public governance perspective, the key questions for assessing
+governance relate to the ability to produce public value and whether this is
+done in a legitimate manner (Moore 1997). The production of public values
+should be understood very broadly as being able to realize the values that
+society deems important, such as prosperity, social justice, health, and
+sustainability. “Legitimacy” refers to the acceptance of the institutional
+approach for realizing these public values through non-discriminatory
+methods and the avoidance of abuse of power. A well-known definition is
+provided by Suchman (1995, 574): “Legitimacy is a generalized perception or
+assumption that the actions of an entity are desirable, proper, or appropriate
+within some socially constructed system of norms, values, beliefs, and
+definitions.”
+  Questions regarding public value and legitimacy can be raised for com-
+mercial actors, for civil society actors, and for government. One can assess
+whether Big Tech companies such as Google and Facebook contribute to the
+economic and social well-being of society and whether they use their market
+power in an acceptable manner, but one can also ask these questions for
+a civil society actor such as Wikipedia and for a state actor like the Dutch
+National Police. What is the value Wikipedia produces for society and does
+it have adequate measures to prevent the display of harmful information?
+Does the police use digital technologies to make society safer and does it
+respect citizen privacy in their use of these technologies?
+  In the role of government, we can make a—very crude—distinction
+between the provision of services and the regulation of society. Provision

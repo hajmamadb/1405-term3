@@ -1,0 +1,39 @@
+9.   Interview with Natali Helberger
+      Fabian Ferrari
+
+Introduction
+
+On March 13, 2024, the European Parliament approved the EU Artificial
+Intelligence Act (AI Act). This marks the concluding phase of an extensive
+process initiated in April 2021. There are still tasks pending for finalizing
+the text, and the law requires formal endorsement from the European
+Council. It is expected to take effect twenty days following its publication
+in the official journal, expected to be in either April or May 2024, and will
+be fully enforceable twenty-four months thereafter.
+  Professor Natali Helberger is one of the leading experts on the EU
+AI Act. In addition to being a distinguished university professor of law
+and digital technology with a special focus on AI at the University of
+Amsterdam and a member of the board of directors of the Institute for
+Information Law (IViR), Helberger co-founded the AI, Media & Democracy
+Lab and is a member of the Royal Netherlands Academy of Arts and
+Sciences. She is also the director of Public Values in the Algorithmic
+Society (AlgoSoc)—a ten-year research program funded by the Dutch
+government’s Gravitation initiative that brings together scholars from
+the law, social sciences, computer science, and the humanities from
+five leading universities in the Netherlands. Helberger has also advised
+European institutions, such as the European Commission and the Eu-
+ropean Parliament, and worked with the Council of Europe on AI and
+fundamental rights, playing a vital role in shaping AI governance research
+in the Netherlands and the EU.
+  In this interview, Helberger comments on how the EU AI Act may shape
+the future of digital governance in the EU, fundamental rights, and public
+values, as well as on the role of the tech giants.
+  Fabian Ferrari is FF, Natali Helberger is NH.
+
+
+
+
+Van Dijck, José, Karin van Es, Anne Helmond, and Fernando van der Vlist, eds. Governing the
+Digital Society: Platforms, Artificial Intelligence, and Public Values. Amsterdam: Amsterdam
+University Press, 2025
+doi 10.5117/9789048562718_ch09

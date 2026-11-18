@@ -1,0 +1,16 @@
+{
+  "eyebrow": "پشتِ دوربین",
+  "heading": "عوامل فیلم",
+  "headingAccent": "تیمی که یک شاهکار ساخت",
+  "description": "دیوید فنچر، اندرو کوین والکر، هاوارد شور، داروش واسکسی — و سه بازیگری که این فیلم مسیر کاریه را عوض کرد. در این صفحه، عوامل واقعی Se7en و نقششان در ساختن فیلم.",
+  "primaryCTA": {
+    "label": "موسیقی فیلم",
+    "href": "/music/"
+  },
+  "secondaryCTA": {
+    "label": "شخصیت‌ها",
+    "href": "/characters/"
+  },
+  "image": "/assets/images/t001-nova/david-fincher.jpg",
+  "imageAlt": "دیوید فنچر، کارگردان"
+}

@@ -1,0 +1,42 @@
+The Long-term Usefulness of Regulating AI in the EU                         157
+
+developing foundational models from responsibilities. Yet, these companies
+have a large influence on what risks emerge in the application of AI in
+specific sectors. Moreover, the risk-based approach might inhibit innovation
+because Big Tech companies might seize control over foundational models
+without (negative) consequences. If regulation does not acknowledge the
+power of Big Tech companies in the infrastructure of AI, such as foundational
+models, the responsibilities for the risks of AI will be misplaced on actors that
+only develop applications on top of these foundational models. Therefore,
+other legislators seeking to regulate AI might need to consider the power
+of Big Tech companies in their legislative proposals.
+
+Where is the regulatory burden?
+The AI Act seems to neglect addressing the growing power of Big Tech
+companies in foundational AI models. The AI Act places the regulatory
+burden on the companies that will apply AI in high-risk sectors, such as law
+enforcement and critical infrastructures, or safety components in products.
+Focusing the AI Act on these applications places the regulatory burden on
+the downstream providers of AI, which can consist of very small to very
+large companies or even governments. As discussed in section 2, Big Tech
+companies are the ones shaping the foundational models of AI on which
+these applications are based and in high-risk sectors, Big Tech companies
+are rarely the ones applying the AI itself. In other words, Big Tech companies
+will largely escape regulatory scrutiny for their foundational models, which
+might make regulating AI less effective.
+  The importance of earlier stages in the AI lifecycle or the lower stacks
+of AI models is emphasized by the “code is law” perspective introduced by
+Lawrence Lessig. In 1999 and 2006, Lessig wrote on the regulatory power of
+source code over cyberspace (Lessig 1999; Lessig 2006). In the offline world,
+people are limited in their actions because there are laws, social norms,
+financial considerations, or physical and technical obstacles (“architecture”)
+that restrict them. In digital spaces, similar restrictions are imposed by the
+code that underlies digital technologies. The source code is the architecture
+of the space and embeds certain principles; it sets the conditions and terms
+on which one uses the space and defines what is possible in the space. In
+that sense, technologies themselves are important regulators of people’s
+online activities as well (Lessig 2006; Rosengrün 2022).
+  For example, in the offline world, legislation determines the architec-
+ture by mandating where people can and cannot put up buildings or how
+consumers and companies can behave in markets. In the digital world,
+source code, of which AI can be an important part, restricts what people

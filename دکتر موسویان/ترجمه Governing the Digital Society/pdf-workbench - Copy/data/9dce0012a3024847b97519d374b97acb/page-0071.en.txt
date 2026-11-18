@@ -1,0 +1,42 @@
+68                                                       Cedric Waterschoot
+
+  The majority of news outlets limit their comment space to pre-selected
+articles, such as The Guardian’s opinion and sports sections. Die Zeit and
+NU.nl, however, distinguish themselves by permitting commenting on
+all articles from their own editorial offices. This practice of pre-selecting
+articles serves the purpose of topic curation, enabling a conscious decision
+on which subjects are deemed suitable for online discussion. Additionally, it
+helps in managing the workload for moderators by constraining the number
+of open discussions that need simultaneous oversight.
+
+Buttons and their semantics
+In terms of buttons and their semantics, all platforms provide users with
+the opportunity to “like” comments, but the terminology varies. NU.nl
+speaks of “respect,” Die Zeit has “stars,” while The Guardian and the New
+York Times opt for a “recommendation.” Notably, El País is the only included
+news outlet in this sample that has a dislike option, suggesting a deliber-
+ate choice. NU.nl explicitly states on its FAQ page that it aims to foster a
+positive environment where a dislike button has no place (NUjij 2018). As
+of April 2023, Die Zeit has expanded its options by introducing various
+emojis, in addition to the existing stars, for users to assign to a comment
+(Berresheim and Meyer 2023). For moderators, these “like” features could
+also serve as markers for user reputation or signals of comment quality
+(Paßmann et al. 2022).
+  Regarding sorting, all five news outlets provide users with a variety of
+sorting options to influence user behavior, with a common feature being
+the ability to sort comments by popularity. In addition to popularity-based
+sorting, platforms typically offer options to rank comments from oldest to
+newest and vice versa. NU.nl goes a step further by allowing sorting based on
+the number of replies. Upon opening the comment section, comments on El
+País, the New York Times, and The Guardian are typically sorted from newest
+to oldest. However, NU.nl and Die Zeit adopt a unique standard approach
+by ranking user comments based on “respect” points (likes). Consequently,
+readers initially encounter contributions with the highest number of “likes”
+from other users when scrolling through comments.
+  The factors discussed above are intended to enhance the opportunities
+for positive user participation. The increasing number of commenting
+options, coupled with diverse ways of engaging with others’ comments, has
+resulted in a surge in activity and an ever-growing workload for modera-
+tors. Consequently, platforms found themselves compelled to expand and
+invest further in their moderation practices to effectively manage the sheer
+quantity of user contributions.

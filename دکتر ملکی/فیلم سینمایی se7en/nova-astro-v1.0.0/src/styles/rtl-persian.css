@@ -1,0 +1,177 @@
+/* ============================================================
+   RTL / Persian overrides for the Se7en site.
+   Loaded last so it wins over the LTR default cascade.
+   ============================================================ */
+
+/* ------------------------------------------------------------
+   NO DARK / DIM TEXT (global readability guard).
+   Se7en is a dark site. Many Nova blocks dim secondary text with
+   Tailwind opacity modifiers (e.g. `text-on-surface-variant/55`)
+   or fixed faint colors, which makes body text unreadable.
+   We neutralize every TEXT color opacity modifier to full
+   strength, and floor faint utility opacities, so no text can
+   end up dark-on-dark. Backgrounds/borders are left untouched.
+   ------------------------------------------------------------ */
+html[dir="rtl"] [class*="text-on-surface-variant/"] { color: var(--color-on-surface-variant); }
+html[dir="rtl"] [class*="text-on-surface/"]        { color: var(--color-on-surface); }
+html[dir="rtl"] [class*="text-foreground/"]        { color: var(--foreground); }
+html[dir="rtl"] [class*="text-foreground"]         { color: var(--foreground); }
+html[dir="rtl"] [class*="text-brand-light/"]       { color: var(--color-brand-light); }
+html[dir="rtl"] [class*="text-muted-foreground/"]  { color: var(--color-on-surface-variant); }
+html[dir="rtl"] [class*="text-brand-cream/"]       { color: var(--color-brand-cream); }
+/* Faint utility opacities (<=70) used on text get floored to 82% */
+html[dir="rtl"] .opacity-40, html[dir="rtl"] .opacity-45,
+html[dir="rtl"] .opacity-50, html[dir="rtl"] .opacity-55,
+html[dir="rtl"] .opacity-60, html[dir="rtl"] .opacity-65,
+html[dir="rtl"] .opacity-70 { opacity: 0.82; }
+/* Any explicit near-black text color is lifted to light.
+   The Nova template uses `text-brand-dark` (near-black #080a0d) for body text
+   throughout (FAQ, testimonials, services, team) — invisible on our dark brand.
+   Force every text-brand-dark* (incl. opacity variants) to a readable light. */
+html[dir="rtl"] [class*="text-brand-dark"] { color: var(--color-on-surface) !important; }
+html[dir="rtl"] [class*="text-background/"] { color: var(--color-on-background); }
+
+/* ------------------------------------------------------------
+   DARK-THEME TEXT COLORS (fixes readability).
+   The Nova template's default palette is a light theme: it maps
+   body text (--foreground / --ui-text-on-light) to near-black
+   (#080a0d), which is invisible on Se7en's dark background.
+   We override the token *sources* for our dark brand so every
+   class that reads them (body, .ui-type-lead, cards, etc.)
+   renders light text on dark surfaces.
+   ------------------------------------------------------------ */
+html[data-theme="nova"] {
+  /* Tailwind shadcn-compat tokens: body uses `text-foreground` */
+  --foreground: #eceae4;
+  --card-foreground: #eceae4;
+  --popover-foreground: #eceae4;
+  --secondary-foreground: #d8d3ca;
+  --accent-foreground: #f3efe8;
+  --muted-foreground: #a6adb8;
+  --sidebar-foreground: #eceae4;
+  --border: color-mix(in oklab, var(--color-outline) 55%, transparent);
+  --input: color-mix(in oklab, var(--color-outline) 70%, transparent);
+
+  /* Nova UI text tokens (read by .ui-type-lead and others) */
+  --ui-text-on-light: #eceae4;
+  --ui-text-on-light-subtle: rgba(236, 234, 228, 0.78);
+  --ui-text-on-dark: #eceae4;
+  --ui-text-on-dark-subtle: rgba(236, 234, 228, 0.72);
+
+  /* Typography defaults */
+  --ui-type-heading-tracking: 0;
+  --ui-type-lead-tracking: 0;
+}
+
+html[dir="rtl"] {
+  --ui-type-heading-tracking: 0;
+  --ui-type-lead-tracking: 0;
+}
+
+/* Base: Persian body text should be comfortable and fully right-aligned */
+html[dir="rtl"] body {
+  font-family: 'Vazirmatn', 'Vazir', Tahoma, sans-serif;
+  direction: rtl;
+  text-align: right;
+  line-height: 1.9;
+}
+
+/* Headings: Vazirmatn, tighter but never negative tracking */
+html[dir="rtl"] h1,
+html[dir="rtl"] h2,
+html[dir="rtl"] h3,
+html[dir="rtl"] h4,
+html[dir="rtl"] h5,
+html[dir="rtl"] .ui-heading,
+html[dir="rtl"] [class*="heading"] {
+  font-family: 'Vazirmatn', 'Vazir', Tahoma, sans-serif;
+  letter-spacing: 0 !important;
+  line-height: 1.5;
+}
+
+/* Make flex rows flow right-to-left */
+html[dir="rtl"] .ui-nav-list,
+html[dir="rtl"] .ui-grid,
+html[dir="rtl"] .ui-stack,
+html[dir="rtl"] .ui-row,
+html[dir="rtl"] nav ul,
+html[dir="rtl"] .navbar__links {
+  direction: rtl;
+}
+
+/* Logical-property alignment fixes (margin/padding side swap) */
+html[dir="rtl"] .ui-text-right { text-align: right; }
+html[dir="rtl"] .ui-text-left  { text-align: left; }
+html[dir="rtl"] .ui-text-center { text-align: center; }
+
+/* Buttons keep their pill shape; just ensure text is centered */
+html[dir="rtl"] .ui-btn,
+html[dir="rtl"] a[class*="button"],
+html[dir="rtl"] button {
+  text-align: center;
+}
+
+/* Icons that imply direction (arrows) should flip in RTL */
+html[dir="rtl"] [class*="arrow-right"],
+html[dir="rtl"] .icon-arrow-right,
+html[dir="rtl"] .ph-arrow-right {
+  transform: scaleX(-1);
+}
+html[dir="rtl"] [class*="arrow-left"],
+html[dir="rtl"] .icon-arrow-left,
+html[dir="rtl"] .ph-arrow-left {
+  transform: scaleX(-1);
+}
+
+/* Marquee / scroll animations: reverse direction so they read RTL */
+html[dir="rtl"] .ui-marquee-track {
+  animation-direction: reverse;
+}
+
+/* Blockquotes and pull-quotes: thicker right border (RTL convention) */
+html[dir="rtl"] blockquote {
+  border-inline-start: 3px solid var(--color-brand-accent);
+  border-inline-end: 0;
+  padding-inline-start: 1.25rem;
+  padding-inline-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: auto;
+  text-align: right;
+}
+
+/* Decorative numbers / large display numerals stay LTR but centered */
+html[dir="rtl"] .ui-stat-value,
+html[dir="rtl"] [class*="stat"] [class*="value"],
+html[dir="rtl"] .ui-number {
+  direction: ltr;
+  unicode-bidi: isolate;
+}
+
+/* Ensure images and media respect RTL containers without being flipped */
+html[dir="rtl"] img,
+html[dir="rtl"] video,
+html[dir="rtl"] .ui-media {
+  direction: ltr; /* keep media internals LTR; container controls placement */
+}
+
+/* Audio player bar */
+html[dir="rtl"] .audio-player {
+  direction: rtl;
+  text-align: right;
+}
+html[dir="rtl"] .audio-player__controls {
+  direction: ltr; /* keep transport buttons in their natural order */
+}
+
+/* Subtle film-grain / rain atmosphere on the whole page */
+html[dir="rtl"] body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0.05;
+  background-image: radial-gradient(rgba(255,255,255,0.35) 1px, transparent 1px);
+  background-size: 3px 3px;
+  mix-blend-mode: overlay;
+}

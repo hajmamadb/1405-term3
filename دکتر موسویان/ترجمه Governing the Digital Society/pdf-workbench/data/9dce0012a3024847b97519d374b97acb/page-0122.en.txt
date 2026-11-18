@@ -1,0 +1,41 @@
+Governing the Global Proliferation of Digital Surveillance Technologies   119
+
+reported connection to the EU’s export controls over cyber surveillance
+technologies.
+  While the case of Predator illustrates the bitter reality that the EU’s
+Regulation 2021/821 failed to prevent the problematic transfer of technologies
+to non-EU destinations, the Dual-Use Regulation has served as a basis for
+domestic and EU-level calls for accountability. Significantly, the European
+Public Prosecutor’s Office (EPPO) has reportedly opened an investigation
+into illegal Predator software exports by the Greek government in breach of
+the EU’s Dual-Use Regulation 2021/821 (Michalopoulos 2023). However, as of
+October 2023, the EPPO’s official website has not made any information about
+the investigation available to the public. According to EURACTIV, it has been
+reported that EPPO received evidence providing that the Greek government
+“facilitated the proliferation of Intellexa’s Predator spyware to countries such
+as Saudi Arabia, Sudan, Madagascar, and Bangladesh” by “granting export
+licences through the country’s foreign ministry” (Michalopoulos 2023).
+
+Strengthening connection to broader legal frameworks on human
+rights due diligence, including access to remedies
+
+As demonstrated in section 3, Regulation 2021/821 on cyber surveillance
+items explicitly uses the term “due diligence.” Given its explicit link to the
+risks of human rights and humanitarian law violations, Article 5(2) should
+be regarded as a step forward in integrating and strengthening human
+rights-based risk assessment in the process of controlling the export of cyber
+surveillance and its global proliferation. At the same time, as explained
+in section 3 above, the concept of due diligence under Article 5(2) is close
+to a risk analysis for businesses. This is arguably much narrower than the
+concept of “due diligence” developed as a part of the UN Guiding Principles
+on Business and Human Rights (UNGPs) (UN 2011).
+  Under the UNGPs, all business enterprises have “responsibility”—if not
+a strict legal obligation—to “exercise human rights due diligence.” Due
+diligence here is understood to be “a comprehensive, proactive attempt to
+uncover human rights risks, actual and potential, over the entire life cycle
+of a project or business activity” for the sake of “avoiding and mitigating
+those risks” (UN Human Rights Council 2009, para. 71). Such a concept
+of due diligence is much broader than the notion of due diligence under
+Article 5(2) of the EU’s Dual-Use Regulation. If judged against the yardsticks
+in UNGPs, the surveillance industry’s due diligence practices are hardly
+encouraging. According to the UN’s Special Rapporteur on freedom of

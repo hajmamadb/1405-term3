@@ -1,0 +1,42 @@
+238                                               Niels Kerssens and Karin van Es
+
+DEPs in classrooms, we advocate for pre-service education and profes-
+sional development of primary school teachers on critical digital literacies.
+Today, digital literacy education is heavily influenced by market offerings
+of global Big Tech providers, national edtech developers (e.g., ICT suppliers,
+publishers, and edtech start-ups) and commercial ICT consultancy and
+training companies. These providers prioritize teaching the instrumental
+and technical skills necessary for using their products, overlooking the
+importance of critically examining their underlying norms and values.
+Educators, too, need to know and understand how pupils are being assessed
+by these systems, what assumptions about education and learning underlie
+pedagogical models encoded into them, and what consequences that has
+for their future learning opportunities. For them to master rather than
+be mastered by these tools, requires “tool criticism” (Van Es et al. 2021).
+Intervening to enhance critical capacities that empower professionals to
+evaluate, account for, and respond to the impact of platforms in classrooms
+requires at least a collective sectoral effort. To this end, schools could side
+with teacher training colleges, backed by public organizations such as
+Kennisnet, that prioritize digital teacher literacy as part of their sectoral
+mission.
+
+Pathway 2: Alternative digital education systems built on public and
+educational values
+In addition to organizing educational platform governance, schools and
+educational sectors at large need to participate in processes of technology
+design and contribute to the encoding of digital learning environments
+with their collective values, principles, and interests. Thus, a second path-
+way towards safeguarding pedagogical autonomy is provided by sectoral
+and collectively arranged contributions to the design and development
+of alternative digital education ecosystems and platforms that value the
+public orientation of educational institutions. With regards to the first, as
+previously discussed, the development of data interoperability standards
+provides a small but significant contribution towards the realization of a
+digital education ecosystem organized by schools. Interoperability stand-
+ards enhance schools’ architectural capacities to combine digital services,
+platforms, and applications into an online learning environment designed
+and organized “according to their own insight and educational vision,
+independent of edtech market actors” (Kerssens and Van Dijck 2022, 286).
+  While considerable attention at the sectoral level is focused on ecosystem
+design, to date, the joint contributions of schools, professionals, and the
+sector at large to the design and development of DEPs are significantly

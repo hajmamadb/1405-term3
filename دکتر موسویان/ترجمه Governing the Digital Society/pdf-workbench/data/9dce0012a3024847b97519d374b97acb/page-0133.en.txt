@@ -1,0 +1,42 @@
+130                                                            Fabian Ferrari
+
+systems such as OpenAI’s ChatGPT or Google’s Bard? Consider Italy, which,
+in response to concerns about violations of user data privacy, imposed
+a temporary ban on ChatGPT in early 2023 (Satariano 2023). Similarly,
+Canada’s privacy commissioner initiated an investigation into OpenAI,
+citing similar privacy concerns (Fraser 2023). Other governments are taking
+steps to seize the perceived economic advantages of generative AI systems.
+The United Kingdom, for instance, established the dedicated Foundation
+Model Taskforce, generously funded with £900 million of taxpayer money.
+The UK government envisions that these systems could “potentially triple”
+national productivity growth rates (Department for Science, Innovation
+and Technology 2023). These examples show that the global landscape of
+policy and governance approaches spurred by the increasing sophistication
+of generative AI systems is rapidly evolving.
+   Nevertheless, without a clear conceptual framework to interpret these
+fleeting, short-term developments as expressions of broader, long-term condi-
+tions for democratic oversight, it is difficult to navigate the swiftly changing
+AI governance landscape. When I refer to “democratic oversight,” I mean the
+active involvement of democratic institutions, such as regulatory bodies,
+parliamentary committees, and scientific institutions that employ experts in
+machine learning and data governance, in the formulation, implementation,
+and monitoring of checks and balances for generative AI systems. In some
+cases, this oversight necessitates an understanding of how existing regula-
+tory structures, such as data protection laws, are enforced in the context of
+generative AI systems like ChatGPT. Yet, in other cases, assessing democratic
+oversight may require an examination of specialized audit organizations
+tasked with scrutinizing the material properties of generative AI systems.
+  Generative AI systems are defined by their capacity to find patterns of
+dependencies between elements (e.g., words) in training datasets to produce
+new outputs with some variations based on those patterns. Such new outputs
+could be text, video, images, or sound. Regardless of the type of output, the
+same computational logic applies: there are underlying training datasets
+(e.g., Hemingway novels), there is some sort of pattern recognition, and
+there are outputs with some variations (e.g., Hemingway-inspired travel
+stories), such as changed pixel distributions or rearranged text data. Amid
+corporate-driven hype triggered by marketing terms like “artificial general
+intelligence” or “superintelligence,” the stakes for problematizing the real-
+world properties of generative AI systems are high. As those opaque systems
+infiltrate economic, political, and cultural interactions, it is crucial to trace,
+theorize, and reimagine their globally interconnected governance structures.
+Oversight is necessary to avoid a further concentration of economic and

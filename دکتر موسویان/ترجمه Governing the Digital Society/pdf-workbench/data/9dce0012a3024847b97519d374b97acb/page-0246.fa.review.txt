@@ -1,0 +1,42 @@
+پرورش خودمختاری در کلاس درس دیجیتال                           ۲۴۳
+
+Kerssens, Niels, and José van Dijck. 2022. “Governed by EdTech? Valuing Pedagogical
+  Autonomy in a Platform Society.” Harvard Educational Review 92(2): 284–303.
+   https://doi.org/10.17763/1943-5045-92.2.284.
+Kerssens, Niels, and José van Dijck. 2023. “Transgressing Local, National, Global
+   Spheres: The Blackboxed Dynamics of Platformization and Infrastructuralization
+   of Primary Education.” Information, Communication & Society 27(15): 2600–2616.
+   https://doi.org/10.1080/1369118X.2023.2257293.
+Kerssens, Niels, Paul Nichols, and Luci Pangrazio. 2023. “Googlization(s) of Educa-
+   tion: Intermediary Work Brokering Platform Dependence in Three National
+   School Systems.” Learning, Media and Technology 49(3): 478–91. https://doi.or
+   g/10.1080/17439884.2023.2258339.
+Komljenovic, Janja. 2021. “The Rise of Education Rentiers: Digital Platforms, Digital
+  Data and Rents.” Learning, Media and Technology 46(3): 320–32. https://doi.org
+   /10.1080/17439884.2021.1891422.
+Lai, Signe Sophus, Victoria Andelsman, and Sofie Flensburg. 2023. “Datafied School
+   Life: The Hidden Commodification of Digital Learning.” Learning, Media and
+   Technology: 371–87. https://doi.org/10.1080/17439884.2023.2219063.
+Livingstone, Sonia, and Kruakae Pothong. 2022. “The Problem and the Potential
+   of Children’s Education Data.” In Education Data Futures: Critical, Regulatory
+  and Practical Reflections, edited by Sonia Livingstone and Kruakae Pothong,
+   17–34. Digital Futures Commission, 5Rights Foundation.
+Manolev, Jamie, Anna Sullivan, and Roger Slee. 2019. “The Datafication of Discipline:
+   ClassDojo, Surveillance and a Performative Classroom Culture.” Learning, Media
+  and Technology 44(1): 36–51. https://doi.org/10.1080/17439884.2018.1558237.
+Nas, Sjoera, and Floor Terra. 2021. “DPIA on the Use of Google G Suite (Enterprise)
+   for Education: For the University of Groningen and the Amsterdam University
+   of Applied Sciences.” https://www.surf.nl/files/2021-06/updated-g-suite-for-
+   education-dpia-12-march-2021.pdf.
+Perrotta, Carlo, Kalervo N. Gulson, Ben Williamson, and Kevin Witzenberger.
+   2020. “Automation, APIs and the Distributed Labour of Platform Pedagogies in
+  Google Classroom.” Critical Studies in Education 62(1): 97–113. https://doi.org/1
+   0.1080/17508487.2020.1855597.
+Singer, Natasha. 2023. “How the Netherlands Is Taming Big Tech.” The New York
+   Times. January 28. https://www.nytimes.com/2023/01/18/technology/dutch-
+   school-privacy-google-microsoft-zoom.html.
+SURF. 2023. “SURF, SIVON and Google Reach Agreement Terms of Service Google
+   Chrome.” July 15. https://www.surf.nl/en/surf-sivon-and-google-reach-agreement-
+   terms-of-service-google-chrome.
+Terra, Floor, Sjoera Nas, and Arnold Roosendaal. 2023. “Inspection Results Google
+  Chrome for Education.” SIVON and The Privacy Company.

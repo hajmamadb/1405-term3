@@ -1,0 +1,41 @@
+242                                               Niels Kerssens and Karin van Es
+
+Bogaerts, Geert-Jan, José van Dijck, and Ethan Zuckerman. 2023. “Creating Public-
+   Spaces: Centering Public Values in Digital Infrastructures.” Digital Government:
+   Research and Practice 4(2): Article 9. https://doi.org/10.1145/3582578.
+Cone, Lucas, Katja Brøgger, Mieke Berghmans, Mathias Decuypere, Annina Förschler,
+   Emiliano Grimaldi, Sigrid Hartong, et al. 2021. “Pandemic Acceleration: COVID-19
+  and the Emergency Digitalization of European Education.” European Educational
+   Research Journal 21(5): 845–68. https://doi.org/10.1177/14749041211041793.
+Day, Emma, Kruakae Pothong, Ayça Atabey, and Sonia Livingstone. 2022. “Who
+   Controls Children’s Education Data? A Socio-legal Analysis of the UK Govern-
+  ance Regimes for Schools and EdTech.” Learning, Media and Technology 49(3):
+   356–370. https://doi.org/10.1080/17439884.2022.2152838.
+Decuypere, Mathias, Emiliano Grimaldi, and Paolo Landri. 2021. “Introduction:
+   Critical Studies of Digital Education Platforms.” Critical Studies in Education
+   62(1): 1–16. https://doi.org/10.1080/17508487.2020.1866050.
+European Schoolnet. 2024. “Mission and Vision.” http://www.eun.org/about/
+   mission-and-vision.
+Fiebig, Tobias, Seda Gürses, and Martina Lindorfer. 2022. “Position Paper: Escaping
+  Academic Cloudification to Preserve Academic Freedom.” Privacy Studies
+   Journal 1: 51–68. https://doi.org/10.7146/psj.vi.132713.
+Gstrein, Oskar. 2023. “Data Autonomy: Recalibrating Strategic Autonomy and
+   Digital Sovereignty.” European Foreign Affairs Review 28(4): 379–96.
+Helberger, Natali, Jo Pierson, and Thomas Poell. 2018. “Governing Online Platforms:
+  From Contested to Cooperative Responsibility.” The Information Society 34(1):
+   1–14. https://doi.org/10.1080/01972243.2017.1391913.
+Houben, Marco, and Jo Pierson. 2022. “Public Education, Platformization and Coop-
+   erative Responsibility: The Case of the Privacy Covenant in the Netherlands.” In
+   Privacy and Identity Management: Between Data Protection and Security, edited
+  by Michael Friedewald, Stephan Krenn, Ina Schiering, and Stefan Schiffner,
+   379–96. Cham: Springer. https://doi.org/10.1007/978-3-030-99100-5_13.
+HRW. 2022. “‘How Dare They Peep into My Private Life?’ Children’s Rights Viola-
+   tions by Governments that Endorsed Online Learning during the COVID-19
+   Pandemic.” Human Rights Watch. https://www.hrw.org/report/2022/05/25/
+   how-dare-they-peep-my-private-life/childrens-rights-violations-governments.
+Kerssens, Niels. 2023. “Schooled by Dashboards?” In Situating Data: Inquiries
+   into Algorithm Cultures, edited by Karin van Es and Nanna Verhoeff, 241–53.
+  Amsterdam: Amsterdam University Press.
+Kerssens, Niels, and José van Dijck. 2021. “The Platformization of Primary Education
+   in the Netherlands.” Learning, Media and Technology 46(3): 250–63. https://doi.
+   org/10.1080/17439884.2021.1876725.

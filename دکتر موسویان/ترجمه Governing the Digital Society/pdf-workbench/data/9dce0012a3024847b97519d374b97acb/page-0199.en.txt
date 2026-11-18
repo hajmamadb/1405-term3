@@ -1,0 +1,42 @@
+196                           Michiel de Lange, Erna Ruijer, and Krisztina Varró
+
+(Ruijer et al. 2023). Inclusion in this perspective is seen as a social rights and
+justice challenge in opposition to structural hegemonic powers (that tend to
+favor the monolithic views of the state, corporations, and institutions). The
+question of how to involve marginalized people in more inclusive processes
+is foregrounded in the next subsection.
+
+3. Doing inclusion: Negotiation and co-creation
+To address the limitations of the first two perspectives and bridge the
+gap between theory and practice, we advance the perspective of “doing
+inclusion” as an emerging third generation perspective that illuminates
+procedural approaches to inclusion through negotiation and co-creation. It
+is neither limited to a political-economic “base” of technological access and
+sovereignty over the means of production, nor to a cultural “superstructure”
+of semiotic representation and identity politics, nor is it exclusively top-down
+or bottom-up. The “doing inclusion” perspective is indebted to the Lefebvrian
+notion of the “right to the city,” which has witnessed a resurgence in smart
+city literature. The right to the smart city entails “a right of inclusion and
+participation for the many rather than the few” (Cardullo and Kitchin 2019,
+826). Urbanites regardless of their gender, class, age, and so on should be
+able to appropriate the datafied city and to participate in its production if
+they need and want to (De Lange 2019; Strüver et al. 2021), which includes
+“the right to the analogue” if people cannot—or do not want to—use digital
+technologies (Rosol and Blue 2022). As Strüver et al. put it, “[a] really smart
+city—in this [Lefebvrian] sense—cares for and actively enables appropria-
+tion by its inhabitants” (2021, 12).
+  Doing inclusion brings into dialogue multiple and sometimes conflicting
+knowledges and experiences by different people. Inclusion is understood as
+an inherently multidimensional process (Ruijer and Piotrowski 2022), shaped
+by the discourses and actions of actors, and—importantly—between actors.
+This inevitably leads to frictions. Recent work highlights the generative
+potential of frictions, controversies, and contestations for including publics in
+discussions about the smart city (Alfrink et al. 2022; Baibarac-Duignan and
+De Lange 2021). For example, SnuffelFiets (Sniffer Bike) is a public–private
+project in the province of Utrecht in the Netherlands where citizens measure
+air quality through sensors installed on their bicycles. The controversial
+aspects of civic data collection serve to engage publics in raising “concerns at
+the intersection of (urban) environment, datafication and public participa-
+tion” (Baibarac-Duignan and De Lange 2021, 9).
+  In section 3 we explore how “doing inclusion” is a way of dealing with
+controversial smart technologies through practices of negotiation and

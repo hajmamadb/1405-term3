@@ -1,0 +1,34 @@
+190                                                    Jing Zeng and Karin van Es
+
+   nytimes.com/2023/03/22/business/media/ai-chatbots-right-wing-conservative.
+   html.
+Tzafestas, Spyros G. 2018. “Roboethics: Fundamental Concepts and Future Pros-
+   pects.” Information 9(6): 148. https://doi.org/10.3390/info9060148.
+Vorsino, Zoe. 2021. “Chatbots, Gender, and Race on Web 2.0 Platforms: Tay.AI as
+   Monstrous Femininity and Abject Whiteness.” Signs: Journal of Women in Culture
+  and Society 47(1): 105–27. https://doi.org/10.1086/715227.
+Westerlund, Mika. 2020. “An Ethical Framework for Smart Robots.” Technology
+   Innovation Management Review 10: 35–44. https://doi.org/10.22215/timreview/1312.
+Wu, Yuxin. 2023. “Baidu Officially Releases Wenxin One-Sentence, Li Yanhong
+   Demonstrates Five Major Abilities Live.” The Paper. https://m.gxfin.com/article/
+   finance/cj/renwu/2023-03-17/5957255.html.
+Wulfsohn, Joseph. 2023. “ChatGPT Faces Mounting Accusations of Being ‘Woke,’
+  Having Liberal Bias.” Fox News, February 16. https://www.foxnews.com/media/
+   chatgpt-faces-mounting-accusations-woke-liberal-bias.
+Zemčík, Tomáš. 2021. “Failure of Chatbot Tay Was Evil, Ugliness and Uselessness
+   in Its Nature or Do We Judge It through Cognitive Shortcuts and Biases?” AI &
+   Society 36: 361–67. https://doi.org/10.1007/s00146-020-01053-4.
+Zhuang, Rongwen. 2023. “生成式人工智能服务管理暂行办法.” Office of the
+   Central Cyberspace Affairs Commission. https://www.cac.gov.cn/2023-
+   07/13/c_1690898327029107.htm.
+Zhuo, Terry Yue, Yujin Huang, Chunyang Chen, and Zhenchang Xing. 2023. “Ex-
+   ploring AI Ethics of ChatGPT: A Diagnostic Analysis.” arXiv. https://arxiv.org/
+   abs/2301.12867.
+
+About the Authors
+
+Karin van Es is associate professor of media and culture studies and project
+lead of humanities at the Data School, both at Utrecht University.
+
+Jing Zeng is assistant professor of computational communication science
+at the University of Zurich.

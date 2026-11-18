@@ -1,0 +1,41 @@
+202                           Michiel de Lange, Erna Ruijer, and Krisztina Varró
+
+inspired by data. To illustrate, data on demographics, traffic, greenery, and
+crime rates in the neighborhood resulted in a discussion between residents
+and the city about the identity and image of the neighborhood and what is
+needed for the neighborhood to become the “place to be.”
+  The findings of this project resulted in several insights for doing inclusion:
+     1. Bottom-up co-creation and collaboration with neighborhood associations
+are essential for building an inclusive democratic process. These associa-
+tions have a network in the community. Residents who were previously
+not involved in participation processes took part in the negotiation and
+co-creation about the community’s future. The living lab started with a
+small number of residents and grew over time (from fourteen to forty). Even
+though the diversity of the participants increased, it never achieved a full
+representation of the community, thereby also demonstrating the challenge
+of including vulnerable groups.
+   2. The living lab design process resulted in empowerment. Residents gained
+insight into the options for redevelopment of their community based on the
+interpretation, negotiation, and contestation of open data of their neighbor-
+hood. Access to (and the value of) data was seen as a means to develop their
+vision. Most residents had no experience with open government data at
+the start of the project but learned over the course of the living lab more
+about the possibilities of data and how to use it for their own surroundings.
+   3. Initial contestations and tensions between the city and residents eased
+over time during the co-creation process. Insights based on data started de-
+liberative discussions between government and citizens. This demonstrates
+that open government data can facilitate a shift in power relationships
+between citizens and government away from transactional models to more
+inclusive relational ones in which vulnerable groups have a voice. However,
+the deliberations did not lead to concrete output in the form of a written
+community vision based on data during the time of our study, but the process
+facilitated mutual learning and understanding and became the start of a new
+collaborative effort between residents and government (Ruijer et al. 2024).
+
+Conclusion: Reflections and suggestions for future research
+
+It is uncontroversial to point out the discrepancy between the rhetoric of
+inclusive citizen-centered smart cities and their actual implementation (cf.
+Shelton and Lodato 2019, 35). But how do we move on from here? How can
+critical scholarship conceptualize inclusivity in the smart city to help close
+this gap? In our contribution we have argued that inclusive smart cities are

@@ -1,0 +1,31 @@
+The Long-term Usefulness of Regulating AI in the EU                        163
+
+Lessig, Lawrence. 1999. Code and Other Laws of Cyberspace. New York: Basic Books.
+Lessig, Lawrence. 2006. Code (Version 2.0). New York: Basic Books.
+Rosengrün, Sebastian. 2022. “Why AI Is a Threat to the Rule of Law.” Digital Society
+    1(10): 1–10. https://doi.org/10.1007/s44206-022-00011-5.
+Schyns, Camille. 2023. “Big Tech’s Covert Defanging of Europe’s AI Act: The Lobbying
+  Ghost in the Machine.” Corporate Europe. https://corporateeurope.org/sites/
+  default/files/2023-03/The%20Lobbying%20Ghost%20in%20the%20Machine.
+   pdf.
+Van der Vlist, Fernando N. 2022. “The Platform as Ecosystem: Configurations and
+  Dynamics of Governance and Power.” PhD dissertation. Utrecht University.
+   https://doi.org/10.33540/1284.
+Van der Vlist, Fernando N., Anne Helmond, and Fabian Ferrari. 2024. “Big AI: Cloud
+   Infrastructure and the Industrialisation of Artificial Intelligence.” Big Data &
+   Society 11(1): 1–34. https://doi.org/10.1177/20539517241232630.
+Van der Vlist, Fernando N., Anne Helmond, Marcus Burkhardt, and Tatjana Seitz.
+   2022. “API Governance: The Case of Facebook’s Evolution.” Social Media + Society
+   8(2): 1–24. https://doi.org/10.1177/20563051221086228.
+Wang, Pei. 2019. “On Defining Artificial Intelligence.” Journal of Artificial General
+   Intelligence 10(2): 1–37. https://doi.org/10.2478/jagi-2019-0002.
+Wischmeyer, Thomas, and Timo Rademacher. 2020. Regulating Artificial Intelligence.
+   Zurich: Springer Cham.
+Xu, Tammy. 2021. “How Does AI Make Decisions We Don’t Understand? Why Is It a
+   Problem?” Built In. https://builtin.com/artificial-intelligence/ai-right-explanation.
+
+About the Author
+
+Lisanne Hummel is a PhD candidate in economic public law at Utrecht
+University and a member of the Utrecht Centre for Regulation and Enforce-
+ment in Europe.

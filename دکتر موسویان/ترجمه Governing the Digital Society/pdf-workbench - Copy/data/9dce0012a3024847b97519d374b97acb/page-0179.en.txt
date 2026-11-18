@@ -1,0 +1,41 @@
+176                                                    Jing Zeng and Karin van Es
+
+  Given the above considerations, the question of how to establish and
+uphold a moral framework for chatbots warrants urgent and extensive
+deliberation. This chapter aims to contribute to the broader ongoing
+discussion by introducing the concept of moral agency, building upon the
+earlier conceptualizations of machines as moral agents by Bendel (2019) and
+Westerlund (2020). Rather than narrowly understanding moral agency as a
+machine’s ability in making autonomous moral decisions (i.e., knowing what
+is moral and immoral), our conceptualization focuses on the system’s ability
+to adhere to the ethics and values prescribed by its makers. Moral agency
+then is the capacity of a system or machine to engage in actions perceived
+as appropriate within the context of its prescribed values, ethics, and
+legal principles. It is the product of ongoing and collective socio-technical
+dynamics and, as we demonstrate in the following sections, a productive
+conceptual lens for problematizing the process of moralizing AI chatbots.
+
+Problematization of moral agency
+
+The morality and immorality of chatbots does not emerge in a vacuum. Rather,
+their roots are embedded in their underlying technological architecture,
+inheriting the moral values ingrained within their design. At the same
+time, what constitutes moral and immoral is a highly contentious issue,
+reflecting and constructing power contestation among various actors in
+broader society. In the following sections, we use the example of OpenAI’s
+ChatGPT and Baidu’s ErnieBot to problematize moral agency in chatbots as
+(1) a technological construct and (2) a political construct. This framework
+enables us to examine how the moral agency of emerging conversational AI is
+materialized and contested through technological and political factors. Our
+focus revolves around the interactions of chatbots with controversial topics
+that could be seen as inappropriate or sensitive. This emphasis allows for
+more effective scrutiny of the tensions related to the moralization of chatbots,
+encompassing aspects like tech companies, governments, and public opinion.
+
+Moral agency as a technological construct
+First, we problematize moral agency in chatbots as a technological construct.
+Figure 10.2 presents the workflow outlined by OpenAI, highlighting the two
+main steps involved in building ChatGPT: pre-training and fine-tuning.
+Concerning pre-training, both ChatGPT and ErnieBot are tools developed
+based on LLMs. Their primary function is predicting the next word in
+a sequence by discerning patterns learned from the training data. As a

@@ -1,0 +1,42 @@
+Interview with Catalina Goanta                                            101
+
+see explicit rules for influencers and content creators, it does not mean that
+there are no rules governing these activities. For example, in the European
+Union, the Unfair Commercial Practices Directive, adopted in 2005, already
+covered advertorials at that time. What poses a challenge for consumer
+protection is the new wave of questions that emerge with new monetization
+practices: In terms of digital content, what does it mean for TikTok Lives to
+be in conformity with the contract between the consumer and the platform
+or the creator? Are gifts given in this context considered donations, or are
+they payment for a digital service? These questions are at the edge of our
+current legal knowledge about consumer protection and digital content/
+digital services, but answering them will be crucial in the years ahead. I
+find that a more holistic consumer paradigm is essential in understanding
+this economy because, at the end of the day, creators and influencers offer
+things that their followers consume and, thus, must be made responsible
+to protect these followers accordingly.
+  Beyond consumer protection, the creator economy intersects with a
+plethora of other relevant fields of law. To name just a few examples: we
+have labor law—one of our favorite topics to exchange multidisciplinary
+insights about—where we see a clash of media theories around labor and
+legal realities. We also have tax law implications, children’s rights, contracts,
+legal personhood, corporate law, etc. I find it incredibly important to have
+awareness about the breadth of legal implications, because this complex web
+of rules should be one of the first questions creators must ask themselves
+when deciding to pursue such creative endeavors: Am I ready to navigate
+the laws that apply to me? We have a very telling maxim in law: Ignorantia
+juris non excusat (Ignorance of the law is no excuse), which means that
+you cannot escape legal liability by saying that you were not aware of the
+content of the law.
+
+TA: One of these key legal obligations that influencers face concerns the
+disclosure of advertising. In your research with computer scientists (Goanta
+and Costa Bertaglia 2023; Sánchez Villegas et al. 2023), you have examined rates
+of disclosure across countries and recently across platforms and developed
+methodological approaches for detecting undisclosed monetized content.
+How would you reflect on the challenges of engaging in this type of research?
+
+CG: Multidisciplinary research on monitoring commercial and political
+advertising promoted by content creators is, on the one hand, very necessary
+but, on the other, very risky. First, looking at the sheer size of the creator
+economy and the potential issues that can emerge from it for society or

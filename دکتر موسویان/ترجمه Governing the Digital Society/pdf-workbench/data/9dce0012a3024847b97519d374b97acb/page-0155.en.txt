@@ -1,0 +1,42 @@
+152                                                          Lisanne Hummel
+
+acquisition where the data is reviewed, tested, and acquired to train the
+model. In the development stage, the AI model is built iteratively, which
+requires several AI models to be built and data to be augmented to finetune
+the final model. Finally, the AI model prototype is handed over for deploy-
+ment. After deployment, the AI model is continuously updated with new
+versions, re-trained and monitored. These continuous updates and changes in
+the basic AI model often have an impact on the way an AI model is deployed.
+Therefore, there is an important interaction between the initial AI model, the
+deployed AI model, and its role in society (Wischmeyer 2020). For example,
+in the case of algorithmic recommender systems, such as Spotify’s music
+recommendation algorithm. It gets better as more people use it. The same
+logic applies to ChatGPT. Every time we use it, we contribute to optimizing
+it for future conversations.
+   Recently, major strides have been made in the development of AI, par-
+ticularly in the domain of “generative AI” (GenAI). OpenAI introduced its
+language model (LLM) GPT-3 in July 2020. LLMs are general-purpose AI
+systems or foundational models, which are trained deep-learning models
+that understand and generate text in a humanlike fashion. These models
+are trained on a broad set of unlabeled data that can be used for different
+tasks with minimal fine-tuning (EU Parliament 2023). General purpose or
+foundational AI models are often available through application program-
+ming interfaces (APIs) and can be proprietary (OpenAI’s GPT-3) or open-
+source access (Meta’s Llama). Since their introduction, other companies
+have increasingly built applications on top of these models. Generative AI
+systems, such as ChatGPT or Dall-E, are an (consumer) application powered
+by a general-purpose AI or a foundational model.
+   It seems that Big Tech companies are trying to gain a foothold in the
+market for foundational models as well as in the market for the applica-
+tions built on top of these models. In fact, OpenAI started a competitive
+market for LLMs with the introduction of GPT-3, 3.5 and 4, on the one hand,
+and applications such as Chat-GPT, on the other. Microsoft funded these
+developments and later entered a strategic partnership with OpenAI. Meta
+has been working to create the next generation of Meta’s open-source LLM,
+Llama2. Other Big Tech companies, such as Amazon (BedRock and Titan),
+Google (PaLM2 and Bard), and Apple, also quickly entered the market for
+LLMs and generative AI.
+    It seems likely that Big Tech companies will turn foundational AI models
+into proprietary platforms. There are many different definitions of platforms,
+but I define platforms from a technical and marketplace perspective, where
+certain companies usually provide the core technology on which other

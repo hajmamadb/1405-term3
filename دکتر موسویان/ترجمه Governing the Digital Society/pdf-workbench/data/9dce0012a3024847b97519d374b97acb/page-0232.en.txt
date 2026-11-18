@@ -1,0 +1,41 @@
+Fostering Autonomy in the Digital Classroom                          229
+
+disproportionately focused on data autonomy, overlooking forms of collective
+action aimed at mitigating dominant platforms’ influence on classroom
+teaching and learning. As a potential pushback, we discuss two future
+pathways for collective action aimed at strengthening schools’ pedagogi-
+cal autonomy. Concluding, we underscore the importance of cooperative
+responsibility at both the national (Netherlands) and the European levels
+in strengthening schools’ digital autonomy and stress the urgency of this
+endeavor.
+
+Classroom platformization, digital autonomy, and collective
+action
+
+Classroom platformization entails a transfer in control over both educa-
+tional data and pedagogies of teaching and learning from schools to edtech
+companies. To start with the former, schools’ diminished control over data
+follows as a consequence of the classroom use of DEPs, augmenting processes
+of datafication governed by for-profit platform providers. Adaptive learning
+platforms which implement machine learning algorithms to personalize
+learning in real time, for example, operate in between data gathered from
+local classrooms and data processing at transnational scale: “[C]omputa-
+tional analytics are not based on the data of one class, but on hundreds
+of schools, or even all national data” (Kerssens and Van Dijck 2023, 5). In
+turn, datafication of learning intensifies a commodification of classroom
+practices (Lai et al. 2023). When young learners use digital applications in
+classrooms, their data is not only processed for educational purposes, but
+also for commercial purposes unrelated to their education (Day et al. 2022).
+Human Rights Watch uncovered how 145 online learning platforms used
+at scale by children during the pandemic engaged in “data practices that
+put children’s rights at risk” (HRW 2022). The study revealed that tracking
+technologies within these platforms monitored children’s online activities
+and shared collected data with third-party companies, typically advertising
+technology companies.
+  Commodification processes are part of what scholars have conceptualized
+as “data assetization” in education, underscoring how edtech companies
+transform educational data resources “into capitalized property” (Birch et
+al. 2021, 2). Besides data profiling, assetization includes the use of educational
+data by edtech companies for the development of new data-driven products
+(e.g., learning analytics dashboards) and optimization of their proprietary
+services (Komljenovic 2021)—including the training of machine learning

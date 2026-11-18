@@ -1,0 +1,37 @@
+6.   Governing the Global Proliferation
+     of Digital Surveillance Technologies:
+    Lessons from the EU
+      Machiko Kanetake
+
+
+        Abstract: The chapter engages with the EU’s legal discourse surrounding
+        the regulation of digital surveillance technologies or so-called spyware.
+           It does so by focusing on the EU’s attempt to regulate the international
+         sale of digital surveillance technologies. The urgent need for rule-based
+        control of the global surveillance technologies market has been on the
+       agenda of the UN, EU, governments, NGOs, and research institutions.
+       Within the EU, a particular legal instrument, known as dual-use export
+         control, has come under the spotlight as a tool to mitigate human rights
+         risks associated with the sale and transfer of spyware. While the field
+         of law has developed to mitigate military risks within the EU’s security
+       and defense policies, it has not yet sufficiently evolved to address the
+        multifaceted human rights risks that the sale of surveillance technologies
+      may pose to the destination countries.
+
+       Keywords: spyware, export control, dual-use technologies, cyber surveil-
+         lance, human rights, due diligence
+
+Introduction
+
+Digital surveillance technologies are sold and transferred from one country
+to another, bringing both significant benefits and risks transnationally.
+Consider, for instance, a company’s sale of advanced remote monitoring
+software to another state’s intelligence services. While the intrusion technol-
+ogy may assist the intelligence services in their criminal investigations,
+
+
+
+Van Dijck, José, Karin van Es, Anne Helmond, and Fernando van der Vlist, eds. Governing the
+Digital Society: Platforms, Artificial Intelligence, and Public Values. Amsterdam: Amsterdam
+University Press, 2025
+doi 10.5117/9789048562718_ch06

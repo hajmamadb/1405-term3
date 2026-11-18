@@ -1,0 +1,42 @@
+142                                                            Fabian Ferrari
+
+to LLMs through retraining with adjusted datasets is challenging. End
+users lack the capability to alter the training data, even if they have access
+to it. The ability to determine and modify training datasets is exclusive to
+home-grown models that are pre-trained from scratch without any prior
+pre-training. In such cases, datasets can be either omitted from the training
+process or modified to mitigate bias issues or minimize the generation of
+harmful outputs. This specific form of debiasing, known as intrinsic debias-
+ing, is a complex area of research (Orgad et al. 2022). Notably, a significant
+portion of intrinsic debiasing research has concentrated on gender debiasing,
+employing methods that mask or counterbalance gender-specific terms
+like gendered pronouns, first names, and other gender-specific language.
+Beyond bias reduction, compliance with data protection regulations such
+as the General Data Protection Regulation (GDPR) necessitates the ability
+to modify training datasets.
+
+Modifying domain-specific datasets for fine-tuning
+Users typically have the ability to adjust or fine-tune some aspects of pre-
+trained models to better suit their needs. This option may be open to the
+user for models that allow some sort of fine-tuning on top of the pre-trained
+foundation model. If so, domain-specific datasets should be entirely modifi-
+able by users and regulators. However, if fine-tuning concerns proprietary
+data that is an integral part of the released model, it may be vital to have
+access to this dataset to be able to understand better which toxic, badly
+formed, and other unsuitable output is filtered away (and which is not)
+by this post-processing layer. The modifiability of this type of data is also
+crucial for the enforcement of data protection regulations (e.g., patient data
+covered by the GDPR to train domain-specific medical chatbots.)
+
+Modifying neural network architectures, trained models, and training scripts
+When looking at pre-trained models that are not hidden behind an API,
+their workings can often be packaged in a downloadable architecture
+config file that contains information like weights and how the model is
+structured. However, once a model is trained, these aspects are fixed and
+cannot be easily modified without potentially causing errors. Even if the
+model is fully open, the model weights are simply the end result of training
+procedures and modifying them manually makes no sense (as it will likely
+harm performance). The consumption of fewer energy resources, which is
+one of the requirements of the AI Act, could be attained by architectural
+modifications. However, this only makes sense at the stage of pre-training;
+it would be too late to implement modifications at a later stage. When it

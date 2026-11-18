@@ -1,0 +1,42 @@
+140                                                            Fabian Ferrari
+
+detailed understanding is also crucial for determining how the properties
+of generative AI systems can be technically modified.
+
+Modifying generative AI systems
+The third and final oversight condition, technical modifiability, poses the
+question: How can and should the material properties of generative AI
+systems be modified through regulatory action, and what are the reasons
+for doing so? The term “modifiability” here refers to making basic or fun-
+damental changes to a regulatory object to shape it according to specific
+public values. Therefore, this condition explores how proposed regulatory
+frameworks, such as the EU’s AI Act, may reshape the material properties
+of generative AI systems.
+   In science and technology studies scholarship, the condition of technical
+modifiability can be grounded in Jasanoff’s (2004) concept of co-production,
+which posits that “knowledge and its material embodiments are at once
+products of social work and constitutive of forms of social life.” The way
+in which co-production works in practice depends on the motivations for
+modifying regulatory objects through regulating them in the first place. For
+example, in the case of chemicals, safety issues may prevail. As Fisher puts
+it, “the role of co-production may be recognized in relation to the question
+of the safety of a chemical but not much the identity of the chemical itself”
+(2014, 165, emphasis added). In the case of high-frequency trading algorithms,
+regulatory measures to modify those algorithms are driven by concerns
+about financial manipulation (Seyfert 2021). Similarly, in the context of
+generative AI systems, apprehensions regarding misinformation, manipula-
+tion, and unauthorized usage of sources (e.g., copyright infringement) may
+motivate regulatory actions.
+  Consider the policy goal of curbing the spread of “misinformation” by
+generative AI systems like ChatGPT. In this context, the study of how spe-
+cific technical alterations to the system could achieve less misinformation
+becomes crucial, encompassing enhancements like more robust safety
+filters, digital watermarks, or more effective content moderation systems.
+Watermarking, as an AI governance tool, is not a speculative notion but
+a present regulatory practice in certain countries. China’s Cyberspace
+Administration has implemented regulations that limit the production of
+AI-generated content lacking clear labels, stipulating that citizens must not
+use “technical means to delete, tamper with, or conceal relevant marks”
+(Edwards 2022). In this scenario, watermarking serves as a form of censor-
+ship. The identification and subsequent modification of AI technology
+that is categorized as potentially harmful to “the legitimate rights and

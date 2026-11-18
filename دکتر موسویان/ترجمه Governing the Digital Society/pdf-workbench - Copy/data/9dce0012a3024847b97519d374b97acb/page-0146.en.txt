@@ -1,0 +1,41 @@
+The Governance of Generative AI: Three Conditions for Research and Policy  143
+
+comes to scripts for training and output generation, only some output-related
+code might be shipped along with a pre-trained foundation model (e.g., for
+fine-tuning), and modifying it is necessary for various downstream tasks.
+When training from scratch, scripts can be modified.
+  The EU AI Act includes the need to “train, and where applicable, design
+and develop the foundation model in such a way as to ensure adequate
+safeguards against the generation of content in breach of Union law”
+(European Parliament 2023). However, precise technical details on how to
+enforce modifications of foundation models effectively remain unspecified,
+echoing the ambiguity of AI transparency obligations. Table 7.2 offers a
+structured pathway to delve into the technical adaptability of foundation
+models. Yet, addressing the challenges of technical modifications requires
+comparative studies on future compliance.
+
+Conclusion
+
+Analytical observability, public inspectability, and technical modifiability are
+best understood as normative benchmarks against which the actual empirical
+properties of oversight structures pertaining to generative AI systems can
+be measured in terms of democratic control. Those three conditions offer a
+practical roadmap for making generative AI systems negotiable in regulatory
+terms. For instance, even if these models are not fully open to the public,
+we can gauge their level of openness by resorting to the criterion of public
+inspectability. This real-world perspective counters the prevailing narrative
+that emphasizes long-term AI risks, often characterized by terms like “super-
+intelligence” or “artificial general intelligence”—notions that are often used
+in corporate efforts to influence policymakers, including those involved in
+shaping and negotiating the EU’s AI Act as part of its trialogue (Perrigo 2023).
+  When finishing this chapter in December 2023, it was still unclear
+whether and how the EU’s AI Act may come into being. A crucial topic
+of debate related to the inclusion (or exclusion) of foundation models and
+their providers in the AI Act. Germany and France, for example, suggested
+excluding those providers, which would mean that there are no specific
+obligations for inspectability or modifiability (Bertuzzi 2023). This exclusion
+would place a significant compliance burden on smaller EU companies
+using these models. Meanwhile, the owners of these models could avoid
+accountability. Only a few prominent foundation models, such as Google’s
+PaLM, Anthropic’s Claude, OpenAI’s GPT-4, and Meta’s LLaMA models,
+serve as the basis for various generative AI start-ups in the EU. Despite

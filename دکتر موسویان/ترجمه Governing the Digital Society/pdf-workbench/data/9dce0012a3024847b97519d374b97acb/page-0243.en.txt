@@ -1,0 +1,42 @@
+240                                               Niels Kerssens and Karin van Es
+
+provides a powerful approach to combat the unbalanced distribution of power
+between platforms and schools over the digitization of primary education. It
+resonates with Van Dijck et al. (2018, 155) who propose that effective govern-
+ance should extend beyond governmental action, emphasizing the need for
+collaborative efforts involving the market, state, and civil society. Specifically,
+we recommend further development of collaborative responses to sectoral-
+level platformization in two directions. First, classroom platformization
+warrants collective responses from those within educational sectors who
+are equally mindful of the role platforms play in re-scripting classrooms’
+pedagogical space as for their control over the educational data that sprouts
+within these spaces. Second, collective responses to platformization could
+focus more strongly on exploring opportunities for the design of alternative
+platforms and ecosystems for digital education.
+  Looking ahead, we already see how personalized learning systems imple-
+menting advanced machine learning models, AI-based classroom surveil-
+lance, and GPT chatbots are rapidly integrated in classroom teaching and
+learning. It is likely that a multitude of AI applications for education will be
+developed in the coming years, most likely powered by the AI infrastructural
+capacities of global tech providers. Data processing within AI-based learning
+platforms occurs under new forms of complexity that puts increasing pressure
+on agreements in the privacy covenant and legal provisions in the GDPR.
+This raises urgent questions about the adequacy of current collaborative
+efforts in platform governance and platform alternatives at the sectoral level
+to strengthen and safeguard the digital autonomy of schools.
+  Regarding the Dutch context, it is important that the privacy covenant
+constantly adapts to technological innovations, such as those in the field
+of AI. A renewed covenant could, for instance, set out additional agree-
+ments between the educational sector and Dutch edtech developers that
+require the latter to disclose in its privacy supplement for all users how the
+underlying technology works, how the AI arrives at certain conclusions,
+and what data is used to train AI models. To reduce the dependence of
+educational institutions on digital products and services from Big Tech
+companies, a further incentive in development of platform alternatives
+is also key. This could, for example, include a (re)development of Dutch
+open AI models that are more specifically attuned to educational needs
+(e.g., personalization of learning) and public values that the Dutch sector
+has positioned as fundamental in the digitization of education, such as
+autonomy, humanity, and justice. It is, moreover, important to develop
+open application programming interfaces (APIs) and open data standards
+for these public AI infrastructures, enabling Dutch software developers,

@@ -1,0 +1,43 @@
+Decentralized Online Social Networks                                     37
+
+which affords persistent authentication but also allows for exclusion after
+repeated misconduct (see section 3). In addition, they lacked an agreed-upon
+set of governance principles (covenant) that would allow user communities
+to control quality interaction (Gehl and Zulli 2022)—a measure that was
+subsequently proposed. Community governance, as some have argued, may
+offer valuable training in democratic participation for users (Zuckerman
+and Rajendra-Nicolucci 2023).
+   Just as centralized moderation is not a unique feature of MsSM, decentral-
+ized moderation is not a unique feature of DOSNs; mainstream social media
+platforms have also started to acknowledge the value of self-moderating com-
+munities. Following Elon Musk’s Twitter coup in 2022, Meta started its own
+Mastodon instance to experiment with the concept of decentralized social
+media. Meta’s Threads (formerly codenamed P92) supports the decentralized
+protocol ActivityPub. This move to incorporate decentralized features into
+a centralized structure can be seen as a preemptive strike; if anything, it
+might help counteract the vehement criticism Facebook has received over the
+past years over its failing moderation practices and unbridled control over
+user data (Newton 2023). Aware of the enormous expense associated with
+centralized moderation, Meta’s jumping on the decentralization bandwagon
+appears to be an interesting economic proposition that also mitigates the
+reproach of top-down, authoritative control over content. With regards to
+moderation, Threads illustrates that the categories of MsSM and DOSN are
+not as clear-cut as they might seem.
+
+Ownership
+Besides moderation, another organizational choice reflecting the degree
+of (de)centralization is the ownership model steering a platform. Again,
+a simplified binary framework dominates the public debate, where, on
+one end, the ownership of a MsSM platform is concentrated in the hands
+of one company and one CEO shareholder with a profit-maximizing
+mission.4 For example, X’s ownership is now highly concentrated in the
+hands of one man since the takeover by Elon Musk. Facebook is run by
+Mark Zuckerberg, who owns a controlling share in Meta and, unlike
+Musk, is also CEO of this firm. On the other end is the highly decentral-
+ized and dispersed non-profit ownership of the (user) community of
+DOSNs. Mastodon serves as a prime example, consisting of a collection
+
+
+4  Ownership concentration is not the same as what type of stakeholder is the owner: i.e., an
+investor, employee, government, etc. Government ownership can be concentrated or diluted,
+for instance, depending on percentages of shares held by the government.

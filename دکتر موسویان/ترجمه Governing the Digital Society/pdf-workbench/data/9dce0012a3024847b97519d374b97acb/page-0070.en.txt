@@ -1,0 +1,41 @@
+Governing the “Third Half of the Internet”                                67
+
+readers interested in contributing comments. I collected these documents
+during two periods: July–September 2021 and May–June 2023.
+  The analysis of these cases in the subsequent sections is structured
+around three main categories. The first examines technical aspects, such
+as login requirements, the comment interface, and user-interaction buttons.
+The second category investigates moderation features, focusing on how
+these outlets manage and filter out harmful or inappropriate comments.
+The final category addresses constructive commenting features, exploring
+the strategies these news outlets employ to encourage meaningful and
+constructive reader engagement.
+
+The comment interface as a tool to stimulate user participation
+
+This comparative analysis of five online news platforms addresses several
+technical aspects that may hamper or encourage user participation. The
+comment interface plays a pivotal role in shaping how users engage in
+online discussions (Stroud et al. 2016). Sorting comments by means of likes
+and popularity can reinforce partisanship (Shmargad and Klar 2020). I also
+consider if users can like or dislike others’ contributions, taking note of the
+specific semantics. Here the choice of terminology matters, too; for example,
+a “respect” button tends to foster fewer partisan comments compared to a
+“like” option (Stroud et al. 2016).
+
+Barriers to participation
+All examined news outlets require a user account for individuals to com-
+ment on a news article, thereby imposing a restriction on participation.
+The New York Times has a paywall, requiring readers to subscribe not only
+to engage in commenting but also to access the article. Articles by El País
+become accessible when readers opt to allow advertisements on the web
+page. However, commenting is restricted solely to users with a subscription.
+On the other hand, Die Zeit, The Guardian, and NU.nl follow a less restrictive
+model, requiring a free user account for participation. During the sign-up
+process for such an account, the presentation of participation guidelines is
+a possibility. The Guardian does include them during the sign-up process. In
+contrast, NU.nl and El País display their “house rules” above every comment
+section. The New York Times organizes its guidelines under the heading
+“FAQs.” Although Die Zeit maintains a netiquette page, it is not prominently
+linked on their comment interface, potentially affecting the visibility of
+these guidelines for users.

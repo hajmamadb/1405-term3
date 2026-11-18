@@ -1,0 +1,41 @@
+Fundamental Rights and Algorithms Impact Assessment                  247
+
+ministry agreed with this approach, and the collaboration resulted in the
+development of the design of such a sizeable and functional instrument.
+
+VM: In essence, FRAIA is an accountability mechanism, aimed to reduce the
+risks of carelessness, ineffectiveness, and infringement of the fundamental
+rights of citizens when governmental organizations implement algorithmic
+systems in their activities. How does FRAIA contribute to algorithmic ac-
+countability, and what safeguards are in place to ensure that it is not just a
+paper tiger?
+
+JG: Well, understandably, people can be wary of having to do lots of paper-
+work and some civil servants can be apprehensive of instruments that are
+changing the way they would normally work. Therefore, in designing FRAIA,
+we tried to logically follow the kind of processes that would normally happen
+in policy- and decision-making. Civil servants would have to go through
+the steps similar to those introduced by FRAIA anyway, they would have
+the discussions and make the decisions, but now they also write down the
+answers they give to all questions they encounter. We have done several
+practice tests before introducing FRAIA just to see how it would work in
+real-life settings, and so far, the results are quite positive.
+   In terms of accountability, I think FRAIA generates highly valuable results.
+By participating in the FRAIA process, in fact, civil servants go through the
+same kind of exercise that judges engage in when they have to deliberate
+and then reason a judgment. So, they may intuitively have some kind of
+idea of why they want to adopt an algorithm and what it should look like.
+But if they have to start answering questions about that, have to discuss
+this, and have to write down their answers, their intuitive choice somehow
+may not look that convincing anymore. That may trigger further discussion
+and it may even lead to a different outcome. Indeed, completing FRAIA
+is only for a small part about writing down answers; it really is about the
+discussion in a team and the thought and reasoning processes this triggers.
+That really convinces people to work with it, and it creates accountability
+to the extent that the team involved can convincingly explain why they
+have made a certain choice.
+   But, indeed, it could be that FRAIA is working so well because it is not
+obligatory yet, and the bodies working with it are intrinsically motivated to
+work on responsible AI. If it was mandatory to use FRAIA in a great many
+cases, this might lead to some fatigue and FRAIA could, in the end, still
+become a paper tiger.

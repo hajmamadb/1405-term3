@@ -1,0 +1,41 @@
+40                                     Mathilde Sanders and José van Dijck
+
+Such empowerment could help support autonomy and democratization by
+anchoring these public values in a solid economic foundation. In addition,
+having multiple small sources of income or revenue from individuals or
+small organizations may diminish a platform’s reliance on one single donor
+or customer.
+
+Conclusion
+
+In this chapter, we have explained how the public debate on decentralized
+social networks (DOSNs) reveals an uncalled for bifurcation, placing two
+uniform categories of platforms in opposition. A closer analysis reveals
+that this binary framework is neither realistic nor practical. Instead of
+viewing centralized and decentralized platforms as two opposing types,
+we propose considering degrees of (de)centralization at each technical and
+organizational level of a platform in the wake of weighing specific public
+values. To better understand how decentralized online platforms can be
+designed and operated, we propose to define decentralization not as an
+intrinsic feature, but as a series of choices involving at least six elements
+at the technical level (open-source software, software protocols, and data
+servers) and organizational level (content moderation, ownership, and
+business model). Each element of a platform may trigger its own analysis
+of benefits and drawbacks. Furthermore, each choice should be informed
+by evaluating public values. These values may sometimes be contradictory
+and therefore require explicit negotiation.
+  Designing a decentralized platform is not an easy task. There are numer-
+ous potential choices for the specific technical and organizational elements
+of platforms, necessitating discussions among developers, designers, users,
+and other societal actors to define a platform’s architectural design and
+organizational structure. Ultimately, it is a specific combination of choices
+that becomes integral to a platform’s design. In this chapter, we have pre-
+sented several examples of such elements and the choices involved, along
+with the value deliberations they entail. We encourage platform designers
+and users to utilize this heuristic framework to articulate their ambitions
+and choices. Once these choices are clarified, they should be made explicit
+to users to render platform governance more transparent and accountable.
+  Acknowledging degrees of decentralization advances the concept of online
+social networks as a set of customizable technical and organizational elements,
+thereby promoting pluralism in an increasingly diverse landscape of social
+platforms. One obvious advantage is that users can choose platforms that

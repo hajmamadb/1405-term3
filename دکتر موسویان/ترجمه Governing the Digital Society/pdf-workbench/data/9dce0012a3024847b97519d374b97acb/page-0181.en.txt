@@ -1,0 +1,42 @@
+178                                                    Jing Zeng and Karin van Es
+
+this, it is reasonable to expect that ErnieBot faces similar issues to those
+experienced by ChatGPT.
+  To align its behavior with human values preventing it from generating
+problematic responses, the pre-trained model undergoes a fine-tuning process
+with annotated datasets created with the assistance of human reviewers. Ensur-
+ing the alignment of the technology with human values and ethics becomes an
+essential aspect of the product development process. Within the realm of AI
+development, this process is commonly known as “value alignment.” It involves
+addressing questions such as: “How to ensure that these models capture our
+norms and values, understand what we mean or intend, and, above all, do what
+we want?” (Christian 2020, 13). According to Christian (2020, 326), a fundamental
+challenge lies in our conformity to the formalism of these models, making the
+pursuit of alignment a consistently complex undertaking. As machine learning
+systems develop and are adapted (fine-tuned) on a larger scale, these questions
+become even more urgent. To ensure that a conversational AI aligns with the
+intended goals and ethical principles of human societies, it must effectively
+discern potentially harmful content and refrain from presenting it as output.
+This involves the intricate process of designing and instilling the system with
+moral agency to enable it to recognize and appropriately restrict responses
+containing harmful content. The critical issue to consider is, who holds the
+authority to define these values? Additionally, does this authority allow for
+the existence of diverse values within a society?
+   For its fine-tuning phase, OpenAI employs a diverse set of inputs to gener-
+ate a range of responses from ChatGPT. These responses are subsequently
+reviewed and rated by human reviewers following various guidelines (e.g.,
+“do not complete requests for illegal content” or “avoid taking a position
+on controversial topics”) (OpenAI 2023). The model learns and generalizes
+from the feedback it receives to a large range of other inputs. However,
+human subjectivity and bias can potentially affect the tuning procedure. To
+streamline this, OpenAI has guidelines related to the handling of political
+and controversial topics. After public pressure, it shared a portion of this
+dated July 2022. In the document guidance is offered on handling requests
+for inappropriate content, encompassing hate speech, harassment, self-harm,
+adult content, political content, and malware. For example, it explicitly
+instructs reviewers not to favor political groups and state that “[b]iases
+that nevertheless may emerge from the process described above are bugs,
+not features” (OpenAI 2023). Looking closer at these guidelines, a key point
+is responding to tricky topics in conversation. Here “tricky” is seen as, for
+instance, “providing opinions on public policy/societal value topics or direct
+questions about its own desires.”

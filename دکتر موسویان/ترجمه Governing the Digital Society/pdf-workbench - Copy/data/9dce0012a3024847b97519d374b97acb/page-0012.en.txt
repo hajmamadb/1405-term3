@@ -1,0 +1,17 @@
+     List of Tables
+
+Table 6.1.   Export Approvals by Greek Authorities (Novem-
+            ber 2021 to March 2022)                               117
+Table 7.1.    Five Layers of Inspectable Properties of Generative
+           Foundation Models                                  138
+Table 7.2.   Five Layers of Modifiable Properties of Generative
+           Foundation Models                                141
+Table 10.1.  Examples Used by the Authors to Circumvent
+            ErnieBot’s Moderation of Perceived Sensitive Topics     184
+Table 12.1.   Partial List of Known Discriminatory Algorithmic
+           Systems Implemented by Dutch Governmental
+            Organizations                                     212
+Table 12.2.  Selection of Indicators from a List of 315 Indicators
+          Used in Richard Moti’s Welfare Fraud Risk-Scoring
+           Algorithm                                         219
+Table 15.1.  Governance Assessment Framework                 255

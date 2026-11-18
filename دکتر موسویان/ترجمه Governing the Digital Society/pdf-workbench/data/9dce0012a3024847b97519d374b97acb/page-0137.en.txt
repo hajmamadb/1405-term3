@@ -1,0 +1,42 @@
+134                                                            Fabian Ferrari
+
+consumer application in history” (Hu 2023), affords OpenAI’s significant
+influence, as EU policymakers are unlikely to want to be seen as obstructing
+AI innovation or technological progress. Just as the ride-hailing company
+Uber has set up consumer petitions aimed at regulators, municipalities, and
+federal governments in the pursuit of corporate lobbying, similar efforts
+are likely in the case of OpenAI.
+  As a counterpart to corporate oversight over generative AI systems, the
+remainder of this chapter examines the EU’s AI Act on the basis of three
+mutually dependent conditions for effective democratic oversight: analyti-
+cal observability, public inspectability, and technical modifiability. This
+exploration underscores the necessity for establishing enduring high-level
+conditions that can withstand the swiftly evolving AI industry landscape.
+
+Observing generative AI systems
+To make generative AI systems governable for democratic oversight as
+material entities, we must begin by elucidating their constitutive elements
+and their place within broader industry dynamics. Without a well-informed
+analysis of how parts of generative AI systems—such as large language
+models (LLMs)—fit within platform ecosystems, and how they relate to
+other entities (e.g., platform companies), we cannot distinctly delineate
+them as regulatory objects. As STS scholarship (Lezaun 2006) shows, a clear
+delineation of what needs to be governed according to precisely defined
+technical parameters and detection methods is crucial. Only after pinning
+down what, we can address how generative AI systems can be governed.
+   Crucially, a dynamic and processual perspective is required when
+dealing with ever-changing AI systems, rather than relying on static or
+rigid governance procedures. As Rieder and Hofmann convincingly argue,
+“unlike transparency, which nominally describes a state that may exist or
+not, observability emphasizes the conditions for the practice of observing
+in a given domain” (2020, 3). Consequently, the term observability is more
+appropriate than alternatives like “AI transparency” or “AI explainability”
+because it stresses how generative AI systems play a dual role: they form
+the foundation of new products and services, including chatbots and media
+creation tools, while relying on underlying computational infrastructure for
+their technological functioning. In other words, when analytically observing
+generative AI systems in the pursuit of governing them, it is insufficient to
+focus on one dimension, such as highly visible applications like ChatGPT.
+Rather, the crux is to acknowledge “generative AI” as a complex relation-
+ship, in which computational infrastructure, LLMs, and consumer-facing
+applications are intricately intertwined (figure 7.1).

@@ -1,0 +1,21 @@
+Governing the “Third Half of the Internet”                                 81
+
+Wang, Yixue, and Nicholas Diakopoulos. 2022. “Highlighting High-Quality Content
+   as a Moderation Strategy: The Role of New York Times Picks in Comment Quality.”
+  ACM Transactions on Social Computing 4(4): 1–24. https://doi.org/10.1145/3484245.
+Westlund, Oscar. 2021. “Advancing Research into Dark Participation.” Media and
+  Communication 9(1): 209–14. https://doi.org/10.17645/mac.v9i1.1770.
+Wintterlin, Florian, Tim Schatto-Eckrodt, Lena Frischlich, Svenja Boberg, and
+   Thorsten Quandt. 2020. “How to Cope with Dark Participation: Moderation
+   Practices in German Newsrooms.” Digital Journalism 8(7): 904–24. https://doi.
+   org/10.1080/21670811.2020.1797519.
+Wolfgang, David J. 2018. “Cleaning up the ‘Fetid Swamp’: Examining How Journalists
+   Construct Policies and Practices for Moderating Comments.” Digital Journalism
+    6(1): 21–40. https://doi.org/10.1080/21670811.2017.1343090.
+Yarnoz, Carlos. 2019. “El Lector Gana Protagonismo.” El País, October 26. https://
+   elpais.com/elpais/2019/10/26/opinion/1572078022_285897.html.
+
+About the Author
+
+Cedric Waterschoot is a postdoctoral researcher at the Department of
+Advances Computing Sciences (DACS) at Maastricht University.

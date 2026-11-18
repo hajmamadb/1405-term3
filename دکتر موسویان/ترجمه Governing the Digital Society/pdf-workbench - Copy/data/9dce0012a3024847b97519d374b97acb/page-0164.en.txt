@@ -1,0 +1,42 @@
+The Long-term Usefulness of Regulating AI in the EU                         161
+
+development of (generative) AI? In essence, I argue that the accumulating
+power of Big Tech companies is strongly entwined with the rise of (genera-
+tive) AI. However, the AI Act seems to fail in addressing the problems that
+may arise from the influence of these Big Tech companies on (generative)
+AI, instead delegating responsibilities for curbing these risks to smaller
+actors—the developers of AI applications built on top of the foundational
+models.
+  The focus of the AI Act on applications of AI over the foundational models
+of AI is worrisome because it means that companies developing founda-
+tional AI models will largely escape the regulatory burden, which will be
+placed on companies using the AI models in specific sectors. However, the
+orchestrators of these basic models will have a major influence in the use
+and deployment of AI through the source code and the iterative development
+of AI.
+   It therefore seems that the current approach of the AI Act overlooks
+the power of Big Tech companies in the development of AI. For legislators
+looking at the AI Act to learn and, in the future, possibly regulate AI, it
+might be worthwhile to consider the market and power dynamics that will
+come into play in the AI market over the next few years. It would therefore
+be recommended to focus regulation on foundational models and not only
+the application of AI. Specifically, when it comes to the role of Big Tech
+companies, the goal should be to prevent the power dynamics that worry
+regulators and are being regulated in other digital markets.
+  For the EU, the power of Big Tech companies in AI markets could be
+addressed by including AI in the scope of the DMA as a core platform
+service or the AI Act should address the concerns about the control of AI
+markets. However, it seems unlikely that either will happen (quickly). The
+DMA has been finalized but has a mechanism in place to include new core
+platform services, such as AI systems. However, even if AI was included
+as a core platform service, the DMA only targets companies that provide
+the service to more than 45 million monthly active end users and 10,000
+yearly active business users. For foundational and generative AI models, it
+might be difficult to establish how many end users each model has and how
+these end users might be counted. To include AI in the DMA and actively
+regulate the control of Big Tech companies in AI markets might therefore
+be a burdensome and lengthy process.
+   For the AI Act, the only way to include these Big Tech companies would be
+to completely overhaul the AI Act and not only focus on the applications of
+AI in various sectors but focus on the companies controlling the foundational
+models. In this respect, the amendment of the EP is again relevant. However,

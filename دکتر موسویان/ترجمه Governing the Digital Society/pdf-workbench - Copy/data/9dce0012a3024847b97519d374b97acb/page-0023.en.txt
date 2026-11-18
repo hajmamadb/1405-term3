@@ -1,0 +1,42 @@
+20       José van Dijck, Karin van Es, Anne Helmond, and Fernando van der Vlist
+
+multifaceted human rights risks that the sale of surveillance technologies
+may bring to destinations.
+  The next two contributions explore the governance of “generative AI”
+(a type of AI that can generate images, videos, audio, text, and more) by
+highlighting complexities in the European Union’s AI Act (proposed, at the
+time of writing). Fabian Ferrari discusses how the permeation of society by
+generative AI systems like ChatGPT necessitates the design of future-proof
+governance mechanisms for democratic oversight. To establish and examine
+this oversight, it is crucial for generative AI systems to be open for regulatory
+scrutiny. Ferrari proposes three key dimensions for structuring research
+and policy agendas on the governance of generative AI systems: analytical
+observability, public inspectability, and technical modifiability. The chapter
+uses the EU’s AI Act as an empirical focus, employing these conditions as
+benchmarks to perceive generative AI systems as negotiable objects rather
+than inevitable forces imposed on society.
+  Lisanne Hummel’s contribution critically examines the long-term useful-
+ness of regulating AI in the European Union through the lens of the EU AI
+Act. The (proposed) act aims to regulate AI with a risk-based approach,
+requiring AI applications in high-risk sectors to comply with manda-
+tory requirements. Hummel questions whether the EU AI Act adequately
+considers the intricate entwinement of the power of (American) Big Tech
+companies with the rise of (generative) AI. The EU’s explicit sector-specific
+focus overlooks the early stages of the AI lifecycle, failing to address problems
+arising from the significant impact these Big Tech companies have on the
+conditions for developing (generative) AI.
+  The section concludes with an interview with Natali Helberger, professor
+of information law, conducted by Fabian Ferrari, on the “governability” of AI
+systems. They discuss the possibilities and challenges of making generative
+AI systems transparent and accountable enough for regulatory oversight,
+discussing the principles of accountability and transparency that should
+underpin regulatory frameworks for AI technologies.
+
+Section 3: Governing Public Values
+The final section of this edited volume focuses on the negotiation of norms
+and values in specific digital environments. As platforms and AI applications
+become increasingly integrated into various settings—city environments,
+algorithmic government systems, schools—they play a central role in
+decision-making processes, highlighting the importance of human agency.
+The chapters in this section illuminate the stakes and dynamics involved
+in these processes.

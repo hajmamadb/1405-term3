@@ -1,0 +1,42 @@
+258                                                            Albert Meijer
+
+6. Do we accept how government provides public services?
+Questions about the legitimacy of public services are often connected
+to the question to what extent these public services result in the pro-
+duction of public values in an effective and efficient manner but also
+with respect for privacy and equal treatment. This issue has been a key
+focus in academic debates in public administration (Hood 1991); it is also
+central to the analysis provided by Gerwin van Schie, Laura Candidatu,
+and Diletta Huyskes of a welfare fraud risk-scoring algorithm used by the
+city of Rotterdam between 2018 and 2020. Their analysis focuses on the
+values of inclusivity, nondiscrimination, and fairness and reveals how the
+algorithm interprets structural social disadvantages as a higher risk for
+welfare fraud. This pattern delegitimizes the government’s production of
+public services.
+
+7. Does government ensure through regulation that societal actors
+produce the values we want?
+Societal actors function within regulatory frameworks and practices.
+The question here is whether the way government enacts its regulatory
+functions makes societal actors produce the public values we want. Does
+government regulation, for example, enable companies to produce needed
+products and services such as food and travel options while avoiding nega-
+tive impacts on the physical environment and on workers? The question of
+regulatory effectiveness is addressed by Machiko Kanetake in her analysis
+of cyber surveillance items and the regulation of platform workers by
+Gabriël van Rosmalen focused on the question of how regulation can
+prevent the production of negative values. Some authors are quite critical
+of regulatory effectiveness. Lisanne Hummel, for instance, highlights
+that the EU’s explicit focus on specific sectors neglects the earlier stages
+of the AI lifecycle and maybe therefore fail to address problems arising
+from the significant impact Big Tech companies have on the conditions
+for developing generative AI.
+
+8. Do we accept how government regulates society?
+An important question is whether governments abuse their power in the
+effort to regulate society: To what extent do governments use their data
+power to identify undesirable practices? Does this use of power result in
+undesirable infringements on privacy? This issue was touched upon in the
+analysis of government regulation of platform work by Gabriël van Rosmalen
+and in the discussion of cyber surveillance by Machiko Kanetake, even if
+was not explicitly analyzed.

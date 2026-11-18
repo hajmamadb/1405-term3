@@ -1,0 +1,41 @@
+The Techno-Politics of Conversational AI’s Moral Agency                   181
+
+  Addressing the prevailing challenges in moralizing chatbots demands not
+only diligence but also some creativity and imagination from companies. As
+the front runner of the country’s chatbot race, ErnieBot implemented content
+regulations in its service agreement and community guidelines to safeguard
+against content that may run afoul of socialist values. ErnieBot has adopted
+a direct approach to achieve this goal: it explicitly forbids political content
+in its user agreement, stating, “Please ensure that the content you enter
+does not contain political, pornographic, or violent elements” (Baidu 2022).
+However, what constitutes “political content” remains ambiguous in the
+service guidelines. ErnieBot’s decision to enforce a blanket ban on political
+content could be viewed as a cost-effective measure aimed to safeguarding
+socialist values. As the upcoming section details, such constraints are
+notoriously difficult to implement and can be readily bypassed by users.
+
+Jailbreaking moral agency
+
+Above, we delineated the intricate technological and political aspects of the
+moralization of conversational AI tools. Now, our focus shifts to the users
+and their efforts to subvert the moral agency of chatbots, using the emerging
+phenomenon of AI jailbreaking as a key example. The concept of jailbreaking
+technology is not new. Earlier research on smartphone jailbreaking has
+documented grassroots efforts to bypass system restrictions, allowing users
+to personalize their devices or freely download third-party applications
+(Goggin 2009). Within the context of conversational AI, “jailbreaking” refers
+to the practice of injecting prompts with malicious intent to introduce
+specific inputs into the conversation flow, often with the aim of bypassing
+safety features or extracting sensitive information (Zhuo et al. 2023).
+  For instance, as mentioned earlier, ChatGPT is equipped with safety
+features designed to prevent the generation of content that may be deemed
+potentially harmful. However, since its launch, various online communities,
+such as on Reddit, have been sharing jailbreaking prompts with the intention
+of deceiving ChatGPT into producing forbidden content. These prompts
+frequently involve role-playing scenarios crafted to elicit problematic
+content, including tutorials on activities such as bomb-making and car
+theft, as well as offensive jokes of a racist or misogynistic nature. A notable
+example is the so-called “DAN” (stands for “Do Anything Now”), which
+refers to varied versions of jailbreaking prompts that allow users to bypass
+certain content restrictions of ChatGPT. An article in Fast Company reports
+on this phenomenon:

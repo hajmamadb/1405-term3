@@ -1,0 +1,42 @@
+38                                     Mathilde Sanders and José van Dijck
+
+of thousands of “instances” owned (materially and/or immaterially) and
+operated by their initiators and users. The only centralized element in
+Mastodon’s organization is the maintenance of its software by a so-called
+gemeinnützige Gesellschaft mit beschränkter Haftung (gGmbH), a non-
+profit company with limited liability under German law. Eugen Rochko,
+the developer who built Mastodon, acts as the authorized manager to
+represent Mastodon’s gGmbH. Out of principle, Rochko has declined
+offers from venture capital investors who wanted to invest in Mastodon
+(Belager 2023). As the sole employee, Rochko works with a small team of
+freelancers (Newton 2023). Mastodon users who connect through these
+“instances” do not own or feel responsible for the software infrastructure
+which is run by Rochko’s non-profit organization.
+  DOSNs such as Mastodon are habitually associated with collective and
+non-profit ownership, and the Fediverse aspires to transform the plat-
+form ecosystem into a global commons directly owned, controlled, and
+governed by the people (Kwet 2022). However, there are several degrees
+of decentralization in terms of ownership, which we cannot fully explore
+in this chapter. One form that we do want to mention, and which is often
+indirectly associated with DOSNs, is the cooperative. Platform cooperatives
+of developers or users have existed since the start of the internet, yet this
+remains a rare form of ownership in the platform economy (see the next
+chapter). Cooperatives provide ownership to communities, allowing them
+to share profits more equally among participants, and to reduce the costs
+of transacting and contracting with stakeholders (Schneider 2018). Publicly
+and cooperatively owned digital networks can combine a (modest) for-profit
+goal with a social mission. They focus on social needs, such as universal
+connectivity, and provide better service at lower costs, as they do not solely
+exist to enrich profit maximizing investors (Tarnoff 2022).
+  Platform cooperativism centers on collective ownership models for the
+internet and choosing such a model helps anchor the value of public benefits
+and democratic governance into the organizational design of a platform
+(Scholz 2016). Employee or user cooperatives may, for instance, allot voting
+rights to their owners, and a majority vote might be needed to appoint
+board members (Sanders 2021). However, public and cooperative ownership
+can have downsides, such as limited access to capital. Another potential
+disadvantage is that continuous deliberation among partners can stymie
+clear choices. When individuals and organizations with joint ownership in
+a cooperative have conflicting goals and interests, this can be paralyzing for
+the development and potential scaling of the platform, thereby hampering
+its efficiency and effectiveness.

@@ -1,0 +1,45 @@
+Governing the Global Proliferation of Digital Surveillance Technologies    117
+
+Predator spyware’s sale despite Regulation 2021/821
+
+While it remains to be seen how Article 5(2) is implemented in practice, the
+greater awareness about cyber surveillance exports fell short of preventing the
+spread of a spyware called Predator through some of the EU member states.
+Predator is a spyware developed by the company called Cytrox and “has become
+a favored option for many governments” (Feldstein and Kot 2023, 5) after the
+revelation of the Pegasus Project and the NSO Group started receiving extensive
+international scrutiny. In December 2021, the Citizen Lab’s researchers found
+the likely presence of Predator customers in Armenia, Egypt, Greece, Indonesia,
+Madagascar, Oman, Saudi Arabia, and Serbia (Marczak et al. 2021).
+   For the sake of the EU’s Dual-Use Export Control Regulation, most relevant
+is the sale of Predator by Intellexa, a company based in several jurisdictions,
+including Greece. It has been reported that Intellexa based in Greece sold
+Predator to Madagascar and Sudan and that the sale was apparently author-
+ized by the Greek government after the entry came into force with Regulation
+2021/821. According to the New York Times in December 2022, the Greek
+government admitted that it had granted licenses for the export of Predator
+to Madagascar (New York Times 2022). The Greek official also admitted in
+April 2023 that “Intellexa’s Predator spyware was exported from Greece to
+Sudan” (Athens News 2023). In November 2022, the deputy minister of foreign
+affairs for economic diplomacy in Greece ordered an internal investigation
+to ascertain possible violations of export control regulations (Athens News
+2023). As summarized in table 6.1, the investigations concerning the sale
+of Predator involve the following five export approvals, granted between
+November 15, 2021, and the end of March 2022 (Telloglou and Triantafillou
+2023)—namely, after the entry into force of Regulation 2021/821.
+
+Table 6.1.   Export Approvals by Greek Authorities (November 2021 to March 2022)
+
+ Exporter  Item              Date          Value      End users
+ Intellexa   “system designed    Approved on    €2.7 million   Recipient: Signum
+              for mobile data     November 15,                  Intelligence Ltd (UK
+             extraction and       2021                      company)
+            data collection                               End user: National
+          management”                                     Anti-Fraud Agency in
+                                                        Madagascar
+ Intellexa    “a WiFi tracking and  Approved on   Presumably   Recipient: Signum
+             interception system  November 15,   €0.2 million   Intelligence Ltd (UK
+           designed to extract   2021                      company)
+          and analyze data                             End user: National
+           from mobile devices                                Anti-Fraud Agency in
+            using WiFi”                                    Madagascar

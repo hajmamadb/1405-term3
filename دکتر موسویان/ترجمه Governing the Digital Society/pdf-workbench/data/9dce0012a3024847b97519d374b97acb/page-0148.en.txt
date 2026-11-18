@@ -1,0 +1,42 @@
+The Governance of Generative AI: Three Conditions for Research and Policy  145
+
+Blumenthal, Richard, and Josh Hawley. 2023. “Hawley and Blumenthal Demand
+  Answers from Meta.” Senator Josh Hawley, June 6. https://www.hawley.senate.
+   gov/hawley-and-blumenthal-demand-answers-meta-warn-misuse-after-leak-
+   metas-ai-model.
+Bommasani, Rishi, Drew A. Hudson, Ehsan Adeli, Russ Altman, Simran Arora,
+  Sydney von Arx, Michael S. Bernstein, et al. 2021. “On the Opportunities and
+   Risks of Foundation Models.” arXiv. https://arxiv.org/abs/2108.07258.
+Brevini, Benedetta, and Frank Pasquale. 2020. “Revisiting the Black Box Society
+  by Rethinking the Political Economy of Big Data.” Big Data & Society 7(2): 1–4.
+   https://doi.org/10.1177/2053951720935146.
+Caroli, Laura 2024. “AI Act Consolidated Version.” LinkedIn. https://www.linkedin.
+   com/posts/dr-laura-caroli-0a96a8a_ai-act-consolidated-version-activity-
+   7155181240751374336-B3Ym.
+Department for Science, Innovation and Technology. 2023. “Initial £100 Million
+   for Expert Taskforce to Help UK Build and Adopt Next Generation of Safe AI.”
+   Gov.uk. https://www.gov.uk/government/news/initial-100-million-for-expert-
+   taskforce-to-help-uk-build-and-adopt-next-generation-of-safe-ai.
+Edwards, Benji. 2022. “China Bans AI-Generated Media without Watermarks.” Ars
+   Technica, December 12. https://arstechnica.com/information-technology/2022/12/
+   china-bans-ai-generated-media-without-watermarks/.
+European Parliament. 2023. “MEPs Ready to Negotiate First-ever Rules for Safe and
+   Transparent AI.” European Parliament, July 14. https://www.europarl.europa.
+   eu/news/en/press-room/20230609IPR96212/meps-ready-to-negotiate-first-ever-
+   rules-for-safe-and-transparent-ai.
+Ferrari, Fabian, José van Dijck, and Antal van den Bosch. 2023a. “Foundation
+  Models and the Privatization of Public Knowledge.” Nature Machine Intelligence
+    5: 818–20. https://www.nature.com/articles/s42256-023-00695-5.
+Ferrari, Fabian, José van Dijck, and Antal van den Bosch. 2023b. “Observe, Inspect,
+   Modify: Three Conditions for Generative AI Governance.” New Media & Society.
+   OnlineFirst. https://doi.org/10.1177/14614448231214811.
+Fisher, Elizabeth. 2014. “Chemicals as Regulatory Objects.” Review of European, Compara-
+    tive & International Environmental Law 3(2): 163–71. https://doi.org/10.1111/reel.12081.
+Fraser, David. 2023. “Federal Privacy Watchdog Probing OpenAI, ChatGPT Fol-
+  lowing Complaint.” CBC News, April 4. https://www.cbc.ca/news/politics/
+   privacy-commissioner-investigation-openai-chatgpt-1.6801296.
+Hu, Krystal. 2023. “ChatGPT Sets Record for Fastest-Growing User Base:
+   Analyst Note.” Reuters, February 2. https://www.reuters.com/technology/
+   chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/.
+Jasanoff, Sheila. 2004. States of Knowledge: The Co-production of Science and the
+   Social Order. London: Routledge.

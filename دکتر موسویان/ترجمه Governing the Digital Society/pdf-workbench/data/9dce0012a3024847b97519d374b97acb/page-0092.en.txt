@@ -1,0 +1,42 @@
+Constitutional Aspects of Trusted Flaggers in the Netherlands           89
+
+trusted flaggers are afforded less possibilities than trusted flaggers through
+existing arrangements.
+
+Trusted flaggers in the Netherlands
+For this chapter, it is important to differentiate between governmental and
+non-governmental entities functioning as trusted flaggers. Both function
+as trusted flaggers, yet for the constitutional angle of this contribution, the
+focus is on governmental organizations: constitutional and fundamental
+rights norms do not necessarily apply to non-governmental entities.
+   In the Netherlands, several members of parliament (MPs) have requested
+transparency on the role of Dutch governmental bodies as trusted flaggers.
+In 2023, Minister of the Interior and Kingdom Relations Hanke Bruins Slot
+disclosed which organs of the Dutch government had access to Meta’s trusted
+flagger portal (Kamerstukken 2022–23, no. 1599). The Dutch Ministry for
+Internal Affairs was the prime addressee of those questions, considering
+its quest for combating disinformation. Despite the sensitivity of the topic
+of the requests, the ministry receives or reports a relatively low volume of
+notifications. In December 2022, Minister Slot reported four cases since
+acquiring trusted flagger status for Meta-associated platforms in 2019 and
+two cases to Twitter. Most cases dealt predominantly with disinformation
+around elections, which falls under the jurisdiction of the Ministry of the
+Interior and Kingdom Relations. The content identified by these flags concern
+voting procedures, for example, suggesting that casting a vote would give
+permission for vaccination. Excerpts from the content removal requests
+show that internet intermediaries rejected the government’s requests, chal-
+lenging the hypothesis that referrals from state bodies exert pressure on the
+internet intermediaries to remove content. Meta refused removal because
+the ministry’s interpretation of community guidelines differed from its own.
+  Aside from the Ministry of the Interior and Kingdom Relations, the
+national police also received attention in its role as trusted flagger (Aan-
+hangsel Handelingen II 2022–23, no. 1946). Questions regarding their role
+in the content moderation process, raised by conservative MP Pepijn van
+Houwelingen, primarily focus on the relative opacity of their content removal
+requests. The police do not keep track of their removal requests, nor does
+Dutch law require internet intermediaries to do so. As a result, it is unclear
+what content the removal requests are based on. According to the literature,
+police units have expressed interest in tackling terrorist propaganda and
+child sexual abuse material (Kilpatrick and Jones 2022).
+  Oversight bodies such as the Food and Consumer Product Safety Au-
+thority (ACM), the Gambling Authority, and the Authority for Financial

@@ -1,0 +1,14 @@
+{
+  "seo": {
+    "title": "گفتارهای ماندگار Se7en — به زبان اصلی و فارسی",
+    "description": "مجموعهٔ ماندگارترین گفتارهای Se7en — به زبان اصلی (انگلیسی) و روایت فارسی — همراه با گوینده و زمینهٔ صحنه؛ از سامرست و میلز تا جان دو."
+  },
+  "heading": "گفتارهای Se7en",
+  "sections": [
+    { "id": "navbar", "variant": "floating" },
+    { "id": "hero", "variant": "se7enQuotesHero" },
+    { "id": "se7enQuotes", "variant": "default" },
+    { "id": "se7enCta", "variant": "default" },
+    { "id": "footer", "variant": "nova" }
+  ]
+}

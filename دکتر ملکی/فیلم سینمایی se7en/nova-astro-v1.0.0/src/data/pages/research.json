@@ -1,0 +1,16 @@
+{
+  "seo": {
+    "title": "منابع و مطالعات Se7en — کتاب‌ها، مقالات، دیتابیس‌ها",
+    "description": "کتابخانهٔ پژوهشی Se7en: کتاب‌های تخصصی، مقالات ژورنالی، نقدهای معاصر، منابع آنلاین (ویکی‌پدیا/Wikiquote) و لینک‌های قانونی تماشای فیلم و شنیدن موسیقی."
+  },
+  "heading": "منابع مطالعاتی Se7en",
+  "sections": [
+    { "id": "navbar", "variant": "floating" },
+    { "id": "hero", "variant": "se7enSourcesHero" },
+    { "id": "se7enSourceLists", "variant": "default" },
+    { "id": "se7enSourcesKit", "variant": "default" },
+    { "id": "se7enSources", "variant": "default" },
+    { "id": "se7enCta", "variant": "default" },
+    { "id": "footer", "variant": "nova" }
+  ]
+}

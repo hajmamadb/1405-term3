@@ -1,0 +1,41 @@
+Constitutional Aspects of Trusted Flaggers in the Netherlands            85
+
+formalization of the trusted flagger system in Article 22 (see also rec. 61–62)
+of the Digital Services Act (Regulation 2022/2065, DSA), the European Union’s
+latest instrument to regulate internet intermediaries. Currently, trusted
+flagger arrangements are voluntary. Following the DSA, the newly appointed
+national digital services coordinator (DSC) can appoint organizations as
+“trusted flaggers,” and social media platforms need to accommodate this.
+  This chapter focuses on state entities functioning as trusted flaggers.
+In principle, trusted flaggers can be any type of entity. The most common
+examples are NGOs, national police, and state bodies. Especially in the case
+of the latter two, this creates tension, since state entities have to respect
+fundamental rights in interacting with citizen’s speech, which includes
+content on social media platforms. Although internet intermediaries make
+the final call on third-party-generated content, a referral by a state entity
+can be conceptualized as a strong nudge to remove that content (Bambauer
+2015; Kreimer 2006). In fact, Urban et al. (2017) found that flagging by trusted
+flaggers can lead to removal without review in some cases. This raises a
+fundamental rights concern: if a state actor requests removal of third-party-
+generated content, and if this request pressures the internet intermediary
+to remove that content, sometimes even without review, that state actor
+might be engaging in what Kreimer describes as “censorship by proxy”
+(2006). Crucially, this creates tension with the freedom of expression as laid
+down in Article 7 of the Dutch constitution and Article 10 of the European
+Convention on Human Rights (ECHR). The purpose of this chapter is to
+evaluate the freedom of expression in the Dutch constitutional setting in
+the context of the trusted flagger framework.
+  The contribution starts with a description of standing trusted flagger
+practices in the Netherlands as well as a description of that framework in the
+DSA. Next, it describes the embedding of freedom of expression in the Dutch
+constitution and the ECHR. Subsequently, it synthesizes these sections,
+assessing whether there are any constitutional fragilities to trusted flaggers
+in the content moderation process. Finally, it makes several suggestions to
+increase the lawfulness, legitimacy, and accountability of this framework.
+
+Trusted flaggers: An introduction
+
+Internet intermediaries occupy a crucial role in moderating the public debate
+on social media, placing them in a quasi-public position that requires them
+to take responsibilities usually reserved for states (Klonick 2018). In taking
+this responsibility, internet intermediaries have sought to legitimize content

@@ -1,0 +1,40 @@
+210                   Gerwin van Schie, Laura Candidatu, and Diletta Huyskes
+
+algorithm since 2018. Using information obtained through a request to
+the administration, the investigative team at Lighthouse Reports was able
+to test the algorithmic model used by the municipality of Rotterdam on
+anonymized data of inhabitants (Constantaris et al. 2023). This allowed them
+to conduct realistic “tests” to check how the model would perform under
+specific scenarios considering different risk indicators (Casimir-Braun et
+al. 2023). From these tests, they concluded that the archetype of a non-Dutch
+mother struggling financially is among the most at-risk profiles, and it gets
+even worse when that person is young and with limited proficiency in Dutch.
+After an internal investigation by the city of Rotterdam, algorithmic risk
+scoring as a work practice was discontinued.
+  While many journalists and scholars have treated this case as: (1) exem-
+plary of new problems associated with the datafication and algorithmization
+of government bureaucracy and (2) a deviation from ideals of equality and
+justice, we find that it signifies a continuation of gendered and racialized
+policing practices with a much longer history. We will make this argument
+by combining a genealogical lens (Tamboukou 1999, 202–3), aimed at tracing
+how norms about race and gender came to be reproduced in Dutch public
+institutions’ welfare distribution processes, with a category analysis (Yanow
+et al. 2016), aimed at revealing the norms embedded in the indicators of
+the welfare fraud risk-scoring algorithm. Where the genealogy is based
+on existing literature on Dutch welfare, the category analysis entails a
+critical study of the indicators present in the risk-scoring calculation as
+detailed in a public letter by Richard Moti (2021), the alderman of the Work
+and Income Department of the municipality of Rotterdam at the time. By
+linking past welfare discourses and contemporary algorithmic systems, we
+argue that contemporary bureaucratic practices continue the enforcement
+of sexist and racist ideas about the ideal beneficiary of state welfare that
+were already present in Dutch welfare discourse. The social positioning of
+migrant mothers is thus naturalized within the algorithm, which ultimately
+questions their subjectivity as citizens and their rights as citizens. With this
+critical analysis of the categories within a data assemblage, we advocate for
+auditing approaches that take into account both the historical contexts and
+the prevailing discursive practices shaping and reproducing institutional
+processes. This way, the discriminatory potential of algorithmic systems
+could be mitigated before systems are implemented, instead of stopped
+after marginalized people (who were marginalized to begin with) have
+been victimized.

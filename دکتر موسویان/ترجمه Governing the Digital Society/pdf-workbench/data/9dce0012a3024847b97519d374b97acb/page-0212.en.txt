@@ -1,0 +1,37 @@
+12.  Motherhood in the Datafied Welfare
+     State: Investigating the Gendered and
+     Racialized Enactment of Citizenship
+     in Dutch Algorithmic Governance
+      Gerwin van Schie, Laura Candidatu, and Diletta Huyskes
+
+
+        Abstract: In 2023, Rotterdam discontinued an invasive, biased welfare
+        fraud risk-scoring algorithm after an investigative report by Lighthouse
+        Reports, which exposed its racial and gender biases, disproportionately
+         affecting migrant mothers in deprived areas. This chapter argues that such
+         biases could have been identified before implementation by scrutinizing
+        the categories embedded in the algorithm and contextualizing them
+        within the history of the Dutch welfare system. Using a genealogical
+        approach, we trace how norms about race and gender became embedded
+         in welfare practices. A category analysis shows how these biases shaped
+        the algorithm’s indicators. Drawing on critical data studies and feminist
+        theories on migrant motherhood and racialized citizenship, we show
+      how discriminatory ideas about the “ideal” welfare recipient predate
+        the algorithm, contributing to discussions about equality in datafied
+        welfare governance.
+
+       Keywords: welfare surveillance, algorithmic auditing, intersectionality,
+        discriminatory algorithms, feminist critical data studies
+
+Introduction
+
+On March 6, 2023, the investigative journalism platform Lighthouse Reports
+published a critical article on Wired.com addressing how the Dutch city of
+Rotterdam had been using an invasive and biased welfare fraud risk-scoring
+
+
+
+Van Dijck, José, Karin van Es, Anne Helmond, and Fernando van der Vlist, eds. Governing the
+Digital Society: Platforms, Artificial Intelligence, and Public Values. Amsterdam: Amsterdam
+University Press, 2025
+doi 10.5117/9789048562718_ch12

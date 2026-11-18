@@ -1,0 +1,47 @@
+118                                                  Machiko Kanetake
+
+ Exporter  Item              Date          Value      End users
+ Krikel      “mobile data         Application     €70,000     End user: Ministry of
+             extraction and       submitted on                Defense of Sudan
+            data collection       February 22,                  Intermediate recipients:
+          management”       2022                        Toru Technologies
+                                                              (UAE) and Octopus
+                                                              Information Technol-
+                                                     ogy Services LLC (UAE)
+ Krikel        “wifi tracking         Application     €5,000      End user: Ministry of
+          and interception     submitted on                Defense of Sudan
+           system designed     February 22,                  Intermediate recipients:
+              for deployment      2022                        Toru Technologies
+          and data analysis                                  (UAE) and Octopus
+             of mobile devices                                  Information Technol-
+            using wifi”                                  ogy Services LLC (UAE)
+ Krikel       “data extraction      Application     €70,000     End user: Ministry of
+           from mobile devices  submitted on                   Digital Transformation
+          and data collection   March 24, 2022                 of Ukraine
+          management”      Approved on                   (eventually not
+                             March 31, 2022               exported)
+
+Source: Based upon Telloglou and Triantafillou (2023).
+
+As noted by the European Parliament, “the Greek government admitted it
+has granted export licences to Intellexa for the sale of the Predator spyware
+to repressive governments, such as Madagascar and Sudan” (European
+Parliament 2023, recital Q, emphasis added). As pointed out by the PEGA
+Committee, “the Greek government disclosed that it had provided Intellexa
+with two export licenses on November 15, 2021” (PEGA Committee 2023b,
+para. 155). Namely, the export licenses were given after the entry into force
+of Regulation 2021/821. With regard to the sale to Madagascar, the PEGA
+Committee’s report observes that the “licence was granted despite the
+country’s poor human rights record” and “potentially being in conflict with
+the EU Dual-Use Regulation” (PEGA Committee 2023b, para. 155, emphasis
+added). The PEGA Committee’s report notes that Greece and Cyprus were
+“involved in the illegal export of Predator spyware to the Sudanese Rapid
+Support Forces (RSF) militias” and that “Greece has issued an export
+licence” (PEGA Committee 2023b, para. 242, emphasis added). On this
+basis, the European Parliament called on Greece to “urgently repeal all
+export licences that are not fully in line with the Dual-Use Regulation
+and investigate the allegations of illegal exports, among others to Sudan”
+(European Parliament 2023, para. 20(b)). To be sure, Greece is by no means
+the only country that has received extensive attention in the PEGA Com-
+mittee’s investigation following the Pegasus Project. The present chapter
+pays particular attention to the case of Greece, precisely because of its

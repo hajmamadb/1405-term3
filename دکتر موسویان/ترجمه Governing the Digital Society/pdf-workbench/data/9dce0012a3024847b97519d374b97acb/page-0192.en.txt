@@ -1,0 +1,43 @@
+The Techno-Politics of Conversational AI’s Moral Agency                 189
+
+Faal, Farshid, Ketra Schmitt, and Jia Yuan Yu. 2023. “Reward Modeling for Mitigat-
+   ing Toxicity in Transformer-Based Language Models.” Applied Intelligence 53:
+   8421–35. https://doi.org/10.48550/arXiv.2202.09662.
+Goggin, Gerard. 2009. “Adapting the Mobile Phone: The iPhone and Its Consump-
+   tion.” Continuum 23 (2): 231–44. https://doi.org/10.1080/10304310802710546.
+Helberger, Natali, and Nick Diakopoulos. 2023. “ChatGPT and the AI Act.” Internet
+   Policy Review 12(1). https://policyreview.info/essay/chatgpt-and-ai-act.
+Hochman, Nate. 2023. “ChatGPT Goes Woke.” National Review. https://www.
+   nationalreview.com/corner/chatgpt-goes-woke/.
+Magaudda, Paolo. 2010. “Hacking Practices and Their Relevance for Consumer
+   Studies: The Example of the ‘Jailbreaking’ of the iPhone.” Consumers, Com-
+   modities & Consumption 12 (1). Available at http://csrn.camden.rutgers.edu/
+   newsletters/12-1/magaudda.htm.
+Nguyen, Lilly U. 2016. “Infrastructural Action in Vietnam: Inverting the Techno-
+   politics of Hacking in the Global South.” New Media & Society 18(4): 637–52.
+   https://doi.org/10.1177/1461444816629475.
+Nijssen, Sari R. R., Barbara C. N. Müller, Tibor Bosse, and Markus Paulus. 2023.
+  “Can You Count on a Calculator? The Role of Agency and Affect in Judgments
+   of Robots as Moral Agents.” Human–Computer Interaction 38: 400–416. https://
+   doi.org/10.1080/07370024.2022.2080552.
+OpenAI. 2022. “Snapshot of ChatGPT Model Behavior Guidelines.” https://cdn.
+   openai.com/snapshot-of-chatgpt-model-behavior-guidelines.pdf.
+OpenAI. 2023. “How Should AI Systems Behave, and Who Should Decide?” https://
+   openai.com/blog/how-should-ai-systems-behave.
+Perrigo, Billy. 2023. “Exclusive: OpenAI Used Kenyan Workers on Less Than $2
+   per Hour to Make ChatGPT Less Toxic.” Time. https://time.com/6247678/
+   openai-chatgpt-kenya-workers/.
+Rainey, Clint. 2023. “Computer Scientists Claim to Have Discovered ‘Unlimited’ Ways
+   to Jailbreak ChatGPT.” Fast Company, February 8. https://www.fastcompany.
+   com/90932325/chatgpt-jailbreak-prompt-research-cmu-llms.
+Schaul, Kevin, Szu Yu Chen, and Nitasha Tiku. 2023. “Inside the Secret List of Web-
+   sites That Make AI Like ChatGPT Sound Smart.” Washington Post, April 19. https://
+   www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/.
+Sheng, Emily, Kai-Wei Chang, Premkumar Natarajan, and Nanyun Peng. 2021.
+   “Societal Biases in Language Generation: Progress and Challenges.” arXiv preprint
+   arXiv:2105.04054.
+Shi, Yu. 2011. “iPhones in China: The Contradictory Stories of Media-ICT Globali-
+   zation in the Era of Media Convergence and Corporate Synergy.” Journal of
+  Communication Inquiry 35 (2): 134–56. https://doi.org/10.1177/0196859911399903.
+Thompson, Stuart A., Tiffany Hsu, and Steven Lee Myers. 2023. “Conservatives
+  Aim to Build a Chatbot of Their Own.” New York Times, 22 March. https://www.

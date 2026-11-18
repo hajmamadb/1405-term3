@@ -1,0 +1,42 @@
+Fostering Autonomy in the Digital Classroom                             233
+
+“on how to handle students’ personal information created and transferred
+through digital learning materials and assessments” (Kerssens and Van
+Dijck 2021, 7). The covenant developed out of a collaborative sectoral effort,
+based on negotiations between Dutch public and private stakeholders,
+including primary and secondary education councils and Dutch providers of
+educational technology (e.g., publishers, ICT suppliers). Currently, signatories
+include almost all Dutch developers of DEPs. The covenant, in its version
+4.0 (2022), constitutes a living document. In 2018 it was aligned with the
+GDPR and is a concrete manifestation of obligations arising from European
+regulation. The covenant is a detailed arrangement that uses commonly
+accepted agreements to support educational institutions and suppliers in
+complying with legal regulations.
+  Houben and Pierson (2022, 193) argue that the privacy covenant oper-
+ates as a driving force empowering schools in their control over privacy
+and data. First, in a practical sense, model processing agreements, which
+are an integral part of the covenant, support schools in exercising their
+legal position as data controllers. These documents translate covenant
+agreements into a contractual form that aligns with the GDPR, facilitating
+schools’ negotiation with educational platform suppliers on the handling
+and processing of personal data when entering or renewing a contract.
+  Second, the privacy covenant enhances schools’ capacities for observing
+data processing by educational platform companies, encouraging transpar-
+ency from tech suppliers about data processing in their educational software.
+Signatories do so in the “privacy supplement” an annex they are required
+to add to the processor agreement they sign with schools. In the privacy
+supplement, the software developer, in consultation with the school, provides
+elaborate descriptions of the digital products and/or services to be delivered
+in light of the GDPR. It details what processing of personal data takes place
+within the processor’s products and/or services, for what purposes, what
+personal data is involved, where this processing takes place—within or
+outside the European Union—and which sub-processors are used to provide
+the product or service. For schools, the privacy supplement serves to enhance
+transparency in data processing. As a checks-and-balance procedure, it
+strengthens schools’ capacities to observe whether data processing within
+digital services used by teachers and pupils aligns with the principles
+outlined in the GDPR.
+   Third, enhanced transparency in data processing serves as an extra
+incentive for developers, encouraging them to integrate third-party proces-
+sors into their own products that operate in compliance with the GDPR.
+A compelling example is the decision of publishing company Malmberg/

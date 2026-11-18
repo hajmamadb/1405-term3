@@ -1,0 +1,93 @@
+================================================================
+        ارجاع‌نامه و منابع (Bibliography)
+        Se7en Multimedia Kit — References
+================================================================
+
+این فایل، فهرست کامل منابعی است که در کیت مالتی‌مدیا Se7en
+استفاده شده‌اند. در ارائه، این فهرست را در «اسلاید پایانی»
+(References) قرار دهید.
+
+----------------------------------------------------------------
+الف) فیلم (Primary Source)
+----------------------------------------------------------------
+
+Fincher, D. (Director), & Walker, A. K. (Screenplay). (1995).
+  Seven [Film]. New Line Cinema.
+
+----------------------------------------------------------------
+ب) بازیگران و کادر (Cast & Crew)
+----------------------------------------------------------------
+
+Freeman, M. (Actor). (1995). Seven.
+Pitt, B. (Actor). (1995). Seven.
+Paltrow, G. (Actor). (1995). Seven.
+McGinley, J. C. (Actor). (1995). Seven.
+Khondji, D. (Cinematographer). (1995). Seven.
+Shore, H. (Composer). (1995). Seven (Original Motion Picture
+  Soundtrack). New Line Cinema.
+Francis-Bruce, R. (Editor). (1995). Seven.
+
+----------------------------------------------------------------
+ج) تصاویر استفاده‌شده در کیت (Images)
+----------------------------------------------------------------
+
+تصاویر زیر تحت لایسنس Creative Commons یا Public Domain هستند
+و برای استفادهٔ آموزشی (با ذکر منبع) مجازند:
+
+  • Se7en_Poster.jpg — پوستر رسمی (Fair Use, New Line Cinema)
+  • Morgan_Freeman_2006.jpg — David Sifry, CC BY 2.0, via Wikimedia
+  • Morgan_Freeman_2008.jpg — Franz Richter, CC BY-SA 2.5, via Wikimedia
+  • Morgan_Freeman_2018.jpg — Georges Biard, CC BY-SA 4.0, via Wikimedia
+  • Brad_Pitt.jpg — Glenn Francis, CC BY-SA 4.0, via Wikimedia
+  • Gwyneth_Paltrow.jpg — Andrea Raffin, CC BY-SA 3.0, via Wikimedia
+  • David_Fincher.jpg — Wikimedia Commons, CC BY 2.0
+  • Howard_Shore.jpg — Wikimedia Commons, CC BY 2.0
+  • John_C_McGinley.jpg — Wikimedia Commons, Public Domain
+
+جزئیات کامل در: تصاویر/license_meta.json
+
+----------------------------------------------------------------
+د) صداها (Audio)
+----------------------------------------------------------------
+
+  • Stay The Course — Kevin MacLeod (incompetech.com),
+    CC BY 4.0, via Wikimedia Commons
+  • Action — Kevin MacLeod (incompetech.com),
+    CC BY 3.0, via Wikimedia Commons
+
+ارجاع کامل در: صوت/خوانش_و_ارجاع_صداها.txt
+
+----------------------------------------------------------------
+ه) مقالات و اسناد (Articles & Documents)
+----------------------------------------------------------------
+
+  • Wikipedia (English) — "Seven (1995 film)", CC BY-SA 4.0
+    https://en.wikipedia.org/wiki/Se7en_(film)
+  • Wikipedia (Persian) — "هفت (فیلم ۱۹۹۵)", CC BY-SA 4.0
+    https://fa.wikipedia.org/wiki/هفت_(فیلم_۱۹۹۵)
+  • Wikiquote — "Se7en (film)", CC BY-SA 4.0
+    https://en.wikiquote.org/wiki/Se7en
+
+----------------------------------------------------------------
+و) منابع برای مطالعهٔ بیشتر (Further Reading)
+----------------------------------------------------------------
+
+کتاب‌ها:
+  • David Fincher: A Bio-Filmography
+  • Serial Killer Movies: Crime, Culture, and the Media
+  • The Seven Deadly Sins in Medieval and Modern Culture
+  • Se7en — The Screenplay (Andrew Kevin Walker)
+
+مقالات پژوهشی (دسترسی از طریق دانشگاه):
+  • JSTOR: https://www.jstor.org/search?query=Se7en+Fincher
+  • Google Scholar: https://scholar.google.com/scholar?q=Se7en+analysis
+
+پلتفرم‌های دسترسی قانونی به فیلم و موسیقی:
+  • Netflix / Amazon Prime Video / Apple TV (فیلم کامل)
+  • Spotify / Apple Music (موسیقی کامل)
+  • IMDb: https://www.imdb.com/title/tt0114369/
+  • Rotten Tomatoes: https://www.rottentomatoes.com/m/seven_1995
+
+================================================================
+        پایان ارجاع‌نامه — موفق باشید!
+================================================================

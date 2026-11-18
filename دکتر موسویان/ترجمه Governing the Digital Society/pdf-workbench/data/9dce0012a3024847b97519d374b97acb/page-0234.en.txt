@@ -1,0 +1,42 @@
+Fostering Autonomy in the Digital Classroom                              231
+
+  Having discussed how classroom platformization challenges two dimen-
+sions of schools’ digital autonomy, we now turn to the question of what can
+be done in terms of collaborative and collective action for schools to reclaim
+power over data and pedagogy. Based on scholarly literature, we identify two
+foci of collaborative efforts at the sectoral level serving the digital autonomy
+of schools: (1) platform governance and (2) platform alternatives. Both paths,
+we stress, should be approached as a matter of “cooperative responsibility”
+(Helberger et al. 2018). According to Helberger et al., “the realization of public
+values in societal sectors centered on online platforms” should proceed
+through collaborative interactions between platforms, users, and public
+institutions (2018, 10). The authors focus on the issue of platform governance,
+specifically addressing the public position of what we typically consider “Big
+Tech” platforms. We use the concept of cooperative responsibility to highlight
+the importance of collaborations initiated by civic and public actors, which
+may involve joint relationships with public organizations, government
+bodies, and national or international developers of DEPs. In that sense,
+we follow Houben and Pierson, who approach cooperative responsibility
+in more general terms as a “participatory approach to remedy the power
+imbalance between schools and platforms” (2022, 183)—leaving room for
+any cooperative effort bolstering schools’ digital autonomy, whether focused
+on governing instruments for mainstream DEPs or the pursuit of viable
+alternatives independent of Big Tech.
+  In their article, Houben and Pierson (2022) explore the collaborative
+development and implementation of the privacy covenant as an instrument
+of platform governance to hold DEPs accountable and enhance a school’s
+digital autonomy. As they describe it, this instrument developed out of a
+“dynamic interaction and allocation of responsibilities” (ibid., 180) involving
+users, public organizations, and national edtech companies. In addition to
+boosting platform governance at the sectoral level, other scholars discuss
+the value of collaborative initiatives focused on the co-design and co-
+development of alternative ecosystems of digital applications and infra-
+structural services. Bogaerts et al. (2023) stress that values-led organizations
+(including educational institutions), supported by public organizations,
+can take a leading role in designing and building software ecosystems
+based on public values of privacy, transparency, and autonomy. These can
+serve as an alternative to the closed circuits of integrated digital services
+provided by major tech companies. In a similar vein, Veale points out that
+schools’ seemingly inevitable growth of platform dependence can only be
+halted if “viable alternatives” are developed (2022, 73). However, given the
+substantial costs and labor-intensive nature of developing alternatives,

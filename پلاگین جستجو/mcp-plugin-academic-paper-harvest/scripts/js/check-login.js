@@ -1,0 +1,1 @@
+JSON.stringify({url: location.href, title: document.title, login: document.body && document.body.innerText ? (document.body.innerText.indexOf('\u0628\u062e\u062a\u06cc\u0627\u0631\u06cc') !== -1 ? 'LOGGED IN' : 'check') : 'nobody'})

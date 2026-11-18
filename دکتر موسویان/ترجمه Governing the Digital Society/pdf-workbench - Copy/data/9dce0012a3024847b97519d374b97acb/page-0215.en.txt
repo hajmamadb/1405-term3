@@ -1,0 +1,51 @@
+        212                   Gerwin van Schie, Laura Candidatu, and Diletta Huyskes
+
+
+       Table 12.1.   Partial List of Known Discriminatory Algorithmic Systems
+                Implemented by Dutch Governmental Organizations
+
+Organization     System name   Years in   Type of bias
+                  or type         service
+
+Dutch Ministry of   Leefbaarometer  2007–22   A map that used information about migration
+the Interior and      (Liveability                backgrounds of inhabitants as predictors for the
+Kingdom Relations  Barometer)                     liveability of streets and neighborhoods. This
+                    version 1 and 2              information was used as justification for banning
+                                                      specific people from social housing in “problem
+                                                  areas” through the Rotterdam Act (Van Gent
+                                                   et al. 2018; Van Schie et al. 2020). The current
+                                                 version of this system no longer contains these
+                                                      indicators.
+Immigratie- en      Risk-profiling    2011–22   Used birthplace and nationalities of company
+Naturalisatiedienst  algorithm                 owners as predictors for tax fraud and illegal
+(Immigration and                              immigration (Van der Woude and Davidson
+Naturalisation                                     2022).
+Service, IND)
+Dienst Uitvoering   Student bursary  2011–23    In 2023, a group of lawyers reported that out of
+Onderwijs        and loan fraud                 their clients, 97 percent of 397 students accused
+(Education          risk-scoring                   of fraud had a migration background. The
+Implementation    algorithm                    indicators used in the system are still unknown as
+Service, DUO)                                     of September 2023 (Heilbron and Kootstra 2023).
+Dutch Tax         Fraude         2013–20    In the Netherlands, 26,000 people were
+and Customs       Signalering                 wrongfully accused of tax fraud. People with
+Administration     Voorziening                a migration background were targeted at a
+                    (FSV)                        disproportionate rate. The system contained
+                                              data points about people having a “non-Western
+                                               appearance,” nationality, and donations to
+                                       mosques (Peeters and Widlak 2023; PwC 2022).
+Employee         System Risk     2014–20   Only used in specific neighborhoods, often with
+Insurance Agency   Indication (SyRI)            a relatively large population of people with a
+(UWV), the Dutch                               migration background. Used criteria such as
+Social Insurance                                migration background and household composi-
+Bank (SVB), and                                   tion to assess risk (Van Bekkum and Zuiderveen
+the Dutch Tax                                  Borgesius 2021).
+and Customs
+Administration
+Dutch Police       Crime          2015–     Used the factor “percentage of people with
+                    Anticipation     present    a non-Western migration background” in its
+                 System (CAS)                location-based risk-scoring algorithm during the
+                                                   testing phase. This marker was removed before
+                                                                 its national rollout in 2017. However, the model
+                                                                    is still based on past reports, which are heavily
+                                                influenced by human biases (Van Schie and
+                                              Oosterloo 2020). CAS is still in service as of 2023.

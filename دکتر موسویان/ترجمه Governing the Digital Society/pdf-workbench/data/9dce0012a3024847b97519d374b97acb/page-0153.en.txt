@@ -1,0 +1,42 @@
+150                                                          Lisanne Hummel
+
+or features. It seems that the developments in (generative) AI are fast paced
+with big players (incumbents) in digital markets vying for a top spot in the
+market.
+  Even before the rise of generative AI, experts have been concerned about
+the risks of AI, such as the spreading misinformation and the risk that AI
+can make certain human functions obsolete (Wischmeyer and Rademacher
+2020; Europol 2022). In the EU, legislators have acknowledged the risks that
+AI poses but concomitantly recognized the need for AI innovation. In 2021,
+after a long process, they proposed the Artificial Intelligence Act (AI Act),
+which focuses on legislating AI in the broadest sense possible (Grozdanovski
+and De Cooman 2022). The AI Act aims to promote the development of AI for
+the economic development of the EU, on the one hand, and protect certain
+“overriding public interests” and fundamental rights, on the other. At the
+time of writing, the AI Act is still subject to changes since negotiations
+at the EU level (the trialogues) have only just started. However, it seems
+likely that the EU will legislate AI to limit the risks to public interests and
+fundamental rights while promoting innovation.
+   Simultaneously, the EU has been regulating the power of Big Tech com-
+panies and the risk they pose to the market and society in several pieces of
+legislation, such as the Digital Markets Act (DMA) and the Digital Services
+Act (DSA). In these the EU has acknowledged that the power of Big Tech
+companies can negatively impact competition and public values in digital
+markets, as they have become gatekeepers that control access to markets
+but also control what information is shown on their platforms.
+  The development and risks of AI seem to be entwined with the AI systems
+that are developed and commercialized by Big Tech companies. They have
+proliferated the use of AI by using it in all parts of their business and their
+business practices seem to have a large influence on society and people’s
+private lives. However, the AI Act does not address the power of Big Tech
+companies and their role in future AI markets. Especially with their involve-
+ment in the rise of generative AI, it might be worthwhile to consider how
+the infrastructural power of Big Tech companies, which relates to their
+control over important digital infrastructures, will impact AI and the risks
+associated with AI in the future (Van der Vlist et al. 2024).
+  In this light, I question whether the AI Act sufficiently considers the
+power of Big Tech companies in the development of generative AI. I will
+argue that the power of Big Tech companies is inextricably intertwined
+with the rise of AI, and particularly the quick development of generative
+AI. However, the AI Act seems to fail in addressing the problems that may
+arise from the influence of these Big Tech companies on generative AI. AI

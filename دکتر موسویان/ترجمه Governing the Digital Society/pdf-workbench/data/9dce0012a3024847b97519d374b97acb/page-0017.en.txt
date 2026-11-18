@@ -1,0 +1,42 @@
+14       José van Dijck, Karin van Es, Anne Helmond, and Fernando van der Vlist
+
+was based on two assumptions: first, that technology is merely “injected
+into” society, and, second, that governments are the sole actors in the pro-
+cess of “governing” the digital society. Both assumptions are flawed and
+have proven ungrounded. Digital technologies and societies are mutually
+dependent; they shape and define each other and cannot be considered
+separately. Technologies shape societies as profoundly as societies shape
+the development of technologies. Furthermore, governments are not the
+exclusive steering actors in the process of governing digital societies. The
+infrastructural foundations of digital societies are increasingly owned
+and operated by private Big Tech companies (Van Dijck et al. 2018). Most
+governments, China being an exception, have lost their ability to uniquely
+direct technological developments. In their everyday operations and in
+governing their populations and states, they increasingly rely on platforms,
+data, algorithms, chips, and servers, with both hardware and software
+supplied by a select few major tech corporations (Van der Vlist et al. 2024).
+   Digital constructs like the Metaverse, X, generative AI, and cryptocur-
+rency are not accidental technological inventions launched by corporations
+to “disrupt” societies and drive social change. Nor are they inevitable forces
+of nature, leaving governments struggling to uphold legal standards and
+mitigate harmful effects. Instead, digital technologies and societies are
+deeply intertwined, with actors from the state, market, and civil society
+increasingly entangled in their endeavors to create and maintain the so-
+called socio-technical fabric of our (digital) society. This fabric is constituted
+by norms, values, agreements, and laws—a social contract to live together.
+In most Western societies, the phrase “governing the digital society” refers
+to the joint capacity of governments, communities, institutions, companies,
+and civilians to organize society, including its technological foundations.
+The Metaverse, for example, is not a “new” space where citizens can live
+beyond state boundaries; rather, it is society itself that enables platforms like
+Meta to recruit customers and monetize their activities. Digital technologies
+are not an “escape” from society, but are an integral part of our communal
+environment, governed by the same constitution and conditions for living
+together. Therefore, the central question of this edited volume is not just
+“Can digital societies be governed?” but also “How should they be governed?”
+  The concept of “governance” prompts two types of inquiries: How are
+societies governed by digital technologies? and How should these tech-
+nologies be governed, based on public values? (cf. Gillespie 2018). The first
+question acknowledges that digital technologies can be powerful governing
+edifices. For instance, while social media platforms can facilitate the spread
+and promotion of hate speech and extreme content, they can also, through

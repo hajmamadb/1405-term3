@@ -1,0 +1,37 @@
+1.   Decentralized Online Social Networks:
+    Technological and Organizational
+    Choices and Their Public Value Trade-
+     offs
+       Mathilde Sanders and José van Dijck
+
+
+        Abstract: Decentralized online social networks appear to be a refuge
+         for those who wish to leave or quit centralized platforms or mainstream
+         social media. These two types of platforms are often categorically pitted
+         against each other. We argue that the choice for decentralization is neither
+         categorical nor binary but should be the outcome of nuanced considera-
+         tions based on public values. The term “decentralization” encompasses
+        both technical aspects and organizational aspects of a platform. To cement
+        public values in platform design, a combination of both centralized and
+         decentralized technological and organizational elements may be preferable
+        over two uniform opposite categories. We present this decentralization
+       framework as a heuristic for deliberation about the inevitable trade-offs
+       between sometimes conflicting values.
+
+        Keywords: value negotiation, platform interoperability, software protocols,
+         decentralized governance, open-source software, organizational structure
+
+Introduction
+
+When Elon Musk took over Twitter in October 2022, a part of the microblog-
+ging platform’s active user community was up in arms. They feared that
+misinformation and hate speech would flourish if Twitter were to be fully
+incorporated into Musk’s empire. In July 2023, Twitter was renamed X and
+rebranded as part of his conglomerate. One year after its takeover, the
+
+
+
+Van Dijck, José, Karin van Es, Anne Helmond, and Fernando van der Vlist, eds. Governing the
+Digital Society: Platforms, Artificial Intelligence, and Public Values. Amsterdam: Amsterdam
+University Press, 2025
+doi 10.5117/9789048562718_ch01

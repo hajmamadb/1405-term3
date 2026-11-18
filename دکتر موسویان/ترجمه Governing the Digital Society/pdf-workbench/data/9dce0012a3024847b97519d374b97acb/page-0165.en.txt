@@ -1,0 +1,41 @@
+162                                                          Lisanne Hummel
+
+the question is whether this amendment will be adopted and how effective
+the amendment will actually be in addressing the influence that Big Tech
+companies can exert through these foundational models.
+
+References
+
+De Silva, Daswin, and Damminda Alahakoon. 2022. “An Artificial Intelligence
+   Life Cycle: From Conception to Production.” Patterns 3(6): 100489. https://doi.
+   org/10.1016/j.patter.2022.100489.
+Edwards, Lilian. 2022. “Expert Opinion.” Ada Lovelace Institute. https://www.
+   adalovelaceinstitute.org/wp-content/uploads/2022/03/Expert-opinion-Lilian-
+   Edwards-Regulating-AI-in-Europe.pdf.
+EU Commission. 2021. “Proposal for the Artificial Intelligence Act.” COM/2021/206 fi-
+   nal. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0206.
+EU Council. 2023. “The General Approach to the Artificial Intelligence Act.” Brussels,
+  November 25, 2022 (OR. en) 14954/22. https://data.consilium.europa.eu/doc/
+   document/ST-14954-2022-INIT/en/pdf.
+EU Parliament. 2023. “Amendments Adopted by the European Parliament
+  on 14 June 2023 on the Artificial Intelligence Act.” COM(2021)0206–C9-
+   0146/2021–2021/0106(COD). https://www.europarl.europa.eu/doceo/document/
+   TA-9-2023-0236_EN.html.
+Europol. 2022. “Facing Reality? Law Enforcement and the Challenge of Deepfakes.
+  An Observatory Report from the Europol Innovation Lab.” European Union.
+   https://doi.org/10.2813/08370.
+Farrell, Joseph. 2006. “Complexity, Diversity and Antitrust.” The Antitrust Bulletin
+    51(1): 165–73. https://doi.org/10.1177/0003603X0605100107.
+Ferrari, Fabian, José van Dijck, and Antal van den Bosch. 2023. “Foundation Models
+  and the Privatization of Public Knowledge.” Nature Machine Intelligence 5:
+   818–20. https://doi.org/10.1038/s42256-023-00695-5.
+Grozdanovski, Ljupcho., and Jérôme De Cooman. 2022. “Of Hypothesis and Facts:
+  The Curious Origins of the EU’s Regulation of High-Risk AI.” European Journal of
+  Law Reform 24(1): 122–33. https://doi.org/10.5553/EJLR/138723702022024001008.
+Hardesty, Larry. 2017. “Explained: Neural Networks.” MIT News. https://news.mit.
+   edu/2017/explained-neural-networks-deep-learning-0414.
+Kerber, Wolfgang. 2011. “Competition, Innovation and Maintaining Diversity through
+   Competition Law.” In Economic Approaches to Competition Law: Foundations and
+   Limitations, edited by Joseph Drexl et al., 173–201. Cheltenham: Edward Elgar.
+Knight, Will. 2023. “The Myth of ‘Open Source’ AI.” Wired. https://www.wired.com/
+   story/the-myth-of-open-source-ai/.

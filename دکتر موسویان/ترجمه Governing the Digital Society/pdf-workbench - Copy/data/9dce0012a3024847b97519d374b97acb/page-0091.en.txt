@@ -1,0 +1,42 @@
+88                                                   Jacob van de Kerkhof
+
+to allow all entities, such as users, interested parties, and government
+officials, to flag content they deem illegal. The illegality of content must
+be based on potential violation of EU law or national law in accordance
+with EU law (Article 3(h)). The difference between flags ex Article 16 and
+trusted flags ex Article 22 is the requirement that trusted flags are treated
+without undue delay, whereas flags ex Article 16 need to be treated in a
+timely, diligent, non-arbitrary, and objective manner (Article 16(6)). Further,
+trusted flaggers must publish a public report of the notices they have filed
+every year and send that report to the DSC (Article 22(3)). Under certain
+conditions, trusted flaggers may be stripped of their status when they are
+no longer deemed to fulfill their function well (Article 22(7)).
+   Essentially, the Digital Services Act codifies and formalizes a standing
+practice. This formalization is noteworthy for several reasons. Firstly, ap-
+pointing trusted flaggers so far has been a voluntary arrangement, happening
+exclusively in the sphere of private law. When the DSC—which is a state
+entity, e.g., in the Netherlands, the Authority for Consumers and Markets
+(ACM)—appoints trusted flaggers, the arrangement with the internet
+intermediary becomes compulsory. This raises questions regarding the public
+law responsibilities and accountability of the DSC, including the action-
+ability of the decision to appoint trusted flaggers, or not to grant that status.
+Secondly, the formalization has a practical concern: the Digital Services Act
+does not preclude internet intermediaries from maintaining existing trusted
+flagger relations; it only ensures that the DSC has the capacity to add to those
+arrangements (DSA rec. 61): “In particular, industry associations representing
+their members’ interests are encouraged to apply for the status of trusted
+flaggers, without prejudice to the right of private entities or individuals to enter
+into bilateral agreements with the providers of online platforms.” Although
+this means that there is increased transparency on the to-be-appointed
+flaggers, it does not diminish the opacity of current arrangements, adding
+an extra layer to the abovementioned networked governance. The question is
+whether appointment through the DSC—although compulsory for internet
+intermediaries—can serve as an appealing avenue for entities seeking to be
+trusted flaggers. In current arrangements, those entities can flag content
+based on national law and community guidelines, whereas the trusted
+flagger framework proposed in the DSA only allows for flagging of illegal
+content ex Article 3(h) covering only content in violation of national or
+EU law. This means that trusted flaggers under the DSA may only flag a
+limited scope of content—only that which violates national or EU law, not
+that which violates terms and conditions. It is expected that in practice,
+this distinction does not lead to limitations, but formally, DSC-appointed

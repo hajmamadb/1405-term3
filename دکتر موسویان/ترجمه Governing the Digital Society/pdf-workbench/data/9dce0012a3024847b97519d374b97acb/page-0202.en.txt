@@ -1,0 +1,42 @@
+Doing Inclusion                                                     199
+
+Frictions. This virtual environment was developed during the COVID-19
+lockdowns and allows participants to explore a neighborhood where
+uncanny smart technologies are implemented, like, for instance, surveil-
+lance drones (see Baibarac-Duignan et al. 2023).2 This virtual environment
+playfully presents socio-technical frictions in the smart urban landscape.
+Next, the other civil servant presented two possible deployment scenarios
+for municipal-owned sensors. One involved the idea to reduce noise caused
+by motorcycles in Amsterdam using sensors, and the other was an existing
+project in Eindhoven where sound sensors and algorithms detect aggres-
+sive behavior in a busy nightlife street. Participants could also contribute
+their own controversial scenarios. They suggested camera surveillance in
+urban public spaces, crowd management with sensors, facial recognition
+during street protests, environmental quality sensing, and dynamic traffic
+management on bicycle lanes. Discussions about the cases emphasized the
+frictions and dilemmas in each.
+  A notable moment occurred when a participant, an elderly woman in
+a wheelchair, recounted a painful story of being robbed and beaten in
+broad daylight without bystanders helping her. The discussions shifted
+dramatically, with everyone at the table suggesting possible uses of smart
+tech to prevent street crime. This highlights how public values may clash:
+from the primacy of the general value of privacy to the highly personal
+value of feeling unsafe. Furthermore, seen through the prism of inclusion,
+this embodied experience of a disabled elderly female counterbalanced
+dominant views of the self-reliant “smart citizen” and served a negotiated
+perspective.
+  The workshops informed “doing inclusion” in the following ways:
+    1. Participants imagined and negotiated the contours of inclusive design.
+While negotiating controversial smart technologies in interaction with civil
+servants, citizen participants advanced design values like proportionality,
+temporality, security, human-in-the-loop vs. fully automated technologies
+(human-out-of-the-loop), and transparency. Someone suggested that camera-
+equipped dynamic traffic lights should clearly be directed at bicycle wheels,
+not at people’s faces. In the negotiated exchange that followed, participants
+agreed that the affordances of smart technologies must communicate their
+purposes. Discussions about value-based design allow citizens to negotiate
+with designers, tech companies, and legislators about what inclusive policies
+might be.
+
+
+2   For a web demo: https://future-frictions.apps.utwente.nl.

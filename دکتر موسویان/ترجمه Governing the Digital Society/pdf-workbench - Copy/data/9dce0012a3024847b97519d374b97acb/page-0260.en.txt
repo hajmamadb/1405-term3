@@ -1,0 +1,42 @@
+Concluding Comments: An Assessment of Governing the Digital Society      257
+
+contribute to the legitimacy of commercial actors. Fabian Ferrari discusses
+generative AI and provides requirements for governance of generative AI
+systems to ensure the legitimacy of the commercial actors that develop them:
+analytical observability, public inspectability, and technical modifiability
+(see also the interview with Natali Helberger). Finally, Lisanne Hummel
+discusses the intricate entwinement of the power of (American) Big Tech
+companies with the rise of (generative) AI as a process that delegitimizes
+the role of commercial actors.
+
+3. Do civil society actors produce the public values we want?
+Depending on the country, civil society organizations rather than commer-
+cial actors play a key role in certain sectors. Examples from the Netherlands
+are education, where most schools are run by civil society organizations, and
+public housing, where most housing corporations are non-profit organiza-
+tions. These civil society actors play a more limited role than commercial
+actors in this book. However, Gabriël van Rosmalen discusses platform
+cooperatives as an alternative model for governing digital labor platforms
+and highlights how these cooperatives, characterized by democratic
+structures and worker ownership, have the potential to effectively tackle
+specific labor issues.
+
+4. Do we accept how civil society actors function?
+Even though civil society organizations are often more trusted than com-
+mercial companies, their legitimacy can also be at stake, for example, when
+it comes to adequate spending of public money. An example of the debate
+about the legitimacy of civil society actors is the discussion of decentralized
+online social networks (DOSNs), such as Mastodon or BlueSky, by Mathilde
+Sanders and José van Dijck. They propose a combination of both centralized
+and decentralized technological and organizational elements.
+
+5. Does government produce the public values we want through public
+services?
+A key question for government is whether it brings society what it wants or,
+more precisely, whether it produces the values society needs through public
+services such as education, health care, and policing. The chapter by Niels
+Kerssens and Karin van Es presents a nuanced discussion of the transition
+to digital education and highlights the importance of not only focusing on
+data autonomy but also on pedagogical autonomy. The chapter by Michiel de
+Lange, Erna Ruijer, and Krisztina Varró highlights the importance of inclusiv-
+ity as a public value in co-creating people-centric urban neighborhoods.

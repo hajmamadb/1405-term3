@@ -1,0 +1,33 @@
+{
+  "seo": {
+    "title": "موسیقی Se7en — اسکورِ هاوارد شور",
+    "description": "دربارهٔ اسکور Se7en: سبک موسیقی، موتیف‌های اصلی، نامزدی اسکار هاوارد شور و لینک‌های قانونی شنیدن."
+  },
+  "heading": "موسیقی Se7en",
+  "sections": [
+    {
+      "id": "navbar",
+      "variant": "floating"
+    },
+    {
+      "id": "hero",
+      "variant": "se7enMusicHero"
+    },
+    {
+      "id": "se7enMusic",
+      "variant": "default"
+    },
+    {
+      "id": "se7enMusicAnalysis",
+      "variant": "default"
+    },
+    {
+      "id": "se7enCta",
+      "variant": "default"
+    },
+    {
+      "id": "footer",
+      "variant": "nova"
+    }
+  ]
+}

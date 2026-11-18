@@ -1,0 +1,37 @@
+{
+  "seo": {
+    "title": "دربارهٔ فیلم Se7en — داستان، تولید و جوایز",
+    "description": "داستان کامل Se7en (۱۹۹۵)، تاریخچهٔ تولید، فیلم‌نامه، اکران، گیشه و پذیرش نقادان — به‌همراه تحلیل فیلم‌شناختی عمیق."
+  },
+  "heading": "دربارهٔ فیلم Se7en",
+  "sections": [
+    {
+      "id": "navbar",
+      "variant": "floating"
+    },
+    {
+      "id": "hero",
+      "variant": "se7enFilm"
+    },
+    {
+      "id": "se7enFilmAbout",
+      "variant": "default"
+    },
+    {
+      "id": "se7enFilmSteps",
+      "variant": "default"
+    },
+    {
+      "id": "se7enEssay",
+      "variant": "default"
+    },
+    {
+      "id": "se7enCta",
+      "variant": "default"
+    },
+    {
+      "id": "footer",
+      "variant": "nova"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+    Table of Contents
+
+List of Figures                                                7
+
+List of Tables                                                 9
+
+Acknowledgments                                              11
+
+Introduction: Governing the Digital Society                         13
+        José van Dijck, Karin van Es, Anne Helmond, and
+      Fernando van der Vlist
+
+
+Section 1   Governing Platforms
+
+1.  Decentralized Online Social Networks: Technological and
+   Organizational Choices and Their Public Value Trade-offs         27
+       Mathilde Sanders and José van Dijck
+
+2. Platform Cooperatives as an Additional Strategy for
+   Empowering Platform Workers                               45
+       Gabriël van Rosmalen
+
+3. Governing the “Third Half of the Internet”: The Dynamics of
+  Human and AI-Assisted Content Moderation                   63
+       Cedric Waterschoot
+
+4. Constitutional Aspects of Trusted Flaggers in the Netherlands     83
+       Jacob van de Kerkhof
+
+5. Interview with Catalina Goanta                             99
+       Taylor Annabell
+
+
+Section 2   Governing Artificial Intelligence
+
+6. Governing the Global Proliferation of Digital Surveillance
+   Technologies: Lessons from the EU                           107
+      Machiko Kanetake

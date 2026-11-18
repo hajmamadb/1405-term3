@@ -1,0 +1,42 @@
+166                                                            Fabian Ferrari
+
+FF: In a recent paper published in Computer Law & Security Review (Helberger
+2024), you concluded that “in the draft AI Act, the realization of fundamental
+rights and European and professional values is inadvertently framed as a
+matter of technical formalization, standardization, and technical design
+choices, and platforms, technology providers and standardization bodies find
+themselves in the position of new arbiters of values and fundamental rights.”
+Can you explain this argument?
+
+NH: The EU AI Act takes a value-driven approach, defining AI systems that
+pose significant risks to fundamental rights and public values as high risk
+and imposing a host of prevention and mitigation measures on primarily
+the developers of high-risk AI. For example, developers of high-risk AI must
+install a risk management system that allows them to continuously monitor
+the AI systems and identify and analyze “the known and the reasonably
+foreseeable risks that the high-risk AI system can pose to the health, safety
+or fundamental rights” (European Commission 2024). They need to have
+data management routines in place with the goal to examine “possible
+biases that are likely to affect the health and safety of persons, negatively
+impact fundamental rights or lead to discrimination prohibited under Union
+law.” The systems must be designed in a way to enable human oversight to
+prevent or minimize “the risks to health, safety or fundamental rights” that
+may emerge when a high-risk system is used.
+  Providers of generative AI models with systemic risks need to identify
+and mitigate these risks to accommodate fundamental rights and public
+values. What is common to all these (and more requirements) is that they
+require that (mostly) the developers of AI solutions make an assessment
+under which conditions AI systems are in compliance or in conflict with
+fundamental rights. These systems need to be designed in a way that re-
+spects and operationalizes fundamental rights (like in the human oversight
+condition).
+  Fundamental rights are powerful commitments to core public values in
+our society, like the right to non-discrimination, privacy, freedom of expres-
+sion, and due process. Fundamental rights, however, are also notoriously
+vague, and typically require interpretation in a given context, and also
+include the balancing of conflicting fundamental rights. So far, making
+this assessment has been the task of courts, government institutions, and
+fundamental rights experts. The core expertise of technology companies
+such as OpenAI, Google, Microsoft, or Meta is not fundamental rights, and
+in the past years we have seen rounds of further dismissals and reductions
+of ethics and responsible AI teams in these companies. This is why the role

@@ -1,0 +1,41 @@
+90                                                   Jacob van de Kerkhof
+
+Markets (AFM) comparatively flag a lot more content than the Ministry
+of the Interior and Kingdom Relations: the gambling authority has flagged
+seventy-three pieces of content since 2020, the AFM flagged 134 pieces
+of content in 2019 alone. The Gambling Authority targets illegal forms of
+gambling, predominantly fake lotteries. It does so by using Meta’s Gambling
+Regulatory Channel, a priority access portal designed for gambling authori-
+ties, but it refuses to disclose the exact process of its flagging. The Gambling
+Authority bases its authority on Article 33b of the Wet op de Kansspelen
+(Gambling Act). The AFM flagged content related to fake or malicious
+financial products, requesting removal of 134 pieces of content in 2019. It
+has since stopped using its trusted flagger status, since the platform’s search
+algorithm has since made it more difficult to track pieces of illegal content.
+The AFM bases its trusted flagger activities on enforcing the Wet op het
+Financieel Toezicht (Financial Supervision Act). The ACM is tasked with
+acting against harmful products and misleading advertisements. It bases
+its enforcing powers on EU Regulation 2019/1010 on product compliance.
+Although the ACM did not track the number of requests it made as a trusted
+flagger, the increasing commercialization of social media spaces (Goanta
+2023) raises the suspicion that the amount of potential flags is large. In a
+landscape in which goods are increasingly being sold on the internet, and
+consumers are increasingly involved in selling those goods (Mak 2022),
+it is expected that the consumer authority needs to exercise all available
+oversight capabilities (Goanta and Spanakis 2022).
+  As for non-governmental bodies acting as trusted flaggers, it is difficult
+to create a full list of Dutch non-governmental entities with a trusted flagger
+position. As mentioned earlier, social media platforms are secretive about
+who has access to priority notice-and-takedown avenues. NGOs do not
+always advertise their position as trusted flaggers either. Some Dutch or-
+ganizations have identified themselves as trusted flaggers, such as PersVeilig
+(PressSafe) and the Expertisebureau Online Misbruik (Expertise Agency
+Online Abuse), which focus on issues related to online safety and abuse.
+Most of those organizations have strong relations with governmental bodies
+but can still be considered NGOs.
+
+The protection of freedom of expression in the Netherlands
+
+This section introduces the right to freedom of expression in the Neth-
+erlands, to offer background to the fragilities to this right in the trusted
+flagger framework explored in the next section. This right is predominantly

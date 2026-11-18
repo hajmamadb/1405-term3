@@ -1,0 +1,39 @@
+Motherhood in the Datafied Welfare State                                    211
+
+   In this chapter, we will draw on critical data studies scholarship (Dencik
+and Kaun 2020; Van Zoonen 2020) as well as feminist theories on migrant
+motherhood and racialized citizenship (Schields 2023; Waaldijk 2007).
+Welfare distribution has an intimate historical connection with processes
+of government surveillance of underprivileged people (Kohler-Hausmann
+2007). Given this intimate history, welfare distribution and surveillance
+have proven to be a prominent site for the implementation of data systems
+and algorithms in public governance (Dencik 2022; Dencik and Kaun 2020;
+Choroszewicz and Mäihäniemi 2020; Mann 2020). A recent literature review
+of 190 articles on datafied public service and social equity calls for more
+attention to “technical, socio-technical, and systemic mechanisms that are
+responsible for linking data-driven public service provision to equity” (Ruijer
+et al. 2023, 326–28). With this chapter, we aim to contribute to this line of
+investigation by explicitly linking past welfare regimes and their focus on
+women in general, and migrant women in particular, with contemporary
+algorithmic bureaucratic practices.
+
+Governing the Dutch datafied welfare state
+
+The implementation of the Rotterdam welfare fraud risk-scoring algorithm is
+part of a larger development in which governments at all levels are increas-
+ingly relying on computational systems and algorithms for the execution of
+bureaucratic processes. The assumption is that these systems will improve
+service and work “more fairly without human interference and flaws” (Dencik
+and Kaun 2020, 2). In the case of the Netherlands, the rapid implementation
+of these relatively new systems in state bureaucracy came with multiple
+scandals involving discriminatory algorithmic systems and work practices
+(Peeters and Widlak 2023; Van Bekkum and Zuiderveen Borgesius 2021). A
+recurring theme through most of these scandals is that the systems generally
+disadvantaged Dutch citizens of color and/or with a migration background
+(see table 12.1 for an overview). This gives the impression of deeply ingrained
+structures of institutional racism in Dutch governance. Importantly, we
+consider these cases of discriminatory policy not as the result of the biases
+of individual policymakers, civil servants, programmers, or other people
+working on government data systems and algorithms, but rather as the result
+of widely shared cultural and organizational values and beliefs regarding
+deserving and undeserving citizens.

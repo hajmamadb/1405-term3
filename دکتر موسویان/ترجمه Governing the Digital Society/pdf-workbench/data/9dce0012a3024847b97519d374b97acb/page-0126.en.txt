@@ -1,0 +1,41 @@
+Governing the Global Proliferation of Digital Surveillance Technologies   123
+
+  At least at the level of the EU, there has been a regulatory change towards
+the integration of human rights norms into the framework aimed at regulat-
+ing the proliferation of sensitive items. Yet what was also highlighted by the
+EU’s legislative debates and the wording of the relevant provisions was the
+marginalized presence of human rights and international humanitarian
+law as a yardstick for controlling the risks associated with dual-use items,
+including cyber surveillance items. Article 5(2) does not explicitly state
+that an exporter would be in breach of the provision for the failure to take
+steps to obtain information and assess the risks of serious violations of
+human rights. One could only assume that such a normative consequence
+is implicit in Article 5(2) and may be ensured at the national level. During
+the legislative processes, little attention was given to the specific types of
+human rights, tensions among different human rights, and the difficulty in
+relying on technical features as a source for assessing normative risks. Within
+the field developed for the mitigation of military risks, human rights norms
+are invoked, but they tend not to be given substantial presence—unless the
+implementation of rights-based risk assessment continues to be monitored
+by governments, civil society organizations, and researchers.
+   Overall, Article 5(2) of Regulation 2021/821 is an important step forward
+when seen from the traditional military-based perspective about the field of
+law. Whether or not this represents a significant advancement in mitigating
+human rights risks associated with the sale of cyber surveillance depends
+on how practices of due diligence engage with other instruments in the
+field of business and human rights. Due to the explicit engagement with
+human rights and international humanitarian law, Article 5(2) created an
+important deliberative bridge between the community of export control
+professionals, on the one hand, and the broader community of business
+and human rights, on the other hand. In this sense, the “modernization”
+of the Dual-Use Regulation created the opportunity for shared endeavors
+for governments, industry, researchers, and civil society organizations
+in their efforts to detect and respond to the uncontrolled proliferation of
+surveillance technologies in the digital age.
+
+References
+
+Access Now et al. 2021. “Joint Open Letter by Civil Society Organizations and
+   Independent Experts Calling on States to Implement an Immediate Moratorium
+  on the Sale, Transfer and Use of Surveillance Technology.” Amnesty, July 27.
+   https://www.amnesty.org/en/documents/doc10/4516/2021/en/.

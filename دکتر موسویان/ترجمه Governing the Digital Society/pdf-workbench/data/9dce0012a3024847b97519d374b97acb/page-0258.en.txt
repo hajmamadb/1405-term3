@@ -1,0 +1,45 @@
+Concluding Comments: An Assessment of Governing the Digital Society      255
+
+of services includes services to citizens, such as providing social benefits,
+education, and health care but also policing and military protection for the
+country. Regulation includes legal frameworks for food safety and protection
+of workers as well as oversight over free media and quality of education. The
+emphasis on government regulation has only increased in the past decades
+due to an increased reliance on markets.
+   Building upon (1) the distinction between market, civil society, and state,
+(2) the distinction between government as public services provider and as
+regulator, and (3) the distinction between the public values safeguarded
+by governance and the legitimacy of this government, the complexity of
+governing a digital society can be assessed in eight questions (see table 15.1).
+
+Table 15.1.  Governance Assessment Framework
+
+             Market            Civil society    Government
+                                                    Public services   Regulation
+ Public values   1. Do commercial  3. Do civil society  5. Does govern-    7. Does
+                 actors produce    actors produce   ment produce    government
+                the public values  the public values  the public values  ensure through
+            we want?       we want?       we want through  regulation that
+                                                     public services?   societal actors
+                                                              produce the
+                                                                      values we want?
+ Legitimacy     2. Do we accept    4. Do we accept    6. Do we accept    8. Do we accept
+            how commercial  how civil society  how government how govern-
+                 actors function?   actors function?   provides public   ment regulates
+                                                        services?          society?
+
+Even though addressing the questions separately is already challenging,
+an assessment of governance also means that these questions need to be
+connected. Specific assessments can focus on the possible trade-offs between
+public values and legitimacy, for example, when it comes to privacy and
+security. More general assessment can focus on the relations between market,
+civil society, and government. In that sense, a negative answer to the ques-
+tions about commercial actors raises the question to what extent services
+should be in the civic or public domain rather than in the private domain
+and, also, whether better regulation is needed to ensure that commercial
+actors make a positive contribution to society. These are the broader ques-
+tions—central to political philosophy—about the organization of society:
+Where, when, how, and on what conditions do we combine markets, civil
+society, and the state?
+  The argument in this chapter is that we need to connect the specific
+analyses presented in the various chapters to the broader question of how

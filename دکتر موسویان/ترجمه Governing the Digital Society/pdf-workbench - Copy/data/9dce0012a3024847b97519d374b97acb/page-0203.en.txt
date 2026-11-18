@@ -1,0 +1,43 @@
+200                          Michiel de Lange, Erna Ruijer, and Krisztina Varró
+
+   2. Participants were included in formulating concrete policy recommen-
+dations. Participants advocated for specific moments of evaluation and
+accountability to be built in smart city trajectories. Public administration
+should periodically present convincing narratives about deploying smart
+technologies, as a possible safeguard against mission creep: Are these
+technologies successful, are they still being used as intended? In a striking
+parallel to Keymolen and Voorwinden (2019), participants proposed that
+there should be specific moments of accountability in the “biography”
+of smart urban tech during procurement, application, evaluation, and
+termination phases. Inclusion here means being part of recurring processes
+of joint policy evaluations and negotiations.
+   3. Citizens and institutions negotiated an exchange of agency and power.
+During one workshop, participants suggested that sensors are not only
+instruments to help governments govern but also tools for democratic
+engagement and citizen action. Collective citizen-led air quality sensing
+can serve as a stick to enforce environmental policies. Inclusive smart cities
+allow the democratic right to challenge the status quo. “Doing inclusion” is
+not a one-way street of developing inclusive policies or including citizens in
+institutional decision-making processes. It implies a negotiated exchange
+of agency and power between citizens and governments, with institu-
+tions relinquishing some of their agency and power to citizen collectives.
+As communities negotiate and co-create, the “cacophony” of voices and
+imaginaries meets urban agenda setting and policymaking (McFarlane
+and Söderström 2017).
+
+Using open data for inclusive democratic debate in Utrecht
+For this research project, Utrecht University–based researchers focused
+on inclusive democratic participation involving a living lab in a primarily
+low-income neighborhood of Utrecht (Ruijer et al. 2024).3 In urban living
+labs, local governments, citizens, and local actors collaboratively design and
+co-create innovative solutions for public problems in their neighborhoods,
+often over a long period (Voytenko et al. 2016). In our living lab, representa-
+tives of neighborhood associations, residents, data intermediaries (a data
+consultancy company and data scientists), researchers, and, eventually, the
+local government participated.4
+
+
+3   This research project has received funding from SIDN 193030 and from NWA Route “Smart,
+Liveable Cities.”
+4  The role of the researchers consisted of partially active participating observers during
+meetings and workshops. They did not participate in the activities, but they supported activities

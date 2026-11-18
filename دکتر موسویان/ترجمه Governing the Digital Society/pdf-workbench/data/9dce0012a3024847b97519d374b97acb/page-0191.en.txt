@@ -1,0 +1,43 @@
+188                                                    Jing Zeng and Karin van Es
+
+References
+
+Allen, Colin, Iva Smit, and Wendell Wallach. 2005. “Artificial Morality: Top-down,
+  Bottom-up, and Hybrid Approaches.” Ethics and Information Technology 7:
+   149–55. https://doi.org/10.1007/s10676-006-0004-4.
+Amiri, Parham, and Elena Karahanna. 2022. “Chatbot Use Cases in the Covid-19
+   Public Health Response.” Journal of the American Medical Informatics Association
+  29 (5): 1000–1010. https://doi.org/10.1093/jamia/ocac014.
+Anderson, Michael, and Susan Leigh Anderson. 2007. “Machine Ethics: Creating
+  an Ethical Intelligent Agent.” AI Magazine 28: 15–15. https://doi.org/10.1609/
+   aimag.v28i4.2065.
+Baidu. 2022. “ErnieBot Large Model Documentation Service Agreement: 2022-12-09
+   Version.” https://wenxin.baidu.com/AIDP/wenxin/Yl6th25am.
+Baidu. 2023. “ErnieBot User Agreement.” https://yiyan.baidu.com/infoUser.
+Bendel, Oliver. 2019. “Chatbots as Moral and Immoral Machines.” In Implementing
+   Artifacts in Machine Ethics. CHI 2019 Workshop on Conversational Agents,
+   Glasgow. https://www.robophilosophy.com/wp-content/uploads/2019/08/
+   Paper_Chatbots_CHI.pdf.
+Bhatia, Ankita, Arti Chandani, and Jagriti Chhateja. 2020. “Robo Advisory and
+   Its Potential in Addressing the Behavioral Biases of Investors—A Qualitative
+   Study in Indian Context.” Journal of Behavioral and Experimental Finance 25:
+   100281. https://doi.org/10.1016/j.jbef.2020.100281.
+Bonnemains, Vincent, Claire Saurel, and Catherine Tessier. 2018. “Embedded Ethics:
+  Some Technical and Ethical Challenges.” Ethics and Information Technology 20:
+   41–58. https://doi.org/10.1007/s10676-018-9444-x.
+Cervantes, José-Antonio, Sonia López, Luis-Felipe Rodríguez, Salvador Cervantes,
+   Francisco Cervantes, and Félix Ramos. 2020. “Artificial Moral Agents: A Survey
+   of the Current Status.” Science and Engineering Ethics 26: 501–32. https://doi.
+   org/10.1007/s11948-019-00151-x.
+Chen, Bowen. 2023. “Baidu Intelligent Cloud: China’s First Large-scale Model Data
+   Annotation Center Commences Operation, with 100% of Annotators Holding
+   Bachelor’s Degrees.” China Daily. https://hain.chinadaily.com.cn/a/202308/26/
+   WS64e978e1a3109d7585e4ae07.html.
+Christian, Brian. 2020. The Alignment Problem: Machine Learning and Human
+   Values. New York: W. W. Norton & Company.
+Deshpande, Ameet, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, and
+   Karthik Narasimhan. 2023. “Toxicity in ChatGPT: Analyzing Persona-Assigned
+  Language Models.” arXiv. https://arxiv.org/abs/2304.05335.
+Duguay, Stefanie, Jean Burgess, and Nicolas Suzor. 2020. “Queer Women’s Experi-
+   ences of Patchwork Platform Governance on Tinder, Instagram, and Vine.”
+   Convergence 26: 237–52. https://doi.org/10.1177/1354856518781530.

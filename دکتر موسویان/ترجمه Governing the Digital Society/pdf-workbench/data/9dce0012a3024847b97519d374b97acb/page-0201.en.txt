@@ -1,0 +1,43 @@
+198                           Michiel de Lange, Erna Ruijer, and Krisztina Varró
+
+creating spaces for negotiation and co-creation in an attempt to re-politicize
+the debate about smart cities and empower people in co-shaping them, each
+case serves to further ground one of these terms. The first case shows how
+controversies produce spaces for negotiation, and the second shows how
+data literacy empowers people in processes of co-creation.
+
+Making urban sensing in Amsterdam more inclusive
+In October 2022, researchers in media studies, STS, and design studies from
+Utrecht University and the University of Twente together with Amsterdam
+municipality organized two on-site workshops with citizens.1 At stake
+was the question how citizens view responsible uses of urban sensors.
+For the municipality, the aim was to develop a trajectory where citizens
+were consulted about possible deployments of sensor technologies in their
+immediate environment. For the researchers, the workshops were a new
+step in an ongoing collaboration around controversial smart city technolo-
+gies and citizen inclusion and empowerment through “frictional design”
+(Baibarac-Duignan and De Lange 2021; De Lange and Baibarac-Duignan
+2021). The first workshop took place in a local branch of the public library
+in Amsterdam Nieuw-West, a borough with 150,000 inhabitants, many
+with lower incomes and migration backgrounds. The second workshop was
+organized at the Marineterrein, a designated urban living lab for smart city
+experiments. Participants—in the case of the first workshop locals living
+near the library between the ages of twenty and seventy-five and in the
+case of the second Amsterdam residents between thirty and seventy—were
+recruited via local networks. Both workshops were small-scale (seven to
+eight resident participants), and chaired in Dutch by a female civil servant
+with a migration background.
+  The procedure of both workshops was as follows. After a welcoming word,
+participants and organizers did a short “datawalk” inspired by the approach
+detailed in Van Es and De Lange (2020). The walk primed participants to the
+omnipresence of sensors and datafication. Upon returning, the moderator
+gave full disclosure of the aims and stakes. Next, one of the researchers did
+a brief walkthrough tour of a speculative design intervention called Future
+
+1   Part of the NWO-funded project “Designing for Controversies in Responsible Smart Cities,”
+a collaboration between University of Twente and Utrecht University and a consortium of public
+and private partners (www.responsiblecities.nl). Workshop organizers: Michiel de Lange (UU),
+Corelia Baibarac-Duignan and Julieta Matos Castaño (UTwente), Neeltje Pavicic and Siham El
+Yassini (Amsterdam). The role of the researchers was to organize, moderate, and document the
+process and generate highly situated knowledge. Measuring “effects” and reproducibility were
+not the focus of this research.

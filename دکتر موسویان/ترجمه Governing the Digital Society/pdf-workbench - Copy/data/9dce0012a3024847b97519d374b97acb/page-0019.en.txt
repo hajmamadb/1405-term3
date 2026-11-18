@@ -1,0 +1,41 @@
+16       José van Dijck, Karin van Es, Anne Helmond, and Fernando van der Vlist
+
+of interdisciplinary and multidisciplinary collaboration. The authors of
+the chapters in this volume situate themselves at the critical edges of
+their disciplines, contributing perspectives from law, critical data studies,
+urban studies, science and technology studies, computational linguistics,
+and the political economy of the media. As a result of its interdisciplinary
+nature, the contributions to this edited volume offer a range of approaches
+to governance.
+   This edited volume represents a selection of the issues that our researchers
+address. Despite our varying perspectives, methodologies, and writing
+and publishing styles, we share a profound concern for tackling issues
+that are important to us. Significantly, the digital society challenges us to
+consider not only technological innovations but also fundamental questions
+about human dignity, social equality, responsibility, and community care.
+Moreover, governing the digital society is not solely an academic concern
+but also requires collaboration with various professionals. Our scholars
+regularly engage with policymakers and public authorities, professional
+practitioners (such as police officers and teachers), intergovernmental actors,
+and citizens to address these major societal challenges (see also Schäfer et
+al. 2024). Governance is more than just a noun or a concept; governing is
+also a verb that represents an active process of engagement.
+
+Organization of the volume
+
+This volume is divided into three sections, which are all focused on the
+theme of “governing the digital society.” Each section highlights different
+aspects of governance and of the digital. First, we reflect on different aspects
+of governance across all three sections, highlighting both the governance
+by and of technologies. Second, we focus on different aspects of the digital
+realm: while the proliferation of online platforms has expanded opportuni-
+ties for social exchange and communication, the recent surge of artificial
+intelligence (AI) in online environments has introduced new challenges
+for governance. Therefore, we focus on governing online platforms in sec-
+tion 1 and on governing AI in section 2. All sections, particularly section 3,
+emphasize the role of public values in decision-making processes involving
+both humans and machines. As mentioned, governance is not merely a
+technical or a legal process; it is a societal process through which norms,
+values, and morality are embedded in the institutions and daily practices
+of our society. While automated online platforms, AI, and the public values
+underpinning them are closely interconnected, we have structured our

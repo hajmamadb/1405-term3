@@ -1,0 +1,42 @@
+The Techno-Politics of Conversational AI’s Moral Agency                  187
+
+moral agency arise from (1) tech firms’ inherent self-interest and (whether
+genuine or cosmetic) aspirations for societal benefits (2) existing societal
+discord and polarization.
+  In societies characterized by more oppressive political and media
+climates, chatbots present an additional challenge closely tied to the
+authorities’ imperative to maintain control over information. As a nation
+with a strong ambition to lead the global AI industry (Zeng et al. 2022),
+China acknowledges the need to be at the forefront of AI advancements.
+At the same time, ChatGPT and generative AI in general can undermine
+the nation’s strict information control, which is seen as a crucial pillar
+for maintaining social harmony and stability. In its current approach to
+controlling information flows online, China relies on substantial investments
+in both human resources and technological infrastructure to accomplish
+tasks such as blocking access to Western social media and detecting and
+censoring content perceived as sensitive or harmful among its own internet
+users. However, the introduction of conversational AI presents a shift in the
+target of censorship from user-generated content to LLM-generated content.
+This necessitates the development of a new governing architecture and
+logic to sustain control over the types of information accessible to Chinese
+users. Currently, it is the technology companies that bear the burden of
+responsibility to preserve the socialist sensibility of their products. The
+question that looms is whether, in the future, Chinese users will bear the
+penalty and be held accountable for their interactions with chatbots like
+ErnieBot. For example, as the existing legal framework can subject internet
+users to lengthy prison sentences for disseminating information considered
+rumors by the government, what happens when a user prompts a chatbot
+to produce false information that authorities might disapprove of? Will
+there be legislation imposing penalties on users who coax AI into actions
+contrary to socialist values?
+  While this chapter has centered on the moral agency of chatbots, it
+has sidestepped other controversies surrounding conversational AI. For
+example, the training process of LLMs has raised ethical concerns around
+environmental impact, as well as around using underpaid workers in the
+Global South to label toxic content (Perrigo 2023). Conversational AI has
+also ignited privacy-related concerns, as evidenced by the temporary ban
+of ChatGPT in Italy (see Ferrari, in this volume). The rapid development and
+adoption of new conversational AI tools will continue to give rise to new
+controversies and (moral) questions. Although most of these questions defy
+simple answers, they serve a critical role in shaping the future development
+of governance strategies for emerging technologies.

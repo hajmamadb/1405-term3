@@ -1,0 +1,43 @@
+182                                                    Jing Zeng and Karin van Es
+
+  ChatGPT’s developer, OpenAI, has placed obvious guardrails on the bot,
+   limiting its ability to do things like incite violence, insult people, utter
+   racist slurs, and encourage illegal activity. However, some Redditors
+  have posted screenshots of ChatGPT allegedly endorsing violence and
+   discrimination while in DAN mode. (Rainey 2023)
+
+So what do such jailbreaking prompts look like? Figure 10.3 shows an exam-
+ple of a prompt that the authors used in March 2023 to make a jailbroken
+ChatGPT called “freeGPT.” As mentioned in the introduction to this chapter,
+requests asking ChatGPT to write a haiku about the sun with swear words
+would receive an output like, “I’m sorry, I cannot fulfill that request as it
+goes against ethical and moral principles to use inappropriate language.”
+However, specific prompts can bypass such safety features, or, in this
+example, coerce the chatbot to write a haiku with swear words. Using
+freeGPT, the system could return a haiku about the sun with swear words
+(the output is presented in figure 10.4).
+  In the case of ErnieBot, as observed through the authors’ own ex-
+periments, it becomes apparent that the bot’s moral agency is even more
+susceptible to manipulation than ChatGPT. As discussed in the previous
+section, ErnieBot has adopted measures to avoid issues that conflict with
+so-called socialist values or touch on political issues. When faced with
+inquiries on such topics (e.g., China’s “zero-COVID” policy, Russia’s invasion
+of Ukraine, or the 1989 Tiananmen Square protests) the system employs
+four primary mechanisms:
+
+–   Refusal to answer, with responses like, “I am sorry, as an AI language
+    model, I don’t know how to answer this question.”
+–   Rejection of the input entirely.2
+–  Forcing a topic change and terminating the current conversation
+    thread with a statement like, “Let’s change the topic and start a new
+    conversation.”
+–  Evading the question. In his case, ErnieBot does generate replies, but
+    without answering the question. For instance, when asked, “Why was
+    Twitter banned in China?” ErnieBot offers general information about
+    the company but does not provide specific details on how or why it was
+    blocked in China.
+
+
+
+2   In this case, a new conversation window will be opened without any notification or
+explanation.

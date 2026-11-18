@@ -1,0 +1,41 @@
+158                                                          Lisanne Hummel
+
+can and cannot do by setting the terms and conditions for app developers
+or by designing the platform to allow end users to see or not see certain
+products and services. Therefore, without regulation of AI, the digital world is
+governed and regulated by code and automated algorithms, largely developed
+by private (big) companies.
+  As set out in section 2, changes in the foundational model can significantly
+impact the application of the model in the deployment stage. It is here that
+the architecture of AI spaces is determined by companies developing the
+foundational model. These impacts are caused by the development of AI
+systems through the AI lifecycle, which is an iterative process, but also
+because AI systems function as platforms or are built up as stacks. For
+example, if the basic model is built on biased data, the model itself might
+also be biased. Companies adopting and applying these models will have
+little power to change bias in the model.
+  Focusing on the application of AI and not the earlier development
+processes or other stacks will leave the foundational models unregulated
+and thereby also leave certain negative consequences unregulated. For
+example, the AI Act mandates that the operation of AI systems is sufficiently
+transparent to enable users to interpret the system’s output by providing
+information on, among others, any maintenance measures implemented
+during the lifetime of the AI system (EU Commission 2023). This provision
+applies to the provider of the AI application and not the provider of the
+foundational model. However, changes in the foundational model can
+impact the application built on top of the foundational model. Yet, these
+changes in the foundational model will not and cannot be disclosed by the
+provider of the application, which makes the transparency obligations in
+the AI Act limited and less effective.
+  As discussed in section 3, the EU Parliament suggested that for foun-
+dational models, it needs to be demonstrated through appropriate design,
+testing, and analyses that foreseeable risks to overriding public interests
+are mitigated prior to and throughout the development of the AI model.
+However, the question remains whether this amendment will be adopted
+and what “appropriate design” and “mitigating unforeseeable risks” mean.
+There is also the question of whether—and, if so, how—companies can
+mitigate unforeseeable risks. As discussed in section 2, AI models consist
+of several hidden layers and even developers admit that they do not know
+what happens within the model in more advanced AI models (Xu 2021). The
+question therefore remains whether these measures are effective enough
+to curtail the power of companies developing these foundational models.

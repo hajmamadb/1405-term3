@@ -1,0 +1,42 @@
+Introduction: Governing the Digital Society                                   17
+
+sections around these distinctions to better clarify the multiple, interwoven
+ways of understanding digital governance.
+  The notion of digital governance pertains to the critical importance of
+“regulating control, coordination, incentives, and trust in ways that enable
+new forms of organizing, value creation, and value capture” (Hanisch et
+al. 2023, 10). Digital exchanges, such as platform-based transactions and
+online communities, often occur through large online networks facilitat-
+ing numerous simultaneous interactions. The architecture and economic
+conditions of these networks steer users in their performative acts. While
+human users are governed by online platforms, state actors attempt to govern
+these platforms in return: often they do this by pushing analog governance
+mechanisms such as contracts, laws, and relational norms to their limits
+to make them fit for the digital age. And yet, when new technologies are
+framed by new laws (think, for instance, of the new European Artificial
+Intelligence Act [AI Act]), there is room for value creation and capture.
+Digital governance allows to negotiate public values and subsequently
+embed these values into online mechanisms for organizing trust.
+  In other words, “good governance” is the ability to govern the digital
+society in good trust, aligning these new frameworks with accepted stand-
+ards and mechanisms for democracy. However, these standards are not
+universally accepted or agreed upon; digital societies are always defined
+by geospatial and sociopolitical boundaries setting the benchmarks for
+governance, particularly good governance. Consequently, it is important to
+involve various disciplines in reflecting on the opportunities and challenges
+of governance, as it spans across multiple aspects and dimensions of control,
+coordination, incentives and trust. Working on the issue of governing digital
+societies thus requires a diverse range of perspectives and approaches.
+  This volume is clearly set within a European context, focusing largely
+on European implementations of platform governance within EU legal
+frameworks. Nevertheless, the tensions between the global scope embedded
+in the technological architectures of these platforms and AI structures, and
+the (national and regional) context of their users, will resonate throughout
+most chapters.
+  On a practical note, the chapters in this volume alternate between schol-
+arly analysis and academic reflection, and they shift between argumentative
+and conversational discourse. Each of the three sections includes three or
+four research chapters and concludes with an interview featuring an expert
+in the relevant thematic field. These expert interviews shed light on the
+ongoing efforts to address the challenges of governing the digital society.
+Both the interviewers and the experts are part of the GDS program.

@@ -1,0 +1,42 @@
+248                                                       Viktorija Morozovaite
+
+VM: FRAIA clearly underscores the importance of the impact of algorithmic
+systems on fundamental rights. Please tell us more about the function of the
+Fundamental Rights Roadmap in part 4 of FRAIA. Could you elaborate on
+how it helps to reconcile potential value conflicts?
+
+JG: The function of the Fundamental Rights Roadmap is to identify what kind
+of fundamental rights risks there are in relation to the algorithm the team
+wants to work with, how serious these risks are, and whether there could
+be a justification for introducing that algorithm regardless of these risks.
+  The first step—making an inventory of which fundamental rights could
+be affected by an algorithm—is already a revelation to some civil serv-
+ants. People are usually aware of privacy and data protection issues, but
+they tend to easily overlook other fundamental rights, such as procedural
+and non-discrimination rights. For that reason, we made this long list of
+fundamental rights so that civil servants can relatively easily look up which
+rights could be affected by “their” algorithm. Subsequently, they have to
+go through the other steps of the roadmap for each of these rights. That
+means they will have to identify whether there is specific legislation that
+applies with respect to the considered fundamental right (think of the
+GDPR or of equal treatment legislation); if so, they have to apply that. If
+there isn’t, they will have to estimate the seriousness of the infringement
+of that fundamental right. Then, considering the aims of introducing a
+specific algorithm that had been defined in an earlier part of FRAIA, and
+taking into account the seriousness of the expected infringement, the team
+will have to look into the effectiveness and necessity of the algorithm. Will
+the chosen algorithm really help to realize the objectives, or will it be a
+limited contribution? Are there alternative policy instruments available
+that would interfere with the fundamental rights to a lesser extent, or are
+there mitigation strategies conceivable? If so, then they would typically
+be preferable.
+    If the algorithm “survives” all these steps, the team will arrive at the last,
+and most difficult, step, which requires a balance of rights and interests.
+Metaphorically speaking, this means that they put the fundamental rights
+that will be affected and the extent to which they will be affected on one
+scale of the balance, and on the other scale there will be the objectives of
+public policy, their importance, and the extent to which they can be realized
+by the algorithm. The team will then have to compare these, and, in the
+end, make a choice, or leave the choice to be made by politically responsible
+actors. Either way, we advise teams to write down as carefully as possible
+why a particular choice was made and why they believe that the benefits

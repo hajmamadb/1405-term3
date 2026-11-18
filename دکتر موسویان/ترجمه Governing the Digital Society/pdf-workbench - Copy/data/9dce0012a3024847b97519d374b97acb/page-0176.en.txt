@@ -1,0 +1,37 @@
+10.  The Techno-Politics of Conversational
+     AI’s Moral Agency : Examining
+    ChatGPT and ErnieBot as Examples
+        Jing Zeng and Karin van Es
+
+
+        Abstract: This chapter explores and problematizes the moralization of
+        conversational AI tools. Instead of narrowly defining moral agency as a
+        machine’s capacity for autonomous moral decision-making, our concep-
+         tualization focuses on the system’s ability to adhere to predefined ethics
+       and values. Using ChatGPT and ErnieBot as case studies, we examine
+       moral agency as a technological and a political construct, highlighting
+      how definitions of morality are shaped by societal power struggles. We
+         also discuss users’ role in challenging the moral agency of conversational
+         AI, focusing on chatbot jailbreaking. The chapter concludes by addressing
+       governance challenges, including tech firms’ inherent self-interest and
+         their simultaneous aspirations for societal benefits—whether genuine
+        or cosmetic—and existing societal discord and polarization.
+
+       Keywords: moral decision-making, power struggles, chatbot AI, jailbreak-
+         ing, governance
+
+Introduction
+
+Powered by large language models (LLMs), conversational AI tools like
+OpenAI’s ChatGPT and Baidu’s ErnieBot have sparked both fascination and
+speculation regarding their substantial and central role across all sectors
+in future societies.1 While celebratory discussions abound, there are also
+
+1   In this chapter we use the terms “conversational AI” and “chatbot” interchangeably, though
+they are not the same; conversational AI refers to the broader technology enabling humanlike
+
+
+Van Dijck, José, Karin van Es, Anne Helmond, and Fernando van der Vlist, eds. Governing the
+Digital Society: Platforms, Artificial Intelligence, and Public Values. Amsterdam: Amsterdam
+University Press, 2025
+doi 10.5117/9789048562718_ch10

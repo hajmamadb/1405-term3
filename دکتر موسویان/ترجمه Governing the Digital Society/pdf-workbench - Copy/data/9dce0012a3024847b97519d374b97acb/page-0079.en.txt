@@ -1,0 +1,42 @@
+76                                                       Cedric Waterschoot
+
+on fostering constructive discussion, all aimed at sustaining a monetizable
+and vibrant comment section. The conclusions are twofold.
+   First, the case studies reveal a clear trend of safeguarding the comment
+space from toxicity using (semi-)automated AI-based tools. These tools are
+specifically trained and implemented for this task, confining their scope
+to toxicity filtering. While some outlets have outsourced this practice to
+tech companies, others have opted to develop their own systems, afford-
+ing them greater control and insight into the models used. The fast-paced
+evolution of these computational models has the potential to alter the
+current state of hybrid content moderation, possibly reshaping the role AI
+models play in online content moderation once again. These moderation
+strategies will face challenges from new configurations of hybrid content
+moderation. The recent introduction of the newest generation of large
+language models (LLMs), including ChatGPT, could further expand the
+use of automated content moderation, potentially using AI-based tools
+to detect constructive discussion as well. Given the highly subjective and
+context-dependent nature of promoting constructive discussion, along with
+the visibility and expressiveness that endorsed comments and their content
+receive, it is essential for news outlets to carefully consider the extent to
+which they integrate AI models into the hybrid moderation pipeline. At
+any rate, comment sections are still evolving at a fast pace, as seen in the
+recent revamp at Die Zeit (Berresheim and Meyer 2023).
+  Second, the emphasis on promoting constructive discussion takes the
+form of handpicking specific content, elevating it to greater visibility within
+the comment interface. This is commonly achieved through (human) editor’s
+picks, while awarding user badges is an alternative strategy. Ethnographic
+fieldwork could provide insights into the operationalization of construc-
+tive commenting by human moderators and their interactions with users.
+Preliminary fieldwork with content moderators has indicated that they
+recognize constructive discussion even when it cannot be precisely defined,
+suggesting a high degree of subjectivity and contextual awareness. Elevating
+user-generated content that aligns with editorial standards establishes a
+distinct space between published journalistic articles and unfiltered user
+content—the “third half of the internet.” Nevertheless, to maintain standards
+of quality journalism, moderation policies for the comment section need
+to articulate what the editorial staff defines as “constructive participation”
+and discussion.
+  The shift towards promoting what is deemed constructive and the pres-
+entation of it in the “third half” of news outlets raises unanswered questions
+and consequences. The task of filtering out the most constructive comments

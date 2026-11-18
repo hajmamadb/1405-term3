@@ -1,0 +1,41 @@
+The Techno-Politics of Conversational AI’s Moral Agency                    175
+
+users and their initiatives of gaming and challenging the moral agency of
+conversational AI. Our primary emphasis in this context is the example
+of “chatbot jailbreaking”—the bypassing of content restrictions by us-
+ers through crafted prompts. In the concluding section, we examine the
+complexities of governing moral agency. Here we critique the reactive
+and superficial governing strategies employed by ChatGPT and ErnieBot,
+referring to them as a form of “patchwork governance” (Duguay et al. 2020).
+We use this term to refer to the inconsistent and retroactive measures
+these companies use to address vulnerabilities, effectively patching up
+issues as they arise. Furthermore, as an invitation for future research, we
+contemplate on how conversational AI tools introduce new challenges in
+managing information flows within authoritarian contexts.
+
+Defining the moral agency of chatbots
+
+Scholarship exploring the moral and ethical controversies surrounding
+AI is a rapidly growing field. Numerous concepts have been proposed to
+explore these matters, including machine morality (Anderson and Anderson
+2007), artificial morality (Allen et al. 2005), roboethics (Tzafestas 2018),
+and artificial moral agents (Cervantes et al. 2020). In this body of research,
+significant attention has been directed towards noteworthy instances
+such as humanoid robots, self-driving cars, and autonomous weapons
+(Bonnemains et al. 2018; Nijssen et al. 2023). Conversely, moral aspects of
+chatbots remain relatively understudied in comparison.
+  Discussions regarding the morality of chatbots hold great significance.
+First, the usage of language itself inherently carries substantial moral weight.
+Early studies have shed light on the potential for chatbots to deceive and
+to introduce biases, inadvertently reinforcing existing social prejudices
+(Vorsino 2021; Zemčík 2021). Additionally, the versatility inherent in chatbots’
+applications carry heightened moral consequences for their behaviors. For
+example, chatbot systems find applications in a diverse array of scenarios,
+ranging from answering health-related questions to providing financial
+investment advice (Amiri et al. 2022; Bhatia et al. 2021). Given their versatility
+and widespread applications, any compromise in their moral integrity can
+result in unforeseen and unintended risks. Helberger and Diakopoulos
+(2023) highlight that ChatGPT’s adaptability across various usage contexts
+and its scale of use present distinct challenges in terms of regulation. More
+specifically, they highlight the uncertainty of how it will be used, what it
+is capable of, and the potential risks it may pose.

@@ -1,0 +1,40 @@
+204                          Michiel de Lange, Erna Ruijer, and Krisztina Varró
+
+the processual space created for citizens to negotiate and co-shape future
+visions for their city, then when is a good moment to end this and settle
+on deliverables? Third, when the onus to create inclusive smart cities is on
+everyone, how can cities still be benchmarked and held accountable for hav-
+ing inclusive policies? Fourth, the methodological imperative of engagement
+presents new challenges: How do academics pull out of “the field”? When
+is the project over? How should researchers do expectation management,
+balancing commitment and distance in vulnerable neighborhoods? Finally,
+theorizing inclusive smart cities means the concepts of politics and govern-
+ance themselves are at stake. Future research must attempt to ground more
+firmly—conceptually and empirically—this generational transformation
+of inclusive cities. Inclusion is notion-in-motion: it is never fixed, but is
+constantly being renegotiated and recreated. “Inclusive datafied smart
+cities,” then, is about establishing the conditions for participation, while
+allowing for the notion itself to be constantly open for debate.
+
+References
+
+Alfrink, Kars, Ianus Keller, Gerd Kortuem, and Neelke Doorn. 2022. “Contestable
+  AI by Design: Towards a Framework.” Minds and Machines (33): 613–39. https://
+   doi.org/10.1007/s11023-022-09611-z.
+Baibarac-Duignan, Corelia, and Michiel de Lange. 2021. “Controversing the Datafied
+  Smart City: Conceptualising a ‘Making-Controversial’ Approach to Civic Engage-
+   ment.” Big Data & Society 8(2): 1–15. https://doi.org/10.1177/20539517211025557.
+Baibarac-Duignan, Corelia, Julieta Matos Castaño, Anouk Geenen, and Michiel
+  de Lange. 2023. “Controversing Datafication through Media Architectures.”
+   In Situating Data: Inquiries in Algorithmic Culture, edited by Karin van Es and
+  Nanna Verhoeff, 67–84. Amsterdam: Amsterdam University Press.
+Benjamin, Ruha. 2019. Race after Technology: Abolitionist Tools for the New Jim
+   Code. Medford, MA: Polity.
+Burns, Ryan, and Max Andrucki. 2021. “Smart Cities: Who Cares?” Environment and Plan-
+   ning A: Economy and Space 53(1): 12–30. https://doi.org/10.1177/0308518X20941516.
+Calvi, Alessandra. 2022. “Gender, Data Protection & the Smart City: Exploring
+   the Role of DPIA in Achieving Equality Goals.” European Journal of Spatial
+   Development 19(3): 24–47. https://doi.org/10.5281/zenodo.6539248.
+Cardullo, Paulo, and Rob Kitchin. 2019. “Smart Urbanism and Smart Citizenship:
+  The Neoliberal Logic of Citizen-Focused Smart Cities in Europe.” Environment
+  and Planning C 37(5): 813–30. https://doi.org/10.1177/0263774X18806508.

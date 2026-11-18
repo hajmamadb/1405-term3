@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>مارشال مک‌لوآن — کتابخانه‌ی پژوهشی</title>
+  <link rel="icon" href="assets/img/logo.png">
+
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/phoneIndex.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700;800;900&display=swap"
+    rel="stylesheet">
+
+  <style>
+    /* ========== فونت فارسی ========== */
+    body, h1, h2, h3, h4, h5, h6, p, li, td, th, a, span, .caption, .copy-right,
+    .about-us, #menu-title-desktop, .menu-title {
+      font-family: 'Vazirmatn', 'Rubik', sans-serif !important;
+    }
+
+    /* ========== بازطراحی پنل محتوا: ارتفاع کامل، اسکرول، خوانا ========== */
+    .middle-content {
+      width: 890px !important;
+      min-height: 560px !important;
+      height: 560px !important;
+      top: 262px !important;
+      border-radius: 40px !important;
+    }
+
+    /* پنل‌های محتوا — اسکرول داخلی */
+    .content-panel {
+      height: 470px;
+      overflow-y: auto;
+      padding: 4px 18px 18px 6px;
+      margin: 0;
+    }
+    .content-panel::-webkit-scrollbar { width: 6px; }
+    .content-panel::-webkit-scrollbar-track { background: transparent; }
+    .content-panel::-webkit-scrollbar-thumb { background: rgba(0, 118, 122, .35); border-radius: 4px; }
+
+    /* تیتر پنل */
+    .panel-caption {
+      color: #00767A;
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 2px;
+      text-align: right;
+    }
+    .panel-title {
+      color: #00767A;
+      font-size: 24px;
+      font-weight: 900;
+      text-align: right;
+      margin: 0 0 8px 0;
+      line-height: 1.3;
+    }
+
+    /* متن جریان (prose) */
+    .prose {
+      color: #014547;
+      font-size: 12.5px;
+      line-height: 1.95;
+      text-align: justify;
+      margin-bottom: 8px;
+    }
+    .prose strong { color: #00767A; font-weight: 800; }
+
+    /* زیربخش */
+    .sub-h {
+      color: #00767A;
+      font-size: 14px;
+      font-weight: 800;
+      margin: 12px 0 5px 0;
+      padding-bottom: 3px;
+      border-bottom: 2px solid #00B8BE;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .sub-h .dot { width: 8px; height: 8px; background: #00B8BE; border-radius: 50%; flex-shrink:0; }
+
+    /* کارت‌های پیوست (منابع برای مطالعه بیشتر) */
+    .attach {
+      background: rgba(255, 255, 255, .55);
+      border-right: 3px solid #00B8BE;
+      border-radius: 8px;
+      padding: 8px 12px;
+      margin-bottom: 7px;
+      transition: all .25s;
+    }
+    .attach:hover { background: rgba(0, 184, 190, .12); transform: translateX(-3px); }
+    .attach .a-title {
+      color: #005a5d;
+      font-size: 12px;
+      font-weight: 800;
+      margin-bottom: 2px;
+    }
+    .attach .a-desc {
+      color: #014547;
+      font-size: 11px;
+      line-height: 1.7;
+      margin: 0;
+      text-align: justify;
+    }
+    .attach .a-meta {
+      margin-top: 4px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      align-items: center;
+    }
+    .badge-dl {
+      display: inline-block; font-size: 9.5px; padding: 1px 8px; border-radius: 10px;
+      background: #2e7d32; color: #fff; font-weight: 700;
+    }
+    .badge-borrow {
+      display: inline-block; font-size: 9.5px; padding: 1px 8px; border-radius: 10px;
+      background: #9e9e9e; color: #fff; font-weight: 700;
+    }
+    .badge-star {
+      display: inline-block; font-size: 9.5px; padding: 1px 8px; border-radius: 10px;
+      background: #FFEF97; color: #7a6a1e; font-weight: 800;
+    }
+    .a-link {
+      font-size: 10.5px; color: #00B8BE; font-weight: 700; text-decoration: none;
+    }
+    .a-link:hover { text-decoration: underline; color: #00767A; }
+
+    /* جدول زندگینامه */
+    .bio-table { width: 100%; border-collapse: collapse; margin: 6px 0; }
+    .bio-table td {
+      padding: 5px 8px; font-size: 11.5px; border-bottom: 1px dashed rgba(0,118,122,.25);
+      color: #014547; text-align: right; line-height: 1.6;
+    }
+    .bio-table td:first-child { color: #00767A; font-weight: 800; width: 110px; }
+
+    /* کارت نظریه */
+    .concept {
+      background: linear-gradient(135deg, rgba(255,255,255,.7), rgba(0,184,190,.08));
+      border-radius: 10px;
+      padding: 10px 14px;
+      margin-bottom: 8px;
+      border-right: 4px solid #00B8BE;
+    }
+    .concept h5 {
+      color: #00767A; font-size: 13px; font-weight: 900; margin: 0 0 4px 0;
+      display: flex; align-items: center; gap: 6px;
+    }
+    .concept h5 .num {
+      width: 20px; height: 20px; background: #00767A; color: #fff; border-radius: 50%;
+      display: inline-flex; align-items: center; justify-content: center; font-size: 11px; flex-shrink: 0;
+    }
+    .concept p { color: #014547; font-size: 11.5px; line-height: 1.8; margin: 0; text-align: justify; }
+
+    /* تصویر مرکز — پرتره‌ی مک‌لوآن */
+    .base-img {
+      width: 240px !important;
+      height: auto !important;
+      z-index: 300;
+    }
+
+    /* آیکون‌های منو — بزرگ‌تر و خوانا */
+    .circle-container span, .circle-container-phone span {
+      width: 54px; height: 54px; line-height: 54px;
+      box-shadow: 0 4px 12px rgba(0, 118, 122, .25);
+    }
+    .circle-container span svg, .circle-container-phone span svg {
+      filter: drop-shadow(0 1px 2px rgba(0,0,0,.15));
+    }
+
+    /* پاورقی */
+    .footer-text { width: 80%; }
+
+    /* دکمه‌های شبکه اجتماعی در پاورقی — خوانا */
+    .footer-text a img { opacity: .9; transition: all .2s; }
+    .footer-text a img:hover { opacity: 1; transform: scale(1.15); }
+
+    /* موبایل */
+    @media (max-width: 991px) {
+      .middle-content { width: 92% !important; }
+      .content-panel { height: 420px; }
+      .panel-title { font-size: 20px; }
+      .prose { font-size: 12px; }
+      .base-img { width: 180px !important; }
+    }
+  </style>
+</head>
+
+<body>
+  <!-- ===================== DESKTOP ===================== -->
+  <main class="relative d-none d-lg-block">
+    <div class="top-content">
+      <div class="menu-light-desktop">
+        <svg xmlns="http://www.w3.org/2000/svg" width="69" height="71" viewBox="0 0 69 71" fill="none">
+          <path opacity="0.65" fill-rule="evenodd" clip-rule="evenodd"
+            d="M0.539551 0.510071L14.3753 70.1082H34.0808H34.5001H54.2056L68.0414 0.510071H34.5001H34.0808H0.539551Z"
+            fill="url(#paint0_linear_1_706)" />
+          <defs>
+            <linearGradient id="paint0_linear_1_706" x1="34.0808" y1="20.6348" x2="34.2905" y2="70.1082"
+              gradientUnits="userSpaceOnUse">
+              <stop stop-color="white" stop-opacity="0" />
+              <stop offset="1" stop-color="white" />
+            </linearGradient>
+          </defs>
+        </svg>
+      </div>
+      <div id="menu-title-desktop">زندگی</div>
+      <div class="layer2"></div>
+
+      <div class="layer1">
+        <div class="circle-container">
+
+          <!-- 1: زندگی -->
+          <span data-content="content1" data-title="زندگی">
+            <svg width="22" height="22" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M10 10.5C12.4853 10.5 14.5 8.48528 14.5 6C14.5 3.51472 12.4853 1.5 10 1.5C7.51472 1.5 5.5 3.51472 5.5 6C5.5 8.48528 7.51472 10.5 10 10.5ZM3 16.5C3 13.4624 5.46243 11 8.5 11H11.5C14.5376 11 17 13.4624 17 16.5V17.5H3V16.5Z" fill="#00767A"/>
+            </svg>
+          </span>
+          <!-- 2: آثار اصلی -->
+          <span data-content="content2" data-title="آثار اصلی">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 20 20" fill="none">
+              <g opacity="0.8" clip-path="url(#clip0_mcl_1)">
+                <path d="M8.62238 0H1.40763C1.11466 0 0.877075 0.237483 0.877075 0.530521V19.4695C0.877075 19.7625 1.11456 20 1.4076 20H8.62244C8.91541 20 9.15296 19.7625 9.15296 19.4695V0.530521C9.1529 0.237483 8.91541 0 8.62238 0ZM5.015 17.2148C3.81373 17.2148 2.83998 16.2409 2.83998 15.0397C2.83998 13.8385 3.81373 12.8647 5.015 12.8647C6.21621 12.8647 7.19009 13.8385 7.19009 15.0397C7.19009 16.241 6.21621 17.2148 5.015 17.2148ZM6.90078 6.82919H3.12929C2.83632 6.82919 2.59883 6.59171 2.59883 6.29867C2.59883 6.0057 2.83632 5.76815 3.12929 5.76815H6.90081C7.19379 5.76815 7.43133 6.0057 7.43133 6.29867C7.4313 6.59168 7.19375 6.82919 6.90078 6.82919ZM6.90078 3.96446H3.12929C2.83632 3.96446 2.59883 3.72698 2.59883 3.43394C2.59883 3.14097 2.83632 2.90349 3.12929 2.90349H6.90081C7.19379 2.90349 7.43133 3.14097 7.43133 3.43394C7.4313 3.72698 7.19375 3.96446 6.90078 3.96446Z" fill="#00767A"></path>
+                <path d="M18.5922 0H11.3775C11.0845 0 10.847 0.237483 10.847 0.530521V19.4695C10.847 19.7625 11.0845 20 11.3775 20H18.5923C18.8853 20 19.1228 19.7625 19.1228 19.4695V0.530521C19.1228 0.237483 18.8852 0 18.5922 0ZM14.9849 17.2148C13.7836 17.2148 12.8098 16.2409 12.8098 15.0397C12.8098 13.8385 13.7835 12.8647 14.9849 12.8647C16.1861 12.8647 17.1599 13.8385 17.1599 15.0397C17.16 16.241 16.1861 17.2148 14.9849 17.2148ZM16.8707 6.82919H13.0991C12.8061 6.82919 12.5686 6.59171 12.5686 6.29867C12.5686 6.0057 12.8061 5.76815 13.0991 5.76815H16.8706C17.1636 5.76815 17.4011 6.0057 17.4011 6.29867C17.4011 6.59168 17.1636 6.82919 16.8707 6.82919ZM16.8707 3.96446H13.0991C12.8061 3.96446 12.5686 3.72698 12.5686 3.43394C12.5686 3.14097 12.8061 2.90349 13.0991 2.90349H16.8706C17.1636 2.90349 17.4011 3.14097 17.4011 3.43394C17.4011 3.72698 16.8707 3.96446 16.8707 3.96446Z" fill="#00767A"></path>
+              </g>
+              <defs><clipPath id="clip0_mcl_1"><rect width="20" height="20" fill="white"></rect></clipPath></defs>
+            </svg>
+          </span>
+          <!-- 3: نظریه‌ها -->
+          <span data-content="content3" data-title="نظریه‌ها">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" fill="none">
+              <path d="M11 2C6.58 2 3 5.58 3 10C3 12.5 4.2 14.7 6 16.2V19C6 19.55 6.45 20 7 20H15C15.55 20 16 19.55 16 19V16.2C17.8 14.7 19 12.5 19 10C19 5.58 15.42 2 11 2ZM8 18V17H14V18H8ZM8 15V14H14V15H8Z" fill="#00767A"/>
+            </svg>
+          </span>
+          <!-- 4: نقد و تحلیل -->
+          <span data-content="content4" data-title="نقد و تحلیل">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 20 20" fill="none">
+              <path d="M10 1L12.5 7.5L19 7.5L14 11.5L15.8 18L10 14.3L4.2 18L6 11.5L1 7.5L7.5 7.5L10 1Z" fill="#00767A"/>
+            </svg>
+          </span>
+          <!-- 5: آرشیوها و صدا -->
+          <span data-content="content5" data-title="آرشیوها و صدا">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 20 20" fill="none">
+              <path d="M3 5C3 3.89543 3.89543 3 5 3H15C16.1046 3 17 3.89543 17 5V15C17 16.1046 16.1046 17 15 17H5C3.89543 17 3 16.1046 3 15V5ZM7 7V13L13 10L7 7Z" fill="#00767A"/>
+            </svg>
+          </span>
+
+          <!-- 6-10: تکرار برای چرخش ۱۰نقطه‌ای -->
+          <span data-content="content1" data-title="زندگی">
+            <svg width="22" height="22" viewBox="0 0 20 20" fill="none"><path d="M10 10.5C12.4853 10.5 14.5 8.48528 14.5 6C14.5 3.51472 12.4853 1.5 10 1.5C7.51472 1.5 5.5 3.51472 5.5 6C5.5 8.48528 7.51472 10.5 10 10.5ZM3 16.5C3 13.4624 5.46243 11 8.5 11H11.5C14.5376 11 17 13.4624 17 16.5V17.5H3V16.5Z" fill="#00767A"/></svg>
+          </span>
+          <span data-content="content2" data-title="آثار اصلی">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 20 20" fill="none"><g opacity="0.8" clip-path="url(#clip0_mcl_2)"><path d="M8.62238 0H1.40763V20H8.62244V0ZM5.015 17.2148C3.81373 17.2148 2.83998 16.2409 2.83998 15.0397C2.83998 13.8385 3.81373 12.8647 5.015 12.8647C6.21621 12.8647 7.19009 13.8385 7.19009 15.0397C7.19009 16.241 6.21621 17.2148 5.015 17.2148Z" fill="#00767A"/></g><defs><clipPath id="clip0_mcl_2"><rect width="20" height="20" fill="white"/></clipPath></defs></svg>
+          </span>
+          <span class="active" data-content="content3" data-title="نظریه‌ها">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" fill="none"><path d="M11 2C6.58 2 3 5.58 3 10C3 12.5 4.2 14.7 6 16.2V19C6 19.55 6.45 20 7 20H15C15.55 20 16 19.55 16 19V16.2C17.8 14.7 19 12.5 19 10C19 5.58 15.42 2 11 2ZM8 18V17H14V18H8ZM8 15V14H14V15H8Z" fill="#00767A"/></svg>
+          </span>
+          <span data-content="content4" data-title="نقد و تحلیل">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 20 20" fill="none"><path d="M10 1L12.5 7.5L19 7.5L14 11.5L15.8 18L10 14.3L4.2 18L6 11.5L1 7.5L7.5 7.5L10 1Z" fill="#00767A"/></svg>
+          </span>
+          <span data-content="content5" data-title="آرشیوها و صدا">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 20 20" fill="none"><path d="M3 5C3 3.89543 3.89543 3 5 3H15C16.1046 3 17 3.89543 17 5V15C17 16.1046 16.1046 17 15 17H5C3.89543 17 3 16.1046 3 15V5ZM7 7V13L13 10L7 7Z" fill="#00767A"/></svg>
+          </span>
+
+        </div>
+      </div>
+
+      <img src="assets/img/1/Union.png" class="base-cercle" alt="">
+
+      <!-- پرتره‌ی مک‌لوآن -->
+      <svg class="base-img" viewBox="0 0 240 360" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <linearGradient id="mcl_grad" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#00B8BE"/>
+            <stop offset="100%" stop-color="#00767A"/>
+          </linearGradient>
+          <radialGradient id="mcl_glow" cx="50%" cy="40%" r="60%">
+            <stop offset="0%" stop-color="#00B8BE" stop-opacity="0.25"/>
+            <stop offset="100%" stop-color="#00767A" stop-opacity="0.05"/>
+          </radialGradient>
+        </defs>
+        <!-- هاله -->
+        <circle cx="120" cy="170" r="115" fill="url(#mcl_glow)"/>
+        <!-- رینگ تزئینی -->
+        <circle cx="120" cy="170" r="112" fill="none" stroke="url(#mcl_grad)" stroke-width="2" stroke-dasharray="4 6" opacity="0.5"/>
+        <!-- سیلوئت -->
+        <g fill="#00767A">
+          <ellipse cx="120" cy="115" rx="50" ry="58"/>
+          <path d="M120 170 C 72 170 42 200 36 242 L 36 345 L 204 345 L 204 242 C 198 200 168 170 120 170 Z"/>
+        </g>
+        <!-- عینک (نمادین) -->
+        <g fill="#E7E7E7" opacity="0.55">
+          <rect x="88" y="106" width="26" height="16" rx="5"/>
+          <rect x="126" y="106" width="26" height="16" rx="5"/>
+          <rect x="114" y="111" width="12" height="3"/>
+        </g>
+        <!-- سیم‌پیچ / مایک (نماد رسانه) -->
+        <circle cx="120" cy="250" r="22" fill="none" stroke="#00B8BE" stroke-width="2" opacity="0.6"/>
+        <text x="120" y="256" text-anchor="middle" font-family="Vazirmatn, sans-serif" font-size="13" font-weight="900" fill="#00B8BE">مک‌لوآن</text>
+        <!-- نام و سال -->
+        <text x="120" y="320" text-anchor="middle" font-family="Vazirmatn, sans-serif" font-size="15" font-weight="900" fill="#00767A">مارشال مک‌لوآن</text>
+        <text x="120" y="340" text-anchor="middle" font-family="Vazirmatn, sans-serif" font-size="10" fill="#555">۱۹۱۱ — ۱۹۸۰</text>
+      </svg>
+
+      <div class="menu-top-left">
+        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
+          <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M6.60001 13.5186C6.60004 10.2181 8.93156 7.37732 12.1686 6.73356C15.4057 6.08979 18.6468 7.82239 19.9096 10.8717C21.1724 13.9211 20.1053 17.4378 17.3609 19.2712C14.6165 21.1045 10.9591 20.7439 8.62561 18.4098C7.3286 17.1125 6.59998 15.353 6.60001 13.5186Z"
+            stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+          <path d="M20.4348 20.4354L23.4 23.4006" stroke="white" stroke-width="3" stroke-linecap="round"
+            stroke-linejoin="round"></path>
+        </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
+          <path d="M6.25 15H22.5" stroke="white" stroke-width="3" stroke-linecap="round"></path>
+          <path d="M6.25 21.25H13.75" stroke="white" stroke-width="3" stroke-linecap="round"></path>
+          <path d="M6.25 8.75H18.75" stroke="white" stroke-width="3" stroke-linecap="round"></path>
+        </svg>
+      </div>
+      <img src="assets/img/logo.png" alt="" class="logo-top-right">
+    </div>
+
+    <!-- ============ CONTENT PANELS (محتوای کامل) ============ -->
+    <div class="middle-content relative">
+      <div class="container">
+
+        <!-- ============ PANEL 1: زندگی ============ -->
+        <div id="content1" class="row p-3 content-slider-active">
+          <div class="col-12">
+            <div class="panel-caption">هربرت مارشال مک‌لوآن — ۱۹۱۱ تا ۱۹۸۰</div>
+            <div class="panel-title">زندگی و شخصیت</div>
+            <div class="content-panel">
+              <p class="prose">
+                <strong>مارشال مک‌لوآن</strong> استاد ادبیات و نظریه‌پرداز ارتباطات اهل کانادا بود که با شعار «<strong>رسانه پیام است</strong>» و مفهوم «<strong>روستا به سبکی جهانی</strong>» اندیشه‌ی قرن بیستم را درباره‌ی فناوری و فرهنگ دگرگون کرد. او نخستین کسی بود که رسانه‌ها را نه به‌عنوان ابزار انتقال محتوا، بلکه به‌عنوان «<strong>محیط‌هایی</strong>» که خودِ انسان را شکل می‌دهند تحلیل کرد — ریشه‌ی رشته‌ی «<strong>اکولوژی رسانه</strong>».
+              </p>
+
+              <table class="bio-table">
+                <tr><td>نام کامل</td><td>هربرت مارشال مک‌لوآن (Herbert Marshall McLuhan)</td></tr>
+                <tr><td>تولد</td><td>۲۱ ژوئیه ۱۹۱۱ — ادمونتون، آلبرتا، کانادا</td></tr>
+                <tr><td>درگذشت</td><td>۳۱ دسامبر ۱۹۸۰ — تورنتو، انتاریو (۶۹ ساله)</td></tr>
+                <tr><td>تحصیلات</td><td>لیسانس/ارشد: دانشگاه Manitoba؛ دکترای ادبیات: Trinity Hall، کمبریج (استاد: M.C. Bradbrook)</td></tr>
+                <tr><td>همسر</td><td>Corinne Lewis McLuhan (از 1939؛ در 2008 درگذشت) — ۶ فرزند، از جمله <strong>اریک مک‌لوآن</strong></td></tr>
+                <tr><td>دین / جایزه</td><td>کاتولیک (تأثیر عمیق در آثار دیرهنگام) — Order of Canada (CC)</td></tr>
+                <tr><td>محل کار</td><td>دانشگاه تورنتو (St. Michael's College) از 1946 تا بازنشستگی 1979</td></tr>
+              </table>
+
+              <div class="sub-h"><span class="dot"></span> تأثیرگذاران کلیدی بر اندیشه‌ی او</div>
+              <p class="prose">
+                <strong>Harold Innis</strong> (استاد و پیشرویش — time/space bias)، <strong>Northrop Frye</strong> (همکار نزدیک در تورنتو — نقد ادبی و اسطوره)، <strong>Thomas Aquinas</strong> و <strong>Aristotle</strong> (فلسفه‌ی کلاسیک)، <strong>James Joyce</strong> (<em>Finnegans Wake</em> به‌عنوان منبع الهام مکرر)، و نیز <strong>Jacques Ellul</strong>، <strong>G.K. Chesterton</strong>، <strong>Teilhard de Chardin</strong>.
+              </p>
+
+              <div class="sub-h"><span class="dot"></span> بیوگرافی‌های مرجع (پیوست برای مطالعه)</div>
+
+              <div class="attach">
+                <div class="a-title">Philip Marchand — The Man and His Message (MIT Press, 1989)</div>
+                <p class="a-desc">اولین و خوش‌خوان‌ترین بیوگرافی کامل انگلیسی‌زبان. نقطه‌ی شروع توصیه‌شده.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span> <a class="a-link" href="https://openlibrary.org/works/OL15844002W" target="_blank">Open Library ↗</a></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Donald F. Theall — The Virtual Marshall McLuhan (2001)</div>
+                <p class="a-desc">کامل‌ترین مطالعه‌ی پژوهشی درباره‌ی مک‌لوآن به‌عنوان «نقدکننده‌ی رسانه»؛ نقطه‌ی ورود پیش‌فرض در مک‌لوآن‌شناسی.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span> <a class="a-link" href="https://openlibrary.org/works/OL2379815W" target="_blank">Open Library ↗</a></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">W. Terrence Gordon — Escape Into Understanding (1997/2003)</div>
+                <p class="a-desc">جامع‌ترین و مستندترین بیوگرافی؛ مرجع اصلی پژوهشگران (480 صفحه).</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Douglas Coupland — Marshall McLuhan (Penguin, 2009)</div>
+                <p class="a-desc">سبک ادبی و جذاب؛ مناسب برای فهم مک‌لوآن به‌عنوان نماد فرهنگی کانادا.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Judith Fitzgerald — McLuhan: Wise Guy (2001)</div>
+                <p class="a-desc">بیوگرافی عامه‌پسند کانادی‌زبان.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Letters of Marshall McLuhan (ed. Molinam et al., 1987)</div>
+                <p class="a-desc">نامه‌های او — بسیار ارزشمند برای شناخت شخصیت واقعی.</p>
+                <div class="a-meta"><a class="a-link" href="https://en.wikipedia.org/wiki/Marshall_McLuhan" target="_blank">Wikipedia ↗</a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ============ PANEL 2: آثار اصلی ============ -->
+        <div id="content2" class="row p-3 content-slider-deactive">
+          <div class="col-12">
+            <div class="panel-caption">کتاب‌های خودِ مک‌لوآن — ۱۹۵۱ تا ۲۰۱۱</div>
+            <div class="panel-title">آثار اصلی</div>
+            <div class="content-panel">
+              <p class="prose">
+                آثار مک‌لوآن در سه دوره می‌گذرند. دوره‌ی دوم (1960–1972) «<strong>هسته‌ی کتابخانه</strong>» است — جایی که مفاهیم بنیادین شکل می‌گیرند. <span class="badge-dl">PDF</span> = دانلودشده در همین پوشه؛ <span class="badge-borrow">قرض</span> = فقط از Internet Archive.
+              </p>
+
+              <div class="sub-h"><span class="dot"></span> دوره‌ی اول: پیش از شکوه (1951–1954)</div>
+              <div class="attach">
+                <div class="a-title">The Mechanical Bride: Folklore of Industrial Man (1951)</div>
+                <p class="a-desc">نخستین کتاب. مطالعه‌ی موزاییکی از فرهنگ عامه (تبلیغات، کمیک، جلد مجلات) به‌عنوان متون شعری؛ صنعت تبلیغ «عروس مکانیکی»ای است که هویت توده‌ای را باز-می‌سازد.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Counterblast (1954)</div>
+                <p class="a-desc">نشریه‌ی دست‌ساخت (zine)، aphoristic. نخستین گام به «زبان ضدّ».</p>
+                <div class="a-meta"><span class="badge-borrow">قرض IA</span></div>
+              </div>
+
+              <div class="sub-h"><span class="dot"></span> دوره‌ی دوم: هسته‌ی کتابخانه (1960–1972) ⭐</div>
+              <div class="attach">
+                <div class="a-title">The Gutenberg Galaxy: The Making of Typographic Man (1962)</div>
+                <p class="a-desc">ادراک غرب توسط خط چاپ «بصری، خطی و فردگرا» شد (انسان تایپوگرافیک)؛ رسانه‌های برقی ما را دوباره «تبری‌سازی» می‌کنند. منشأ عبارت «روستا به سبکی جهانی».</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span> <a class="a-link" href="https://en.wikipedia.org/wiki/The_Gutenberg_Galaxy" target="_blank">Wikipedia ↗</a></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Understanding Media: The Extensions of Man (1964) ⭐ مهم‌ترین کتاب</div>
+                <p class="a-desc">متون بنیادین اکولوژی رسانه: «رسانه پیام است»، رسانه‌ها «بازتوسعه» (extension) اندام‌های حسی‌اند؛ تمایز رسانه‌های <strong>گرم/سرد</strong>.</p>
+                <div class="a-meta"><span class="badge-star">مهم‌ترین</span> <span class="badge-dl">PDF دانلودشده</span> <a class="a-link" href="https://en.wikipedia.org/wiki/Understanding_Media" target="_blank">Wikipedia ↗</a></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">The Medium Is the Massage (1967, با Quentin Fiore)</div>
+                <p class="a-desc">بازخوانی کلاژگونه و تصویری Understanding Media؛ رسانه‌ها «ماساژ» کل محیط انسانی می‌دهند. بازی با کلمه‌ی Massage/Message/Mass Age.</p>
+                <div class="a-meta"><span class="badge-dl">PDF + صوت</span> <a class="a-link" href="https://www.ubu.com/aspen/aspen4/" target="_blank">Aspen No.4 ↗</a></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">War and Peace in the Global Village (1968)</div>
+                <p class="a-desc">پی‌گیری اثر رسانه‌های برقی؛ معرفی «feedforward» (پیش‌بازخورد) به‌عنوان راه حل برای «وضعیت‌های اسپاستیک».</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">From Cliché to Archetype (1970, با Wilfred Watson)</div>
+                <p class="a-desc">در عصر برقی، «کلیشه‌های» فرسوده به‌عنوان «آرک‌تایپ‌های» زنده بازمی‌گردند. معرفی «تئاتر جهانی».</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Take Today: The Executive as Dropout (1972, با Barrington Nevitt)</div>
+                <p class="a-desc">راهنمای کاربردی برای «مدیران»: آموزش «روش پرسشگری» برای تشخیص اثر رسانه/فناوری.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">The Interior Landscape (1969) • Culture Is Our Business (1970)</div>
+                <p class="a-desc">انتخابی از نقدهای ادبی (1943–1962) و انتخابی از سخنرانی‌ها و مصاحبه‌ها.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+
+              <div class="sub-h"><span class="dot"></span> دوره‌ی سوم: پس از اوج و پسا-مرگ (1973–2004)</div>
+              <div class="attach">
+                <div class="a-title">Laws of Media: The New Science (1988, با Eric McLuhan)</div>
+                <p class="a-desc">فرمول‌بندی «قوانین رسانه» (تتراد): هر رسانه، رسانه‌ی قبلی را بهبود، فرسوده، بازیابی و وارونه می‌کند.</p>
+                <div class="a-meta"><span class="badge-borrow">قرض IA</span></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">The Global Village (1989) • The New Millennium (1994) • Understanding Me (2004)</div>
+                <p class="a-desc">کتاب پایانی (روشن‌ترین بیان «روستا به سبکی جهانی») + مدیته‌های دیرهنگام دین‌محور + انتخابی از سخنرانی‌ها.</p>
+                <div class="a-meta"><span class="badge-borrow">قرض IA</span></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Essential McLuhan (1995, ed. Eric McLuhan)</div>
+                <p class="a-desc">انتخابی استاندارد از متون اصلی؛ «نمونه‌ی منبع دست اول» برای کلاس‌ها.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ============ PANEL 3: نظریه‌ها ============ -->
+        <div id="content3" class="row p-3 content-slider-deactive">
+          <div class="col-12">
+            <div class="panel-caption">واژه‌نامه‌ی نظریه‌ای مک‌لوآن</div>
+            <div class="panel-title">نظریه‌ها و مفاهیم مرکزی</div>
+            <div class="content-panel">
+              <p class="prose">
+                این شش مفهوم «چارچوب تحلیلی» مک‌لوآن را تشکیل می‌دهند. هرکدام را هم در آثار اصلی و هم در تحلیل‌های دیگران بیابید، و روی رسانه‌های معاصر (اینترنت، هوش مصنوعی، شبکه‌های اجتماعی) به‌کار ببندید.
+              </p>
+
+              <div class="concept">
+                <h5><span class="num">۱</span> رسانه پیام است (The Medium is the Message)</h5>
+                <p>پیام اصلی یک رسانه «محتوای» آن نیست، بلکه <strong>تغییری در مقیاس/آهنگ/الگو</strong> است که رسانه در روابط انسانی ایجاد می‌کند. لامپ برقی «رسانه‌ای بدون محتوا»ست اما با صرف حضور محیط می‌سازد. «محتوای هر رسانه، همیشه رسانه‌ی دیگری است» (گفتار→نوشتار→چاپ→تلگراف).</p>
+              </div>
+              <div class="concept">
+                <h5><span class="num">۲</span> رسانه‌های گرم و سرد (Hot / Cool media)</h5>
+                <p><strong>گرم:</strong> تعریف/رزولوشن بالا، مشارکت مخاطب پایین (فیلم، رادیو، عکس، سخنرانی). <strong>سرد:</strong> تعریف پایین، مشارکت مخاطب بالا (تلویزیون، کمیک، سیمینار). منبع اصلی: Understanding Media, Part I.</p>
+              </div>
+              <div class="concept">
+                <h5><span class="num">۳</span> روستا به سبکی جهانی (Global Village)</h5>
+                <p>رسانه‌های برقی (تلگراف، تلویزیون، ماهواره) فضا/زمان را از بین می‌برند و جهان را به «روستایی» شبیه‌سازی‌شده بازمی‌گردانند — بازگشت به «انگیزش قبیله‌ای» (tribal involvement).</p>
+              </div>
+              <div class="concept">
+                <h5><span class="num">۴</span> تتراد اثرات رسانه (Tetrad of Media Effects)</h5>
+                <p>چهار پرسش <strong>هم‌زمان</strong> (نه سری) درباره‌ی هر رسانه: ۱) چه را <strong>بهبود</strong> (enhance) می‌کند؟ ۲) چه را <strong>فرسوده</strong> (obsolete)؟ ۳) چه را از گذشته <strong>بازیابی</strong> (retrieve)؟ ۴) به حد اوج که برسد، به چه <strong>وارونه</strong> (reverse) می‌شود؟ ظاهر نخست: Technology and Culture 1975 و Etcetera 1977.</p>
+              </div>
+              <div class="concept">
+                <h5><span class="num">۵</span> شکل و زمینه (Figure and Ground)</h5>
+                <p>«شکل» = پیش‌زمینه (بهبود + بازیابی)؛ «زمینه» = پس‌زمینه‌ی نامرئی (فرسودگی + وارونگی). آنچه نمی‌بینیم، همان اثر عمیق‌تر است.</p>
+              </div>
+              <div class="concept">
+                <h5><span class="num">۶</span> محیط نامرئی / بصری در برابر لامسه</h5>
+                <p>رسانه‌ها «محیط»هایی می‌سازند که خود را نمی‌بینیم (مثل آب برای ماهی). تقابل <strong>optical</strong> (بصری/خطی/فردگرا — دنیای چاپ) با <strong>haptic</strong> (لامسه/هم‌زمان/تجمعی — دنیای برقی).</p>
+              </div>
+
+              <div class="sub-h"><span class="dot"></span> پیوست برای تعمیق</div>
+              <div class="attach">
+                <div class="a-title">The Lost Tetrads of Marshall McLuhan (with Eric, OR Books, 2017)</div>
+                <p class="a-desc">تترادهای ازدست‌رفته با توضیحات کامل.</p>
+                <div class="a-meta"><a class="a-link" href="https://en.wikipedia.org/wiki/Tetrad_of_media_effects" target="_blank">Wikipedia ↗</a></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Laws of Media Guide (راهنمای آموزشی تتراد)</div>
+                <p class="a-desc">راهنمای عملی برای آموزش و به‌کارگیری تتراد.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ============ PANEL 4: نقد و تحلیل ============ -->
+        <div id="content4" class="row p-3 content-slider-deactive">
+          <div class="col-12">
+            <div class="panel-caption">منابع دست دوم — برای سطح حرفه‌ای ضروری‌اند</div>
+            <div class="panel-title">نقد و تحلیل</div>
+            <div class="content-panel">
+              <p class="prose">
+                برای «حرفه‌ای» شدن، خواندن آثار اصلی به‌تنهایی کافی نیست؛ باید <strong>منابع دست اول</strong> را در کنار <strong>منابع دست دوم</strong> بخوانید تا هم نظریه را از زبان خودِ او و هم چالش‌ها و بازخودهای آکادمیک آن را بشناسید.
+              </p>
+
+              <div class="sub-h"><span class="dot"></span> مونوگراف‌های آکادمیک (مهم‌ترین‌ها)</div>
+              <div class="attach">
+                <div class="a-title">Friedrich Kittler — McLuhan: A Theory of Modern Media (MIT Press, 1999)</div>
+                <p class="a-desc">مهم‌ترین مونوگراف آکادمیک درباره‌ی مک‌لوآن از سوی یک نظریه‌پرداز بزرگ رسانه.</p>
+                <div class="a-meta"></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">John Fiske — Understanding McLuhan (Routledge, 1986)</div>
+                <p class="a-desc">مطالعه‌ی انتقادی استاندارد؛ مک‌لوآن به‌عنوان نظریه‌پرداز انسان‌شناختی.</p>
+                <div class="a-meta"></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Paul Levinson — Digital McLuhan: A Guide to the Information Millennium (1999)</div>
+                <p class="a-desc">پل میان مک‌لوآن و عصر دیجیتال.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Janine Marchessault — Marshall McLuhan: Cosmic Media (SAGE, 2005)</div>
+                <p class="a-desc">مطالعه‌ی پژوهشی کامل.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Robert K. Logan — Understanding New Media (2010) + McLuhan Misunderstood (2013)</div>
+                <p class="a-desc">بازخوانی و دفاع/تصحیح. ادامه‌دهنده‌ی اصلی نظریه‌ی او.</p>
+                <div class="a-meta"></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Elena Lamberti — McLuhan's Mosaic (U of Toronto, 2012) • Alex Kitnick — Distant Early Warning (U of Chicago, 2021)</div>
+                <p class="a-desc">ریشه‌های ادبی + ارتباط با آوانگارد.</p>
+                <div class="a-meta"></div>
+              </div>
+
+              <div class="sub-h"><span class="dot"></span> مجموعه‌ها و مقالات کلیدی</div>
+              <div class="attach">
+                <div class="a-title">Forward Through the Rear-View Mirror (ed. Benedetti & DeHart, MIT, 1996)</div>
+                <p class="a-desc">مجموعه‌ی نقد و پاسخ مک‌لوآن.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">McLuhan: Hot & Cool (ed. Stearn, 1967)</div>
+                <p class="a-desc">نخستین «نقد بر مک‌لوآن» به‌شکل همایش + پاسخ خودِ مک‌لوآن.</p>
+                <div class="a-meta"></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Logan — «McLuhan's Philosophy of Media Ecology» (MDPI, 2016)</div>
+                <p class="a-desc">مقدمه‌ی جامع بر فلسفه‌ی اکولوژی رسانه‌ی مک‌لوآن.</p>
+                <div class="a-meta"><a class="a-link" href="https://www.mdpi.com/2409-9287/1/2/133" target="_blank">MDPI ↗</a></div>
+              </div>
+
+              <div class="sub-h"><span class="dot"></span> منابع اصلیِ تتراد (مهم برای پژوهشگران)</div>
+              <div class="attach">
+                <div class="a-title">«McLuhan's Laws of the Media» — Technology and Culture 16(1), 1975</div>
+                <p class="a-desc">نخستین ظهور چاپیِ تتراد.</p>
+                <div class="a-meta"><a class="a-link" href="https://www.jstor.org/stable/3102368" target="_blank">JSTOR ↗</a></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">«Laws of the Media» — et cetera 34(3), 1977 (با مقدمه‌ی Levinson)</div>
+                <p class="a-desc">شکل کامل تتراد در چاپ.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+
+              <div class="sub-h"><span class="dot"></span> آثار خانوادگی / ادامه‌ی میراث (پل دست‌اول و دست‌دوم)</div>
+              <div class="attach">
+                <div class="a-title">Eric McLuhan — Electric Language (1998) • Media and Formal Cause (2011)</div>
+                <p class="a-desc">بسط روش پدر به رسانه‌های دیجیتال. هر مک‌لوآن‌شناس باید این آثار را بداند.</p>
+                <div class="a-meta"></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Derrick de Kerckhove — The Skin of Culture (1997) • Who Was Marshall McLuhan? (1996)</div>
+                <p class="a-desc">شاگرد/همکار برنامه‌ی مک‌لوآن + «نخستین کتاب» برای تازه‌کارها.</p>
+                <div class="a-meta"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ============ PANEL 5: آرشیوها و صدا ============ -->
+        <div id="content5" class="row p-3 content-slider-deactive">
+          <div class="col-12">
+            <div class="panel-caption">سند، صدا، و آرشیوهای نهادی</div>
+            <div class="panel-title">آرشیوها و صدا</div>
+            <div class="content-panel">
+              <p class="prose">
+                «صدا»ی مک‌لوآن — گفتارهای رادیویی، تلویزیونی و آلبوم صوتی — برای درک <strong>سبک</strong> رسانه‌ای و شخصیت او بی‌نظیر است. همچنین ۸ سند نادیدگان/مستند اولیه که در همین پوشه دانلود شده‌اند.
+              </p>
+
+              <div class="sub-h"><span class="dot"></span> صدای خودِ مک‌لوآن (14 فایل) <span class="badge-dl" style="vertical-align:middle;">دانلودشده</span></div>
+              <div class="attach">
+                <div class="a-title">آلبوم The Medium Is the Massage (1967, Columbia Records)</div>
+                <p class="a-desc">ترجمه‌ی صوتیِ کتاب — هر دو سمت + نسخه‌ی رسمی 2011 (49MB). معادل ویدیوییِ 1967.</p>
+                <div class="a-meta"><span class="badge-dl">MP3 دانلودشده</span></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">پخش‌های CBC (1960–1995)</div>
+                <p class="a-desc">شامل «The World is a Global Village» (1960)، «McLuhan Predicts World Connectivity» (1965)، و یادبود 1995.</p>
+                <div class="a-meta"><span class="badge-dl">MP3 دانلودشده</span> <a class="a-link" href="https://www.ubu.com/sound/mcluhan.html" target="_blank">UbuWeb ↗</a></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">گفتگوهای 60 دقیقه‌ای با Terence McKenna + Dick Cavett (1970) + Speaking Freely (1971)</div>
+                <p class="a-desc">مصاحبه‌های تلویزیونی و گفتگوهای عمیق.</p>
+                <div class="a-meta"><span class="badge-dl">MP3 دانلودشده</span></div>
+              </div>
+
+              <div class="sub-h"><span class="dot"></span> سند نادیدگان / مستند اولیه (8 فایل) <span class="badge-dl" style="vertical-align:middle;">دانلودشده</span></div>
+              <div class="attach">
+                <div class="a-title">Verbi-Voco-Visual Explorations (1967) — 41MB ⭐</div>
+                <p class="a-desc">کتاب هنری-رسانه‌ای؛ اوج سبک کلاژگونه مک‌لوآن.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Significant Tetrads (et cetera, 1977) • The McLuhan DEW-LINE (1968)</div>
+                <p class="a-desc">«تترادهای مهم» + نشریه‌ی داخلی مک‌لوآن.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">The Memory Theatre (Encounter, 1967) • The Reversal of the Overheated Image (Playboy, 1968)</div>
+                <p class="a-desc">مقالات نادیدگان.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">A Last Look At The Tube (NY Magazine, 1978) • Notes On Burroughs (Nation, 1964) • Astronauts of Inner-Space</div>
+                <p class="a-desc">مقالات و یادداشت‌های اولیه.</p>
+                <div class="a-meta"><span class="badge-dl">PDF دانلودشده</span></div>
+              </div>
+
+              <div class="sub-h"><span class="dot"></span> مصاحبه و مستند ویدیویی</div>
+              <div class="attach">
+                <div class="a-title">مصاحبه‌ی Playboy (1969)</div>
+                <p class="a-desc">یکی از بهترین منابع برای فهم اندیشه و سبک مکالمه‌ی او.</p>
+                <div class="a-meta"><span class="badge-dl">HTML دانلودشده</span> <a class="a-link" href="http://www.nextnature.net/2009/12/the-playboy-interview-marshall-mcluhan/" target="_blank">متن آنلاین ↗</a></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">گفتگوی مک‌لوآن با Eric Havelock (1978) — Innis College</div>
+                <p class="a-desc">گفتگوی ارزشمند با کارشناس اسطوره‌شناسی کلاسیک.</p>
+                <div class="a-meta"><a class="a-link" href="https://archive.org/details/prof.marshallmcluhanandprof.erica.havelock.recordedatinniscollegeoctober141978" target="_blank">Internet Archive ↗</a></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">مستند «McLuhan's Wake» (2002) • «Out of Orbit» (1999)</div>
+                <p class="a-desc">مستندهای ناسیونال فیلم بورد کانادا.</p>
+                <div class="a-meta"><a class="a-link" href="https://www.youtube.com/watch?v=s6cXeNDCy-k" target="_blank">YouTube ↗</a> <a class="a-link" href="http://www.ubu.com/film/mcluhan_orbit.html" target="_blank">UbuWeb ↗</a></div>
+              </div>
+
+              <div class="sub-h"><span class="dot"></span> آرشیوهای نهادی و آنلاین</div>
+              <div class="attach">
+                <div class="a-title">دانشگاه McMaster — McLuhan Papers (AtoM: 1051 سند)</div>
+                <p class="a-desc">مرجع اصلی «مقواهای مک‌لوآن».</p>
+                <div class="a-meta"><a class="a-link" href="https://archives.mcmaster.ca/index.php/informationobject/browse?topLod=0&search%5Bterm%5D=Marshall%20McLuhan" target="_blank">AtoM ↗</a></div>
+              </div>
+              <div class="attach">
+                <div class="a-title">Monoskop • UbuWeb • Internet Archive • Gingko Press • Open Library</div>
+                <p class="a-desc">بهترین تجمیع‌کننده‌های آنلاین آثار و ترجمه‌ها.</p>
+                <div class="a-meta"><a class="a-link" href="https://monoskop.org/Marshall_McLuhan" target="_blank">Monoskop ↗</a> <a class="a-link" href="https://archive.org/advancedsearch.php?q=marshall+mcluhan" target="_blank">IA ↗</a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- FOOTER -->
+    <div class="bottom-content">
+      <div class="footer-text">
+        <div class="row pt-2">
+          <div class="col-12 col-md-6 d-flex align-items-center">
+            <p class="copy-right mb-0">
+              ©
+              کتابخانه‌ی پژوهشی مارشال مک‌لوآن — گردآوری‌شده برای دکتر بشیر (ترم سوم 1405)
+            </p>
+          </div>
+          <div dir="ltr" class="col-12 col-md-6">
+            <a href="#" class="about-us mx-3" style="padding-top: 2px !important; width:auto;">
+              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" fill="none">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                  d="M7 1.16675C10.2217 1.16675 12.8333 3.7784 12.8333 7.00008C12.8333 10.2217 10.2217 12.8334 7 12.8334C3.77835 12.8334 1.16667 10.2217 1.16667 7.00008C1.16667 3.7784 3.77835 1.16675 7 1.16675ZM7.58462 6.41675H6.41795V9.91675H7.58462V6.41675ZM7.00593 3.93758C6.58063 3.93758 6.27212 4.24439 6.27212 4.65866C6.27212 5.08969 6.5725 5.39592 7.00593 5.39592C7.42251 5.39592 7.73045 5.08969 7.73045 4.66675C7.73045 4.24439 7.42251 3.93758 7.00593 3.93758Z"
+                  fill="#DCCBB0"></path>
+              </svg>
+              &nbsp; درباره‌ی این کتابخانه
+            </a>
+            <a class="px-2" href="https://en.wikipedia.org/wiki/Marshall_McLuhan" title="ویکی‌پدیا"><img src="assets/img/2/web.png" alt="ویکی‌پدیا"></a>
+            <a class="px-2" href="https://monoskop.org/Marshall_McLuhan" title="Monoskop"><img src="assets/img/2/aparat.png" alt="Monoskop"></a>
+            <a class="px-2" href="https://www.ubu.com/sound/mcluhan.html" title="UbuWeb"><img src="assets/img/2/insta.png" alt="UbuWeb"></a>
+            <a class="px-2" href="https://archive.org/advancedsearch.php?q=marshall+mcluhan" title="Internet Archive"><img src="assets/img/2/rubika.png" alt="IA"></a>
+            <a class="px-2" href="https://marshallmcluhan.com/" title="سایت رسمی"><img src="assets/img/2/eata.png" alt="سایت رسمی"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- ===================== PHONE ===================== -->
+  <main class="phone relative">
+    <div class="phone-content-top">
+      <div class="menu-title">زندگی</div>
+      <div class="menu-phone-container">
+        <div class="layer2-phone"></div>
+        <div class="layer-phone">
+          <div class="circle-container-phone">
+            <span data-content="content1" data-title="زندگی"><svg width="22" height="22" viewBox="0 0 20 20" fill="none"><path d="M10 10.5C12.4853 10.5 14.5 8.48528 14.5 6C14.5 3.51472 12.4853 1.5 10 1.5C7.51472 1.5 5.5 3.51472 5.5 6C5.5 8.48528 7.51472 10.5 10 10.5ZM3 16.5C3 13.4624 5.46243 11 8.5 11H11.5C14.5376 11 17 13.4624 17 16.5V17.5H3V16.5Z" fill="#00767A"/></svg></span>
+            <span data-content="content2" data-title="آثار اصلی"><svg width="22" height="22" viewBox="0 0 20 20" fill="none"><path opacity="0.8" d="M8.62238 0H1.40763V20H8.62244V0ZM5.015 17.2148C3.81373 17.2148 2.83998 16.2409 2.83998 15.0397C2.83998 13.8385 3.81373 12.8647 5.015 12.8647C6.21621 12.8647 7.19009 13.8385 7.19009 15.0397C7.19009 16.241 6.21621 17.2148 5.015 17.2148Z" fill="#00767A"/></svg></span>
+            <span data-content="content3" data-title="نظریه‌ها"><svg width="22" height="22" viewBox="0 0 22 22" fill="none"><path d="M11 2C6.58 2 3 5.58 3 10C3 12.5 4.2 14.7 6 16.2V19C6 19.55 6.45 20 7 20H15C15.55 20 16 19.55 16 19V16.2C17.8 14.7 19 12.5 19 10C19 5.58 15.42 2 11 2ZM8 18V17H14V18H8ZM8 15V14H14V15H8Z" fill="#00767A"/></svg></span>
+            <span data-content="content4" data-title="نقد و تحلیل"><svg width="22" height="22" viewBox="0 0 20 20" fill="none"><path d="M10 1L12.5 7.5L19 7.5L14 11.5L15.8 18L10 14.3L4.2 18L6 11.5L1 7.5L7.5 7.5L10 1Z" fill="#00767A"/></svg></span>
+            <span data-content="content5" data-title="آرشیوها و صدا"><svg width="22" height="22" viewBox="0 0 20 20" fill="none"><path d="M3 5C3 3.89543 3.89543 3 5 3H15C16.1046 3 17 3.89543 17 5V15C17 16.1046 16.1046 17 15 17H5C3.89543 17 3 16.1046 3 15V5ZM7 7V13L13 10L7 7Z" fill="#00767A"/></svg></span>
+            <span data-content="content1" data-title="زندگی"><svg width="22" height="22" viewBox="0 0 20 20" fill="none"><path d="M10 10.5C12.4853 10.5 14.5 8.48528 14.5 6C14.5 3.51472 12.4853 1.5 10 1.5C7.51472 1.5 5.5 3.51472 5.5 6C5.5 8.48528 7.51472 10.5 10 10.5ZM3 16.5C3 13.4624 5.46243 11 8.5 11H11.5C14.5376 11 17 13.4624 17 16.5V17.5H3V16.5Z" fill="#00767A"/></svg></span>
+            <span data-content="content2" data-title="آثار اصلی"><svg width="22" height="22" viewBox="0 0 20 20" fill="none"><path opacity="0.8" d="M8.62238 0H1.40763V20H8.62244V0ZM5.015 17.2148C3.81373 17.2148 2.83998 16.2409 2.83998 15.0397C2.83998 13.8385 3.81373 12.8647 5.015 12.8647C6.21621 12.8647 7.19009 13.8385 7.19009 15.0397C7.19009 16.241 6.21621 17.2148 5.015 17.2148Z" fill="#00767A"/></svg></span>
+            <span class="active" data-content="content3" data-title="نظریه‌ها"><svg width="22" height="22" viewBox="0 0 22 22" fill="none"><path d="M11 2C6.58 2 3 5.58 3 10C3 12.5 4.2 14.7 6 16.2V19C6 19.55 6.45 20 7 20H15C15.55 20 16 19.55 16 19V16.2C17.8 14.7 19 12.5 19 10C19 5.58 15.42 2 11 2ZM8 18V17H14V18H8ZM8 15V14H14V15H8Z" fill="#00767A"/></svg></span>
+            <span data-content="content4" data-title="نقد و تحلیل"><svg width="22" height="22" viewBox="0 0 20 20" fill="none"><path d="M10 1L12.5 7.5L19 7.5L14 11.5L15.8 18L10 14.3L4.2 18L6 11.5L1 7.5L7.5 7.5L10 1Z" fill="#00767A"/></svg></span>
+            <span data-content="content5" data-title="آرشیوها و صدا"><svg width="22" height="22" viewBox="0 0 20 20" fill="none"><path d="M3 5C3 3.89543 3.89543 3 5 3H15C16.1046 3 17 3.89543 17 5V15C17 16.1046 16.1046 17 15 17H5C3.89543 17 3 16.1046 3 15V5ZM7 7V13L13 10L7 7Z" fill="#00767A"/></svg></span>
+          </div>
+        </div>
+      </div>
+      <svg class="base-img" style="width:180px;height:auto;margin:10px auto;display:block;" viewBox="0 0 240 360" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="120" cy="170" r="115" fill="#00B8BE" opacity="0.12"/>
+        <g fill="#00767A"><ellipse cx="120" cy="115" rx="50" ry="58"/><path d="M120 170 C 72 170 42 200 36 242 L 36 345 L 204 345 L 204 242 C 198 200 168 170 120 170 Z"/></g>
+        <text x="120" y="320" text-anchor="middle" font-family="Vazirmatn, sans-serif" font-size="15" font-weight="900" fill="#00767A">مارشال مک‌لوآن</text>
+      </svg>
+    </div>
+
+    <div class="phone-content-middle">
+      <div class="container">
+        <div id="content1" class="row p-3 phone-content-panel phone-content-active">
+          <div class="col-12">
+            <div class="panel-caption">هربرت مارشال مک‌لوآن</div>
+            <div class="panel-title">زندگی</div>
+            <div class="content-panel">
+              <p class="prose">مک‌لوآن استاد ادبیات و نظریه‌پرداز ارتباطات کانادایی بود که با «رسانه پیام است» و «روستا به سبکی جهانی» اندیشه‌ی قرن بیستم را دگرگون کرد.</p>
+              <table class="bio-table">
+                <tr><td>تولد</td><td>۱۹۱۱ ادمونتون</td></tr>
+                <tr><td>درگذشت</td><td>۱۹۸۰ تورنتو</td></tr>
+                <tr><td>همسر</td><td>Corinne Lewis (6 فرزند)</td></tr>
+                <tr><td>تأثیرگذاران</td><td>Innis, Frye, Joyce, Aquinas</td></tr>
+              </table>
+              <div class="sub-h"><span class="dot"></span> بیوگرافی‌ها</div>
+              <div class="attach"><div class="a-title">Marchand (1989) • Theall (2001) • Gordon (1997) • Coupland (2009) • Fitzgerald (2001)</div><p class="a-desc">همه 5 مورد PDF دانلودشده.</p><div class="a-meta"><span class="badge-dl">دانلودشده</span></div></div>
+            </div>
+          </div>
+        </div>
+        <div id="content2" class="row p-3 phone-content-panel">
+          <div class="col-12">
+            <div class="panel-caption">کتاب‌های مک‌لوآن</div>
+            <div class="panel-title">آثار اصلی</div>
+            <div class="content-panel">
+              <div class="attach"><div class="a-title">Mechanical Bride (1951)</div><div class="a-meta"><span class="badge-dl">PDF</span></div></div>
+              <div class="attach"><div class="a-title">Gutenberg Galaxy (1962)</div><div class="a-meta"><span class="badge-dl">PDF</span></div></div>
+              <div class="attach"><div class="a-title">Understanding Media (1964) ⭐</div><div class="a-meta"><span class="badge-star">مهم‌ترین</span><span class="badge-dl">PDF</span></div></div>
+              <div class="attach"><div class="a-title">Medium Is the Massage (1967)</div><div class="a-meta"><span class="badge-dl">PDF+صوت</span></div></div>
+              <div class="attach"><div class="a-title">War and Peace (1968)</div><div class="a-meta"><span class="badge-dl">PDF</span></div></div>
+              <div class="attach"><div class="a-title">From Cliché to Archetype (1970)</div><div class="a-meta"><span class="badge-dl">PDF</span></div></div>
+              <div class="attach"><div class="a-title">Take Today (1972)</div><div class="a-meta"><span class="badge-dl">PDF</span></div></div>
+              <div class="attach"><div class="a-title">Essential McLuhan (1995)</div><div class="a-meta"><span class="badge-dl">PDF</span></div></div>
+              <div class="attach"><div class="a-title">Laws of Media (1988)</div><div class="a-meta"><span class="badge-borrow">قرض</span></div></div>
+            </div>
+          </div>
+        </div>
+        <div id="content3" class="row p-3 phone-content-panel">
+          <div class="col-12">
+            <div class="panel-caption">واژه‌نامه‌ی نظریه‌ای</div>
+            <div class="panel-title">نظریه‌ها</div>
+            <div class="content-panel">
+              <div class="concept"><h5><span class="num">۱</span> رسانه پیام است</h5><p>پیام رسانه = تغییر در الگوی اجتماعی، نه محتوا.</p></div>
+              <div class="concept"><h5><span class="num">۲</span> گرم و سرد</h5><p>گرم: رزولوشن بالا/مشارکت کم. سرد: برعکس.</p></div>
+              <div class="concept"><h5><span class="num">۳</span> روستای جهانی</h5><p>رسانه‌های برقی، جهان را قبیله‌ای بازمی‌گردانند.</p></div>
+              <div class="concept"><h5><span class="num">۴</span> تتراد</h5><p>بهبود + فرسودگی + بازیابی + وارونگی.</p></div>
+              <div class="concept"><h5><span class="num">۵</span> شکل و زمینه</h5><p>Figure/ground در ادراک رسانه‌ای.</p></div>
+              <div class="concept"><h5><span class="num">۶</span> محیط نامرئی</h5><p>optical در برابر haptic.</p></div>
+            </div>
+          </div>
+        </div>
+        <div id="content4" class="row p-3 phone-content-panel">
+          <div class="col-12">
+            <div class="panel-caption">منابع دست دوم</div>
+            <div class="panel-title">نقد و تحلیل</div>
+            <div class="content-panel">
+              <div class="attach"><div class="a-title">Kittler — McLuhan: A Theory of Modern Media (1999)</div></div>
+              <div class="attach"><div class="a-title">Fiske — Understanding McLuhan (1986)</div></div>
+              <div class="attach"><div class="a-title">Levinson — Digital McLuhan (1999)</div><div class="a-meta"><span class="badge-dl">PDF</span></div></div>
+              <div class="attach"><div class="a-title">Marchessault — Cosmic Media (2005)</div><div class="a-meta"><span class="badge-dl">PDF</span></div></div>
+              <div class="attach"><div class="a-title">Logan — Understanding New Media (2010) + Misunderstood (2013)</div></div>
+              <div class="attach"><div class="a-title">Lamberti — Mosaic (2012) • Kitnick — Distant Early Warning (2021)</div></div>
+              <div class="attach"><div class="a-title">تتراد: Technology and Culture 1975 • et cetera 1977</div><div class="a-meta"><span class="badge-dl">PDF</span></div></div>
+            </div>
+          </div>
+        </div>
+        <div id="content5" class="row p-3 phone-content-panel">
+          <div class="col-12">
+            <div class="panel-caption">سند، صدا، آرشیو</div>
+            <div class="panel-title">آرشیوها و صدا</div>
+            <div class="content-panel">
+              <div class="attach"><div class="a-title">14 فایل صوتی صدای مک‌لوآن</div><div class="a-meta"><span class="badge-dl">دانلودشده</span></div></div>
+              <div class="attach"><div class="a-title">8 سند نادیدگان (Verbi-Voco 41MB...)</div><div class="a-meta"><span class="badge-dl">دانلودشده</span></div></div>
+              <div class="attach"><div class="a-title">مصاحبه Playboy (1969)</div><div class="a-meta"><span class="badge-dl">دانلودشده</span></div></div>
+              <div class="attach"><div class="a-title">مستند McLuhan's Wake (2002)</div><div class="a-meta"><a class="a-link" href="https://www.youtube.com/watch?v=s6cXeNDCy-k" target="_blank">YouTube ↗</a></div></div>
+              <div class="attach"><div class="a-title">آرشیو McMaster • Monoskop • UbuWeb • IA</div><div class="a-meta"><a class="a-link" href="https://monoskop.org/Marshall_McLuhan" target="_blank">Monoskop ↗</a></div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="bottom-content" style="margin-top:20px;">
+      <div class="footer-text">
+        <div class="row pt-2">
+          <div class="col-12 d-flex align-items-center">
+            <p class="copy-right mb-0">© کتابخانه‌ی پژوهشی مارشال مک‌لوآن — 1405</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script src="assets/js/jquery.js"></script>
+  <script src="assets/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+
+</html>

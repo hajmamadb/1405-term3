@@ -1,0 +1,16 @@
+{
+  "eyebrow": "افرادِ فیلم",
+  "heading": "شخصیت‌ها",
+  "headingAccent": "پشتِ نقاب‌ها چه کسی ایستاده است",
+  "description": "دو کارآگاه، یک قاتلِ پنهان‌کار، یک همسرِ جوان — و هفت قربانی. در این صفحه، هر شخصیت و نقشش در طرحِ فیلم.",
+  "primaryCTA": {
+    "label": "هفت گناه کبیره",
+    "href": "/sins/"
+  },
+  "secondaryCTA": {
+    "label": "عوامل فیلم",
+    "href": "/crew/"
+  },
+  "image": "/assets/images/t001-nova/brad-pitt.jpg",
+  "imageAlt": "براد پیت در نقش کارآگاه میلز"
+}

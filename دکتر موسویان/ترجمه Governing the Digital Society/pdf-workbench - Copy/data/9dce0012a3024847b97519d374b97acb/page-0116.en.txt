@@ -1,0 +1,42 @@
+Governing the Global Proliferation of Digital Surveillance Technologies    113
+
+   First of all, cyber surveillance items should be part of “dual-use” items.
+This means that surveillance items subject to control need to have a potential
+to be used for military purposes. At the same time, this duality does not
+constitute a major obstacle, simply due to the prevalent use of surveillance
+technologies in military contexts.
+  Second, the term “covert surveillance” was one of the contested points
+during the legislative processes. Surveillance can be broadly defined as “a
+broad range of activities related to the gathering and processing of informa-
+tion on individuals” (Van Daalen et al. 2021, 17)—regardless of whether it is
+done by private or public entities, or regardless of whether it constitutes a
+violation of human rights. While Regulation 2021/821 assumes that surveil-
+lance can be “covert” or overt, the regulation does not define the meaning of
+“covert surveillance.” According to Van Daalen et al., surveillance should be
+understood as covert with regard to a person “if that person does not know
+whether and how information on her is being used to target her specifically”
+(2021, 18, emphasis in original). This means that, for example, surveillance is
+“covert” even if a journalist knows a particular technology is monitoring her
+activities, provided that the journalist does not know that the data is used
+to track her contact with a political dissident. According to the European
+Commission’s guidelines on Article 5, published in October 2024 after a
+public consultation, surveillance can be covert if the “gathered data can
+be diverted, evaluated or processed for other purposes than the ones the
+affected natural person is made aware of.” The guidelines provide that the
+surveillance can be covert “when a natural person cannot objectively expect
+to be under surveillance” (Commission Recommendation (EU) 2024/2659,
+6, Section 1.2.2; European Commission 2023, 4, Section II.2.2).
+   Third, the definition refers to items that monitor, extract, collect, or
+analyze data “from” information and telecommunication systems. As data
+must be monitored, etc. from ICT systems, this definition seems to exclude
+technologies that monitor or collect “offline” data (Van Daalen et al. 2021,
+19). For example, microphones and security cameras that collect a person’s
+biometric data would not fall under the definition of cyber surveillance items
+under Regulation 2021/821, even if this is counterintuitive (BAFA 2021, 5).
+   Finally, the interpretation of “specially designed” can vary depending
+on EU member states. This is the term customarily used in export controls
+to assess whether certain technical specifications are linked to particular
+functions and purposes. As Van Daalen et al. summarize it, items that are
+specially designed to enable the covert surveillance of natural persons are
+“items whose design includes ‘particular features to achieve’ such surveil-
+lance” (2021, 20). As the BAFA’s document regarding the interpretation of

@@ -1,0 +1,33 @@
+{
+  "seo": {
+    "title": "منابع Se7en — تماشای قانونی و پژوهش",
+    "description": "لینک‌های قانونی تماشای Se7en در نماوا، فیلیمو و تلوبیون، پلتفرم‌های بین‌المللی، موسیقی و منابع دانشگاهی و نقد."
+  },
+  "heading": "منابع و لینک‌های قانونی",
+  "sections": [
+    {
+      "id": "navbar",
+      "variant": "floating"
+    },
+    {
+      "id": "hero",
+      "variant": "se7enSourcesHero"
+    },
+    {
+      "id": "se7enSources",
+      "variant": "default"
+    },
+    {
+      "id": "se7enSourcesKit",
+      "variant": "default"
+    },
+    {
+      "id": "se7enCta",
+      "variant": "default"
+    },
+    {
+      "id": "footer",
+      "variant": "nova"
+    }
+  ]
+}

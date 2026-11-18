@@ -1,0 +1,42 @@
+The Long-term Usefulness of Regulating AI in the EU                         153
+
+companies build their business and interact with other user groups (Van
+der Vlist 2022).
+  AI markets are already showing similar characteristics to other digital
+(platform) markets and can be visualized as a stack. At the bottom of the
+stack, you can find the data on which AI models are trained. Big Tech
+companies have gathered large amounts of data over the years. On top of
+the data, the next layer of the stack consists of foundational AI models,
+where Big Tech companies are slowly trying to dominate the market.
+Foundational models can be open-source or proprietary but even with
+open-source models, access can be restricted through limited licenses
+(Knight 2023). On top of foundational models, other companies (but also
+Big Tech companies themselves) are building applications for all types of
+functions and industries (Ferrari et al. 2023; Van der Vlist et al. 2024). For
+these companies to build or run their AI applications, large amounts of
+computing power, data storage, and cloud infrastructures are required, for
+which they are often dependent on Big Tech companies (Microsoft, Amazon,
+and Google) but also on chipmakers like Nvidia.
+  Developing AI models into platforms means that AI markets might
+become structured similarly to other digital markets, such as mobile operat-
+ing systems. For example, by controlling the market for mobile operating
+systems, Apple and Google can set the terms on which app developers
+build their apps and reach their users. By controlling platforms, Big Tech
+companies seem to extend their power beyond the boundaries of their
+platform and leverage that power into new markets. When companies control
+the foundational model or general-purpose AI, application builders will be
+dependent on them. the move of Big Tech companies into general-purpose
+AI and foundational models therefore fits their broader strategy to control
+digital markets using platform strategies.
+   Big Tech companies can use open-source LLMs to obtain market power
+in AI-driven markets and expand that power to other markets. The open-
+source models provided by Big Tech companies are often limited in their
+access through limited licenses (Knight 2023). But even if they did give
+unrestricted access, Big Tech companies can control the LLM by providing
+developing tools for other businesses to build AI applications. For example,
+Google’s LLM PaLM is an open-source LLM on top of which developers can
+build their own AI applications by using the developer tool MakerSuite.
+With open-source models, Google will not control the access points to
+markets, as they do in other digital markets, since everyone is free to use
+the model without their consent. However, Google will control the tools
+which developers use to build new AI applications. Smaller companies will

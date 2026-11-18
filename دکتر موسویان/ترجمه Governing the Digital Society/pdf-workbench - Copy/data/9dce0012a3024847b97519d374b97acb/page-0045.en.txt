@@ -1,0 +1,42 @@
+42                                     Mathilde Sanders and José van Dijck
+
+Hassan, Anaobi Ishaku, Aravindh Raman, Ignacio Castro, Haris Bin Zia, Emiliano
+  De Cristofaro, Nishanth Sastry, and Gareth Tyson. 2021. “Exploring Content
+  Moderation in the Decentralized Web: The Pleroma Case.” In Proceedings of
+   the 17th International Conference on emerging Networking EXperiments and
+   Technologies (CoNEXT ‘21), 328–335. New York: Association for Computing
+   Machinery. https://doi.org/10.1145/3485983.3494838.
+Ito, Joichi, Neha Narula, and Robleh Ali. 2017. “The Blockchain Will Do to the
+   Financial System What the Internet Did to Media.” Harvard Business Review,
+  March 9. https://hbr.org/2017/03/the-blockchain-will-do-to-banks-and-law-
+   firms-what-the-internet-did-to-media.
+Jacobs, Bart, Bram Westerbaan, Omar Javed, Harm van Stekelenburg, Lian Vervoort,
+  and Jan den Besten. 2023. “PubHubs Identity Management.” Journal of Logic
+  and Computation 33(7): 1–20. http://www.cs.ru.nl/B.Jacobs/PAPERS/pubhubs-
+   idman-jlc.pdf.
+Karjalainen, Risto. 2020. “Governance in Decentralized Networks.” SSRN Paper
+   3551099. https://doi.org/10.2139/ssrn.3551099.
+Klaytn, Korea. 2023. “Decentralized Social Networks 101.” Medium, May 17. https://
+   medium.com/klaytn/decentralized-social-networks-101-da65c19a599e.
+Krasodomski-Jones, Alex, Matilda Rudd de Oliveria, Agnès Chauvet, and Ben
+   Glover. 2018. Plugged In: Social Action on Social Media. DEMOS. https://dera.
+   ioe.ac.uk/id/eprint/32212/.
+Kwet, Michael. 2020. “Fixing Social Media: Toward a Democratic Digital Commons.”
+   Markets, Globalization & Development Review 5(1): 1–12. https://doi.org/10.23860/
+   MGDR-2020-05-01-04.
+Kwet, Michael. 2022. “Social Media Socialism: People’s Tech and Decolonization
+   for a Global Society in Crisis.” SSRN Paper 3695356. https://papers.ssrn.com/
+   sol3/papers.cfm?abstract_id=3695356.
+La Cava, Lucio, Sergio Greco, and Andrea Tagarelli. 2021. “Understanding the Growth
+   of the Fediverse through the Lens of Mastodon.” Applied Network Science 6: 1–35.
+   https://doi.org/10.1007/s41109-021-00392-5.
+La Cava, Lucio, Sergio Greco, and Andrea Tagarelli. 2022a. “Discovering the
+  Landscape of Decentralized Online Social Networks through Mastodon.” In
+  CEUR Workshop Proceedings: SEBD 2022. https://ceur-ws.org/Vol-3194/paper25.
+   pdf.
+La Cava, Lucio, Sergio Greco, and Andrea Tagarelli. 2022b. “Information Consump-
+   tion and Boundary Spanning in Decentralized Online Social Networks: The
+  Case of Mastodon Users.” Online Social Networks and Media 30: 1–13. https://
+   doi.org/10.1016/j.osnem.2022.100220.
+La Cava, Lucio, Sergio Greco, and Andrea Tagarelli. 2022c. “Network Analysis of the
+   Information Consumption–Production Dichotomy in Mastodon User Behaviors.”

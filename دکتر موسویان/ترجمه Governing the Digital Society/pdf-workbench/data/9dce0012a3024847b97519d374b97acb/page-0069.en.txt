@@ -1,0 +1,42 @@
+66                                                       Cedric Waterschoot
+
+  Content moderation itself is frequently characterized as a gatekeeping
+role (Paasch-Colberg and Strippel 2022; Wolfgang 2018). This gatekeeping
+function is twofold. First, the moderator can delete toxic posts or block
+users. Second, constructive or beneficial content can be promoted (Wolf-
+gang 2018). These two objectives are interconnected, as mitigating toxicity
+can create room for constructive discussion (Paßmann et al. 2022). Such
+constructive dialogue and wider audience engagement are cornerstones
+of constructive journalism (Løvlie 2018). Online commenting facilitates
+valuable reader–journalist interaction and promotes connections among
+readers (Løvlie 2018). Enhancing these interactions, while simultaneously
+mitigating toxicity, creates a monetizable and constructive comment section.
+Additionally, interesting comments can also provide new story leads and
+enrich journalistic articles (Manosevitch and Tenenboim 2016). However,
+defining what constitutes a good discussion or constructive comment
+is challenging. In theory, constructive comments may be perceived as
+evidence-supported, well-written contributions that are relevant to the
+article (Kolhatkar and Taboada 2017). In practice, evaluating online com-
+ments in terms of constructiveness or quality proves to be much more
+complex. Furthermore, there has been relatively little research into what
+constitutes “constructive participation” concerning online user comments,
+particularly in terms of how news platforms operationalize the promotion
+of such user content.
+  The introduction of AI systems has significantly reshaped the role of
+moderators. The sheer volume of comments and the possibility for storing
+data prompted platforms to integrate (semi-)automatic filtering tools, aiming
+to ease the moderators’ workload (Diakopoulos 2019; Paßmann et al. 2022).
+However, moderators and publishers remain skeptical of these tools as they
+have not been designed with the practical human–computer interaction of
+hybrid content moderation in mind (Gollatz et al. 2018). While AI nowadays
+has a firm presence in the practice of content moderation, many practition-
+ers believe that AI must be limited to supporting human moderators, not
+replacing them altogether (Ruckenstein and Turunen 2020).
+   In what follows this chapter offers an analysis of five distinguished online
+news platforms. The chosen outlets, namely The Guardian (United Kingdom),
+Die Zeit (Germany), El País (Spain), the New York Times (United States), and
+NU.nl (The Netherlands), are characterized by their substantial online
+presence and commitment to upholding international journalism standards.
+These news organizations typically publish documents regarding their
+comment moderation policies. These documents shed light on the rationale
+behind their moderation guidelines and provide essential information for

@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Se7en_Logo.png",
+    "status": "FAIL",
+    "error": "HTTP Error 404: Not Found",
+    "url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Seven_logo.png"
+  },
+  {
+    "name": "Se7en_Poster.jpg",
+    "status": "OK",
+    "size": 168973,
+    "license": "Fair use (film poster)",
+    "credit": "Wikipedia",
+    "url": "https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%28movie%29_poster.jpg"
+  },
+  {
+    "name": "Morgan_Freeman_2006.jpg",
+    "status": "OK",
+    "size": 1814989,
+    "license": "CC BY 2.0",
+    "credit": "David Sifry / Flickr",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Morgan_Freeman%2C_2006.jpg"
+  },
+  {
+    "name": "Morgan_Freeman_2008.jpg",
+    "status": "FAIL",
+    "error": "HTTP Error 429: Too many requests (f061ab2)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Morgan_Freeman.0870.jpg"
+  },
+  {
+    "name": "Morgan_Freeman_2018.jpg",
+    "status": "FAIL",
+    "error": "HTTP Error 429: Too many requests (f061ab2)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Morgan_Freeman_Deauville_2018.jpg"
+  },
+  {
+    "name": "Morgan_Freeman_Pentagon_2023.jpg",
+    "status": "FAIL",
+    "error": "HTTP Error 429: Too many requests (f061ab2)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg"
+  },
+  {
+    "name": "Brad_Pitt_2016.jpg",
+    "status": "FAIL",
+    "error": "HTTP Error 429: Too many requests (f061ab2)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Brad_Pitt_2016.jpg"
+  },
+  {
+    "name": "David_Fincher_2018.jpg",
+    "status": "FAIL",
+    "error": "HTTP Error 429: Too many requests (f061ab2)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/David_Fincher_2018.jpg"
+  },
+  {
+    "name": "Gwyneth_Paltrow_2018.jpg",
+    "status": "FAIL",
+    "error": "HTTP Error 429: Too many requests (f061ab2)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Gwyneth_Paltrow_2018.jpg"
+  },
+  {
+    "name": "Morgan_Freeman_2008.jpg",
+    "status": "OK",
+    "size": 1201083,
+    "license": "CC BY-SA 2.5",
+    "credit": "Franz Richter",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Morgan_Freeman.0870.jpg"
+  },
+  {
+    "name": "Morgan_Freeman_2018.jpg",
+    "status": "OK",
+    "size": 88051,
+    "license": "CC BY-SA 4.0",
+    "credit": "Georges Biard",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Morgan_Freeman_Deauville_2018.jpg"
+  },
+  {
+    "name": "David_Fincher.jpg",
+    "status": "OK",
+    "size": 111470,
+    "license": "CC BY 2.0",
+    "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/66728752@N00\">aphrodite-in-nyc</a> from new ",
+    "source": "File:Gone Girl Premiere at the 52nd New York Film Festival P1070670 (15184372097).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Gone_Girl_Premiere_at_the_52nd_New_York_Film_Festival_P1070670_%2815184372097%29.jpg/960px-Gone_Girl_Premiere_at_the_52nd_New_York_Film_Festival_P1070670_%2815184372097%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "name": "Brad_Pitt.jpg",
+    "status": "OK",
+    "size": 141554,
+    "license": "CC BY-SA 4.0",
+    "credit": "<a href=\"//commons.wikimedia.org/wiki/User:Toglenn\" title=\"User:Toglenn\">Toglenn</a>",
+    "source": "File:Brad Pitt, Margot Robbie, and Leonardo DiCaprio 2019 by Glenn Francis.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Brad_Pitt%2C_Margot_Robbie%2C_and_Leonardo_DiCaprio_2019_by_Glenn_Francis.jpg/960px-Brad_Pitt%2C_Margot_Robbie%2C_and_Leonardo_DiCaprio_2019_by_Glenn_Francis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "name": "Gwyneth_Paltrow.jpg",
+    "status": "OK",
+    "size": 684466,
+    "license": "CC BY-SA 3.0",
+    "credit": "Andrea Raffin at <a rel=\"nofollow\" class=\"external free\" href=\"http://www.andrearaffin.com\">http://www.andrearaffin.com<",
+    "source": "File:GwynethPaltrowByAndreaRaffin2011.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/GwynethPaltrowByAndreaRaffin2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "name": "Howard_Shore.jpg",
+    "status": "OK",
+    "size": 181656,
+    "license": "CC BY 2.0",
+    "credit": "Sam Santos, Canadian Film Centre",
+    "source": "File:Howard Shore, Canadian Film Centre, 2013-1.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Howard_Shore%2C_Canadian_Film_Centre%2C_2013-1.jpg/960px-Howard_Shore%2C_Canadian_Film_Centre%2C_2013-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "name": "John_C_McGinley.jpg",
+    "status": "OK",
+    "size": 208956,
+    "license": "Public domain",
+    "credit": "U.S. Army National Guard photo by Spc. Kevin T. Brown Jr.",
+    "source": "File:Germann with Sircar and McGinley 2022.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Germann_with_Sircar_and_McGinley_2022.jpg/960px-Germann_with_Sircar_and_McGinley_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  }
+]

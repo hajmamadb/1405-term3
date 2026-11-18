@@ -1,0 +1,41 @@
+Decentralized Online Social Networks                                      41
+
+align with their own preferences. However, this diversity also poses the risk
+of fragmentation. Decentralized online networks need scalability to function
+properly; thus, the collaborative design of decentralized platforms requires
+a consensus on common standards for optimal interoperability. Weighing
+the conditions for scaling while observing public values is another crucial
+challenge. Decentralized social networks must address this dilemma if they
+want to put their stamp on the platform ecosystem as a socio-technical design.
+
+References
+
+Ackermann, Rebecca. 2023. “The Future of Open Source Is Still Very Much in
+   Flux.” MIT Technology Review, August 17. https://www.technologyreview.
+   com/2023/08/17/1077498/future-open-source.
+Belager, Ashley. 2023. “Mastodon Fixes Confusing Sign-up Process to Attract Users Flee-
+   ing Twitter.” Ars Technica, February 5. https://arstechnica.com/tech-policy/2023/05/
+   mastodon-fixes-confusing-sign-up-process-to-attract-users-fleeing-twitter/.
+Datta, Anwitaman, Sonja Buchegger, Lee-Hung Vu, Thorsten Strufe, and Krzysztof
+   Rzadca. 2010. “Decentralized Online Social Networks.” In Handbook of Social
+  Network Technologies and Applications, edited by Borko Furht, 349–78. New
+   York: Springer. https://link.springer.com/book/10.1007/978-1-4419-7142-5.
+De Winkel, Tim. 2023. “Fringe Platforms: An Analysis of Contesting Alternatives
+   to the Mainstream Social Media Platforms in a Platformized Public Sphere.”
+   Doctoral dissertation, Utrecht University. https://doi.org/10.33540/1921.
+Dhawan, Saurabh, Simon Hegelich, Cornelia Sindermann, and Christian Montag.
+   2022. “Re-start Social Media, but How?” Telematics and Informatics Reports 8:
+   1–7. https://doi.org/10.1016/j.teler.2022.100017.
+Eghbal, Nadia. 2016. Roads and Bridges: The Unseen Labor behind Our Digital
+   Infrastructure. New York: Ford Foundation. https://www.fordfoundation.org/
+   work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-
+   our-digital-infrastructure/.
+Gehl, Robert, and Diana Zulli. 2022. “The Digital Covenant: Non-centralized Plat-
+  form Governance on the Mastodon Social Network.” Information, Communication
+  & Society 26(16): 3275–91. https://doi.org/10.1080/1369118X.2022.2147400.
+Gilbert, Sarah. 2023. “Towards Intersectional Moderation: An Alternative Model
+   of Moderation Built on Care and Power.” Proceedings of the ACM on Human–
+  Computer Interaction 7: 1–32. https://doi.org/10.1145/3610047.
+Guidi, Barbara, Andrea Michienzi, and Giulio Rossetti. 2019. “Towards the Dynamic
+  Community Discovery in Decentralized Online Social Networks.” Journal of Grid
+  Computing 17: 23–44. https://doi.org/10.1007/s10723-018-9448-0.

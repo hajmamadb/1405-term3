@@ -1,0 +1,37 @@
+{
+  "seo": {
+    "title": "عوامل Se7en — فنچر، والکر، شور و بازیگران",
+    "description": "عوامل واقعی فیلم Se7en: کارگردان، فیلم‌نامه‌نویس، آهنگساز، تصویربردار، تدوینگر و طراحی صحنه — با اطلاعات واقعی."
+  },
+  "heading": "عوامل Se7en",
+  "sections": [
+    {
+      "id": "navbar",
+      "variant": "floating"
+    },
+    {
+      "id": "hero",
+      "variant": "se7enCrew"
+    },
+    {
+      "id": "novaTeam",
+      "variant": "default"
+    },
+    {
+      "id": "testimonials",
+      "variant": "v2"
+    },
+    {
+      "id": "se7enCrewSteps",
+      "variant": "default"
+    },
+    {
+      "id": "se7enCta",
+      "variant": "default"
+    },
+    {
+      "id": "footer",
+      "variant": "nova"
+    }
+  ]
+}

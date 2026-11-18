@@ -1,0 +1,39 @@
+5.   Interview with Catalina Goanta
+       Taylor Annabell
+
+Introduction
+
+Social media platforms have been understood as the “governors of the new
+public squares” (Klonick 2018), regulating freedom of expression and interac-
+tion. The impact of private governance, however, is not only consequential
+for users as citizens but also as consumers. Given the reliance of platforms
+on advertising for revenue, users are targeted with commercial messaging
+interspersed with user-generated content, and this interpellation as consum-
+ers brings with it additional legal frameworks due to associated harms and
+vulnerabilities. Critically, monetization of content goes beyond “platform
+ads” as influencers also integrate advertising into their ongoing curation
+of relatable and authentic self-brands and the cultivation of parasocial
+relationships with audiences. That is, influencer marketing is one of the many
+business models that enable influencers to earn revenue from their content.
+As such, Goanta (2023b) proposes our “new social media” are characterized
+by “content monetization” along with “social commerce.” To understand
+this emerging, dynamic phenomenon, conceptually and empirically, the
+HUMANads project theoretically and empirically examines the regulation
+of content monetization and contributes to the development of regulatory
+frameworks and digital monitoring tools for consumer protection.
+   This chapter is an interview with Catalina Goanta, principal investigator
+of the HUMANads project at Utrecht University, about the development of
+social media governance for content monetization at the intersection of
+three disciplines: legal, media, and computational studies.
+   Taylor Annabell is TA, Catalina Goanta is GC.
+
+TA: I want to begin with the concept of fairness, which frames the HUMANads
+project. What does it mean to question the fairness of regulation of content
+monetization?
+
+
+
+Van Dijck, José, Karin van Es, Anne Helmond, and Fernando van der Vlist, eds. Governing the
+Digital Society: Platforms, Artificial Intelligence, and Public Values. Amsterdam: Amsterdam
+University Press, 2025
+doi 10.5117/9789048562718_ch05

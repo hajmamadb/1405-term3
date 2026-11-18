@@ -1,0 +1,35 @@
+44                                     Mathilde Sanders and José van Dijck
+
+Scholz, Trebor. 2016. “Platform Cooperativism: Challenging the Corporate Sharing
+   Economy.” Rosa Luxemburg Stiftung, January 1. https://ictlogy.net/bibliography/
+   reports/projects.php?idp=3111
+Shaw, Charlot. 2020. “Decentralized Social Networks: Pros and Cons of the Mastodon
+   Platform.” University of Minnesota Morris Seminar Proceedings. https://umm-csci.
+   github.io/senior-seminar/seminars/spring2020/shaw.pdf.
+Tarnoff, Ben. 2022. Internet for the People: The Fight for Our Digital Future. London:
+   Verso Books.
+Van Dijck, José. 2013. The Culture of Connectivity: A Critical History of Social Media.
+  New York: Oxford University Press.
+Van Dijck, José, and Bart Jacobs. 2020. “Electronic Identity Services as Sociotechnical
+  and Political-Economic Constructs.” New Media & Society 22(5): 896–914. https://
+   doi.org/10.1177/1461444819872537.
+Van Dijck, José, Tim de Winkel, and Mirko Tobias Schäfer. 2021. “Deplatformization
+  and the Governance of the Platform Ecosystem.” New Media & Society 25(12):
+   3438–54. https://doi.org/10.1177/14614448211045662.
+Zuckerman, Ethan, and Chand Rajendra-Nicolucci. 2023. “From Community Govern-
+  ance to Customer Service and Back Again: Re-examining Pre-web Models of
+   Online Governance to Address Platforms’ Crisis of Legitimacy.” Social Media +
+   Society 9(3): 1–12. https://doi.org/10.1177/20563051231196864.
+Zulli, Diana, Miao Liu, and Robert Gehl. 2020. “Rethinking the ‘Social’ in
+   ‘Social Media’: Insights into Topology, Abstraction, and Scale on the Mas-
+  todon Social Network.” New Media & Society 22(7): 1188–1205. https://doi.
+   org/10.1177/1461444820912533.
+
+About the Authors
+
+Mathilde Sanders is a postdoctoral researcher at Utrecht University within
+the focus area Governing the Digital Society.
+
+José van Dijck is distinguished university professor of media and digital
+society at Utrecht University since 2017. In 2021, she received the Spinoza
+Prize, which has made this edited volume possible.

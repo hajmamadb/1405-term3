@@ -1,0 +1,42 @@
+64                                                       Cedric Waterschoot
+
+However, open comments can lead to negative behaviors like trolling and
+harassment (Quandt et al. 2022). Moderators face challenges in managing
+content, including combating fake news and misinformation (Meier et
+al. 2018; Tandoc et al. 2018) and dealing with polarizing discussions that can
+escalate into toxicity (Strandberg et al. 2017). This negative aspect, termed
+“dark participation” (Quandt 2018), has resulted in the comment section
+being pejoratively labeled as “the bottom half of the internet” (Reagle 2015).
+Addressing these issues has become a priority for news outlets, leading to
+significant investment and scholarly scrutiny (Gollatz et al. 2018; Wintterlin
+et al. 2020).
+  Besides deleting negative comments or eliminating comment sections
+altogether, another trend has emerged. Many news outlets and moderators
+are adopting methods to encourage constructive discussions (Diakopoulos
+2015; Yarnoz 2019). While much focus has been on countering hate speech
+and dark participation, strategies to foster positive engagement are less
+explored. However, these approaches could have substantial effects on
+online interactions.
+  With this contribution I aim to explore the evolution of news platforms’
+collective efforts to promote constructive discussions within their com-
+ment sections. I argue that this newfound emphasis has given rise to new
+configurations of hybrid moderation. While commonly used artificial
+intelligence (AI) tools in content moderation are adept at handling toxicity
+and incivility, they are unsuitable to promote constructive commenting.
+Consequently, news outlets task the human moderator with promoting qual-
+ity comments. This involves manually sifting through growing discussions
+to identify user-generated contributions that align with the editorial vision
+of a constructive comment. This creates what I propose to call a “third half
+of the internet”: a space positioned between the outlet’s journalistic content
+and user-generated comments, hand-picked by moderators, and guided by
+editorial preferences. It entails a big change in how the comment section is
+viewed. Traditionally the “bottom half of the internet” was a disconnected
+space from the editorial work of journalists, where rowdy and wild but free
+exchange between non-professional commenters took place. It has, however,
+become more common for news outlets to see the comment section as
+integral to their journalistic responsibilities.
+  More specifically, in this chapter I analyze how news outlets, aside from
+deleting unwanted content, promote constructive discussion, embedding
+it specifically within the context of hybrid content moderation. This work
+contributes to existing research through its focus on “good” or constructive
+comments. I present five cases of major news outlets with large comment

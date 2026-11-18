@@ -1,0 +1,41 @@
+144                                                            Fabian Ferrari
+
+claims of promoting AI democratization, the AI industry is dominated by
+a small number of platform monopolies. Since Microsoft and Amazon, as
+infrastructure providers, benefit from the widespread use of generative
+AI systems, they lack inherent economic motivation to prevent misuse by
+bad actors. Therefore, any regulatory efforts that focus solely on addressing
+issues like fake news without tackling the uneven power dynamics only
+offer a surface-level solution.
+  Generative AI systems should not be seen as escaping the grip of
+democratic control. Granted, their material complexities differ from other
+regulatory objects expounded upon in science and technology scholar-
+ship. Take the example of aircraft. Aircraft are fixed objects, comprising
+many components like engines, propellers, and other parts. Before they
+can enter the market, regulatory bodies must grant approval for all these
+components. Generative AI systems, on the other hand, consist of a small
+set of component types, essentially artificial neurons, but the multitude of
+connections between them allows for an immense variety of architectural
+configurations. This means that generative AI systems can have endless
+architectural shapes and use cases: they may influence elections, precipitate
+public scandals, and shape the norms of cultural production according to
+their probabilistic logic.
+  Regardless of how generative AI systems present themselves to public
+scrutiny in the future, oversight mechanisms need to be grounded in their
+material properties—not in speculative ideas about human extinction. If
+we perceive AI systems as carriers of existential risks, their right to exist
+precludes democratic negotiation. There is an urgent need to dispel this
+notion of AI systems as inescapable forces imposed upon society, instead
+recognizing them as observable, inspectable, and modifiable objects. In
+this way, democratic negotiations will become inescapable forces imposed
+upon generative AI systems.
+
+References
+
+Bertuzzi, Luca. 2023. “EU AI Act ‘Cannot Turn away from Foundation Models,’
+   Spain’s State Secretary Says.” Euractiv, November 17. https://www.euractiv.com/
+   section/artificial-intelligence/interview/eu-ai-act-cannot-turn-away-from-
+   foundation-models-spains-state-secretary-says/.
+Birhane, Adeba, Vinay Uday Prabhu, and Emmanuel Kahembwe. 2021. “Multimodal
+   Datasets: Misogyny, Pornography, and Malignant Stereotypes.” arXiv. https://
+   arxiv.org/abs/2110.01963.

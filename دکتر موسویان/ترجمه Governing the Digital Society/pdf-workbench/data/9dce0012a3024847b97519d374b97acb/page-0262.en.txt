@@ -1,0 +1,42 @@
+Concluding Comments: An Assessment of Governing the Digital Society     259
+
+From the empirical to the normative: Call for a next book
+
+This concluding chapter—and, in fact, this whole book—emphasizes the
+need to discuss the governing of the digital society in a broader scope, to
+ensure that we develop governance structures and practices that bring us
+the digital society we want rather than ending up in a dystopian one. The
+risks are many and they are discussed daily in newspapers and academic
+journals: concentration of power, suppression of workers, discrimination
+of various groups, loss of fundamental human capacities, infringements on
+various human rights, and so forth.
+  The various chapters in this book highlight that there really is a need to
+be concerned about the governance of the digital society. Limitations of new
+approaches such as the European Artificial Intelligence Act (AI Act) and
+moral agency are clearly presented. There is no reason to assume that current
+governance approaches are sufficient for bringing us the digital society we
+want. We can conclude that many problems have been acknowledged but
+that it is now time to use this information to continue the broader debate
+about the governance of the digital society. There is much work to be done!
+  Thus, there is an urgent need to discuss how to safeguard the values that
+we find important. The assessment framework presented in this final chapter
+can be used as a lens to connect the different analyses and to discuss the
+connections between the various forms of governance. Based on my crude
+analysis of the rich material presented in these chapters, I would like to
+highlight the following four points to serve as a research agenda for the
+academic analysis of governing the digital society:
+
+1.  Metagovernance of the digital society. There is ample reason to question
+    the contribution of commercial actors and their legitimacy. An impor-
+    tant question is to what extent we want to rely on stronger regulation of
+   markets or whether an alternative mode of governance—civil society
+    or public services—is needed. More academic work is required that
+    connects empirical insights into market dynamics to broader debates
+    about the role of markets, civil society, and the state in the governance
+    of the digital society. The concept of “metagovernance” (Sørensen and
+    Torfing 2009) may form an important starting point.
+2.  Potential of civil society for governing the digital society. Civil society
+    actors still play a quite marginal role even though their potential con-
+    tribution to the governance of the digital society is promising. Based
+   on the success of initiatives such as Linux and Wikipedia, there has
+   been a plea for a stronger civil society to safeguard public values. This

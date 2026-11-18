@@ -1,0 +1,41 @@
+Governing the “Third Half of the Internet”                                    71
+
+  An essential consideration when implementing AI-based moderation tools
+is system transparency, which is closely tied to user trust (Brunk et al. 2019).
+Many existing systems function as black boxes, providing no insight into
+the algorithmic decisions they generate. News platforms must possess the
+expertise to maintain transparency in their hybrid moderation practices,
+clearly delineating the roles assigned to both “humans” and “machines.”
+Moreover, a strict distinction between the two actors in hybrid moderation
+can obscure how they converge and interact in practice (Rieder and Skop
+2021). Demonstrating how certain moderation decisions are made and how
+AI systems evaluate incoming posts is crucial for both moderators and
+readers. This transparency allows them to demand explainability as part
+of the hybrid decision-making processes (Molina and Sundar 2022).
+
+Promoting constructive commenting: The “Third Half of the
+Internet”
+
+As discussed earlier, online news outlets hosting online comment spaces
+not only focus on filtering out unwanted comments but also increasingly
+strive to promote constructive discussion. This rather recent emphasis is
+distinct from toxicity filtering, as it specifically aims to encourage users
+to contribute what they perceive as constructive comments. In practical
+terms, this emphasis is operationalized by highlighting certain comments
+within a discussion. However, the AI tools models discussed earlier are
+unsuitable for this task, as they are trained to assess comments in terms of
+toxicity. Consequently, the responsibility of sifting through discussions and
+identifying constructive comments often falls on the shoulders of human
+moderators. Moderators must make choices based on editorial standards
+and expectations. In the following paragraphs, I illustrate how each news
+outlet implements similar moderation strategies, mobilizing moderators
+to promote desirable comments.
+  The New York Times employs the term “NYT Picks” to highlight selected
+comments. According to their FAQ page, these comments represent a range
+of views or are written by “readers with first-hand knowledge” (New York
+Times 2020). In addition to NYT Picks, the news outlet features “Readers’
+Picks,” defined as “a selection of comments with the highest amount of
+recommendations or upvotes” (New York Times 2020). These Readers’ Picks
+give users a sense of agency regarding elevating constructive comments.
+Both these categories are presented in separate tabs within the interface
+(figure 3.2).

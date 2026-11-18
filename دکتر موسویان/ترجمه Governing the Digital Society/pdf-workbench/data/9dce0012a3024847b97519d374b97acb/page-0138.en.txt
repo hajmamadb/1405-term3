@@ -1,0 +1,38 @@
+The Governance of Generative AI: Three Conditions for Research and Policy  135
+
+
+
+
+
+Figure 7.1. Observable dimensions in the context of generative AI systems.
+
+One could interpret figure 7.1 through the “platformization tree” metaphor
+(Van Dijck 2021). At the top of this tree are the consumer-facing AI applica-
+tions (e.g., chatbots), which depend on generative foundation models beneath
+them to run on a daily basis. These models serve as the central trunk of the
+tree and demand specific computational resources,2 including graphics
+processing units (GPUs). They are not isolated lines of code; they exist within
+a broader economic and industry context. Therefore, understanding their
+features as regulatory objects necessitates an examination of the political-
+economic context in which they operate and reshape cultural practices.
+Alterations to the model as the middle layer of this tree can have ripple
+effects on both the upper and lower layers of the system. While consumer-
+facing applications often draw the most attention from policymakers and
+the public, the inner workings of the underlying models tend to be difficult
+to grasp. Similar to high-frequency trading algorithms, generative models
+are highly changeable and dynamic due to constant developer modifications
+and user interactions (e.g., training or fine-tuning).
+  The European Commission’s initial proposal in April 2021 lacked ex-
+plicit provisions for generative AI systems. However, this has since evolved,
+influenced by the introduction of ChatGPT. A pre-final version of the AI
+Act, disclosed by a European Parliament official in January 2024 (Caroli
+2024), no longer categorizes generative AI systems as high risk. Instead, it
+includes specific provisions for providers of general-purpose AI models. As
+the text outlines, “these models are typically trained on large amounts of
+data, through various methods, such as self-supervised, unsupervised or
+reinforcement learning” (Caroli 2024, 48). Specific requirements include
+
+
+2  When it comes to computational resources, there is a complex global network of actors that
+includes chipmakers like AMD and Nvidia, semiconductor firms like TSMC and Qualcomm,
+assemblers of server farms like Supermicro and Inventec, and data center providers like Equinix.

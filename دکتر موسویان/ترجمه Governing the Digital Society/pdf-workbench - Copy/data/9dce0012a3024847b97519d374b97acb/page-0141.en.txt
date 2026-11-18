@@ -1,0 +1,43 @@
+138                                                            Fabian Ferrari
+
+text), and “ways to access” this information. In the following paragraphs,
+this chapter elaborates on those types of information in the context of the
+EU AI Act. While appreciating the complex hierarchy of three observable
+dimensions of generative AI systems (figure 7.1), the focus of this chapter
+in answering this question is specifically on the middle (trunk) layer of the
+emerging “generative AI tree”: generative foundation models. Although it is
+equally important to analytically dissect the components of consumer-facing
+AI applications as well as computational infrastructure, the remainder of
+this chapter focuses on the model dimension.
+
+Table 7.1.   Five Layers of Inspectable Properties of Generative Foundation Models
+
+ Type of information       Format of information      Access to information
+ 1. Training datasets for        Text (or images, video, etc.,   Model card, inspection of
+ foundation models         depending on the model)     training datasets
+ 2. Domain-specific training    Text, dialogue, text labels    Model card, inspection of
+ datasets for fine-tuning                                     fine-tuning dataset
+ 3. Neural network            Config file                Model card, inspection of
+ architectures                                                architecture in config file
+ 4. Trained models (with all    Weights file               Model card, inspection of
+ trained parameters)                                    parameters in weights file
+ 5. Scripts for training and     Computer code            Model card, inspection of
+ output generation                                              scripts in model’s code
+
+Accessing training datasets for foundation models
+In the relevant literature, the problem is widely acknowledged that the
+training datasets of many high-profile commercial algorithmic systems,
+whether designated as AI or not, remain uninspectable to external ex-
+amination. A substantial body of research has grappled with the problem
+of algorithmic opacity (Brevini and Pasquale 2020). In the context of
+proprietary generative AI systems, developers tend not to give access to
+the datasets they have trained their models on, and at best give non-exact
+pointers to the datasets.
+  OpenAI’s GPT models were trained on openly available data and data
+acquired under third-party licenses. GPT-3.5, for example, was trained
+on 45 terabytes of text data, which adds up to approximately 300 billion
+words extracted from public sources like Wikipedia, CommonCrawl, and
+GitHub, but also from undisclosed other sources. Open models, such as Meta’s
+LLaMA, by contrast, tend to give out pointers to the training datasets, but
+often leave out technical details on selections and applied pre-processing
+methods.

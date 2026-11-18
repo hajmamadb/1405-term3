@@ -1,0 +1,43 @@
+34                                     Mathilde Sanders and José van Dijck
+
+as an “attribute”) in a specific context (Van Dijck and Jacobs 2020). However,
+a challenge with privacy-friendly DAN e-IDS is that, while they protect
+privacy, they may hamper user-friendliness as they are less common and
+familiar than username–password logins; thus, they can create an obstacle
+to the public value of inclusion.
+
+Data servers
+A final technical characteristic of decentralized platforms is that they
+operate many independently run servers, as opposed to a single server
+system with centralized access, which is owned and operated by one
+organization or company in the case of MsSM. DOSNs typically try to
+anchor the public values of privacy and security in their choice for server
+decentralization; a network of servers makes personal data profiling
+more challenging and reduces the risk of a single point of failure, thereby
+lessening vulnerability to hackers (Klaytn 2023). DOSNs essentially separate
+the user interface from the underlying data stored on servers (Pierce
+2023). Mastodon’s network of thousands of independently run servers,
+for example, allows users to switch from one “instance” to another and
+bring along their network of contacts or followers.1 Shaw (2020) notes that
+one of the downsides of Mastodon is a tendency towards centralization,
+as users often want to join the same instance. However, the number of
+users that one instance can host is limited by server capacity and the
+availability of volunteers to run the instance. Approximately two-thirds
+of all Mastodon users are hosted by the top three cloud providers, with
+30 percent on Amazon, highlighting a trend towards centralization within
+this DOSN (Raman et al. 2019).
+  While DOSNs generally store their data on multiple servers, there are
+exceptions. The decentralized platform BlueSky, which is also built on
+a decentralized protocol, only operates one server. This approach offers
+advantages for user-friendliness on BlueSky, as it is much easier to create an
+account and find other users (discoverability) than it is on Mastodon (New-
+ton 2023). Although centralized data storage may advance user-friendliness
+for both the platform owner and the end user, it also poses a higher risk
+for privacy breaches, as it allows operators to combine personal data sets
+
+
+1   This is not possible for users of Facebook or X, because all data is stored on a centrally
+controlled server that does not allow for interoperability with data stored on other platforms
+and servers. Interoperability breaks network effects, which is undesirable for MsSM with a
+for-profit mission (Kwet 2022). However, there may be situations in which interoperability is
+preferable, for instance, when browser interoperability leads to more users.

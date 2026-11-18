@@ -1,0 +1,41 @@
+92                                                    Jacob van de Kerkhof
+
+(ECtHR, December 7, 1976, Handyside). The protection of Article 10 of the
+ECHR also encompasses the right to receive information: for example, in
+Yilderim v. Turkey the ECtHR found that blocking access to a social media
+platform violates the right to freedom of expression. In that case, disabling
+Google did not allow citizens to be informed as to effectively exercise a
+right to freedom of expression. Article 10(2) provides reasons for which
+the right to freedom of expression may be interfered: interference must be
+provided for by law, be necessary in a democratic society, and pursue one of
+the legitimate aims listed exhaustively in Article 10(2) of the ECHR. These
+tests ensure that an interference is legally foreseeable, proportional, and
+suitable to achieve its societal goal (ECtHR, April 22, 2013, Animal Defenders
+International v. The United Kingdom).
+
+The fragility of the right to freedom of expression in the trusted
+flagger framework
+
+A referral by a trusted flagger might impair an internet user’s freedom
+of expression. It is the internet intermediary who has the most profound
+impact on the freedom of expression of internet users: it has the final say
+on whether content is accessible or not. Since social media platforms are
+private entities, they do not need the same regard to a user’s freedom of
+expression: fundamental rights do not apply to internet intermediaries as
+they do to states (Teubner 2017). Therefore, the freedom of expression does
+not pose constitutional concerns when social media platforms engage in
+content moderation. However, the act of flagging a piece of content by a
+state entity can result in what Kreimer (2006) calls “censorship by proxy”:
+the internet intermediary succumbs to the pressure of the trusted flagger to
+remove content. Pressure emitting from such a nudge might be difficult to
+resist (Bambauer 2015), causing freedom of expression concerns. Kaye (2019)
+reports that internet intermediaries have yielded to government pressure
+from totalitarian states to silence minority voices. The indirect pressure
+emitted from a state body acting as a trusted flagger might violate the right
+to freedom of expression. This fragility is explored in light of the limitation
+grounds of Article 7 of the Gw, namely lawfulness, and Article 10 of the ECHR,
+legality, necessity in a democratic society and legitimate aim, respectively.
+  To create an overview of potential fragilities, one can derive four scenarios
+from the description above: (1) state actors functioning as trusted flaggers
+under Article 22 of the DSA; (2) a state actor functioning as trusted flagger
+outside of the DSA, in a private agreement with the internet intermediary;

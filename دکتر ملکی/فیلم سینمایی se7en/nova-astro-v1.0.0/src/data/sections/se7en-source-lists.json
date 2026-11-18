@@ -1,0 +1,70 @@
+{
+  "title": "کتابخانهٔ پژوهشی Se7en",
+  "description": "منابعی که در تحلیل‌های این سایت از آن‌ها استفاده شده است — به‌ترتیب از مقالات تخصصی تا ویکی‌پدیا و دیتابیس‌های آنلاین. این فهرست، ستونِ «ارجاع‌نامه»ٔ این پایگاه است.",
+  "attribution": "کتاب‌ها و مقالات: برگرفته از فهرست «Works Cited» ویکی‌پدیای انگلیسی Se7en (CC BY-SA 4.0). لینک‌های آنلاین: قانونی و در دسترس عمومی.",
+  "groups": [
+    {
+      "label": "کتاب‌های تخصصی",
+      "items": [
+        { "title": "Seven — Richard Dyer", "meta": "BFI Classics · 1999", "note": "مهم‌ترین کتاب مطالعاتی دربارهٔ فیلم؛ تحلیل شهر، گناه و ساختار" },
+        { "title": "Apocalyptic Dread: American Film At The Turn Of The Millennium — Kirsten M. Thompson", "meta": "SUNY Press · 2007", "note": "فصل Se7en در Morgue: شهر بی‌نشانه و دورهٔ هزاره" },
+        { "title": "The Domination of Fear — Shona Hill", "meta": "Brill · 2010", "note": "«Getting Medieval: Bodies of Fear, Serial Killers and Se7en»" },
+        { "title": "Film Noir — William J. Luhr", "meta": "Wiley-Blackwell · 2012", "note": "فصل اختصاصی Se7en در نوآر مدرن" },
+        { "title": "1001 Movies You Must See Before You Die — Steven Jay Schneider", "meta": "Murdoch Books · 2013", "note": "برگزیدهٔ دههٔ ۱۹۹۰؛ Se7en به‌عنوان نقطهٔ عطف ژانر" },
+        { "title": "The Bible in Crime Fiction and Drama — James C. Oleson", "meta": "Bloomsbury · 2019", "note": "«Long Is The Way…»: قتل زنجیره‌ای به‌عنوان «سخنرانی مذهبی»" },
+        { "title": "Deleuze's Cinema Books — David Deamer", "meta": "Edinburgh University Press · 2016", "note": "فصل «Se7en Mark»: خوانش فلسفی تصویر" }
+      ]
+    },
+    {
+      "label": "مقالات ژورنالی",
+      "items": [
+        { "title": "Se7en: Medieval Justice, Modern Justice — Valerie Allen", "meta": "Journal of Popular Culture · 43(6), 2010", "note": "نزدیک‌ترین مقاله به خوانشِ «کمدی الهی» فیلم؛ میلز=دانته، سامرست=ویرژیل", "url": "https://doi.org/10.1111/j.1540-5931.2010.00793.x" },
+        { "title": "Killer Culture: Classical Music and the Art of Killing — Thomas Fahy", "meta": "Journal of Popular Culture · 37(1), 2003", "note": "نقش هنر، ادبیات و موسیقی در مأموریت دو و کارآگاهی سامرست", "url": "https://doi.org/10.1111/1540-5931.00052" },
+        { "title": "Places of Horror: Fincher's Seven and Fear of the City — Steve Macek", "meta": "College Literature · 26(1), 1999", "note": "شهر به‌عنوان دوزخ؛ ترس از شهر در سینمای هالیوودی", "url": "https://doi.org/10.1353/cj.2003.0261" },
+        { "title": "'We are Seven': Dante and the Serial Killer — Jeremy Tambling", "meta": "Paragraph · 22(3), 1999", "note": "الگوریتمِ دانتیِ فیلم؛ خوانشِ انتقادی از «آلگوریتم» گناه و قتل", "url": "https://doi.org/10.3366/para.1999.0030" },
+        { "title": "Seven's Sexuality — Denis Flannery", "meta": "Irish Journal of American Studies · 9, 2000", "note": "خوانشِ همجنس‌گرایانه و الگوی «داوُد و یوناتان»" },
+        { "title": "Trashing Whiteness: Pulp Fiction, Se7en, Strange Days — Paul Gormley", "meta": "Angelaki · 6(1), 2001", "note": "چالش با کلیشه‌های نژادی: سامرست به‌عنوان «دانشمندِ سیاه‌پوست»", "url": "https://doi.org/10.1080/09697250120056837" },
+        { "title": "Mortality Plays: Pain, Penance, and Admonition in Se7en and Saw — Deborah Wills & Andrew Wilson", "meta": "Journal of Religion and Popular Culture · 23(3), 2011", "note": "مقایسهٔ Se7en با Saw؛ از تنبیه به پشیمانی", "url": "https://doi.org/10.3138/jrpc.23.3.397" },
+        { "title": "The Allure Of Decay — Amy Taubin", "meta": "Sight and Sound · 6(1), 1996", "note": "نخستین نقدِ «بصری-معماری» شهر در فیلم؛ باریِ فساد" }
+      ]
+    },
+    {
+      "label": "مقالات و نقدِ دوره‌ای (معاصر)",
+      "items": [
+        { "title": "The Horror! The Horror! — Patricia Moir", "meta": "Cinefantastique · 27(6), 1996", "note": "نقدِ اولیهٔ فرهنگی؛ فرهنگِ شهرت و نمایش" },
+        { "title": "Seven's Deadly Screenwriter — Andrew Kevin Walker", "meta": "Cinefantastique · 27(6), 1996", "note": "مصاحبهٔ مستقیم با فیلم‌نامه‌نویس" },
+        { "title": "Seven Rolls To O'Seas B.O. Heights — Mark Woods", "meta": "Variety · 1995", "note": "گزارشِ گیشه و واکنش بازار" }
+      ]
+    },
+    {
+      "label": "منابع آنلاین (ویکی‌پدیا و Wikiquote)",
+      "items": [
+        { "title": "Se7en (film) — English Wikipedia", "meta": "CC BY-SA 4.0", "url": "https://en.wikipedia.org/wiki/Se7en_(film)", "note": "منبع اصلیِ اطلاعاتِ تولید، اکران و تحلیل" },
+        { "title": "هفت (فیلم) — ویکی‌پدیای فارسی", "meta": "CC BY-SA 4.0", "url": "https://fa.wikipedia.org/wiki/%D9%87%D9%81%D8%AA_(%D9%81%DB%8C%D9%84%D9%85_%DB%B1%DB%B9%DB%B9%DB%B5)" },
+        { "title": "Se7en — Wikiquote", "meta": "CC BY-SA 4.0", "url": "https://en.wikiquote.org/wiki/Se7en", "note": "منبعِ جملاتِ این سایت" }
+      ]
+    },
+    {
+      "label": "دیتابیس و نقدِ آنلاین",
+      "items": [
+        { "title": "IMDb — Se7en (1995)", "meta": "imdb.com", "url": "https://www.imdb.com/title/tt0114369/", "note": "تصاویر، سکانس‌ها، نقد مخاطبان" },
+        { "title": "Rotten Tomatoes", "meta": "rottentomatoes.com", "url": "https://www.rottentomatoes.com/m/seven_1995", "note": "۸۴٪ — «A brutal, relentlessly grimy shocker…»" },
+        { "title": "Metacritic", "meta": "metacritic.com", "url": "https://www.metacritic.com/movie/seven", "note": "۶۵/100 — «generally favorable»" },
+        { "title": "Letterboxd", "meta": "letterboxd.com", "url": "https://letterboxd.com/film/seven/", "note": "یادداشت‌های فیلم‌دوستان" },
+        { "title": "JSTOR", "meta": "jstor.org", "url": "https://www.jstor.org/search?query=Se7en+Fincher", "note": "مقالات ژورنالی (دسترسی دانشگاهی)" },
+        { "title": "Google Scholar", "meta": "scholar.google.com", "url": "https://scholar.google.com/scholar?q=Se7en+David+Fincher+analysis", "note": "دسترسی آزاد به مقالات" }
+      ]
+    },
+    {
+      "label": "تماشا و موسیقی (قانونی)",
+      "items": [
+        { "title": "نماوا", "meta": "namava.ir", "url": "https://www.namava.ir/m/search?q=se7en" },
+        { "title": "فیلیمو", "meta": "filimo.com", "url": "https://www.filimo.com/search?q=se7en" },
+        { "title": "تلوبیون", "meta": "telewebion.ir", "url": "https://telewebion.ir/" },
+        { "title": "Se7en OST — Spotify", "meta": "open.spotify.com", "url": "https://open.spotify.com/search/seven+soundtrack", "note": "اسکور هاوارد شور" },
+        { "title": "Se7en OST — Apple Music", "meta": "music.apple.com", "url": "https://music.apple.com", "note": "اسکور کامل + نسخهٔ 16-ترک 2016" },
+        { "title": "Netflix / Prime / Apple TV", "meta": "بسته به کشور", "note": "در دسترس‌بودن قانونی بسته به منطقه" }
+      ]
+    }
+  ]
+}

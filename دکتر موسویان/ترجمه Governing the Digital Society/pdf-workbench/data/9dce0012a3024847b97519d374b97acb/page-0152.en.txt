@@ -1,0 +1,38 @@
+8.  The Long-term Usefulness of
+    Regulating AI in the EU
+       Lisanne Hummel
+
+
+        Abstract: The EU’s proposed Artificial Intelligence Act (AI Act) seeks to
+         regulate AI with a risk-based approach, where AI applications in high-risk
+        sectors need to comply with mandatory requirements. In this chapter
+           I ask whether the AI Act sufficiently considers the power of Big Tech
+       companies in the development of (generative) AI. I argue that the power of
+        Big Tech companies is entwined with the rise of (generative) AI. However,
+       by emphasizing the application of AI systems in specific sectors, the EU
+         explicitly chose not to focus on the earlier stages of the AI lifecycle and
+        thereby fails to address the problems that may arise from the influence
+         of these Big Tech companies on (generative) AI.
+
+       Keywords: Big Tech power, AI lifecycle, AI Act, foundation models,
+        regulatory burden
+
+Introduction
+
+Artificial intelligence (AI) has developed quickly over the past few years,
+and the development does not seem to be slowing down. OpenAI introduced
+several basic AI models from 2017 onwards, culminating in the release of
+the text-to-image system Dall-E in 2021 and the conversational chatbot
+ChatGPT in 2022. These developments led to an explosion in generative
+AI systems and the applications that can be built on top of these systems,
+where Big Tech companies have played a major role in these developments.
+Microsoft had already funded OpenAI’s ventures for a couple of years and
+finally entered into a strategic partnership with OpenAI in January 2023.
+Google, Amazon, Meta, and Apple all followed with their own AI systems
+
+
+
+Van Dijck, José, Karin van Es, Anne Helmond, and Fernando van der Vlist, eds. Governing the
+Digital Society: Platforms, Artificial Intelligence, and Public Values. Amsterdam: Amsterdam
+University Press, 2025
+doi 10.5117/9789048562718_ch08

@@ -1,0 +1,42 @@
+186                                                    Jing Zeng and Karin van Es
+
+emerging governance challenges. The governing strategies implemented
+by ChatGPT and ErnieBot can be described as a form of “patchwork
+governance” (Duguay et al. 2020). For instance, when various jailbreaking
+prompts circulate online, OpenAI responds by “patching up” the identified
+vulnerabilities through modifications in the safety layer of the code.
+Consequently, jailbreaking prompts are continually “patched” and new
+ones continue to surface.
+  Characterizing the governance of moral agency as “patchwork” reveals
+the tech companies’ approach to addressing related issues that is superficial
+and reactionary. In their critique of social media’s governing strategies,
+Duguay et al. (2020, 237) employ the term “patchwork platform governance”
+to describe tactics that rely on uneven retroactive policy measures while
+neglecting more foundational factors contributing to problematic behaviors
+(such as user culture and infrastructural design). This critique is pertinent
+to the governing logic within tech companies’ strategies for governing the
+moral agency of conversational AI.
+  A compelling example of tech companies’ superficial approach to moral
+agency governance is their tendency to resolve issues by sidestepping them.
+As previously discussed, by implementing a blanket ban on political topics,
+ErnieBot opts for the most “cost-effective” shortcut or avoidance rather than
+addressing these challenges head-on. To what extent does this reflect the
+technological limitations of the system in providing nuanced and objective
+information on political topics? Or is it merely a consequence of a lack of
+incentive to assume any risks?
+  In the case of ChatGPT, OpenAI is actively engaged in calibrating the
+moral agency of its chatbot to steer clear of controversial topics primarily
+driven by self-interest and the goal of “staying out of trouble.” As mentioned
+above, questions of the ChatGPT’s “wokeness” and its role in the “culture
+wars” animate public debate. The earlier version of ChatGPT drew criticism,
+predominantly from conservative quarters, over allegations of taking sides
+in favor of the Democratic Party, LGBTQ+ communities, or left perspectives
+(Hochman 2023). Faced with the criticism, OpenAI has since adopted a
+more stringent approach to its official policy of “avoiding taking a position
+on controversial topics” (OpenAI 2023) and to fostering more neutrality in
+the chatbot’s answers. However, on controversial topics, the demarcation
+between taking a position and presenting information is so fine that it is
+difficult, if not impossible, to maintain neutrality when the system’s primary
+function is selectively presenting information to users. Additionally, the
+open question emerges: When is a topic considered “controversial”? As
+implied in the examples presented above, the challenges related to governing

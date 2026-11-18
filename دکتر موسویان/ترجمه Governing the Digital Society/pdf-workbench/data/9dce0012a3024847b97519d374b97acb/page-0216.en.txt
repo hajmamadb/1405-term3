@@ -1,0 +1,45 @@
+Motherhood in the Datafied Welfare State                                  213
+
+ Organization     System name   Years in   Type of bias
+                   or type         service
+
+ Municipality of     Welfare fraud    2018–21   Used race and ethnicity–related indicators
+ Rotterdam          risk-scoring                such as language course enrollment and
+                    algorithm                 neighborhood, and several indicators related
+                                                  to motherhood, household composition, and
+                                                partner history. The model is also based on past
+                                      known incidents, which are heavily influenced by
+                                    human biases (Aung et al. 2021).
+ Dutch Ministry of   Visa application  2015–22   Used nationality and gender as risk indicators for
+ Foreign Affairs      risk-scoring                   visa applications (Maleeyakul et al. 2023).
+                    algorithm
+
+
+The increasing awareness of the risks of datafication and algorithmization
+has led to a growing public and academic debate on the idea of algorithmic
+accountability as a principle (Wieringa 2020) and various methods of
+algorithmic auditing as a means to achieve such accountability (Metaxa
+et al. 2021; Raji et al. 2020; Vecchione et al. 2021). Additionally, public admin-
+istration has seen a proliferation of ethics tools and guidelines produced by
+various governmental actors, academics, and non-profit organizations in
+an attempt to more structurally embed ethical values and principles in the
+design process of algorithms (Franzke 2022). However, as noted by Franzke,
+almost no guidelines “provide indication of having reflected upon the fact
+that what one might consider to be ‘the good’ or ‘the right’ is strongly shaped
+by context, interests, circumstances and (implicit) ethical framework” (2022,
+6). Utrecht University’s Data School has also created two tools that have
+become popular in governmental organizations: the Data Ethics Decision
+Aid (DEDA), which aids civil servants in making ethical decisions about data
+and algorithms in new and ongoing projects (Franzke et al. 2021; Siffels et
+al. 2022), and the Fundamental Rights and Algorithms Impact Assessment
+(FRAIA), which aims to help civil servants protect the human rights of
+Dutch citizens in projects or bureaucratic practices that involve algorithms
+(Gerards et al. 2022). While these tools help in making explicit the laws and
+values that apply to a particular data system or algorithm aimed to be used
+in public governance, little attention is paid to historical power relations in
+terms of race, class, and gender that are already present in particular policy
+domains. Since such power relations are often normalized within policy
+contexts, it is hard for civil servants to recognize them as power relations
+and account for the perspective of marginalized citizens. In the next section,
+we use the Rotterdam welfare fraud risk-scoring algorithm and its historical
+context as an example to show how contemporary algorithmic governance

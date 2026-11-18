@@ -1,0 +1,37 @@
+2.   Platform Cooperatives as an
+    Additional Strategy for Empowering
+    Platform Workers
+       Gabriël van Rosmalen
+
+
+        Abstract: This chapter examines the European Union’s efforts to improve
+        the precarious position of platform workers. It focuses on the directive
+       aimed at reducing the power imbalance between workers and platforms
+       by reclassifying the employment status of platform workers. This chapter
+         investigates the effectiveness of this approach. While the EU’s legislative
+       attempt is a step in the right direction, it remains uncertain whether
+        workers will truly benefit. Therefore, this chapter presents platform coop-
+         eratives, characterized by democratic structures and worker ownership,
+        as an alternative model for governing digital labor platforms. Platform
+        cooperatives and their governance structures warrant more attention
+       from legislators across the EU, as the policies of member states and local
+       governments can play a significant role in fostering their growth.
+
+       Keywords: platform economy, digital labor, worker ownership, labor
+          rights, collective ownership, employment classification
+
+Introduction
+
+The rise of the digital economy has brought significant changes to the world
+of work, with a growing number of workers engaged in digitally mediated
+forms of labor, such as platform work (Brancati 2019). This chapter aligns
+with the definition of a digital labor platform as outlined by the European
+Commission: a commercial service: (1) delivered through electronic means
+(e.g., website or mobile application); (2) provided at the request of a recipient
+
+
+
+Van Dijck, José, Karin van Es, Anne Helmond, and Fernando van der Vlist, eds. Governing the
+Digital Society: Platforms, Artificial Intelligence, and Public Values. Amsterdam: Amsterdam
+University Press, 2025
+doi 10.5117/9789048562718_ch02

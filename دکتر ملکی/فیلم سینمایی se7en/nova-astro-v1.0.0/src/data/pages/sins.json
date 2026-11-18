@@ -1,0 +1,33 @@
+{
+  "seo": {
+    "title": "هفت گناه کبیره در Se7en — تحلیل هر گناه و قربانی",
+    "description": "هر یک از هفت گناه کبیره در Se7en: نام قربانی، داستان قتل و پیام نامهٔ جان دو — کامل و تفصیلی."
+  },
+  "heading": "هفت گناه کبیره",
+  "sections": [
+    {
+      "id": "navbar",
+      "variant": "floating"
+    },
+    {
+      "id": "hero",
+      "variant": "se7enSins"
+    },
+    {
+      "id": "novaServices",
+      "variant": "default"
+    },
+    {
+      "id": "se7enSinsDetail",
+      "variant": "default"
+    },
+    {
+      "id": "se7enCta",
+      "variant": "default"
+    },
+    {
+      "id": "footer",
+      "variant": "nova"
+    }
+  ]
+}

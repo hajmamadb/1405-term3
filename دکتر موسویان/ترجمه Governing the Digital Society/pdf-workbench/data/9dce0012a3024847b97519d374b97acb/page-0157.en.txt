@@ -1,0 +1,41 @@
+154                                                          Lisanne Hummel
+
+unlikely develop their own tools due to financial and time constraints but
+also lack of expertise. By controlling these tools, Google therefore might be
+able to steer the direction in which AI and AI applications develop.
+  Meta is also building an open-source model through which they will
+receive important feedback from others using the LLM. This feedback enables
+them to see which applications are most popular. Similarly, Amazon uses
+its inside information of the most profitable companies selling on Amazon
+Marketplace to start selling the same products and successfully compete
+with these companies outside their market(place). Meta and Microsoft could
+use the data gathered in the foundational model to develop and compete
+with the most profitable applications using their model.
+   Since they have done so in other digital markets in the past, it seems likely
+that Big Tech companies will try to gain a dominant position in several AI
+markets by vertically integrating their proprietary AI infrastructures into
+a walled ecosystem of AI applications and tools. In several digital markets,
+these strategies have now been regulated by the EU through the DMA and
+DSA. However, in these regulations, AI is not (yet) mentioned as a specific
+market and therefore these regulations do not target AI-driven markets.
+  In sum, AI seems to be a fast-developing technology, and it is uncertain
+what direction the technology will evolve in. What is clear is that each AI
+system is subject to an iterative development process in the AI lifecycle.
+For each application, the AI system is trained and improved iteratively
+with increasingly large data sets. Moreover, the basic (foundational) AI
+systems that are being developed and deployed for general purpose are
+still in development. Many Big Tech companies compete to become the
+standard for LLMs and general-purpose AI and thereby leverage but also
+consolidate their power in digital markets.
+
+Regulating AI
+
+Historically, and even in science fiction, AI has always called to mind
+dystopian images of computers taking over from humans. It is therefore
+unsurprising that with the rise of AI, legislators have discussed how to
+intervene. The risks presented by AI were signaled by the EU in different
+policy documents, in which the EU expressed the ambition to find a balance
+between innovation, on the one hand, and safeguarding fundamental rights,
+on the other, in the application and development of AI (EU Commission
+2021). These policy documents culminated in the Commission’s proposal
+for the AI Act in April 2021. The goal of this act is to lay down “a uniform

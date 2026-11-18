@@ -1,0 +1,42 @@
+The Governance of Generative AI: Three Conditions for Research and Policy  131
+
+cultural power in the hands of a few powerful generative AI providers, as
+well as the misuse of generative AI systems in ways that may undermine
+democratic values (e.g., misinformation or hate speech).
+  Against this backdrop, the question of the chapter is: How can genera-
+tive AI systems be rendered governable? In other words, how can those
+complex and multilayered systems be opened up for regulatory scrutiny?
+The primary challenge in answering this question stems from the fact that
+most advanced generative AI systems, including ChatGPT, are proprietary
+systems and their constitutive elements are shrouded in secrecy, making
+the establishment of democratic oversight mechanisms significantly more
+challenging (also see Hummel, in this volume). For instance, OpenAI has
+not disclosed details about the training dataset it used—gathered from the
+internet—to train ChatGPT for conversational purposes. We only know some
+basic information, such as the fact that an early version of ChatGPT was
+trained on a vast dataset of 45 terabytes, equivalent to around 300 billion
+words. This dataset comprised publicly available data from sources like
+Wikipedia, as well as data obtained under third-party licenses. Crucially,
+those sources remain undisclosed by OpenAI, hindering regulatory efforts
+to trace the provenance of training data.
+  However, while transparency regarding these training datasets is cru-
+cial, this chapter argues that “AI transparency” by itself is an insufficient
+benchmark for democratic oversight. Rather than utilizing the typically
+underspecified and vague concept of “AI transparency” as the key anchor
+point in research and policy, this chapter proposes a nested structure of
+three more holistic oversight conditions: analytical observability, public
+inspectability, and technical modifiability. First, democratic oversight
+requires a systematic observation of generative AI systems. Second, it
+mandates ensuring access to the properties of these models, whether for
+external inspectors or the general public. Third, it demands the capacity
+to modify generative AI systems based on those inspections. However, it is
+essential to stress that these conditions are interdependent. It is only when
+they come together that they create a coherent normative framework for
+research and policy upon which regulators can act.
+  To develop this argument, the chapter proceeds as follows. First, it
+situates the study of generative AI systems within the context of science
+and technology studies (STS) research on regulating multilayered objects.
+Second, it explains the three abovementioned conditions for democratic
+oversight, using the EU’s Artificial Intelligence Act (AI Act) as a case study.
+Third, the chapter discusses the relevance of these conditions to study AI’s
+regulatory futures.

@@ -1,0 +1,41 @@
+The Governance of Generative AI: Three Conditions for Research and Policy  133
+
+and clear regulatory definitions and agreed-upon governance standards. If
+different regulatory authorities within the same jurisdiction have different
+interpretations of the regulatory object, it can seriously hinder oversight
+processes. Conversely, when there are substantial differences in how differ-
+ent jurisdictions—such as the EU and the US—understand the regulatory
+object, it limits the effectiveness of cross-border regulatory systems. A lack
+of clarity regarding the precise definition of the regulatory object, including
+its boundaries and limitations, hinders efforts to govern generative AI
+systems. Both for research and policy in this area, a granular understanding
+of generative AI systems as regulatory objects with distinguishable properties
+is crucial: material items that can be observed, accessed, and modified.
+  Nonetheless, for this argument to carry empirical weight, it must be
+developed vis-à-vis an actually existing regulatory framework; it cannot
+remain an abstract theoretical claim. In the next section, I introduce the
+EU AI Act as an empirical case study that helps to bring to life the three
+interconnected conditions for democratic oversight.
+
+Case study: The EU’s AI Act and three oversight conditions
+
+The EU’s Artificial Intelligence Act relies on a risk-based approach through
+which different AI technologies get categorized by their risk level. Some,
+like facial recognition software, are labeled “unacceptable risk,” while
+others fall into “high-risk” and “limited risk” categories. Because it has not
+come into force yet, the status quo is that the same corporate actors that
+produce generative AI systems like ChatGPT are also setting border-crossing
+standards for safety guardrails to mitigate repercussions. Corporate actors
+do not only own the means of generative AI production, but also the means
+of generative AI oversight. Even though they themselves call for setting up
+new AI regulations, they have a vested interest in defining the regulatory
+rules and principles, including the EU’s AI Act (Perrigo 2023).
+  To influence AI regulations according to their strategic interests, industry-
+dominating AI producers can leverage consumer pressure. For example,
+Sam Altman, the CEO of OpenAI, the company which owns ChatGPT, has
+raised the prospect of withdrawing from the European Union’s Digital
+Single Market should the company find it impossible to adhere to the EU
+AI Act. As of January 2023, reports indicated that ChatGPT was being used
+by more than 100 million individuals daily (UBS 2023). In November 2023,
+OpenAI claimed that 92 percent of Fortune 500 companies use ChatGPT
+(Porter 2023). The substantial user base, “making it the fastest-growing

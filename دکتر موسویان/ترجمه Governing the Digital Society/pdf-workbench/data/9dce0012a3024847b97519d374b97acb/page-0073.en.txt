@@ -1,0 +1,36 @@
+70                                                       Cedric Waterschoot
+
+
+
+
+
+Figure 3.1. Warning message while attempting to comment on an
+article. Source: El País.
+
+It is, however, essential to acknowledge the limitations of such systems, as
+computational models may produce inaccurate or incorrect results. Analysts
+at the New York Times have raised concerns about identity bias in their use
+of the Perspective API, noting that identity statements such as “As a Jewish
+man” resulted in higher toxicity scores compared to comments without such
+identity markers (Salganik and Lee 2020). Dutch news outlet NU.nl utilizes a
+commercial toxicity filter for their comment sections as well, developed by
+Utopia Analytics and implemented since 2019 (Van Hoek 2020; Utopia n.d.).
+   For news outlets and publishers, an alternative to outsourcing or purchas-
+ing pre-built AI solutions is to develop their own. Although this option
+demands expertise and investments, it offers a significant advantage.
+Platforms can maintain control and exert more agency over the processes
+that shape their comment space. The Guardian has been developing its own
+computational models for managing incoming comments since 2016. Their
+system, known as “Robot Eirene,” was described in a written statement to
+the Parliamentary Communications and Digital Committee in April 2021
+(The Guardian 2021): “Eirene does not replace human moderators, but rather
+it serves to reduce the volume of comments in our queues and to have high
+risk comments flagged to the moderation team.” Interestingly, The Guardian
+suggests that the system could potentially be used to identify “good” com-
+ments, a departure from the conventional focus on toxicity filtering (The
+Guardian 2021). However, any application to identify good behavior has yet to
+be developed and applied. Similarly, the German newspaper Die Zeit started
+developing their own AI tool in 2016 under the name “Robot Zoë” to handle
+the substantial increase in comments over time (Loos 2016). Nonetheless,
+they clearly state that detecting “good” comments is not currently a technical
+option for such a system (Ogolla and Hard 2020).

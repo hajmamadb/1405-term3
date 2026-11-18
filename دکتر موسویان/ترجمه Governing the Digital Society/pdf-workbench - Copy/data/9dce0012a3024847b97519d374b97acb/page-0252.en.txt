@@ -1,0 +1,42 @@
+Fundamental Rights and Algorithms Impact Assessment                 249
+
+would outweigh the costs of interfering with fundamental rights. If they
+have done so, and a decision based on the algorithmic system ever comes
+before the higher authority, they will at least have a convincing story to tell.
+  Of course, all of this does not guarantee a substantively good outcome,
+but it is the best we can do in terms of making the process such that it
+guarantees an outcome that is acceptable to most people.
+
+VM: What are the main benefits and challenges for governmental organiza-
+tions in implementing FRAIA? Do you think it could be exported and used in
+other countries?
+
+JG: The instrument helps civil servants in making good policy and I think
+most of them appreciate that. By going through FRAIA, they can explain
+why they made certain choices and if a mistake was made, they can trace
+back exactly where in the decision-making process things have gone wrong.
+This helps them to feel safe and certain about making a decision. It also
+guarantees some intersubjectivity because it is always a team exercise. All
+team members should agree on the outcome of FRAIA or at least they should
+be able to agree to disagree about it. However, one thing I am not sure about
+is whether and to what extent this is a cultural matter. FRAIA might work
+in the Dutch context, which seems to be quite open and non-hierarchical,
+but I am not sure if this is the same in different cultures of governance. That
+needs checking and perhaps some experimentation.
+  Moreover, if we were to get the chance, I think we would make some
+additional changes. One of the issues that has come up is the need for further
+alignment of FRAIA with the data protection impact assessments (DPIAs),
+as having to do both might be a real burden on organizations. Additionally,
+there has been a question of whether a “quick scan” could be developed
+to see if an algorithm would have a real impact on fundamental rights, so
+public bodies would only need to use FRAIA in such cases. Finally, in a way,
+enforcement could be a challenge. So far, FRAIA is not obligatory, but there
+are some ideas of making it mandatory. If that were to happen, you would
+also have to think about how to implement, monitor, and audit it. However,
+I am not sure if the instrument lends itself well to mandatory application
+and if it still would work well then.
+
+VM: FRAIA is designed to be implemented by governmental organizations. Do
+you see a role for an instrument like FRAIA to be extended to the commercial
+sector? In this respect, how does FRAIA relate to the EU Artificial Intelligence
+Act (AI Act)?

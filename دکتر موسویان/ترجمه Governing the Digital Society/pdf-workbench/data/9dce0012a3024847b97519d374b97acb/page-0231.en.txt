@@ -1,0 +1,42 @@
+228                                               Niels Kerssens and Karin van Es
+
+education platforms (DEPs), including Big Tech workspaces (e.g., Google
+Workspace for Education) and algorithmic learning platforms developed
+nationally (e.g., Bingel in the Netherlands) are integrated into teaching and
+learning. Teachers and students in classrooms access these platforms through
+the internet using personal hardware devices like the Google Chromebook,
+Microsoft Surface Tablet, and the Apple iPad. DEPs are seamlessly integrated
+with infrastructural cloud services for data storage, learning analytics, and
+AI, most of which are provided by world-leading global cloud providers:
+Amazon, Google, and Microsoft (Kerssens and Van Dijck 2023). Classroom
+dependence on these digital ecosystems of applications, hardware, and
+infrastructural services controlled by Big Tech companies erodes the digital
+autonomy of schools, in terms of their control over both data and pedagogy.
+Whereas the former issue of data autonomy concerns a shifting division
+of control over student privacy and learning data (Day et al. 2022; Lai et
+al. 2023), the issue of pedagogical autonomy involves a rearrangement of
+control over the organization of teaching and learning (Kerssens and Van
+Dijck 2023).
+  In this chapter we examine how to secure and strengthen the digital
+autonomy of primary schools in their transition to digital education through
+“cooperative responsibility” (Helberger et al. 2018), referring to the different
+stakeholders taking shared responsibility and dividing labor for this objec-
+tive. We argue for the importance of collective and cooperative action at the
+sectoral level—involving schools, public organizations, and/or edtech market
+players—as a pivotal counterbalance to Big Tech companies tightening
+their grip over data and pedagogy in “platformizing” classrooms in Europe
+(Cone et al. 2021). Our argument to promote collective action at the sectoral
+level, using the Netherlands as an example of an EU country, consists of
+two parts. First, we stress that data autonomy and pedagogical autonomy
+should be aligned. Second, we argue that parallel to the development and
+implementation of governing instruments for platforms, collective initiatives
+should focus on the design and development of alternative platforms and
+ecosystems for digital education.
+  To address these points, the chapter starts with a brief discussion of
+platformization in education, the implications for schools’ diminishing
+control over educational data and pedagogy, and the potential benefits of
+joint collaborations in securing and strengthening schools’ digital autonomy.
+Next, we discuss three collective initiatives within the Dutch primary
+education sector which offer compelling examples of how collaboration can
+counterbalance schools’ waning control over educational data. We continue
+by arguing that collective governance of educational platformization is

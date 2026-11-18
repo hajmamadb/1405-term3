@@ -1,0 +1,42 @@
+32                                     Mathilde Sanders and José van Dijck
+
+values before making technical choices. We will explore several examples
+related to open-source software, software protocols, and data servers.
+
+Open-source software
+Decentralized social networks are often equated to the choice for open-
+source software. Depending on the license, open-source software grants
+users the rights to use, copy, modify, and distribute the software and its
+source code to anyone and for any purpose. This choice gives software
+developers more control over future software modifications and promotes
+public innovation while limiting private profits. Open-source software
+assumingly safeguards public values such as openness, transparency, and
+inclusion while facilitating cooperation, innovation, and public trust. It is
+often pitted against proprietary software, which typically keeps its source
+code hidden, preventing inspection, modification, or copying.
+  However, the distinction between open-source and proprietary software
+is not always as clear-cut as it seems. While open source is almost invariably
+associated with DOSNs, it is also used by centralized, mainstream platforms
+such as Google and Facebook, especially if it benefits their business models.
+For example, these companies have recently open sourced parts of their
+AI software for it to become the technical foundations on which other
+developers innovate, thus luring more users to their systems (Ackermann
+2023). Conversely, some decentralized networks may opt for proprietary
+rather than open-source software for reasons of security or financial stability.
+For instance, GebiedOnline, a small Dutch social network connecting local
+communities that operates similarly to a decentralized online network,
+relies on proprietary software run by a small social enterprise to assure
+financial viability.
+  What is at stake in the choice of open-source versus proprietary software
+is the weighing of values: security versus openness, or transparency versus
+user friendliness and inclusion. Regarding the first choice: open-source
+software is not necessarily less secure than its proprietary counterpart,
+but its open nature allows for endless modifications; this may also have
+implications for a platform’s business model (see section 4). As for the
+latter dilemma: open-source software may be more transparent, but it
+may not always be the most user-friendly type of software, especially for
+those without technical expertise. As a result, open-source software tools
+may exclude certain societal groups lacking technical or practical digital
+skills. In addition, transparency may also be realized at a non-technical
+level, for instance, by offering insights in all moderation decisions (see
+section 4).

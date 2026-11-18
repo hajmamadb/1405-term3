@@ -1,0 +1,42 @@
+Introduction: Governing the Digital Society                                  21
+
+  From a communication and media studies perspective, Jing Zeng and
+Karin van Es redefine the concept of moral agency to examine and challenge
+the moralization of conversational AI tools. Instead of narrowly defining
+moral agency as a machine’s ability for autonomous moral decision-making,
+their broader conceptualization centers on the system’s capacity to adhere
+to predefined ethics and values. Using ChatGPT and ErnieBot as illustrative
+case studies, Zeng and Van Es explore moral agency as both a technological
+and political construct. This approach reveals the contentious nature of
+defining what is moral and immoral, shaped by power contestation among
+various actors in broader society. The chapter concludes with a critical
+discussion of the challenges related to governing moral agency, particularly
+highlighting the tension between Big Tech firms’ self-interest and their
+proclaimed societal benefits, whether genuine or cosmetic, alongside the
+backdrop of societal discord and polarization.
+  Next, the discussion transitions to the impact of datafication and AI on
+citizens in “smart cities.” Michiel de Lange, Erna Ruijer, and Krisztina Varró
+combine urban studies and public administration literature to show the
+importance of inclusivity as a public value in co-creating people-centric
+urban neighborhoods. Inclusive smart cities face the challenge of ensuring
+that the datafication of urban life benefits the collective interests of all
+citizens, rather than favoring a select few or impeding their full participation
+in urban society. The chapter conceptualizes inclusion in the datafied smart
+city by showcasing vignettes that address inclusive datafied smart cities,
+highlighting the need for collective interests to guide the datafication of
+urban life.
+   In the following chapter, Gerwin van Schie, Laura Candidatu and Diletta
+Huyskes adopt a genealogical and critical data studies perspective to exam-
+ine the “datafied welfare state.” They trace how norms about race and gender
+are perpetuated in Dutch public institutions’ welfare distribution processes,
+revealing how these norms became embedded as indicators in welfare fraud
+risk-scoring algorithms. Their contribution explains how contemporary
+welfare schemes perpetuate historically gendered and racialized notions
+of Dutch citizenship. Through the analysis of migrant motherhood and
+racialized citizenship, they demonstrate how algorithm-based government
+policies interpret structural social disadvantages as a higher risk for welfare
+fraud. By demonstrating the flaws of such schemes, they aim to prevent such
+discriminatory systems in future algorithmic governance.
+  Focusing on the Dutch primary education sector, Niels Kerssens and
+Karin van Es address the implications of AI-based personalized learning
+systems on the autonomy of educators from a platform studies perspective.

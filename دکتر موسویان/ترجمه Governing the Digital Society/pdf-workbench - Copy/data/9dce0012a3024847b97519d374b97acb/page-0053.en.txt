@@ -1,0 +1,41 @@
+50                                                      Gabriël van Rosmalen
+
+towards a broad interpretation of false self-employment. In contrast, the
+European Council’s proposal provides more flexibility for digital platforms
+to label workers as independent contractors.
+
+Effectiveness of forthcoming European legislation
+
+The European objective is evidently focused on providing social security
+to platform workers by ensuring a traditional employment status. The
+ultimate aim is to shift power away from digital platforms and strengthen the
+position of workers. However, the effectiveness of the legislative proposals
+are uncertain.
+  Recent empirical research shows that platform companies have man-
+aged to introduce novel forms of false self-employment, wherein formally
+employed workers still lack basic labor rights (Niebler et al. 2023). A study
+by Niebler et al. focuses on three European cities, Berlin, Lisbon, and Paris,
+where ride-hailing companies like Uber have faced increasing regulatory
+scrutiny, leading to attempts to classify drivers as employees rather than
+independent contractors. The study found that in all three cities, ride-
+hailing companies have used subcontracting and creative compliance
+strategies to maintain their status as platform companies while avoiding
+new rules. This practice allows them to circumvent certain legal obligations
+and standards, resulting in false self-employment (Kocher 2023; Niebler et
+al. 2023, 296). It is a form of regulatory arbitrage, where companies exploit
+regulatory loopholes to achieve compliance in theory but not in practice.
+Despite being classified as employees, drivers often earn significantly below
+the minimum wage (Niebler et al. 2023, 293). This is primarily due to the
+piece-wage system, where drivers are paid per ride, instead of per hour of
+labor. As a result, many drivers work unpaid overtime, experiencing a form
+of wage theft. While employment classification theoretically entitles drivers
+to benefits like paid leave and social security, in practice, many drivers lack
+such entitlements. The study reveals that drivers often work informally,
+and on low-hour contracts that do not include mandatory social security
+contributions (Niebler et al. 2023, 296).
+  The deceptive employment model operates through subcontracting
+arrangements between platform companies and sub-companies, under-
+mining legal obligations and standards. This model thrives due to lax law
+enforcement and the semi-legal use of contingent employment arrangements.
+In some instances, pseudo-self-employment situations were even more
+precarious than those for self-employed drivers, due in main part to informal

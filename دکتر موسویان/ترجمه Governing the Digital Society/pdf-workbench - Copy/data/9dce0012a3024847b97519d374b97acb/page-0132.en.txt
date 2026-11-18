@@ -1,0 +1,37 @@
+7.   The Governance of Generative AI:
+    Three Conditions for Research and
+     Policy1
+      Fabian Ferrari
+
+
+        Abstract: The increasing permeation of society by generative AI systems
+          like ChatGPT has given rise to a pressing task that remains unresolved: the
+        design of future-proof governance mechanisms that ensure democratic
+         oversight over those AI systems. To establish and examine this oversight,
+            it is essential that generative AI systems can be opened up for regulatory
+         scrutiny. This chapter argues that there are three overarching dimen-
+         sions to structure research and policy agendas about the governance of
+        generative AI systems: analytical observability, public inspectability,
+       and technical modifiability. Empirically, the chapter explicates those
+        conditions with a focus on the EU’s Artificial Intelligence Act (AI Act).
+       Those three conditions act as benchmarks to help perceive generative
+       AI systems as negotiable objects, rather than viewing them as inevitable
+         forces.
+
+       Keywords: foundation models, generative AI systems, regulatory objects,
+       AI Act, transparency obligations, observability
+
+Introduction: Navigating the AI policy landscape
+
+Across the globe, governments find themselves confronted with a pressing
+challenge: How to establish robust oversight structures for generative AI
+
+
+1   This chapter is based on the groundwork of two journal articles that appeared in Nature
+Machine Intelligence (Ferrari et al. 2023a) and New Media & Society (Ferrari et al. 2023b).
+
+
+Van Dijck, José, Karin van Es, Anne Helmond, and Fernando van der Vlist, eds. Governing the
+Digital Society: Platforms, Artificial Intelligence, and Public Values. Amsterdam: Amsterdam
+University Press, 2025
+doi 10.5117/9789048562718_ch07

@@ -1,0 +1,41 @@
+256                                                            Albert Meijer
+
+we want to govern the digital society. After reviewing the eight leading
+questions, I will return to this broader issue in the final section.
+
+Rich answers to the assessment questions
+
+This book provides a host of insights into practices of governing the digital
+society. The studies were done by researchers from many different disciplines
+and therefore I will certainly not claim that these can come neatly together
+in a set of answers to the eight questions I presented above. At the same
+time, the questions can be used to highlight key topics discussed in the
+various chapters and to show how the chapters connected to different
+assessment questions.
+
+1. Do commercial actors produce the public values we want?
+Commercial actors operating in market settings to produce welfare and
+well-being for society are considered in various chapters. A key question
+here is whether these market dynamics produce what we want or whether
+they result in negative values such as discrimination, abuse of power, in-
+fringements on privacy, etc. The precarious position of platform workers
+discussed by Gabriël van Rosmalen is a clear example of such negative values
+that need to be avoided. Other chapters touch upon the risk of negative
+values such as fake news and invasion of privacy through the activities
+of commercial actors. In fact, this general analysis that commercial actor
+dominance creates risks for public values seems to form a starting point
+for the subsequent in-depth analyses.
+
+2. Do we accept how commercial actors function?
+In markets, commercial actors have been given certain freedoms to pursue
+their goals but they also function within systems of legal and societal norms
+regarding what is acceptable behavior. An interesting example of this is-
+sue is the discussion of practice by internet intermediaries of “flagged
+content” which allows engagement with expertise of governmental and
+non-governmental organizations within the framework of government
+regulation by Jacob van de Kerkhof. Another example is the promotion
+of constructive comments by news media to identify and ban unwanted
+comments, as discussed by Waterschoot. A key question is how and whether
+these two types of practice contribute to the legitimacy of the commercial
+actors, in this case the internet intermediaries and news media. In addition,
+Jing Zeng and Karin van Es critically interrogate whether moral agency can

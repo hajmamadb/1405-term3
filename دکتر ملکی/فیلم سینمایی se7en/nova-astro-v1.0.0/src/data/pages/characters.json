@@ -1,0 +1,45 @@
+{
+  "seo": {
+    "title": "شخصیت‌های Se7en — سامرست، میلز، جان دو و تری",
+    "description": "تحلیل شخصیت‌های اصلی Se7en: سرگردان سامرست، کارآگاه میلز، جان دو و تری؛ به‌علاوهٔ داستان هفت قربانی."
+  },
+  "heading": "شخصیت‌های Se7en",
+  "sections": [
+    {
+      "id": "navbar",
+      "variant": "floating"
+    },
+    {
+      "id": "hero",
+      "variant": "se7enCharacters"
+    },
+    {
+      "id": "se7enCharSomerset",
+      "variant": "default"
+    },
+    {
+      "id": "se7enCharMills",
+      "variant": "default"
+    },
+    {
+      "id": "se7enCharDoe",
+      "variant": "default"
+    },
+    {
+      "id": "se7enCharTracy",
+      "variant": "default"
+    },
+    {
+      "id": "se7enCharVictims",
+      "variant": "default"
+    },
+    {
+      "id": "se7enCta",
+      "variant": "default"
+    },
+    {
+      "id": "footer",
+      "variant": "nova"
+    }
+  ]
+}

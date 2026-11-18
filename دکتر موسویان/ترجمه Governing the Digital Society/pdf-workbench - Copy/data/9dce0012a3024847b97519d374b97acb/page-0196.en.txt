@@ -1,0 +1,41 @@
+Doing Inclusion                                                         193
+
+the context of the smart city. We identify two existing perspectives: (1)
+technological inclusion, emphasizing access to technology and information,
+and (2) digital social inclusion, entailing a culturally sensitive understanding
+in terms of diversity and representation.
+  To address the shortcomings of these perspectives we propose a third
+perspective: (3) doing inclusion, involving practices of continual negotiation
+and co-creation. With this third perspective we aim to develop a conceptual
+and operational view of inclusion. Another aim of this contribution is to
+showcase through two short case studies how doing inclusion can help close
+this gap between the abovementioned rhetoric of inclusive smart cities and
+how this is actually done. Building on our own research-by-design projects,
+we analyze in section 3 how negotiation and co-creation underpin “doing
+inclusion.” At stake is how inclusive smart cities can be nurtured in practice
+by using design methods. In the concluding section, we combine insights
+from the theoretical and case study sections and sketch avenues for further
+research. We argue that governing inclusive smart cities is neither the sole
+responsibility of the state nor a purely citizen-centric endeavor but must
+be understood as emerging from dynamic relationships between citizens,
+governments, and other parties, and their (ongoing) negotiations about
+controversial issues like datafication. This is the “doing inclusion” from the
+title that we are interested in exploring here.
+
+Conceptualizing inclusion in the datafied smart city
+
+In this section we identify two common strands in theorizing inclusion
+and propose an emerging third perspective. Importantly, we regard these
+framings not as mutually exclusive or evolving in a linear fashion. Instead, by
+presenting them as analytically distinct “generations” we intend to capture
+how scholarship branches out and converges, producing ever-evolving
+cumulative perspectives for conceptualizing inclusion in the context of
+the digitalization of urban life.
+
+1. Technological inclusion: Access and skills
+First, inclusion has been framed as an issue of bridging the “digital divide.”
+This perspective highlights unequal access to technologies and asks who
+reaps the benefits from the so-called “information/knowledge revolution.”
+It is technology-centric and emphasizes the gap between the digital haves
+and have-nots. While having older origins, the term “digital divide” has
+percolated into digital city and smart city discourses. Graham distinguishes

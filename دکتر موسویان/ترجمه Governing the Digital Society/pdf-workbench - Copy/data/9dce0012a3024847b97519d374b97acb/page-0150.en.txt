@@ -1,0 +1,14 @@
+The Governance of Generative AI: Three Conditions for Research and Policy  147
+
+Van Dijck, José. 2021. “Seeing the Forest for the Trees: Visualizing Platformiza-
+   tion and Its Governance.” New Media & Society 23(9): 2801–19. https://doi.
+   org/10.1177/1461444820940293.
+Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan
+   N. Gomez, Łukasz Kaiser, and Illia Polosukhin. 2017. “Attention Is All You Need.”
+   In Advances in Neural Information Processing Systems 30 (NIPS 2017), edited by I.
+  Guyon, U. Von Luxburg, S. Bengio, H. Wallach, R. Fergus and S. Vishwanathan
+  and R. Garnett. Red Hook, NY: Curran.
+
+About the Author
+
+Fabian Ferrari is assistant professor in cultural AI at Utrecht University.

@@ -1,0 +1,42 @@
+230                                               Niels Kerssens and Karin van Es
+
+models in DEPs (Kerssens and Van Dijck 2023). The economic value that
+tech companies derive through data assetization “arguably goes beyond a
+‘quid pro quo’” (Day et al. 2022, 3). Edtech companies, as powerful market
+actors, often surpass a school’s ability to fully comprehend and consent to
+the purport and scope of their data processing activities. This raises urgent
+questions about schools’ abilities to take meaningful control over their data,
+or “data autonomy” (Gstrein 2023).
+  Edtech companies’ expanding control over educational data aligns with
+their control over pedagogies: “[N]ot only do companies profit from access
+to children’s personal data gained in real time throughout the school day,
+but they may be shaping what children are taught and how” (Day et al. 2022,
+3). Researchers in the field of platform studies investigate how educational
+platform technologies operate as intermediaries actively shaping classroom
+practices. They reveal how DEPs encode particular values, assumptions, and
+interests of their developers about what is important in teaching and learning,
+assessment, and in the standards that students must meet (Apps et al. 2022;
+Kerssens 2023). When technologies are used, “these values and biases are neces-
+sarily imported and integrated as teachers and students become entangled with
+them, translating and sometimes displacing or obsolescing related practices”
+(Adams and Groten 2023, 8). Critical edtech scholars have shown, for example,
+how the popular classroom management platform ClassDojo reshapes student
+behavior around rationales of gamification and performativity (Manolev 2019),
+and how Google Classroom—the center application of Google Workspace
+for Education—reshapes teacher participation around platform logics of
+datafication, automation, and surveillance (Perrotta et al. 2020).
+   Platformization of classroom teaching and learning raises urgent issues
+about pedagogical autonomy, both at the institutional level of schools’
+control over the design and arrangement of the online learning environment,
+and at the professional level of teachers, affecting their “degree of freedom
+[…] to perform pedagogical practices and make pedagogical decisions […]
+independent of digital education platforms” (Kerssens and Van Dijck 2022,
+286). Platform companies control the design and development of education
+technologies occupying an increasingly central position in classroom learn-
+ing environments. As such, they set pedagogy in practice. Problematically,
+educational professionals and students have little influence on the develop-
+ment of the pedagogies invisibly encoded into platforms. Moreover, given
+the opaque nature of these technologies, they are often unable to observe,
+let alone challenge, the agential role that platform pedagogies play in their
+educational practices, nor can they inspect their accuracy, effectiveness,
+and fairness (Zeide 2020).

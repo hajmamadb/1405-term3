@@ -1,0 +1,42 @@
+Constitutional Aspects of Trusted Flaggers in the Netherlands            87
+
+Kingdom, Europol, and Israel (Chang 2017). Finally, next to these various legal
+statuses of trusted flaggers, there have been efforts to legalize the position
+of trusted flagger in national law. For example, in the case of the German
+Netzwerkdurchsetzungsgesetz (Network Enforcement Act), the German
+legislature formalized the option to flag on the grounds of public interest,
+functioning as a reporting agency (Beschwerdestelle). Public interest flags
+are subject to transparency requirements, with internet intermediaries
+having to disclose how many public interest flags they receive. The latest
+formalization in the Digital Services Act is discussed in the next subsection.
+  The second differentiating factor is the stage at which the trusted flagger
+is involved. While the name suggests that they are only involved in “flagging”
+content, meaning that after the content is posted, trusted flagger organiza-
+tions can also be involved in policymaking, representing specific interests in
+creating community guidelines. The involvement of civil society organiza-
+tions in forming community guidelines is encouraged under Article 46 of
+the DSA. Since this is not specific to the trusted flagger functions discussed
+in Article 22 of the DSA, this stage is not treated in this contribution.
+  The third feature differentiating trusted flaggers is their degree of
+privilege with the internet intermediary. Trusted flaggers have different
+levels of access to the internet intermediary, which is also dependent on
+their legal status. These range from treating the flag almost as a standard
+content flag, with little urgency or lessened discretion for the platform, to
+situations where the review of a flag from a trusted flagger is reduced to a
+bare minimum, as seen with copyright holders under the US Digital Millen-
+nium Copyright Act (Urban et al. 2017). The difference in privilege depends
+on the expertise of the trusted flaggers and the potential consequence of
+disregarding the referral: as mentioned earlier (Kreimer 2006), a critique
+of state bodies referring content to internet intermediaries for review is
+that such a referral exudes pressure for internet intermediaries to remove
+that content, which is difficult to resist. Bambauer coins this phenomenon
+“jawboning”—encapsulating both formal and informal pressure to comply
+with a state’s bidding (2015).
+
+Trusted flaggers in the Digital Services Act
+The DSA formalizes the trusted flagger system. Trusted flaggers are ap-
+pointed by the DSC based on their expertise, independence, and diligence
+(Article 22(2)). The DSC must disclose trusted flaggers it appointed to the
+European Commission, and this information is made public. Additionally, the
+process of flagging has also been formalized in Article 16, which pertains to
+notice and action mechanisms. Article 16 mandates internet intermediaries

@@ -1,0 +1,37 @@
+11.  Doing Inclusion : Negotiation and
+    Co-creation for People-centric Smart
+     Cities
+       Michiel de Lange, Erna Ruijer, and Krisztina Varró
+
+
+        Abstract: As datafied smart cities emerge, existing inequalities deepen
+       and new forms of exclusions emerge. In response, terms such as “inclu-
+         sive” and “people-centric” are now central to smart city agendas, yet
+         their inclusivity remains contested. This contribution brings together
+        perspectives from media studies, public governance, and urban studies
+        to clarify inclusion in smart cities. We identify three perspectives: (1)
+         technological inclusion (access to technology and information); (2) digital
+         social inclusion (cultural sensitivity, diversity, and representation); and (3)
+        doing inclusion (negotiation and co-creation). Using two empirical cases,
+      we explore research-by-design approaches to foster inclusion. Finally, we
+        argue that inclusion in smart cities emerges through dynamic, conflictual
+         relationships and ongoing negotiations between citizens, governments,
+       and other stakeholders over contentious issues like datafication.
+
+       Keywords: datafication, digital inclusion, smart urbanism, co-creation
+         processes, civic engagement
+
+Introduction: Datafied cities for whom?
+
+Today’s cities are datafied “smart cities.” Processes of datafication, algo-
+rithmization, and platformization, and their visible manifestations as apps,
+platforms, sensors, dashboards, and other interfaces, have brought about
+profound changes in state–citizen relationships and the management of the
+public realm. Smart cities are commonly described in scholarly literature as
+
+
+
+Van Dijck, José, Karin van Es, Anne Helmond, and Fernando van der Vlist, eds. Governing the
+Digital Society: Platforms, Artificial Intelligence, and Public Values. Amsterdam: Amsterdam
+University Press, 2025
+doi 10.5117/9789048562718_ch11

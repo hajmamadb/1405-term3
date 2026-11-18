@@ -1,0 +1,98 @@
+---
+import Section from "@components/ui/layout/Section.astro";
+import Container from "@components/ui/layout/Container.astro";
+import Heading from "@components/ui/atoms/Heading.astro";
+import Text from "@components/ui/atoms/Text.astro";
+
+type Group = { label: string; items: { label: string; href: string; hint?: string }[] };
+
+interface Props {
+  title?: string;
+  description?: string;
+  groups?: Group[];
+  sectionId?: string;
+  class?: string;
+}
+
+const props = Astro.props as Props;
+const title = props.title ?? "منابع و لینک‌های قانونی";
+const description = props.description ?? "";
+const groups: Group[] = props.groups ?? [
+  {
+    label: "تماشای فیلم (ایران، قانونی)",
+    items: [
+      { label: "نماوا", href: "https://www.namava.ir/m/search?q=se7en", hint: "جستجوی «هفت / Se7en»" },
+      { label: "فیلیمو", href: "https://www.filimo.com/search?q=se7en", hint: "جستجوی «هفت / Se7en»" },
+      { label: "تلوبیون", href: "https://telewebion.ir/", hint: "جستجوی «هفت / Se7en» در سایت" },
+    ],
+  },
+  {
+    label: "استریم بین‌المللی (قانونی)",
+    items: [
+      { label: "Netflix", href: "https://www.netflix.com/search?q=seven", hint: "بسته به کشور" },
+      { label: "Amazon Prime Video", href: "https://www.amazon.com/s?k=se7en+1995", hint: "خرید یا استریم" },
+      { label: "Apple TV", href: "https://tv.apple.com", hint: "خرید یا استریم" },
+    ],
+  },
+  {
+    label: "موسیقی فیلم",
+    items: [
+      { label: "Spotify", href: "https://open.spotify.com/search/seven+soundtrack", hint: "اثر هاوارد شور" },
+      { label: "Apple Music", href: "https://music.apple.com", hint: "OST کامل" },
+    ],
+  },
+  {
+    label: "تحلیل و پژوهش",
+    items: [
+      { label: "Wikipedia (EN)", href: "https://en.wikipedia.org/wiki/Se7en_(film)" },
+      { label: "Wikipedia (FA)", href: "https://fa.wikipedia.org/wiki/%D9%87%D9%81%D8%AA_(%D9%81%DB%8C%D9%84%D9%85_%DB%B1%DB%B9%DB%B9%DB%B5)" },
+      { label: "JSTOR", href: "https://www.jstor.org/search?query=Se7en+Fincher", hint: "دسترسی دانشگاهی" },
+      { label: "Google Scholar", href: "https://scholar.google.com/scholar?q=Se7en+David+Fincher+analysis" },
+    ],
+  },
+  {
+    label: "دیتابیس و نقد",
+    items: [
+      { label: "IMDb", href: "https://www.imdb.com/title/tt0114369/" },
+      { label: "Rotten Tomatoes", href: "https://www.rottentomatoes.com/m/seven_1995" },
+      { label: "Letterboxd", href: "https://letterboxd.com/film/seven/" },
+      { label: "Wikiquote (جملات)", href: "https://en.wikiquote.org/wiki/Se7en" },
+    ],
+  },
+];
+---
+
+<Section id={props.sectionId ?? "manabe"} tone="page" class:list={["se7en-sources", props.class]}>
+  <Container class="max-w-5xl">
+    <div class="mb-10 text-center" data-motion-sequence="viewport">
+      <Heading tag="h2" variant="section-heading" class="mx-auto max-w-2xl">{title}</Heading>
+      {description && <Text variant="lead" class="mx-auto mt-4 max-w-2xl opacity-80">{description}</Text>}
+    </div>
+
+    <div class="grid gap-6 sm:grid-cols-2">
+      {groups.map((g) => (
+        <div class="rounded-2xl border border-outline/50 bg-surface-container-low p-6">
+          <h3 class="mb-4 font-heading text-base font-bold text-brand-accent">{g.label}</h3>
+          <ul class="grid gap-2.5">
+            {g.items.map((it) => (
+              <li>
+                <a
+                  href={it.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="group flex items-center justify-between gap-2 rounded-xl px-3 py-2 transition-colors hover:bg-surface-container"
+                >
+                  <span class="min-w-0">
+                    <span class="block truncate text-sm font-semibold text-on-surface" dir="ltr">{it.label}</span>
+                    {it.hint && <span class="block text-xs text-on-surface-variant">{it.hint}</span>}
+                  </span>
+                  <span class="shrink-0 text-on-surface-variant transition-transform group-hover:-translate-x-0.5 group-hover:text-brand-accent" aria-hidden="true">←</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+  </Container>
+</Section>

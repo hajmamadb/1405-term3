@@ -1,0 +1,41 @@
+260                                                           Albert Meijer
+
+    plea, however, has hardly resulted in a growing civil society role in the
+   governance of the digital society. More research is needed to find out
+   why this promise has not yet materialized and what is needed to assign
+     civil society a stronger role in the governance of the digital society.
+3.  Normative framework for the governance of public services. One chapter in
+    this book was highly critical of the use of algorithms for risk analysis in
+    the provision of government services. This connects directly to current
+    debates on the child benefit fraud (Peeters and Widlak 2023). These criti-
+    cal analyses are important but also need to be followed up by a stronger
+   normative analysis, for instance, of how and when public services can
+    tap into the potential of AI for the provision of public services.
+4.  Framework for the organizational practice of regulating the digital society.
+   The need for regulation has been acknowledged by lawmakers, especially
+    in Europe, but legal frameworks still need to be translated into action.
+   The AI Act was quite central to many analyses, but few questions were
+    raised regarding the legal framework itself or its translation into regula-
+    tory practice. More research is needed to establish how practices of
+    regulation can ensure that this government role in safeguarding public
+    values can be carried out adequately.
+
+This book highlights the importance of connecting various types of academic
+analysis to obtain a comprehensive understanding of the complexities of
+governing a digital society. At the same time, the overall picture is still highly
+fragmented. A next step would be to “connect the dots” and obtain an under-
+standing of the required forms of governance of the digital society that bring
+together the various domains. We need to find ways to connect the specific
+analyses related to the different domains and different types of governance
+to an overall analysis. Such a normative quest may be an excellent topic for
+a follow-up to this highly informative book on governing the digital society.
+
+References
+
+Hood, Christopher. 1991. “A Public Management for All Seasons?” Public Administra-
+   tion 69(1): 3–19. https://doi.org/10.1111/j.1467-9299.1991.tb00779.x.
+Moore, Mark H. 1997. Creating Public Value: Strategic Management in Government.
+   Cambridge, MA: Harvard University Press.
+Peeters, Rik, and Arjan C. Widlak. 2023. “Administrative Exclusion in the Infra-
+   structure‐Level Bureaucracy: The Case of the Dutch Daycare Benefit Scandal.”
+   Public Administration Review 83(4): 863–77. https://doi.org/10.1111/puar.13615.

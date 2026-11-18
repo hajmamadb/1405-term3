@@ -1,0 +1,29 @@
+{
+  "seo": {
+    "title": "سکانس‌های کلیدی Se7en — تحلیل صحنه‌به‌صحنه",
+    "description": "تحلیل شش سکانسِ کلیدی Se7en: آغاز، دو قتل اول، نامه‌ها، صحنهٔ آخر و مونولوگ پایانی — چرا هرکدام ساختار فیلم را می‌سازد."
+  },
+  "heading": "سکانس‌های کلیدی Se7en",
+  "sections": [
+    {
+      "id": "navbar",
+      "variant": "floating"
+    },
+    {
+      "id": "hero",
+      "variant": "se7enScenes"
+    },
+    {
+      "id": "se7enScenesTimeline",
+      "variant": "default"
+    },
+    {
+      "id": "se7enCta",
+      "variant": "default"
+    },
+    {
+      "id": "footer",
+      "variant": "nova"
+    }
+  ]
+}

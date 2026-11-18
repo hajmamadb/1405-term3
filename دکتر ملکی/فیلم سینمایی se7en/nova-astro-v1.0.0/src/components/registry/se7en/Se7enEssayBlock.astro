@@ -1,0 +1,292 @@
+---
+// Long-form editorial block for the Se7en study site.
+// Content model: intro (string with \n\n paragraphs), blocks[] of
+// h2 / p / quote / list / callout / stats. Props from PageBuilder
+// (spread from the section JSON) override the JSON fallback.
+import Section from "@components/ui/layout/Section.astro";
+import Container from "@components/ui/layout/Container.astro";
+import Heading from "@components/ui/atoms/Heading.astro";
+import Text from "@components/ui/atoms/Text.astro";
+import jsonData from "@data/sections/se7en-essay.json";
+
+interface EssayBlock {
+  type?: "h2" | "p" | "quote" | "list" | "callout" | "stats";
+  text?: string;
+  label?: string;
+  items?: string[];
+  stats?: { value: string; label: string }[];
+}
+
+interface Props {
+  sectionId?: string;
+  title?: string;
+  eyebrow?: string;
+  description?: string;
+  intro?: string;
+  blocks?: EssayBlock[];
+  headingTag?: string;
+  class?: string;
+}
+
+const {
+  sectionId = "se7en-essay",
+  title,
+  eyebrow,
+  description,
+  intro,
+  blocks,
+  headingTag = "h2",
+  class: className = "",
+} = Astro.props as Props;
+
+const fallback = jsonData as Record<string, unknown>;
+const resolvedTitle = (title as string) || (fallback.title as string) || "";
+const resolvedEyebrow = (eyebrow as string) || (fallback.eyebrow as string) || "";
+const resolvedDescription = (description as string) || (fallback.description as string) || "";
+const resolvedIntro = (intro as string) || (fallback.intro as string) || "";
+const resolvedBlocks = ((blocks as EssayBlock[]) && blocks.length ? blocks : (fallback.blocks as EssayBlock[])) ?? [];
+
+function paragraphs(text: string): string[] {
+  return text
+    .split("\n")
+    .map((line) => line.trim())
+    .filter(Boolean);
+}
+---
+
+<Section id={sectionId} tone="page" class:list={["se7en-essay-section", className]}>
+  <Container>
+    <div class="se7en-essay-wrap">
+      <header class="se7en-essay-header">
+        {resolvedEyebrow && (
+          <Text variant="accent-label" tag="p" class="se7en-essay-eyebrow">{resolvedEyebrow}</Text>
+        )}
+        <Heading tag={headingTag} variant="section-heading-lg" class="se7en-essay-title">
+          {resolvedTitle}
+        </Heading>
+        {resolvedDescription && (
+          <Text variant="lead" class="se7en-essay-description">{resolvedDescription}</Text>
+        )}
+      </header>
+
+      {resolvedIntro && (
+        <div class="se7en-essay-intro">
+          {paragraphs(resolvedIntro).map((p) => (
+            <p class="se7en-essay-intro-p">{p}</p>
+          ))}
+        </div>
+      )}
+
+      <div class="se7en-essay-body">
+        {resolvedBlocks.map((b) => (
+          <Fragment>
+            {b.type === "h2" && (
+              <h3 class="se7en-essay-h3">{b.text}</h3>
+            )}
+            {b.type === "p" && (
+              <p class="se7en-essay-p">{b.text}</p>
+            )}
+            {b.type === "quote" && (
+              <blockquote class="se7en-essay-quote">
+                <p>{b.text}</p>
+                {b.label && <cite>{b.label}</cite>}
+              </blockquote>
+            )}
+            {b.type === "list" && (
+              <ul class="se7en-essay-list">
+                {b.items?.map((item) => <li>{item}</li>)}
+              </ul>
+            )}
+            {b.type === "callout" && (
+              <aside class="se7en-essay-callout">
+                {b.label && <span class="se7en-essay-callout-label">{b.label}</span>}
+                <p>{b.text}</p>
+              </aside>
+            )}
+            {b.type === "stats" && (
+              <div class="se7en-essay-stats">
+                {b.stats?.map((s) => (
+                  <div class="se7en-essay-stat">
+                    <span class="se7en-essay-stat-value">{s.value}</span>
+                    <span class="se7en-essay-stat-label">{s.label}</span>
+                  </div>
+                ))}
+              </div>
+            )}
+          </Fragment>
+        ))}
+      </div>
+    </div>
+  </Container>
+
+  <style define:vars={{}}>
+    .se7en-essay-section {
+      padding-block: clamp(4rem, 8vw, 7rem);
+    }
+
+    .se7en-essay-wrap {
+      margin-inline: auto;
+      max-width: 52rem;
+    }
+
+    .se7en-essay-header {
+      display: flex;
+      flex-direction: column;
+      gap: 0.9rem;
+      margin-bottom: clamp(1.75rem, 3vw, 2.5rem);
+    }
+
+    .se7en-essay-eyebrow {
+      color: var(--color-brand-accent);
+      font-size: 0.875rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+    }
+
+    .se7en-essay-title {
+      font-size: clamp(1.75rem, 3.4vw, 2.5rem) !important;
+      line-height: 1.25 !important;
+      font-weight: 800 !important;
+    }
+
+    .se7en-essay-description {
+      color: var(--color-on-surface-variant);
+      font-size: 1.05rem;
+      line-height: 1.9;
+    }
+
+    .se7en-essay-intro {
+      border-inline-start: 3px solid var(--color-brand-accent);
+      padding-inline-start: 1.1rem;
+      margin-bottom: clamp(2rem, 4vw, 3rem);
+    }
+
+    .se7en-essay-intro-p {
+      margin-bottom: 0.85rem;
+      font-size: 1.02rem;
+      line-height: 2.05;
+      color: var(--color-on-surface);
+    }
+
+    .se7en-essay-intro-p:last-child {
+      margin-bottom: 0;
+    }
+
+    .se7en-essay-body {
+      display: flex;
+      flex-direction: column;
+      gap: 1.4rem;
+    }
+
+    .se7en-essay-h3 {
+      margin-top: 1.5rem;
+      font-size: 1.3rem;
+      font-weight: 700;
+      line-height: 1.5;
+      color: var(--color-on-surface);
+    }
+
+    .se7en-essay-p {
+      font-size: 1.02rem;
+      line-height: 2.05;
+      color: var(--color-on-surface);
+    }
+
+    .se7en-essay-quote {
+      border-inline-start: 3px solid var(--color-brand-accent);
+      background: color-mix(in oklab, var(--color-brand-accent) 7%, transparent);
+      border-radius: 0.75rem;
+      padding: 1.25rem 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+    }
+
+    .se7en-essay-quote p {
+      font-family: var(--font-heading, inherit);
+      font-size: 1.08rem;
+      font-style: italic;
+      line-height: 1.9;
+      color: var(--color-on-surface);
+    }
+
+    .se7en-essay-quote cite {
+      font-style: normal;
+      font-size: 0.85rem;
+      color: var(--color-on-surface-variant);
+    }
+
+    .se7en-essay-list {
+      margin: 0;
+      padding-inline-start: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+      font-size: 1rem;
+      line-height: 1.95;
+      color: var(--color-on-surface);
+    }
+
+    .se7en-essay-list li::marker {
+      color: var(--color-brand-accent);
+    }
+
+    .se7en-essay-callout {
+      border: 1px solid color-mix(in oklab, var(--color-brand-accent) 35%, transparent);
+      border-radius: 0.9rem;
+      background: color-mix(in oklab, var(--color-brand-accent) 6%, transparent);
+      padding: 1.1rem 1.35rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .se7en-essay-callout-label {
+      font-size: 0.82rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      color: var(--color-brand-accent);
+    }
+
+    .se7en-essay-callout p {
+      font-size: 0.98rem;
+      line-height: 1.95;
+      color: var(--color-on-surface);
+    }
+
+    .se7en-essay-stats {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 0.9rem;
+      margin-block: 0.75rem;
+    }
+
+    .se7en-essay-stat {
+      border: 1px solid color-mix(in oklab, var(--color-on-surface) 14%, transparent);
+      border-radius: 0.9rem;
+      padding: 1rem 1.1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.3rem;
+      background: color-mix(in oklab, var(--color-on-surface) 4%, transparent);
+    }
+
+    .se7en-essay-stat-value {
+      font-size: 1.45rem;
+      font-weight: 800;
+      color: var(--color-brand-accent);
+    }
+
+    .se7en-essay-stat-label {
+      font-size: 0.85rem;
+      line-height: 1.6;
+      color: var(--color-on-surface-variant);
+    }
+
+    @media (min-width: 640px) {
+      .se7en-essay-stats {
+        grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+      }
+    }
+  </style>
+</Section>

@@ -1,0 +1,14 @@
+{
+  "seo": {
+    "title": "تحلیل فیلم‌شناختی Se7en — شهر، دانته، اخلاق",
+    "description": "تحلیل عمیق فیلم‌شناختی Se7en: شهر به‌عنوان شخصیت، خوانشِ کمدی الهی دانته، بی‌تفاوتی در برابر امید، و پارادوکسِ قهرمان و قاتل — با ارجاع به نقّادها و مقالات."
+  },
+  "heading": "تحلیل Se7en",
+  "sections": [
+    { "id": "navbar", "variant": "floating" },
+    { "id": "hero", "variant": "se7enAnalysis" },
+    { "id": "se7enEssay", "variant": "default" },
+    { "id": "se7enCta", "variant": "default" },
+    { "id": "footer", "variant": "nova" }
+  ]
+}

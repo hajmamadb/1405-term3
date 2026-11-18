@@ -1,0 +1,42 @@
+30                                     Mathilde Sanders and José van Dijck
+
+the limited interdisciplinary academic literature on DOSNs, these networks
+are frequently presented as alternatives to MsSM as they combat problems
+regarding privacy, misinformation, filter bubbles, and echo chambers (Datta
+et al. 2010; Hassan et al. 2021; La Cava et al. 2022a; 2022b; 2022c; Zulli et
+al. 2020). DOSNs are also thought to hold users and the public interest
+at heart, for instance, by prohibiting the implementation of marketing
+mechanisms to steer user interactions (Dhawan et al. 2022; O’Sullivan 2022).
+  At first sight, the term “decentralized” appears to refer to intrinsic (techni-
+cal) properties of a unified category of platforms. However, as we will argue,
+DOSNs are not a uniform class of platforms; instead, each platform consists
+of several building blocks that feature decentralized elements. Choices for
+decentralized elements can be made at several technical and organizational
+levels of the platform (Van Dijck 2013). In fact, the primary technical choice
+between a DOSN and MsSM in terms of its architecture is anything but
+binary. Long before the advent of the internet, information scientist Paul
+Baran distinguished between centralized, decentralized, and distributed
+networks (see figure 1.1)—a distinction which Rajendra-Nicolucci and
+Zuckerman (2021) used as the basis for their “three-legged stool” design
+of a platform ecosystem. Whereas centralized architectures propagate a
+single point of entry and control for the entire social network, decentralized
+architectures have multiple centers, which can be federated. The “third leg”
+of this model is based on distributed technology, which has no center or
+controlling authority (Karjalainen 2020).
+  Mainstream platforms, such as Facebook and X, are built on centralized
+architectures, where one owner can steer all traffic on a closed platform (A
+in figure 1.1). Mastodon exemplifies a decentralized, federated architecture
+(B in figure 1.1), where various platforms (known as instances) rely on a
+common protocol, in this case ActivityPub. The choice for a common protocol
+enables Mastodon to interoperate with other decentralized platforms (e.g.,
+PeerTube, Pleroma, and WordPress) within the so-called Fediverse (La Cava
+et al. 2021).
+  An example of the third model (C in figure 1.1) is Steem, a social network
+based on blockchain’s distributed ledger technology (DLT). Distributed
+networks like Steem can validate and record transactions without hu-
+man judgment or oversight by a single intermediary entity (Dhawan et
+al. 2022). DLT platforms can be characterized as decentralized autonomous
+organizations (DAOs) that lack a brick-and-mortar organization with hu-
+man managers and employees behind them. Notably, a high degree of
+centralization of power is possible even in a distributed or DLT platform,
+for instance, when one actor controls the majority of miners within the

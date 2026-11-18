@@ -1,0 +1,42 @@
+120                                                  Machiko Kanetake
+
+opinion and expression, companies in the surveillance industry “appear
+to fail to meet even [the UNGPs’] minimum baselines” (UN Human Rights
+Council 2019, para. 31).
+  An important question then is whether the concept of “due diligence”
+for cyber surveillance controls can evolve by incorporating the thicker
+version of “due diligence” developed under the UNGPs. Should the former
+(i.e., due diligence for export controls) be read in the light of the latter (i.e.,
+due diligence under the UNGPs), exporters would be obliged to take a set
+of comprehensive processes to identify and mitigate human rights risks.
+While it is difficult to predict how the meaning of due diligence evolves
+in a specific industry, it is reasonable to expect some kind of normative
+approximation of “due diligence” under Article 5 of Regulation 2021/821 with
+“due diligence” under the UNGPs. This is because of the standard-setting and
+lawmaking efforts in the field of business and human rights. The European
+Commission has the ICT sector-specific guide to assist the implementation
+of the UNGPs (European Commission 2013). This and other instruments
+relating to the UNGPs should incrementally affect the interpretation of
+due diligence in cyber surveillance export controls.
+  The normative approximation is particularly relevant when we think
+about the dimension of access to effective remedy. To ensure access to
+remedy for business-related human rights abuses is one of the important
+elements of due diligence under the UNGPs and related guidance (UN
+2011, 27–35). While the provision of remedy should be foremost done by
+states, it is also integral to the responsibility of business enterprises. The
+UNGPs expect business enterprises to “establish or participate in effective
+operational-level grievance mechanisms for individuals and communities
+who may be adversely impacted” (UN 2011, 31, principle 29).
+  In the context of spyware, access to effective remedy is one of the core
+problems that affected victims encounter. Consider the significant detri-
+mental impacts that Pegasus and other spyware have had on human rights
+of journalists, human rights activists, and political opponents and dissidents.
+It is crucial to analyze what judicial and non-judicial avenues are available
+at the national and international levels for those who are affected by the
+export and eventual use of cyber surveillance items to raise complaints
+and seek remedies.
+  At the national level, there may be some possibilities to resort to judicial
+mechanisms to hold the companies or the governments accountable in con-
+nection to the export of cyber surveillance items. At the international level,
+there is a possibility to make use of the OECD’s National Contact Point (NCP)
+as a (formally non-judicial) venue for resolving issues that arise from the

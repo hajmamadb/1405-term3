@@ -1,0 +1,41 @@
+168                                                            Fabian Ferrari
+
+FF: Who will benefit from the AI Act, and why will they benefit from it? Who
+will not benefit from the AI Act, and why will they not benefit from it?
+
+NH: The parties that are most likely to benefit from the AI Act are large
+technology providers with the necessary resources to ensure compliance
+and are then able to use compliance with the strict legal provisions to
+argue convincingly that their technologies are trustworthy. Providers of
+generative AI models will benefit because the majority is hardly regulated,
+and the few companies whose models are large enough to qualify as models
+with systemic risks (such as Google’s Gemini and OpenAI’s ChatGPT),
+have the resources to ensure compliance. Whether citizens will benefit
+depends on the operationalization of the provisions and whether the
+measures, technical standards, and implementation acts are successful
+in operationalizing fundamental rights and identifying and addressing
+risks to fundamental rights and public values. Note that under the AI Act,
+citizens have hardly any concrete rights that they can invoke (save a right
+to transparency and lodge a complaint in case of an infringement of the
+provisions of this regulation).
+  Who will not benefit are, for example, professional users of non-high-risk
+AI systems, such as media organizations that rely on third-party technology.
+Here, the law will hardly create any legal guarantees to ensure the safety
+and trustworthiness of AI systems, and it will be up to deployers (such as
+media organizations) to investigate and decide whether AI systems are safe
+to use or not. Responsible procurement will be key here.
+
+FF: Can the AI Act foster the competitiveness of EU companies and result in
+less industry dominance by American tech giants like Amazon, Google, and
+Microsoft?
+
+NH: Ensuring the competitiveness of EU companies was not an explicit
+goal of the AI Act, though it does seek to promote innovation and the
+functioning of the internal market. In terms of competitiveness, other
+legal frameworks are potentially more relevant, such as the Digital Markets
+Act or European Competition Law. There is one exception: the new rules
+about generative AI. Upon the successful lobby of a couple of “European
+champions,” including the French AI company Mistral and the German
+Aleph Alpha, the regulation of most generative AI models is light touch,
+mostly transparency-related obligations, and open-source models are by
+and large exempted. Only the largest models, such as Google’s Gemini or

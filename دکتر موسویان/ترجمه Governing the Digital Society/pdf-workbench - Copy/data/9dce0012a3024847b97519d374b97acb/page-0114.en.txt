@@ -1,0 +1,42 @@
+Governing the Global Proliferation of Digital Surveillance Technologies    111
+
+non-military risks, such as risks that the sale of ICT products poses to the
+rights of individuals abroad.
+  Under the EU’s export controls, there are two modes of export controls:
+namely, “list-based” control and so-called “catch-all” control. An authoriza-
+tion shall be foremost required for the export of dual-use items listed in
+Annex I of the EU’s Dual-Use Regulation (Regulation 2021/821, Article 3(1)).
+Certain surveillance technologies have already been listed as controlled
+items. For example, mobile telecommunications interception equipment (or
+IMSI catchers) (Wassenaar Arrangement 2012, Category 5.A.1.f), IP network
+communications surveillance systems, and intrusion software (Pyetranker
+2015, 162–64; Wassenaar Arrangement 2013, Categories 4.A.5 and 5.A.1.j) have
+been added to the list within the Wassenaar Arrangement and subsequently
+to the EU’s control list. Regulation 2021/821’s Annex I contains, for example,
+controls relating to: telecommunication interception systems (5A001.f),
+internet surveillance systems (5A001.j), intrusion software (4A005), and
+law enforcement monitoring software (5D001.e). While such a list-based
+control is at the heart of export controls, the “catch-all” control is a residual
+mechanism that allows authorities to exert export control over items which
+are not specifically listed in Annex I of the EU’s Dual-Use Regulation. The
+catch-all clauses require unique vigilance on the part of the exporter, in
+that an exporter cannot simply rely on the list provided in Annex I, but
+instead must check an item against one of the broadly formulated criteria
+under Articles 4–10 of Regulation (EU) 2021/821.
+  While Regulation 2021/821 has direct effect across the EU, it does not
+mean that the EU itself receives and processes license requests from
+exporters. It is in the hands of the competent authority of each EU member
+state—such as the Federal Office for Economic Affairs and Export Control
+(BAFA) in Germany—that is responsible for implementing the EU’s export
+controls, assessing export license requests, and deciding whether to grant
+a license. EU member states may also impose additional license require-
+ments. While Regulation 2021/821 has strengthened EU-wide information
+exchange and cooperation regarding implementation and enforcement,
+it would be good to bear in mind that licensing decisions are taken by
+each member state, based on their own procedures and experiences, and
+within the resources (e.g., personnel, facilities) that each state is willing
+to allocate for export controls. Member states also vary in terms of the
+resilience of the rule of law and their relationships with the industry,
+including the ICT sectors. In short, the functioning of the EU’s export
+control mechanisms is intertwined with the legal and political contexts
+of each member state.

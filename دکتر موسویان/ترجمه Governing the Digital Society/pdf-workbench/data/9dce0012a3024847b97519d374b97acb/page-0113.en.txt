@@ -1,0 +1,42 @@
+110                                                  Machiko Kanetake
+
+Surveillance technologies are also increasingly “entangled” with ordinary
+consumer electronics and services (Van der Vlist 2017, 139).
+  While it is difficult to have an overview of the global market of surveil-
+lance, according to the data collected by Steven Feldstein and Brian Kot,
+there are “at least seventy-four governments” between 2021 and 2023 that
+have contracted with companies for their spyware or digital forensics
+technology (Feldstein and Kot 2023, 9). This is combined with a number of
+reported cases regarding the misuse of exported cyber surveillance items
+(Wagner 2012; Feldstein 2019). Such reported cases could still be the tip of
+the iceberg, as Dunja Mijatović, the Council of Europe’s commissioner for
+human rights, pointed out (Mijatović 2023).
+  Debates have taken place within the EU since 2013 concerning how to
+strengthen its export control of information and communications technolo-
+gies (ICTs). This was in response to controversies in the aftermath of the
+Arab Spring that EU companies sold and provided technical assistance to
+those governments that had experienced popular uprisings. One of the
+most contentious issues during the EU’s legislative process to “modernize”
+its dual-use export controls was how to address the human rights risks
+associated with the export of “cyber surveillance items” (Kanetake 2019a;
+2019b). After years of debate, in May 2021, the EU adopted the renewed
+Regulation (EU) 2021/821, also called the Dual-Use Regulation. Included
+therein are controls of non-listed “cyber surveillance items” under Article 5,
+as will be further explained in section 3 below.
+   Before articulating the provisions relating to surveillance, it is necessary
+to provide some ideas about dual-use export controls, in part because it is
+considered as a highly technical field of law and by no means a popularly
+known legal instrument. “Dual-use” items are understood as those which
+can be used for both “civil and military purposes” (Regulation 2021/821,
+Article 2(1)). Among a wide range of “military purposes,” dual-use export
+controls put an emphasis on the non-proliferation of weapons of mass
+destruction (i.e., nuclear, chemical, and biological weapons), although the
+control of conventional weapons is also included in regulatory objectives. By
+imposing authorization requirements on the international transfer of items,
+export controls aim to mitigate the misuse of items for purposes which may
+pose security threats. Among a variety of security threats, the field of law
+is essentially shaped by the mitigation of military risks, as demonstrated
+by the very definition of “dual-use” items. This point is critical for the sake
+of understanding the potentials and limits of the use of export controls for
+regulating digital surveillance technologies. In essence, the field of law,
+due to its central rationale, traditionally marginalized the mitigation of

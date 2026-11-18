@@ -1,0 +1,42 @@
+Decentralized Online Social Networks                                     35
+
+more easily for user profiling or tracking. Once again, the use of persistent
+authentication or DAN e-IDs may technically solve this issue.
+  In sum, platform decentralization cannot be reduced to a simple choice
+for a static DOSN model representing a uniform technical architecture.
+Instead, the term “decentralized” applies to various technical elements, each
+reflecting the outcome of a value-driven choice. Values such as “openness”
+and “closedness,” far from being self-evident, involve compromises between
+inclusion and accessibility vis-à-vis privacy and security. In the next section,
+we argue that the term “decentralized” also applies to the organizational
+elements of DOSNs which similarly involve complex value negotiations.
+
+Organizational elements
+
+Decentralization in terms of organizational choices can be discerned at three
+levels of operation: (1) content moderation, (2) ownership, and (3) business
+model (Van Dijck 2013).2 Each of these elements offer options to centralize
+or decentralize governance, and every decision is linked to specific public
+value dilemmas and choices. For instance, the choice between centralized
+versus decentralized content moderation may implicitly weigh freedom of
+speech against autocratic decision-making but may also reflect arguments
+about security. Ownership issues involve important negotiations concerning
+democratic control and public benefits versus efficiency and private profits.
+In terms of a platform’s business model, it is relevant to weigh the values of
+transparency or user autonomy against the values of (financial) sustainability
+or viability. We will explore these types of dilemmas below.
+
+Content moderation
+Gilbert (2023) distinguishes two types of moderation: top-down centralized
+moderation conducted by the platform’s leadership or a central authority, and
+bottom-up decentralized moderation, conducted by communities of (end)
+users. In the first type, individual-level sanctions such as content removal,
+banning people, community building, and algorithmic downranking are
+centrally deployed (Gilbert 2023). In the second type, end users are granted
+special privileges and can, for instance, make judgments about content
+quality through voting on the hiding of posts, filtering, and blocking of
+
+
+2   Strictly speaking, moderation has both an organizational and technological (algorithmic)
+component, but we decided to include it in this section because DOSNs typically offer more
+human than algorithmic moderation.

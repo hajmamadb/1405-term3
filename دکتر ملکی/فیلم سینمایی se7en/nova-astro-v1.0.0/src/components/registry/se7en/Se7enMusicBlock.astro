@@ -1,0 +1,85 @@
+---
+import Section from "@components/ui/layout/Section.astro";
+import Container from "@components/ui/layout/Container.astro";
+import Heading from "@components/ui/atoms/Heading.astro";
+import Text from "@components/ui/atoms/Text.astro";
+
+type Track = { title: string; artist: string; license: string; file: string; note?: string };
+
+interface Props {
+  title?: string;
+  description?: string;
+  note?: string;
+  tracks?: Track[];
+  sectionId?: string;
+  class?: string;
+}
+
+const props = Astro.props as Props;
+const title = props.title ?? "موسیقی";
+const description = props.description ?? "";
+const note = props.note ?? "";
+const tracks: Track[] = props.tracks ?? [
+  {
+    title: "Stay The Course",
+    artist: "Kevin MacLeod (incompetech.com)",
+    license: "CC BY 4.0",
+    file: "/audio/stay-the-course.mp3",
+    note: "حس و حالِ سینمایی، تاریک و نگران‌کننده — برای صحنه‌های تنش‌زا",
+  },
+  {
+    title: "Action",
+    artist: "Kevin MacLeod (incompetech.com)",
+    license: "CC BY 3.0",
+    file: "/audio/action.mp3",
+    note: "ذره‌بینِ دراماتیک برای صحنه‌های پرتنش",
+  },
+];
+---
+
+<Section id={props.sectionId ?? "musiqi"} tone="surface" class:list={["se7en-music", props.class]}>
+  <Container class="max-w-5xl">
+    <div class="mb-10 text-center" data-motion-sequence="viewport">
+      <Heading tag="h2" variant="section-heading" class="mx-auto max-w-2xl">{title}</Heading>
+      {description && <Text variant="lead" class="mx-auto mt-4 max-w-2xl opacity-80">{description}</Text>}
+    </div>
+
+    <div class="se7en-player-stack grid gap-4 md:grid-cols-2">
+      {tracks.map((t) => (
+        <article class="se7en-player group rounded-2xl border border-outline/60 bg-surface-container-low p-5 transition-colors hover:border-brand-accent/60">
+          <div class="mb-3 flex items-start justify-between gap-3">
+            <div class="min-w-0">
+              <h3 class="truncate font-heading text-lg font-bold text-on-surface" dir="ltr">{t.title}</h3>
+              <p class="mt-0.5 truncate text-sm text-on-surface-variant" dir="ltr">{t.artist}</p>
+            </div>
+            <span class="shrink-0 rounded-full bg-primary/15 px-2.5 py-1 text-[0.7rem] font-semibold text-brand-accent" dir="ltr">{t.license}</span>
+          </div>
+          {t.note && <p class="mb-4 text-sm leading-7 text-on-surface-variant">{t.note}</p>}
+          <div class="se7en-player__controls">
+            <audio controls preload="none" class="w-full">
+              <source src={t.file} type="audio/mpeg" />
+            </audio>
+          </div>
+        </article>
+      ))}
+    </div>
+
+    {note && (
+      <div class="mt-8 rounded-2xl border border-outline/40 bg-surface-dim/60 p-5 text-center">
+        <Text variant="body" class="mx-auto max-w-3xl leading-8 text-on-surface-variant">{note}</Text>
+      </div>
+    )}
+  </Container>
+</Section>
+
+<style>
+  .se7en-player audio {
+    width: 100%;
+    height: 40px;
+    border-radius: 9999px;
+    background: var(--color-surface-container);
+  }
+  .se7en-player audio::-webkit-media-controls-panel {
+    background: var(--color-surface-container);
+  }
+</style>

@@ -1,0 +1,42 @@
+86                                                   Jacob van de Kerkhof
+
+moderation by seeking external validation. External adjudicatory bodies
+such as the Oversight Board, engagement with fact-checking organizations,
+or X’s Trust & Security Council (dissolved at the end 2022) are examples of
+such external validation. Trusted flaggers also fall within this concept. For
+the purpose of this contribution, a trusted flagger is defined as any entity that
+flags content through privileged channels for the internet intermediary to
+review. Trusted flaggers can be private, semi-private, and public bodies that
+have been enlisted in a privileged flagging capacity based on their societal
+interest, legal interest, or expertise. Appelman and Leerssen (2022) identify
+three distinguishing characteristics: (1) the legal status of the trusted flagger;
+(2) the stage of involvement in the content moderation process; and (3) the
+degree of privilege in their flagging practice. This section discusses the legal
+status of flaggers and the degree of their privileges. It excludes the stage of the
+content moderation process, as this contribution solely focuses on flagging
+after the content is published. Trusted flagger arrangements vary widely. In
+some instances, trusted flaggers may be involved on a bilateral voluntary
+basis. For example, YouTube has an outreach program by which it allows
+organizations with certain expertise to aid via prioritized flagging tools.
+In other instances, cooperation is semi-voluntary. Internet intermediaries
+have opted to join co-regulatory instruments that create a role for trusted
+flaggers, such as the EU’s “Code of Conduct on Countering Illegal Hate
+Speech Online”—in which they are referred to as “trusted reporters” (EU
+Code of Conduct 2016, 3)—and the Strengthened Code of Practice against
+Disinformation (Commitment 21). Those instruments encourage internet
+intermediaries to create a position for trusted flaggers in their content
+moderation process. The same goes for self-regulatory instruments, for
+example, the Technology Coalition against child sexual abuse material.
+  Sometimes the trusted flagger has a particular right to enforce against
+content online, for example, in cases of intellectual property enforcement.
+Copyright protection organizations and individual rights holders function
+as trusted flaggers. YouTube offers ContentID for copyright holders but
+also reports direct relations with rightsholders. The police require special
+attention as trusted flaggers within the content moderation process. Under
+the DSA, law enforcement can engage in two different interactions: firstly,
+it can issue takedown orders for specific content based on national or
+EU law under Article 9 of the DSA through the DSC. In those instances,
+social media platforms are legally obligated to comply with the takedown
+order. Secondly, the police can also serve as trusted flaggers by referring
+content to internet intermediaries for review. These police bodies have been
+dubbed “internet referral units” and can be seen, for example, in the United

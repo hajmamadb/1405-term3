@@ -1,0 +1,37 @@
+3.   Governing the “Third Half of the
+     Internet”: The Dynamics of Human
+    and AI-Assisted Content Moderation
+       Cedric Waterschoot
+
+
+        Abstract: In recent years, a major challenge for news outlets has been
+       warding off toxic content from online spaces where they allow user con-
+         tributions. The governance of these comments has primarily focused on
+         identifying and banning unwanted comments. This chapter highlights a
+       more recent development—the promotion of constructive comments—
+       and concludes that the task of keeping toxicity out is mainly assigned to
+        AI-based tools. Such models are specifically trained to find and filter out
+       unwanted contributions, but these tools are not suited to identify and
+       promote constructive comments. This responsibility is assigned to the
+      human moderators, who must manually curate large numbers of user
+       comments. The resulting collection of hand-picked contributions align
+       with editorial guidelines, establishing a connection between editorial
+       and user-generated content.
+
+       Keywords: AI-based moderation, user comments, online news, toxicity,
+        constructiveness, editorial curation
+
+Introduction
+
+User participation is essential for online news outlets, boosting revenue and
+community engagement (Ksiazek et al. 2016). Comment sections not only
+attract advertisers by increasing web page activity but also build a loyal
+subscriber base. Additionally, these platforms utilize user contributions for
+content expansion and reader feedback (Manosevitch and Tenenboim 2016).
+
+
+
+Van Dijck, José, Karin van Es, Anne Helmond, and Fernando van der Vlist, eds. Governing the
+Digital Society: Platforms, Artificial Intelligence, and Public Values. Amsterdam: Amsterdam
+University Press, 2025
+doi 10.5117/9789048562718_ch03

@@ -1,0 +1,41 @@
+The Long-term Usefulness of Regulating AI in the EU                           151
+
+has been developing rapidly over the past years, with Big Tech companies
+entering and monopolizing the market for foundational AI models (sec-
+tion 2). The AI Act adopts a risk-based approach focused on the application
+of AI in high-risk sectors, such as critical infrastructures, public services,
+and education (section 3). By focusing on the application of AI in specific
+sectors, the AI Act seems to neglect addressing the growing power of Big
+Tech companies in foundational AI models (section 4).
+
+AI and Big Tech companies
+
+To understand how legislators should deal with AI, it is important to first
+explain the basics of the technology. The definition of AI is contested and
+there is no single agreed upon definition for AI (Wang 2019). In general,
+AI models use mathematics to find correlations in large sets of data, and
+these correlations are subsequently translated into internal rules. When
+new input is received, the system follows these internal rules to come to
+a decision. This decision is translated to a certain output, such as text,
+a picture, a calculation, and so on. For an AI system to work, large data
+sets are required to train models that aim to infer correlations between
+different data points and data sets (EU Council 2023; EU Parliament 2023;
+Schyns 2023).
+  There are different types of technologies that are used to find these cor-
+relations between data points. The most important branch of AI is machine
+learning, to which supervised, unsupervised, and semi-supervised models
+belong. Depending on the type of model used, data is labeled (by humans or
+computers) for the machine learning model to find correlations in the data
+set and develop internal rules. Neural networks and deep learning networks
+are more advanced models of machine learning, which are loosely modeled
+on the human brain and consist of millions of processing nodes that are
+densely interconnected to help us make sense of the world (Hardesty 2017).
+A problem for all these AI models is that it appears difficult to understand
+what happens at the deeper layers of the AI system, and why—a problem
+that the research community calls “interpretability” or “explainability.”
+As AI becomes more advanced, developers therefore find it a challenge
+to comprehend and retrace how the AI system arrived at a specific result
+(Ferrari et al. 2023; Xu 2021).
+  AI models are developed through the AI lifecycle, which consists of
+roughly three phases: design, develop and deploy (De Silva and Alaha-
+koon 2022). Simply said, the design phase consists of data preparation and

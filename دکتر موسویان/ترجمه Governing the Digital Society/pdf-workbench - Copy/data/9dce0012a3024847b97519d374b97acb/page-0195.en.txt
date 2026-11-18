@@ -1,0 +1,42 @@
+192                           Michiel de Lange, Erna Ruijer, and Krisztina Varró
+
+attempts at “improving and optimising urban services through the applica-
+tion of information and communication technologies” (Karvonen et al. 2019,
+1). By the mid-2010s, smart cities have become a universally influential policy
+concept shaping urban development agendas. Indeed it appears that “[e]very
+city wants to be a Smart City nowadays” (March and Ribera-Fumaz 2016,
+816), even though “[p]eople are not asking that their cities become smarter”
+(Stollmann et al. 2015, 6). Smart cities often claim to be inclusive: providing
+a better quality of life for residents, creating public value for people, and
+enhancing citizen participation and well-being (Willis and Aurigi 2020;
+Pereira et al. 2017). However, critics argue that smart technologies, data, and
+algorithms in practice are far from inclusive. Smart cities tend to selectively
+benefit well-educated, technologically literate urbanites (Cardullo and
+Kitchin 2019), while (re)producing socioeconomic inequalities and harming
+marginalized groups (O’Neil 2016; Benjamin 2019). Scholars point out that
+policy interventions for the information society often display a limited
+technocratic understanding of inclusion in terms of access to technology and
+information (Helbig et al. 2009; Ruije and Piotrowski 2022) while neglecting
+social equity (Okafor et al. 2023). Researchers further note that the upbeat
+rhetoric about “smart citizens” in fact casts urbanites as “quintessentially
+neoliberal subject[s]” who are mobilized to produce data and consume
+services (Burns and Andrucki 2021, 4; Cardullo and Kitchin 2019). Others
+show how algorithms used by, for instance, the police unjustly target and
+harm specific groups (Van Schie 2022), how the datafication of housing
+markets amplifies demographic divisions between neighborhoods (Loukissas
+2019), and how the platformization of urban economies cannibalizes public
+services, creates a pool of precarious labor in a race to the bottom, and
+threatens public values (Van Dijck et al. 2018).
+  While many scholars address the issue of how to ensure fair(er) and more
+inclusive ways of governing our digital society, it is far from clear what the
+concept of inclusion means theoretically and how more inclusive smart
+cities can be fostered in practice. Surely there is no lack of terminology: from
+inclusion, equity, social justice, fairness, and responsibility to citizen-focused,
+people-centric, smart citizenship, and social smart cities (see, for instance,
+Cardullo and Kitchin 2019; De Lange and De Waal 2013; Engelbert et al. 2019;
+Shelton and Lodato 2019). But there is a growing discontent with unspecific
+“inclusivity talk” and the discrepancy between the rhetoric of inclusive
+citizen-centered smart cities and their actual implementation (Shelton and
+Lodato 2019). Therefore, in this contribution we address the combined issue
+of what inclusion in the datafied smart city entails in theory and in practice.
+In section 2 we take a close look at how “inclusion” has been theorized in

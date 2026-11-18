@@ -1,0 +1,37 @@
+14.  Fundamental Rights and Algorithms
+    Impact Assessment : Towards a More
+     Inclusive and Accountable Digital
+    Governance: Interview with Janneke
+    Gerards
+        Viktorija Morozovaite
+
+
+Introduction
+
+Big data analyses and artificial intelligence systems are increasingly be-
+ing used in public administration contexts around the world. While the
+digitalization of public decision-making processes offers opportunities for
+faster, more efficient, and consistent outcomes, it also creates risks related
+to equality, fairness, accountability, and other unintended consequences
+(Reisman et al. 2018). In the Netherlands, the impact of algorithmic decision-
+making systems on citizens and society at large has been widely discussed
+as part of the Dutch Digitalisation Strategy 2021 (Nederland Digitaal 2021;
+Van Til 2019). At the request of the Ministry of the Interior and Kingdom
+Relations, Prof. Janneke Gerards, together with Dr. Mirko Tobias Schäfer,
+Iris Muis, and Arthur Vankan of Utrecht University’s Data School, developed
+the Fundamental Rights and Algorithms Impact Assessment (FRAIA)—an
+instrument to help identify and address the human rights risks posed by
+algorithms used by public organizations.
+  This section includes an interview with Janneke Gerards, professor of
+fundamental rights law at the Utrecht University, about the development
+of FRAIA and the lessons to be drawn for the European digital society.
+   Viktorija Morozovaite is VM, Janneke Gerards is JG.
+
+
+
+
+
+Van Dijck, José, Karin van Es, Anne Helmond, and Fernando van der Vlist, eds. Governing the
+Digital Society: Platforms, Artificial Intelligence, and Public Values. Amsterdam: Amsterdam
+University Press, 2025
+doi 10.5117/9789048562718_ch14

@@ -1,0 +1,39 @@
+15.  Concluding Comments: An Assessment
+     of Governing the Digital Society
+       Albert Meijer
+
+
+Introduction
+
+The governance of the digital society is very diverse and highly complex. The
+various chapters in this rich book discuss practices as diverse as promot-
+ing constructive comments by news outlets, the precarious position of
+platform workers, and the regulation of military AI. In all these chapters,
+the complexity of the interaction between rapid technological developments
+and various normative positions plays a key role. The overarching concern
+is whether the public values that we find important can be safeguarded in
+this complex and rapidly changing world.
+  Governance, a concept commonly used in the discipline of public
+administration, plays a key role in safeguarding public values in a digital
+society. In this concluding chapter, I will present a broad reflection on the
+various issues that arise around these values for governance from a public
+governance perspective. This means that I will use the term “governance” to
+refer broadly to the coordination of a societal sector, such as policing, media,
+health care, or education. This coordination can occur through markets,
+networks, or state policies, but in all these structures, the state plays a key
+role (Thompson 1991). From this perspective on governance, government is
+certainly not the only actor “doing” governance but there is still a specific
+role for government as this is the only general institution based on a broad
+democratic mandate (Pierre and Peters 2020; Sorensen and Torfing 2009).
+  More specifically, looking at different modes of governance, we can
+distinguish between (1) situations where commercial companies are in the
+lead (markets such as the media sector), (2) situations where civil society
+plays a key role (for example, poverty relief in some countries), (3) domains
+where the state provides services to citizens directly (public services such
+
+
+
+Van Dijck, José, Karin van Es, Anne Helmond, and Fernando van der Vlist, eds. Governing the
+Digital Society: Platforms, Artificial Intelligence, and Public Values. Amsterdam: Amsterdam
+University Press, 2025
+doi 10.5117/9789048562718_ch15

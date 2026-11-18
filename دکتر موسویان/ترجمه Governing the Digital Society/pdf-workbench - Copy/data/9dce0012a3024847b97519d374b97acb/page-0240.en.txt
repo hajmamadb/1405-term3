@@ -1,0 +1,42 @@
+Fostering Autonomy in the Digital Classroom                             237
+
+Currently, there is a challenge in collaboratively addressing how DEPs
+and apps transform classroom practices. To enhance schools’ control of
+pedagogy in platformizing classrooms, we now discuss two main pathways
+for collective action. First, we discuss sectoral opportunities for collectively
+organizing educational platform governance through in-school edtech
+evaluation and strengthening critical digital literacies of primary school
+teachers. Second, we highlight the significance of collective contributions
+to the design and development of alternative digital education ecosystems
+and platforms based on public and educational values.
+
+Pathway 1: In-school assessment of pedagogical impact and critical digital
+literacies
+Schools and professionals should be able to evaluate and push back against
+the ways educational platform technologies reshape classrooms, reproducing
+values and interests in teaching and learning which don’t necessarily align
+with theirs. Therefore, it is important to develop evaluation frameworks
+and instruments based on these values and interests, aimed to support
+educational professionals “in selecting and employing educational technolo-
+gies in ethically sound and pedagogical sensitive ways in their classrooms”
+(Adams and Groten 2023).
+  A promising initiative in the Dutch context is the development of the
+Impact Assessment Public Values and Educational Technology project
+(Impactassessment Publieke Waarden en Onderwijstechnologie, IPO), a
+co-creation of Kennisnet (a public organization concerned with ICT in-
+novation for primary and secondary education), Utrecht University, and
+several school boards. The IPO will be developed as a dialogical instrument
+to foster and facilitate meaningful discussions among professionals about
+the pedagogical effects of educational technology. To spark such discus-
+sions, the IPO intends to offer schools a framework for critically assessing
+pedagogical approaches within digital educational platforms (e.g., encoded
+rationales of surveillance and performativity), the experienced impact of
+DEPs on teaching and learning practices, and the pedagogical values upheld
+by educational professionals, schools, and the educational sector (e.g.,
+teachers’ experienced impact of the use of algorithmic learning analytics
+dashboards on the role of one’s own intuition and analysis in pedagogical
+decision-making).
+   In-school implemented instruments of educational platform governance
+supporting pedagogical autonomy, such as the IPO, we argue, cannot be
+separated from enhancing teachers’ critical disposition toward classroom
+platformization. In support of pedagogically meaningful integration of

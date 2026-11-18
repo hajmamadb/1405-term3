@@ -1,0 +1,41 @@
+220                  Gerwin van Schie, Laura Candidatu, and Diletta Huyskes
+
+periods over which it was received) and legal entitlement to those welfare
+payments (whether or not the necessary conditions to receive welfare are
+met). Apart from a category that mentions whether a person has missed any
+of their appointments with the Work and Income Bureau, the overwhelm-
+ing majority of the indicators do not address behavior. To make matters
+worse, multiple indicators that increase the risk score address whether
+people have genuine and justified reasons for missing appointments and
+opportunities for paid labor–such as mental or physical health problems or
+care responsibilities for children, parents, or other family members. With
+the choice for identity characteristics and contextual indicators, rather than
+facts about behavior, the city of Rotterdam has chosen not to police and
+punish behavior, but aspects of life that people tend to have no choice about.
+  A final issue with the Rotterdam welfare fraud risk-scoring algorithm is
+its lack of accuracy—understood as the percentage of correctly predicted
+fraud cases—which, as noted by Constantaris et al. (2023) based on Rotter-
+dam’s internal auditing documents, is “little better than random sampling.”
+Here, we can potentially draw parallels with the aforementioned childcare
+benefits scandal, which not only exhibited racial bias but, more importantly,
+produced a significant number of false positives. Both of these cases show
+that while the assumed potential for accuracy and efficiency is often cited as
+a reason for initiating the development of an algorithmic system, the actual
+lack of accuracy and efficiency does not seem to be a deal-breaker once the
+system is nearing completion or in its implementation phase. While we need
+more research on the reasons why values such as accuracy and reliability did
+not seem to be minimum requirements in high-risk government systems,
+there are indications about the effects of these choices: the unreliability
+of welfare is deterring people—especially those who often need it the
+most—from applying for money they rightfully deserve (NOS 2023). This
+makes contemporary datafied welfare governance a hurdle rather than a
+last resort for Dutch citizens, whether it was intended to be this, or not.
+
+Conclusion
+
+In this chapter, we discussed how the welfare fraud risk-scoring algorithm used
+by the city of Rotterdam, roughly between 2018 and 2021, reproduced racist and
+sexist notions of citizenship. Moreover, we argued that this reproduction should
+not be seen as an exceptional fact triggered mainly by the current tendencies
+of datafication and algorithmization of bureaucratic governance. Rather, by
+explicitly placing contemporary algorithmic practices within their historical

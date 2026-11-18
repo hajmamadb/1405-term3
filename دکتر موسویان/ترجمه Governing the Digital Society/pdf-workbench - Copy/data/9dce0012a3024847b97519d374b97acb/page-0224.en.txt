@@ -1,0 +1,40 @@
+Motherhood in the Datafied Welfare State                                 221
+
+context in the same domain of governance, we showed how racial discrimination
+and the enforcement of gendered family norms are a continuation of practices
+that have been a part of the state welfare system for a much longer time.
+  With this chapter, we aim to contribute to developments in algorithmic
+auditing and the value-sensitive design of government algorithms. We
+advocate for an approach that takes into account both the historical contexts
+and the prevailing discursive practices shaping and reproducing institutional
+processes. This way, civil servants working on new data projects could
+potentially know what kinds of inclusion and exclusion they should keep
+in mind when designing and evaluating their work. In practice, this would
+mean not only trying to recognize which citizens might be vulnerable now
+but also which citizens have historically been vulnerable within specific
+bureaucratic regimes. Quantified auditing techniques, such as the one
+used by Lighthouse Reports that was detailed in the introduction, are often
+difficult to perform before an algorithm is put in service. Studying the
+categories and indicators operationalized in an algorithm and placing
+them in the historical context of a particular bureaucratic regime as well
+as national and institutional culture—the type of analysis detailed in this
+chapter—can be easily done before an algorithm is implemented, potentially
+saving marginalized citizens from undeserved government scrutiny and
+governments from making costly mistakes
+
+Acknowledgments
+
+For this work, Gerwin van Schie was supported by a Spinoza grant of the
+Dutch Research Council (NWO), awarded in 2021 to José van Dijck, professor
+of media and digital society at Utrecht University. Furthermore, part of the
+information presented in the case study section was obtained in the context
+of Diletta Huyskes’ research, which is based on qualitative methods, includ-
+ing in-depth interviews with Dutch institutional actors and experts and
+the analysis of technical documentation obtained by Lighthouse Reports.
+
+References
+
+Abramovitz, Mimi. 2018. Regulating the Lives of Women: Social Welfare Policy from
+   Colonial Times to the Present. New York: Routledge.
+Anderson, Benedict. 1986. Imagined Communities: Reflections on the Origin and
+   Spread of Nationalism. London: Verso.

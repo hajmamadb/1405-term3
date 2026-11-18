@@ -1,0 +1,22 @@
+Introduction: Governing the Digital Society                                23
+
+Van der Vlist, Fernando N., Anne Helmond, and Fabian Ferrari. 2024. “Big AI: Cloud
+   Infrastructure and the Industrialisation of Artificial Intelligence.” Big Data &
+   Society 11(1): 1–34. https://doi.org/10.1177/20539517241232630.
+Van Dijck, José, Thomas Poell, and Martijn de Waal. 2018. The Platform Society:
+   Public Values in a Connective World. New York: Oxford University Press.
+
+About the Authors
+
+José van Dijck is distinguished university professor of media and digital
+society at Utrecht University since 2017. In 2021, she received the Spinoza
+Prize, which has made this edited volume possible.
+
+Karin van Es is associate professor of media and culture studies and project
+lead of humanities at the Data School, both at Utrecht University.
+
+Anne Helmond is associate professor of media, data & society at Utrecht
+University. She is codirector of the focus area Governing the Digital Society.
+
+Fernando van der Vlist is assistant professor and program coordinator for
+the master’s program in Cultural Data & AI at the University of Amsterdam.

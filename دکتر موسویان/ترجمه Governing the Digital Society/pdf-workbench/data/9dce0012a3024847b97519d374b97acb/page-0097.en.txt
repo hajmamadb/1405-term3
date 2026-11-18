@@ -1,0 +1,42 @@
+94                                                   Jacob van de Kerkhof
+
+    If a referral restricts the right to freedom of expression, it must serve a
+legitimate aim under Article 10(2) of the ECHR. Legitimate aims can be
+found listed in that article and are interpreted broadly and against the
+cultural background of the state: what is deemed the protection of health and
+morals is not necessarily deemed so in other states. In notice and takedown
+mechanisms ex Article 16 of the DSA, it is common that the flagger can
+indicate law on which the flag is based. Transparency on the legitimacy of
+the restriction can be easily achieved by adding a choice menu to the flagging
+form, listing the legitimate aims of Article 10(2) of the ECHR. This creates
+transparency and accountability on the legitimacy of takedown requests;
+without such an indication, it is unclear whether takedown requests by
+trusted flaggers might interfere with the right to freedom of expression.
+Further, referrals potentially restricting freedom of expression must be
+necessary in a democratic society. This is a requirement of proportionality:
+the right must outweigh a pressing social need and be a suitable means to
+achieve this end. A proportionality assessment, explaining why the internet
+user’s right to freedom of expression is outweighed by the societal need for
+removing his content, is currently lacking in content moderation and is not
+included in the statement of reasons ex Article 17 of the DSA. Including this
+in the statement of reasons, along with an explanation of why the chosen
+sanction is the suitable and necessary means to achieve the societal need
+it aims to address, decreases the risk for unlawful interferences with the
+right to freedom of expression.
+  A usual counterargument to the solutions proposed above is that in-
+dividual rights-based approaches do not scale well, which is necessary in
+content moderation (Balkin 2018; Douek 2022; Sander 2020). However, since
+trusted flags concern individual cases, and the volume of trusted flags
+indicated by Dutch state organs is not such that individual case handling is
+impossible, it would be feasible to include such proportionality assessments
+in cases where a state body has functioned as a trusted flagger. This ensures
+that flags do not inadvertently violate the right to freedom of expression.
+  In the second scenario, state bodies function outside of the scope of
+the DSA in a private arrangement with the internet intermediary. This
+is the current practice. This enables state actors to flag content not only
+based on national or EU law but also based on the community guidelines
+of the social media space. This scenario gives rise to the same concerns
+as above but runs a further risk when it comes to the lawfulness of the
+flag. Eghbariah and Metwally describe the rule of law risk of referring
+based on community guidelines resulting in “state-interpreted service
+agreements” (2021). Presuming that a flag by a state body is a strong nudge

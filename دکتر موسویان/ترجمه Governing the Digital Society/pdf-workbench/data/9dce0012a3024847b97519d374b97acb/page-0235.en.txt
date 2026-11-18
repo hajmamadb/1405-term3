@@ -1,0 +1,42 @@
+232                                               Niels Kerssens and Karin van Es
+
+Veale contends success is only possible if educational organizations are
+willing to cooperate, collaborate, and pursue various forms of collective
+action.
+  Both pathways—improving sectoral conditions of platform governance
+and building viable alternatives—revolve around collective action, making
+collaboration at the sectoral level a prerequisite. Although some countries
+have existing collective or membership organizations for the education sec-
+tor supporting schools in ICT procurement and use, the situation differs from
+one country to another. As Veale points out, “[t]he UK lacks a general-purpose
+overarching organization for primary or secondary education, relying on a
+patchwork of capacities at multiple levels” (2022, 74). The Dutch education
+sector, by contrast, is represented by powerful collective organizations
+such as SIVON, SURF, and Kennisnet—a strong foundation for successful
+sectoral initiatives to secure schools’ control over data flows.1 For pedagogical
+autonomy, however, collective attention seems rather lacking, although
+there are promising initiatives emerging to improve schools’ control over
+educational platforms.
+
+Data autonomy
+
+This section explores examples of how schools’ data autonomy have been
+successfully enhanced through collaborations at the sectoral level. First,
+we discuss the Dutch privacy covenant and the data protection impact
+assessment (DPIA) on Google Workspace for Education as pivotal examples
+of developing and implementing governing instruments which hold DEPs
+accountable. Second, we examine the development of technical interoper-
+ability standards for data sharing as a significant step towards an alternative
+organization of data management in digital education ecosystems. These
+initiatives, we argue, strengthen schools’ control over educational data by
+concretizing and implementing the legal obligations set by the General
+Data Protection Regulation (GDPR).
+
+The Dutch privacy covenant
+In 2013, the increasing use of DEPs in classrooms constituted an important
+incentive for the development of the privacy covenant—a set of agreements
+
+
+1   SURF (higher education) and SIVON (primary and secondary education) are cooperative IT
+procurement organizations for education. Kennisnet is a public organization concerned with
+ICT innovation for primary and secondary education.

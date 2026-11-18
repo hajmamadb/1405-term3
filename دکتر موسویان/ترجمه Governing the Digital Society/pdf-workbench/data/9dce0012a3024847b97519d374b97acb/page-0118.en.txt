@@ -1,0 +1,42 @@
+Governing the Global Proliferation of Digital Surveillance Technologies    115
+
+the former (human rights), whether or not human rights violations are
+regarded as serious depends on the “combination of various aggravating
+elements,” such as the “irreparable impact on victims, together with the
+value protected by the human rights rule and the degree of vulnerability of
+a situation presents for the victims” (Siatitsa 2022, 63). While determining
+what constitutes “serious” violations requires case-specific assessment,
+exported cyber surveillance items can indeed be used in violations of human
+rights that have an irreparable impact on victims (e.g., the right to be free
+from torture, the right to life).
+  While Regulation 2021/821 introduces the novel aspect of explicitly refer-
+ring to these serious violations, it is important to note that the assessment of
+such violations is not identical to determining whether the use of a specific
+cyber surveillance item constitutes a serious violation of human rights or
+amounts to a war crime. This assessment is carried out within the context
+of determining whether to regulate and approve exports. Thus, the analysis
+includes the technical capabilities of cyber surveillance items in question,
+the assessment of the past and present situations in the countries to which
+items would be sold, and the examination of the past and present conduct of
+end users in using cyber surveillance technologies. Despite the complexity
+arising out of the application of Article 5(2), it appeared that limited attention
+was given during the EU’s legislative processes to address, for instance, the
+types of human rights that exporters must consider, and which reports
+and databases that exporters should consult in assessing the destination
+countries and end users therein.
+
+Concept of “due diligence”
+According to Article 5(2) quoted above, an exporter is expected to conduct
+“due diligence.” “Due diligence” under Article 5(2) is understood as a type
+of business risk analysis, although its meaning has uniquely developed
+through export control practices (e.g., item classification) (Kanetake and
+Ryngaert 2023, Section 1.1). The preamble of Regulation 821/2021 refers to
+“due diligence” as a type of transaction screening as part of an internal
+compliance program (ICP) (Regulation 2021/821, recital 7). Under Regulation
+2021/821, an ICP to facilitate compliance includes “due diligence measures
+assessing risks related to the export of the items to end-users and end-uses”
+(Regulation 2021/821, Article 2(21)).
+  While the term “due diligence” is a familiar term for export control
+professionals, the EU’s Dual-Use Regulation 2021/821 is still significant in
+that it effectively obliges dual-use exporters—and not only governmental
+authorities—to undertake such a risk analysis within the frameworks

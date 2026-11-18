@@ -1,0 +1,40 @@
+Decentralized Online Social Networks                                 29
+
+organizational elements may be preferable over the choice between two
+static yet opposite categories.
+  The main goal of this chapter is to propose a heuristic framework for
+conceptualizing “decentralization” as a set of choices involving both techni-
+cal and organizational elements underpinning the design and organization of
+a social media platform. These choices are linked to underlying (sometimes
+conflicting) public values, which we will spell out. For each element, we will
+analyze which problems DOSNs aim to address and whether decentraliza-
+tion might be the right solution. The public values we discuss are merely
+examples from a broader set of choices. It is not our aim to offer an exhaustive
+stocktaking in this chapter; rather, our goal is to introduce the “public
+value balancing act” as a prism through which to analyze DOSNs. While
+centralized platforms, owned and operated by Big Tech companies, struggle
+with competing demands from users and advertisers to keep their platforms
+clean and manageable, decentralized platforms face similar dilemmas,
+such as balancing values like inclusiveness and security. It is important to
+discern how choices at the technical and organizational levels are based
+on value negotiations, so that debates about the governance of social media
+platforms can become more nuanced and integral to their design.
+
+The public debate on decentralized versus centralized
+
+In public debates, decentralized social networks are often presented as a
+unified and uniform category, typically framed in opposition to centralized
+platforms. MsSM are often characterized as for-profit enterprises, owned
+and operated by Big Tech, built on proprietary software with centralized
+data storage on a single server system, facilitating user-profiling and targeted
+advertisements. In recent years, the term “centralized” in relation to social
+networks has garnered suspicion, associating Big Tech’s platform governance
+with issues like privacy and security breaches, misinformation, loss of
+quality control, and manipulation. Some even claim that the US government
+has actively pushed for a centralized internet to advance its national goals
+(Ortiz Freuler 2023).
+  By contrast, decentralized online social networks are typically regarded
+as non-profit, open-source networks built on independent servers allowing
+interoperability and data portability that is mindful of users’ control over
+their own data and content. They are associated with positive values such
+as privacy, (user) autonomy (independence), openness, and transparency. In

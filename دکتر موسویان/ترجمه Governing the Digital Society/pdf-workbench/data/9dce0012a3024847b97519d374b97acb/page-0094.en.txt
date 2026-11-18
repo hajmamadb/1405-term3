@@ -1,0 +1,42 @@
+Constitutional Aspects of Trusted Flaggers in the Netherlands             91
+
+safeguarded through two documents: the Dutch constitution (Grondwet
+voor het Koninkrijk der Nederlanden [Constitution of the Kingdom of the
+Netherlands] or Gw) and the European Convention on Human Rights (ECHR).
+   Article 7 of the Gw safeguards freedom of expression and consists of four
+provisions. The initial three provisions affirm that individuals do not need
+prior permission to expose, publish, or broadcast their thoughts or opinions
+through different media types (Hins 1995). Expressions on the internet are
+covered by the third sub, adding the exception that each person must act
+without prejudice to their responsibility under the law. The phrasing of
+the article is peculiar: the right to freedom of expression is such that one
+does not need to ask permission to express oneself. The right to freedom of
+expression covers a right to express, but also a right to disseminate those
+expressions (De Meij et al. 2000; see also Hoge Raad, November 7, 1892,
+Haagse Ventverordening). The right to disseminate one’s expression can be
+limited by law, but there must always be a meaningful alternative available
+to spread one’s expressions (Hoge Raad, April 26, 1996, Rasti Rostelli; see
+also the European Court of Human Rights [ECtHR], May 6, 2003, Appleby
+v. United Kingdom).
+  The primary limitative ground of the right to freedom of expression ex
+Article 7(3) of the Gw is everyone’s responsibility under the law. Article 7
+of the Gw protects shocking and hurtful expressions, provided they add
+to the public debate (Hoge Raad, January 9, 2001, van Dijke). This notion is
+based in the ratio that freedom of expression is necessary for a functioning
+democracy; expressions devoid of meaning, such as throwing paint bombs
+(Hoge Raad, April 19, 2005, Verfbom) or sending spam messages (Hoge Raad,
+March 12, 2004, Xs4All).
+   Article 10 of the ECHR protects the right to freedom of expression on a
+European level. Because Article 7 of the Gw is not directly enforceable in
+Dutch courts due to the prohibition on constitutional review ex Article 120
+of the Gw, most case law in the Netherlands on freedom of expression is
+based on the ECHR. Article 10 of the ECHR has two parts: Sub 1 provides
+everyone with the right to freedom of expression, to hold opinions and
+to impart information and ideas without interference. Sub 2 provides the
+limitative grounds to that right: the right can be subject to restriction, if such
+restriction is prescribed by law, serves a legitimate aim, and is necessary in a
+democratic society. This also applies to expressions on the internet, such as
+the use of platform affordances (ECtHR, September 15, 2015, Melike v. Turkey)
+and content moderation policies (ECtHR, June 16, 2015, Delfi v. Estonia). The
+provision of Article 10 of the ECHR has a wide scope and covers expressions
+that may “offend, shock, or disturb the State or any sector of the population”

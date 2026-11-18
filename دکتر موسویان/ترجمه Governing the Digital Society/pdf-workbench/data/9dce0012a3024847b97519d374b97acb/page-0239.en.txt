@@ -1,0 +1,41 @@
+236                                               Niels Kerssens and Karin van Es
+
+  Rather than developing entirely new ecosystems of hardware, software,
+and infrastructure as full alternatives to closed Big Tech platform infra-
+structures, these efforts focus on the creation of open technical standards
+governing data interchange between interconnected DEPs. For example,
+the Dutch open data standards facilitate automatic exchange of learning
+data between digital platforms in which the learning data originates and
+learning analytics systems in which the learning data from different digital
+platforms is aggregated, visualized, and analyzed. Importantly, open data
+standards work to the benefit of schools’ digital autonomy. Firstly, their
+technical design operates in line with covenant agreements and GDPR
+regulations on data minimization, which requires that “data has to be ad-
+equate, relevant and limited to what is necessary for the purposes for which
+they are processed.” To comply with data minimization, representatives of
+primary schools have jointly set a minimal list of data attributes exchanged
+in data flows between DEPs through open data standards. Secondly, open
+data standards promote interoperability between DEPs, which “stimulates
+platform diversity and modular ecosystems, granting schools and teachers
+more freedom to organize their own learning environment” (Kerssens and
+Van Dijck 2021, 255).
+  Cooperation drove the procurement of these interoperability standards.
+They evolved through agreements within a public–private cooperative, in-
+cluding educational publishers, suppliers, software developers, and umbrella
+organizations of schools. As we have emphasized, joint collaborations at the
+sectoral level—such as the privacy covenant, the DPIA, and the creation
+of open data standards—are effective and important, but they are not the
+ultimate solution to the issue of data autonomy. They represent small yet
+significant steps toward schools reclaiming power over data generated in
+their learning environments. In these collaborations, it is important, as
+Fiebig et al. put forward, that stakeholders do not focus their efforts on
+implementation of policies and contracts to ensure privacy compliance
+“independently of the question whether users actually do have control over
+their data” (2022, 53). In other words, the development of these initiatives
+should prioritize schools’ data (and pedagogical) autonomy as the ultimate
+goal, rather than viewing GDPR compliance as an end in itself.
+
+Collective pathways towards pedagogical autonomy
+
+In the quest for digital autonomy in schools, the focus on privacy and data
+protection often overshadows considerations of pedagogical autonomy.

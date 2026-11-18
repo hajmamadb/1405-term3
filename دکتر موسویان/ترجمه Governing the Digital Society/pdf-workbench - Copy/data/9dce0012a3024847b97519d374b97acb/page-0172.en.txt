@@ -1,0 +1,39 @@
+Interview with Natali Helberger                                       169
+
+OpenAI’s ChatGPT, reach the threshold for further-going regulation. This
+creates the peculiar situation that, under the European AI Act, for the time
+being, only US companies have to be concerned about fundamental rights
+and public values—while the smaller, European generative AI models
+are off the hook. Meanwhile, the recent announcement of Microsoft’s
+investment in Mistral triggered the question of how long the European
+champions will remain European.
+
+FF: What is your perspective on the legal treatment of open-source AI systems
+in the AI Act, specifically their subjection to exceptions (e.g., transparency
+requirements)?
+
+NH: This is a very difficult question and one that would have warranted
+more discussion during the making of the AI Act. Overall, I am doubtful
+whether open source is synonymous with transparency, and being open
+source does not automatically translate into being accountable or respecting
+fundamental rights and public values.
+
+FF: You have been working with future scenario writing methods as instruments
+to foster creative anticipatory ethical or legal reasoning by engaging diverse
+policy perspectives (Helberger 2024). Is there a scenario in which the balance
+between public and private values is ideal?
+
+NH: Nice question. First of all, I do not think that the distinction between
+public and private values is that clear-cut. Maybe the more relevant question
+is: Who prioritizes whose values, and how to strike a fair balance between
+conflicting values? The interesting thing about the scenario method that we
+used is that it can be a means to engage citizens with diverse backgrounds
+in the question of which values they think are at stake when deploying AI
+and what values are important to them. Often, the value debate is led top-
+down by experts, companies, regulators, and civil society representatives,
+but the whole point with AI, and generative AI, in particular, is that the
+technology has left the lab for good and is everywhere in society, affecting
+all of us, and the values that matter to each of us. Better understanding
+whose values are at stake, when and how we can use more participatory
+approaches, should be an important element of risk assessments and doing
+responsible AI.

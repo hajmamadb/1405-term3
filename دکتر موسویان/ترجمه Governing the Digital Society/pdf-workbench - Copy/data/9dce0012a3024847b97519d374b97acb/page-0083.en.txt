@@ -1,0 +1,42 @@
+80                                                       Cedric Waterschoot
+
+Rieder, Bernhard, and Yarden Skop. 2021. “The Fabrics of Machine Moderation:
+   Studying the Technical, Normative, and Organizational Structure of Perspective
+   API.” Big Data & Society 8(2): 1–16. https://doi.org/10.1177/20539517211046181.
+Ruckenstein, Minna, and Linda Lisa Maria Turunen. 2020. “Re-humanizing the
+   Platform: Content Moderators and the Logic of Care.” New Media & Society 22(6):
+   1026–46. https://doi.org/10.1177/1461444819875990.
+Salganik, Matthew, and Robin Lee. 2020. “To Apply Machine Learning Respon-
+   sibly, We Use It in Moderation.” New York Times. https://open.nytimes.com/
+   to-apply-machine-learning-responsibly-we-use-it-in-moderation-d001f49e0644.
+Scheuermann, Larry, and Gary Taylor. 1997. “Netiquette.” Internet Research 7(4):
+   269–73. https://doi.org/10.1108/10662249710187268.
+Schmidt, David. 2014. “Bitte Beklatschen Sie Mich.” Die Zeit. April 29. https://www.
+   zeit.de/community/2014-04/leserempfehlungen-funktion.
+Shmargad, Yotam, and Samara Klar. 2020. “Sorting the News: How Ranking by
+   Popularity Polarizes Our Politics.” Political Communication 37(3): 423–46. https://
+   doi.org/10.1080/10584609.2020.1713267.
+Sonnemaker, Tyler, and Tanya Dua. 2020. “The Biggest Companies No Longer
+   Advertising on Facebook Due to the Platform’s Lack of Hate-Speech Modera-
+   tion.” Business Insider. https://www.businessinsider.nl/companies-no-longer-
+   advertising-on-facebook-after-poor-speech-moderation-20206.
+Strandberg, Kim, Staffan Himmelroos, and Kimmo Grönlund. 2017. “Do Discussions
+   in Like-minded Groups Necessarily Lead to More Extreme Opinions? Deliberative
+  Democracy and Group Polarization.” International Political Science Review 40(1):
+   41–57. https://doi.org/10.1177/0192512117692136.
+Stroud, Natalie, Ashley Muddiman, and Joshua Scacco. 2016. “Like, Recommend,
+   or Respect? Altering Political Behavior in News Comment Sections.” New Media
+  & Society 19(11): 1727–43. https://doi.org/10.1177/1461444816642420.
+Suau, Jaume, Pere Masip, and Carlos Ruiz. 2019. “Missing the Big Wave: Citizens’
+   Discourses against the Participatory Formats Adopted by News Media.” Journal-
+  ism Practice 13(10): 1316–32. https://doi.org/10.1080/17512786.2019.1591928.
+Tandoc, Edson C., Zheng Wei Lim, and Richard Ling. 2018. “Defining ‘Fake News’:
+  A Typology of Scholarly Definitions.” Digital Journalism 6(2): 137–153. https://
+   doi.org/10.1080/21670811.2017.1360143.
+Utopia. N.d. “NU.nl First Considered Developing the AI Tech by Themselves.” https://
+   utopiaanalytics.com/case/case-nu-nl/.
+Van der Linden, Sander, Anthony Leiserowitz, Seth Rosenthal, and Edward Maibach.
+   2017. “Inoculating the Public against Misinformation About Climate Change.”
+   Global Challenges 1(2): 1600008. https://doi.org/10.1002/gch2.201600008.
+Van Hoek, Colin. 2020. “Hoe NU.nl Beter Wordt van een Robot.” NU.nl. https://www.
+   nu.nl/blog/6045082/hoe-nunl-beter-wordt-van-een-robot.html.

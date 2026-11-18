@@ -1,0 +1,41 @@
+Governing the “Third Half of the Internet”                                 77
+
+has so far been assigned to the human moderator, yet the definition of this
+concept is vague and often ill-defined. Evidently, the rather vague practice
+of manually picking out single comments may advance human bias in
+the comment section, as the moderators can act autonomously, evading
+discussion with colleagues due to time constraints or other factors. An open
+and transparent procedure of (human) moderation enhances checks and
+balances in the comment space. Constructive discussion, in this case, arises
+from the moderators’ perspective rather than reflecting the user base. There
+is clearly a point of friction when the users’ perspective does not align with
+the moderators’ definition of “constructive participation.” A more in-depth
+examination is necessary to understand precisely how online discussions
+are significantly influenced by (human) online moderation.
+
+References
+
+Berresheim, Simon, and Julia Meyer. 2023. “Wir haben einen neuen Kommentar-
+   bereich.” Die Zeit Online, April. https://www.zeit.de/administratives/2023-04/
+   kommentarbereich-design-struktur-emojis.
+Brunk, Jens, Jana Mattern, and Dennis Riehle. 2019. “Effect of Transparency and
+   Trust on Acceptance of Automatic Online Comment Moderation Systems.” In
+   Proceedings—21st IEEE Conference on Business Informatics (CBI) 2019, 1:429–35.
+   https://doi.org/10.1109/CBI.2019.00056.
+Delgado, Pablo. 2019. “How El País Used AI to Make Their Comments Section Less
+   Toxic.” Google News Initiative. https://blog.google/outreach-initiatives/google-
+   news-initiative/how-el-pais-used-ai-make-their-comments-section-less-toxic/.
+Diakopoulos, Nicholas. 2015. “Picking the NYT Picks: Editorial Criteria and
+  Automation in the Curation of Online News Comments.” #ISOJ: The Official
+   Research Journal of ISOJ 5(1): 147–66. https://isoj.org/wp-content/uploads/2016/10/
+   ISOJ_Journal_V5_N1_2015_Spring.pdf.
+Diakopoulos, Nicholas. 2019. Automating the News: How Algorithms Are Rewriting
+   the Media. Cambridge, MA: Harvard University Press.
+El País. 2015. “EL PAÍS Mejora el Sistema de Comentarios en sus Noticias.” March 24.
+   https://elpais.com/elpais/2015/03/24/actualidad/1427229587_101365.html.
+El País. 2016. “Principios y Normas de Participación.” https://elpais.com/estaticos/
+   normas-de-participacion/.
+El País. 2018. “Inteligencia Artificial para Elevar la Calidad del Debate Digital.” Decem-
+   ber 17. https://elpais.com/sociedad/2018/12/17/actualidad/1545081231_439667.html.
+Gillespie, Tarleton. 2020. “Content Moderation, AI, and the Question of Scale.” Big
+  Data & Society 7(2): 1–5. https://doi.org/10.1177/2053951720943234.

@@ -1,0 +1,38 @@
+4.   Constitutional Aspects of Trusted
+     Flaggers in the Netherlands
+       Jacob van de Kerkhof
+
+
+        Abstract: The use of trusted flaggers is an established practice in content
+        moderation by internet intermediaries such as Meta and Google. It allows
+       engagement with expertise of governmental and non-governmental
+         organizations, ensuring swift actionability of flagged content. The Digital
+         Services Act formalizes this practice in Article 22. State entities have also
+       been functioning as trusted flaggers, which has been a topic of scholarly
+       and societal debate. This chapter discusses the constitutional tensions
+         of the existing and new Digital Services Act (DSA) framework of trusted
+         flaggers in the Netherlands with the right to freedom of expression as laid
+      down in Article 7 of the Dutch constitution and Article 10 of the European
+       Convention on Human Rights (ECHR). It makes several suggestions to
+         increase the lawfulness, legitimacy, and accountability of this framework.
+
+       Keywords: content moderation, flagging, freedom of expression, Digital
+        Services Act (DSA), accountability, transparency
+
+Introduction
+
+Over the past decades, the public debate has moved to the digital realm, in
+part to social media (Balkin 2018). Social media are governed by internet
+intermediaries such as Meta and Google, who are commercially motivated
+private entities. Social media spaces have greatly expanded the possibilities
+for freedom of expression, due to the increased reach that anyone can
+achieve. Over time, the risks of social media have also become apparent:
+the anonymous sharing of illegal and harmful content has real-world effects
+(Arcila and Griffin 2023). These risks call for a more public values–based
+
+
+
+Van Dijck, José, Karin van Es, Anne Helmond, and Fernando van der Vlist, eds. Governing the
+Digital Society: Platforms, Artificial Intelligence, and Public Values. Amsterdam: Amsterdam
+University Press, 2025
+doi 10.5117/9789048562718_ch04

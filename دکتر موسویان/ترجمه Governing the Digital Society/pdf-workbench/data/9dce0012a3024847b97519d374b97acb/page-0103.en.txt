@@ -1,0 +1,42 @@
+100                                                        Taylor Annabell
+
+CG: My pursuit for fairness as a theme began with a pitfall I currently see
+in legal research—it is overly focused on the notion of regulation: How
+should we regulate AI? How should we regulate political advertising? These
+are complex societal and market phenomena with highly sophisticated
+economic, governance, social, and cultural implications, just to name a few.
+Yet traditional legal research, also known as doctrinal research—the art of
+legal argumentation and interpretation—will never be able to answer the
+question of how we should regulate complex technologies. This limitation
+arises because doctrinal research simply lacks the methods necessary to
+determine how reality can be impacted by one path of regulation or another.
+However, legal research does have a rich history of principles that reflect
+moral values. Fairness is one of these principles, and in my own original
+field of study, consumer protection, it has been used to identify and remedy
+imbalances of power that stem from hiding or manipulating information
+(e.g., “unfair commercial practices”). These imbalances of power continue
+to be fascinating to research as they now involve complex ecosystems of
+stakeholders, not just limited to social media users, creators, and brands, but
+also digital platforms and other emerging intermediaries in the monetization
+supply chain.
+
+TA: You raise the issue of complexity when it comes to how influencers’
+monetization practices are subject to regulation. Except for France, there
+are generally no specific laws for influencers in the European Union. But as
+your work, including your co-edited volume (Goanta and Ranchordás 2020),
+demonstrates, the regulation of social media influencers spans a wide range of
+legal fields, which is also detailed in your contribution to the Influencer Legal
+Hub, a set of resources for influencers launched by the European Commission
+to become familiar with the European consumer protection standards that
+need to be applied in advertising, selling goods, and providing services. In
+some of your work (Duivenvoorde and Goanta 2023; Goanta and Luzak 2022)
+you advocate for adopting a consumer law framework. What insights does
+this generate about gaps and challenges in existing regulation?
+
+CG: Consumer protection has been the low-hanging fruit of influencer
+marketing and content monetization, particularly regarding the question
+of how and when advertising ought to be disclosed. As a new form of native
+advertising, influencer marketing has the same parameters as product
+placement in television or cinema, or advertorials in journalism. When
+advertising is blended into content that obfuscates its commercial nature,
+there is a harm of misleading consumers. Even though we are only starting to

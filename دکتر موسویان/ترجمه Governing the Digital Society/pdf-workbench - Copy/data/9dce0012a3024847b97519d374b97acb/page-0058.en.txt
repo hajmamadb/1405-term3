@@ -1,0 +1,41 @@
+Platform Cooperatives as an Additional Strategy                           55
+
+of platform cooperatives (Herr et al. 2021). However, platform workers face
+difficulties in accessing such spaces, as platform corporations have attempted
+to erode them, hindering worker exchanges. Additionally, cooperatives often
+have limited access to capital. Many platforms require significant capital
+for rapid expansion, but venture capital firms are often reluctant to invest
+in cooperatives, impeding their start-up process. Furthermore, during the
+initial phase, workers may be tempted to free-ride on the cooperative’s
+efforts since the benefits of a democratic cooperative are not immediately
+realized and demand significant initial effort. This results in an asymmetry
+between start-up costs and long-term benefits, potentially discouraging the
+establishment of new cooperatives.
+  In the scaling-up phase, once a platform cooperative is established, the
+foremost barrier is the network-based market power of established private
+platforms (incumbents). The more service sellers a platform has in a given
+location, the faster it can offer services to customers. Such network effects
+make it challenging for cooperatives to compete against incumbent privately
+run platforms. This “winner takes all” dynamic leads to one dominant
+platform capturing the majority of market shares, leaving little room for
+competitors. As a platform cooperative grows, it can encounter governance
+problems. Large cooperatives may suffer from bureaucracy, making workers
+feel detached similar to the experience in large investor-owned firms.
+
+Stimulating the establishment of platform cooperatives
+
+Sections 3 and 4 have shown how the European Union is attempting to
+strengthen the power of platform workers in relation to digital labor
+platforms through adjustments in labor law. The power asymmetry can
+be partly attributed to platform workers’ false self-employed status, which
+leaves them lacking the benefits of genuine self-employment or lacking the
+social protections of an employment relationship. Focusing on improving
+platform workers’ employment status is a logical first step for the EU—a
+policy initiative that deserves attention from member states. At the same
+time, questions can be raised about the effectiveness of the directive, the
+details of which are still being negotiated. However, the concept of platform
+cooperatives could address some of the vulnerabilities described here,
+as ownership shifts from the hands of private investors to the workers
+themselves (see also Van Doorn et al. 2022, 1107).
+  Why does the EU pay little to no attention to the potential of platform
+cooperatives in addressing the aforementioned issues in its legislative

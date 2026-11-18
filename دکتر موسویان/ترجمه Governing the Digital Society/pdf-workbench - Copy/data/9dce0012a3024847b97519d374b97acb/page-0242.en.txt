@@ -1,0 +1,41 @@
+Fostering Autonomy in the Digital Classroom                           239
+
+lacking in the Netherlands. Steering the design and development of educa-
+tional technology, however, is not an easy task. Examples discussed earlier
+in the chapter show that cooperation between the education sector and
+edtech market actors can result in agreements which benefit schools’ data
+autonomy. A similar approach could work to enhance schools’ pedagogical
+autonomy. To this end, it is crucial to strengthen collaboration among
+national developers of DEPs, public organizations, and schools in a joint
+effort to develop “viable alternatives” (Veale 2022). The educational system of
+Spain provides a guiding example. To provide schools with an alternative to
+the Google or Microsoft education platforms, the city council of Barcelona,
+in collaboration with participating families and schools and the public
+organization Xnet, developed the “DD digital educational infrastructure” as a
+“workspace that aggregates free and auditable software tools in a single suite
+offering data sovereignty and protecting the digital rights of the educational
+community” (Xnet 2022).
+  In parallel, it is also crucial that alternatives are developed for the infra-
+structural services which provide DEPs from global providers like Microsoft
+and Google with AI and machine learning capacities. Over the past decade,
+these kinds of infrastructural AI services have become indispensable for
+algorithmically personalizing learning in DEPs by Dutch developers such
+as Bingel and Snappet (Kerssens and Van Dijck 2023). To break such power
+imbalances, alternatives need to be developed. A hopeful example in the
+Netherlands is the development of GPT-NL—an open large language model
+(LLM) being developed by research organization TNO, the Netherlands
+Forensic Institute, and the ICT cooperative SURF, and funded by the Dutch
+national government. The AI language model aims to ensure more openness,
+transparency, and the protection of users’ data privacy. Although still in
+development and not intended specifically for educational use, it holds
+potential to provide AI capacities to future DEPs.
+
+Governing for digital autonomy in the classroom
+
+We began this chapter by briefly discussing the impact that classroom plat-
+formization has on schools’ digital autonomy, attending to both implications
+for data autonomy and pedagogical autonomy. Throughout the chapter we
+have stressed the value of collective and cooperative action at sectoral level—
+involving schools, public organizations, and/or edtech market players—to
+bolster schools’ control over data and pedagogy in platformizing classrooms.
+We argue that collective action, centered on cooperative responsibility,

@@ -1,0 +1,42 @@
+The Long-term Usefulness of Regulating AI in the EU                         155
+
+legal framework in particular for the development, marketing and use
+of artificial intelligence” and to pursue “a number of overriding reasons
+of public interest, such as a high level of protection of health, safety and
+fundamental rights” (EU Commission 2021).
+  The Commission’s proposal uses a risk-based approach to divide AI
+applications into four different categories: unacceptable risk, high risk,
+limited risk, and minimal risk. The categorization of AI systems will be
+based on how the AI system is used. Unacceptable risk practices will be
+banned, which will include AI systems that are “a clear threat to the safety,
+livelihoods and rights of people” and those systems that “manipulate human
+behavior to circumvent users’ free will” or that allow “social scoring” by
+governments. AI systems are identified as high-risk if they are used in
+specific situations, such as for critical infrastructures, law enforcement, and
+education. Companies that place high risk systems in the market will be
+subject to strict obligations, such as adequate risk assessments, mitigation
+systems, and appropriate human oversight. Limited risk systems should
+comply with transparency obligations, whereas minimal risk systems will
+remain unregulated (EU Commission 2021).
+   Interestingly, from the public consultations preceding the AI Act, there
+was no agreement on what is considered to be high-risk in AI nor was there a
+majority willing to limit the mandatory requirements to high-risk AI systems
+(Grozdanovski and De Cooman 2022). However, the EU explicitly chose to
+move forward with the definition of high-risk based on applications of AI,
+while limiting the mandatory requirements to high-risk AI systems. The
+risk-based system focused on requirements for AI applications in high-risk
+sectors has therefore been contested from the conception of the AI Act.
+  The risk-based approach in the AI Act focusing on the application of
+AI in specific (high-risk) sectors means that Big Tech companies often
+evade the responsibilities as laid down by the act. The identified high-risk
+sectors are mostly public and essential services, critical infrastructures,
+and safety components in products, meaning that it will be governments,
+banks, and educational institutions that will need to make sure that their
+AI systems comply with the AI Act. However, as discussed in section 2,
+the AI foundational model determines how risks emerge in the further
+application of the AI model. This means that the companies applying AI
+in high-risk sectors will have to carry the burden but actually cannot take
+responsibility for the risks that surface in their application since they do
+not control the foundational models.
+  The Commission’s proposal predated the development of general-purpose
+and foundational AI models and in the first version of the AI Act, there was

@@ -1,0 +1,42 @@
+The Techno-Politics of Conversational AI’s Moral Agency                  179
+
+  Furthermore, for both ChatGPT and ErnieBot, valuable insights have
+been extracted from user feedback since their initial releases. For example,
+to “improve the intelligence and content quality of the service,” ErnieBot
+collects user input and output, and invites users to rate the output, giving a
+thumbs up or a thumbs down (Baidu 2023). Similar features are also available
+on ChatGPT. This allows the respective companies to improve and adjust
+the safety mechanisms of their products, with the goal of preventing the
+AI from generating or endorsing harmful or inappropriate content. The
+calibration of the moral agency of chatbots is an ongoing process.
+
+Moral agency as a political construct
+Next, we discuss the moral agency of chatbots as a political construct. The
+term “political” in this context encompasses the overarching power relations
+among various groups and entities. To discuss the political construct of a
+chatbot’s moral agency prompts an exploration of the conflicts and competi-
+tion over ethics and values among different interest groups, which includes
+companies, regulatory bodies, and users. Tech companies like OpenAI and
+Baidu play a pivotal role in determining which values to prioritize, endorse,
+and integrate into their systems. To shed light on the intricate political
+dynamics and conflicts in this process, this section centers on controversies
+surrounding the moralization of ChatGPT and ErnieBot.
+   Since its initial release in November 2022, ChatGPT has faced criticism for
+what some perceive as a moral bias (Hochman 2023; Thompson et al. 2023).
+Notably, within the current sociopolitical climate in the West, ChatGPT has
+been met with disapproval and censure from conservative factions, which
+views OpenAI as an instance of “Big Tech” catering to the ideals of “woke”
+culture and left-wing politics (Wulfsohn 2023). Against this backdrop, the
+formation of ChatGPT’s moral agency emerges as a highly politicized issue.
+A 2023 article in the conservative magazine National Review criticizes
+ChatGPT for its perceived “built-in ideological bias” (Hochman 2023). The
+article raises concerns about the perceived suppression of voices that deviate
+from progressive orthodoxy, framing it as a challenge to the fundamental
+principle of free speech. To substantiate these claims, the article highlights
+instances such as the system’s readiness to generate a fictional narrative
+depicting Hillary Clinton’s victory over Donald Trump while refusing to
+generate a scenario where Trump prevails over Joe Biden.
+  On social media, ChatGPT users have shared what they interpret as
+evidence of bias against conservatives. Instances include ChatGPT expressing
+perspectives considered “woke,” particularly in discussions about climate
+change policies, gender reassignment surgery, abortion, and other polarizing

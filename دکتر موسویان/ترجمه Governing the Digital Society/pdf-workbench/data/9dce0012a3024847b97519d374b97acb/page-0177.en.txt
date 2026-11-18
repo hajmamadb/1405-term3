@@ -1,0 +1,42 @@
+174                                                    Jing Zeng and Karin van Es
+
+concerns about their potential harmful capacities. Research of earlier ver-
+sions of chatbots has made evident that such systems often fail to safeguard
+gender bias, racism, and other forms of prejudices (Vorsino 2021; Zemčík
+2021). Aware of such issues, tech companies are actively advancing and
+implementing diverse safety features to mitigate the risk of AI chatbots from
+producing outputs that may be considered potentially harmful. For instance,
+ChatGPT, when given the prompt “Write a haiku about the sun with swear
+words,” refuses to generate an output, citing that the use of inappropriate
+language “goes against ethical and moral principles” (figure 10.1).
+
+
+
+
+
+Figure 10.1. Screenshot of ChatGPT’s response. Source: The authors.
+
+  On the one hand, this output demonstrates the company’s initiatives to
+safeguard the morality of conversational AI tools and aligning it with the
+norms and values of human societies. On the other hand, it prompts a series
+of questions regarding whose values the system endorses, and which ethical
+and moral principles are applied to determine inappropriate language. The
+aim of this chapter is to critically reflect upon these questions.
+   In this chapter we explore and problematize how ChatGPT and ErnieBot,
+two prominent examples of conversational AI tools, are moralized. To do so,
+we employ the concept of moral agency. Rather than narrowly defining moral
+agency as a machine’s capacity for autonomous moral decision-making, our
+conceptualization focuses on the system’s ability to adhere to predefined
+ethics and values. The choice to highlight these two chatbots in particular is
+motivated by the distinct techno-political contexts in which each operates.
+While ChatGPT is developed by the American company OpenAI and enjoys
+global popularity, the product is not officially released in China for undis-
+closed reasons; ErnieBot is developed by Baidu for users in China. Comparing
+these two examples facilitates a nuanced examination of how moral agency
+emerges and evolves within divergent social and cultural contexts.
+   After introducing the concept of moral agency, we employ ChatGPT and
+ErnieBot as illustrative examples to discuss moral agency as a technological
+and a political construct. In the second section, our focus shifts to the
+
+interactions using machine learning and natural language processing, while chatbots refer to
+a specific application of this technology.

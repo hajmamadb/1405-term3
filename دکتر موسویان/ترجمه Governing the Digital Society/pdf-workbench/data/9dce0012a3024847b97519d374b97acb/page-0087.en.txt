@@ -1,0 +1,42 @@
+84                                                   Jacob van de Kerkhof
+
+approach to social media governance, creating a tension with the commercial
+nature of internet intermediaries governing social media. The process of
+governing speech in social media spaces is called content moderation; it
+involves norm-setting and enforcement thereof by internet intermediaries of
+third-party-generated content and ordering its display to the public (Gillespie
+2018). Internet intermediaries have sought ways to legitimize their content
+moderation processes to create a more public values–based approach to
+combat the risks associated with harmful and illegal content online. One
+of these ways is involving external parties, in a paradigm that Caplan (2023)
+likens to networked governance. Networked governance is a term coined
+to capture the paradigm of leveraging various actors beyond traditional
+governmental bodies in governing societal issues, thus decentralizing the
+power away from a single authority, in this case the social media platform.
+In content moderation, external actors are involved both in norm-setting,
+for example, by involving civil society organizations to express concerns
+for minority interests in community guidelines, as well as in enforcement,
+for example, by providing fact-checking.
+  Internet intermediaries have engaged external organizations in the
+detection of illegal and harmful content for quite some time, a phenomenon
+referred to as “trusted flaggers” (Eghbariah and Metwally 2021). The term is
+derived from the concept of “flagging,” a mechanism for reporting offensive
+content to a social media platform through expressing concerns within the
+predetermined rubric of a platform’s community guidelines (Crawford and
+Gillespie 2016). Anyone can flag content, which allows platform users to
+engage in content moderation. This democratizes the content moderation
+process, but abuse to deplatform other platform users has been reported,
+for example (Are and Briggs 2023). Trusted flaggers are organizations with
+expertise in a particular content area that are granted priority access
+(“trusted”) to “flag” illegal content (as opposed to flags from “ordinary”
+users). The internet intermediary expeditiously reviews trusted flags and
+determines whether content remains accessible, is taken down, or faces
+another form of sanction. This process has the advantage of legitimizing
+the internet intermediaries’ content moderation process, because of the
+expertise of flagging organizations and potential for representation of
+minority interests through trusted flagger organizations (Appelman and
+Leerssen 2022). Treating “trusted flags” more expeditiously means that
+illegal content can be removed more quickly, making the social media
+platform a safer—and therefore more attractive—venue for users and,
+crucially, advertisers (Griffin 2023). Overall, trusted flaggers are seen as
+a positive exponent of networked governance, which is underlined by the

@@ -1,0 +1,41 @@
+Governing the “Third Half of the Internet”                              65
+
+sections: the New York Times, El País, Die Zeit, The Guardian, and NU.nl. The
+emphasis is on how these news outlets have recently implemented content
+moderation to address toxicity as well as fostering increased constructive
+discussion. For this analysis, I compared platforms’ public documents
+explaining their moderation policies in addition to analyzing how the
+promotion of constructive commenting is visually represented in the
+interface. The comparison highlights the diverse approaches these outlets
+adopt to cultivate a constructive comment section. It details the methods
+and strategies they use to mitigate toxicity and highlight constructive
+contributions. Finally, I discuss the interplay and division of tasks between
+human and non-human (AI) moderation, as this combination defines how
+comment spaces will be policed and shaped in the foreseeable future.
+
+Challenges to the comment section
+
+As mentioned, news outlets frequently encourage user participation on their
+online platforms for various reasons, such as boosting overall web page traf-
+fic or generating new stories (Manosevitch and Tenenboim 2016). Moderating
+comment spaces aligns with the economic interests of news outlets, as dark
+participation tends to deter advertisers (Paßmann et al. 2022). However,
+online journalism and comment sections on news platforms had to adapt
+to substantial challenges. One prominent obstacle is the growing presence
+and impact of online misinformation and disinformation (Lewandowsky et
+al. 2017). Misinformation, for instance, may overshadow valid information
+presented by journalists, prompting questions about the responsibility of
+those hosting comment spaces concerning the spread of potentially harmful
+content (Van der Linden et al. 2017; McCright et al. 2016). In response to
+these challenges, content moderators and editors have advocated for more
+dialogue and increasing audience engagement (Meier et al. 2018).
+  Over time news outlets have shifted away from a strict top-down approach
+based on the lecturing of readers, which entailed, for example, the presenta-
+tion of netiquette specifically telling users how to behave online and what
+not to do (Scheuermann and Taylor 1997). This was seen as a necessity for
+adapting to the changing online environment and, subsequently resulted
+in a community manager role for those in charge of the comment space of
+news outlets (Meier et al. 2018). Consequently, news outlets have explored
+various approaches for setting strategic and operative goals, including
+banning repeat offenders or, in some cases, completely abandoning the
+comment space (Meier et al. 2018).

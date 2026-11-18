@@ -1,0 +1,41 @@
+Motherhood in the Datafied Welfare State                                  217
+
+from publicly funded research on Surinamese and Antillean kinship in
+the 1970s. This research correlates black kinship, single motherhood, and
+welfare reliance. For Schields, in Dutch welfare institutional practices,
+“‘family becomes racial ontology,’ ushering in racist essentialisms through
+the backdoor of culturalist arguments about family life” (2023, 3). The
+family becomes metonymic to racial difference, and through this, Dutch
+public and political institutions locate the origin of social deviance and
+marginalization in the family and individual behavior, rather than in
+larger systemic inequalities (p. 18).
+  Taking cue from Schields’ analysis of policy-mediated racial formations
+through the normativization of the family, we argue that the discriminatory
+effects of the Rotterdam algorithm for fraud detection, i.e., the targeting of
+single migrant mothers, are part of a larger racial ontologization institutional
+process. Emerging discursive practices perpetuate the distinction between
+the deserving and undeserving subjects of state welfare, which, ultimately
+manifests in current bureaucratic algorithmization practices. In the next
+section, we perform a category analysis on the indicators used in the welfare
+fraud risk-scoring algorithm and place them in this historical context.
+
+Case study: The algorithmic governance of welfare in Rotterdam
+
+In the Netherlands, with its decentralized organization of welfare distribu-
+tion (Vermeulen 2015), the responsibility for the datafication of welfare
+distribution and surveillance is delegated to the municipal level. Start-
+ing in 2017, the city of Rotterdam decided to implement a data-driven
+approach to manage the allocation of public benefits. In line with the
+central government’s approach during the same years, which involved
+experimenting with data analytics techniques to counter welfare fraud,
+authorities in Rotterdam hired the consulting firm Accenture to develop
+an automated process that could “identify illegitimate welfare recipients
+through a truly data-driven approach” (Huyskes 2023). The algorithm built
+by Accenture was a machine-learning model designed for risk scoring, a
+popular technique that is often used by banks and financial institutions to
+assign risk and calculate the trustworthiness of their customers (e.g., their
+ability to repay a loan or mortgage). In the case of Rotterdam, the purpose
+was to assess the trustworthiness of welfare recipients and predict fraud
+risk for each of them.
+  The Rotterdam welfare fraud risk-scoring algorithm was trained on
+historical data about known fraud cases, processing 315 variables such as

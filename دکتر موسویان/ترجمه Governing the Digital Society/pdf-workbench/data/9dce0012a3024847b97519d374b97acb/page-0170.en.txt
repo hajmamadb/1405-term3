@@ -1,0 +1,42 @@
+Interview with Natali Helberger                                           167
+
+of standardization bodies and the implementation acts of the European
+Commission will be so important. Their task will be to specify the AI Act’s
+general references to fundamental rights and public values in the form
+of a series of technical standards or common specifications in the EC’s
+implementing acts. Conformity with those harmonized standards and
+common specifications will create a legal presumption of conformity with
+the requirements of the AI Act. This is why I argue that technology providers
+and standardization bodies find themselves in the position of new arbiters
+of values and fundamental rights.
+  This is a break with traditional fundamental rights doctrine, according
+to which fundamental rights would bind in the first place public insti-
+tutions and governance, which then have positive obligations to create
+the conditions so that citizens can also benefit from their fundamental
+rights in relation to private actors. Insofar the AI Act continues a trend
+that we could already observe in, e.g., the Digital Services Act (DSA). The
+degree to which the emerging digital regulatory framework is outsourcing
+fundamental rights to private companies is unprecedented and potentially
+in tension with the positive obligations of states to secure and protect our
+fundamental rights.
+  For AI governance in the EU this means that the European standardiza-
+tion organizations as well as the European Commission, through its imple-
+mentation acts, will have a critical role in operationalizing the AI Act and
+fundamental rights. So, while the AI Act will set out the broader lines of AI
+governance in Europe, it is the technical standards and implementation acts,
+but also the (technical) instructions from developers to deployers and the
+terms and conditions of technology providers that will ultimately regulate
+and shape AI systems in Europe. As a result, what we are experiencing
+here is a technologization and bureaucratization of digital governance.
+In standardization bodies, traditionally technical expertise prevails. The
+European Commission has so far limited experience and limited competency
+in setting fundamental rights standards, but it has a lot of expertise in setting
+up processes. And a recent recruitment notice from the AI Office reads:
+“Technology specialists, hired as Contract Agents in Function Group IV, will
+play a pivotal role in enforcing and supervising new rules for general-purpose
+AI models” (European Union 2024, emphasis added). Making sure that there
+is sufficient fundamental rights expertise at standardization bodies, the
+European Commission, the AI Office, and technology companies will be
+a key challenge moving forward. Establishing fruitful collaborations with
+experts but also human rights standardization organizations such as the
+Council of Europe will be pivotal.

@@ -1,0 +1,41 @@
+52                                                      Gabriël van Rosmalen
+
+31–32). They also anticipated a surge in fixed costs, leading to higher ride
+prices, which would further reduce demand and employment. While there
+is limited research available to adequately verify these claims made by
+(experts hired by) platform companies themselves, national legal cases have
+shown that such concerns may be valid. One illustrative example is that
+of Helpling, a platform specializing in outsourcing domestic work, which
+was compelled to file for bankruptcy in January 2023. This occurred when
+a Dutch court changed the employment status of domestic workers from
+self-employed to temporary employees. Helpling simply could not afford the
+additional wage costs, leading to the company’s insolvency. Platform experts
+have raised concerns that cleaners would likely find themselves returning
+to the informal job market, potentially resulting in even lower payments
+and less worker protection. In 2022, another platform, Deliveroo, exited
+the Netherlands after a verdict by the Amsterdam Court of Appeal ruled
+that the self-employed individuals were, in practice, considered employees.
+This ruling shook the foundation of Deliveroo’s business model, ultimately
+leading to its withdrawal from the market.
+
+Platform cooperatives as addition to the current legislative
+process
+
+While the European Commission’s proposal aims to rebalance power dy-
+namics by reclassifying platform workers, the previous section concludes
+that it remains uncertain whether workers will truly benefit. The fact that
+labor platforms are privately owned still raises concerns about a potential
+misalignment of workers’ interests and platform interests. In his book
+Platform Socialism, British political scientist James Muldoon discusses how
+the prevailing approach to platform companies mainly revolves around
+constraining some of the excesses of corporate power, without addressing
+the underlying rationale that drives digital companies to abuse their power
+(Muldoon 2022, 143–44). Muldoon argues that the fundamental motivation
+here is the capitalist pursuit of private profit, which compels digital corpora-
+tions to prioritize profit over the well-being of their workers. Consequently,
+he advocates for the democratization of ownership and the empowerment
+of individuals to participate in new governance structures (Muldoon 2022,
+21). This perspective emphasizes that reclassifying employment status is
+just one aspect of a broader transformation.
+   In recent years, significant scholarly attention has been paid to the concept
+of platform cooperatives, which represent democratic and worker-owned

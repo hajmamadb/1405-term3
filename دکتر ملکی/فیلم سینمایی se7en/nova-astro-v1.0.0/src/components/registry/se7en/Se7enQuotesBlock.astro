@@ -1,0 +1,209 @@
+---
+// Quote gallery block for the Se7en study site.
+// Renders grouped memorable quotes (English original + Persian reading)
+// with speaker and scene context.
+import Section from "@components/ui/layout/Section.astro";
+import Container from "@components/ui/layout/Container.astro";
+import Heading from "@components/ui/atoms/Heading.astro";
+import Text from "@components/ui/atoms/Text.astro";
+import jsonData from "@data/sections/se7en-quotes.json";
+
+interface QuoteItem {
+  en: string;
+  fa: string;
+  speaker: string;
+  context?: string;
+}
+
+interface QuoteGroup {
+  speaker: string;
+  role?: string;
+  image?: string;
+  items: QuoteItem[];
+}
+
+interface Props {
+  sectionId?: string;
+  title?: string;
+  description?: string;
+  groups?: QuoteGroup[];
+  attribution?: string;
+  headingTag?: string;
+  class?: string;
+}
+
+const {
+  sectionId = "se7en-quotes",
+  title,
+  description,
+  groups,
+  attribution,
+  headingTag = "h2",
+  class: className = "",
+} = Astro.props as Props;
+
+const fallback = jsonData as Record<string, unknown>;
+const resolvedTitle = (title as string) || (fallback.title as string) || "";
+const resolvedDescription = (description as string) || (fallback.description as string) || "";
+const resolvedGroups = ((groups as QuoteGroup[]) && groups.length ? groups : (fallback.groups as QuoteGroup[])) ?? [];
+const resolvedAttribution = (attribution as string) || (fallback.attribution as string) || "";
+---
+
+<Section id={sectionId} tone="base" class:list={["se7en-quotes-section", className]}>
+  <Container>
+    <div class="mx-auto max-w-3xl text-center">
+      <Heading tag={headingTag} variant="section-heading-lg" class="se7en-quotes-title">{resolvedTitle}</Heading>
+      {resolvedDescription && (
+        <Text variant="lead" class="se7en-quotes-description mx-auto mt-4 max-w-2xl">{resolvedDescription}</Text>
+      )}
+    </div>
+
+    <div class="se7en-quotes-list">
+      {resolvedGroups.map((group) => (
+        <section class="se7en-quotes-group">
+          <header class="se7en-quotes-speaker">
+            <div class="se7en-quotes-speaker-line">
+              <h3 class="se7en-quotes-speaker-name">{group.speaker}</h3>
+              {group.role && <span class="se7en-quotes-speaker-role">{group.role}</span>}
+            </div>
+          </header>
+          <div class="se7en-quotes-cards">
+            {group.items.map((item) => (
+              <figure class="se7en-quotes-card">
+                <div class="se7en-quotes-mark" aria-hidden="true">&bdquo;</div>
+                <blockquote>
+                  <p class="se7en-quotes-en" dir="ltr">{item.en}</p>
+                  <p class="se7en-quotes-fa">{item.fa}</p>
+                </blockquote>
+                {item.context && <figcaption class="se7en-quotes-context">{item.context}</figcaption>}
+              </figure>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+
+    {resolvedAttribution && (
+      <p class="se7en-quotes-attribution" dir="ltr">{resolvedAttribution}</p>
+    )}
+  </Container>
+
+  <style>
+    .se7en-quotes-section {
+      padding-block: clamp(4rem, 8vw, 7rem);
+    }
+
+    .se7en-quotes-title {
+      font-size: clamp(1.6rem, 3vw, 2.25rem) !important;
+      font-weight: 800 !important;
+    }
+
+    .se7en-quotes-description {
+      color: var(--color-on-surface-variant);
+      font-size: 1.02rem;
+      line-height: 1.9;
+    }
+
+    .se7en-quotes-list {
+      margin-top: clamp(2rem, 4vw, 3rem);
+      display: flex;
+      flex-direction: column;
+      gap: clamp(2rem, 4vw, 3rem);
+    }
+
+    .se7en-quotes-speaker-line {
+      display: flex;
+      align-items: baseline;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      border-inline-start: 3px solid var(--color-brand-accent);
+      padding-inline-start: 0.9rem;
+    }
+
+    .se7en-quotes-speaker-name {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--color-on-surface);
+    }
+
+    .se7en-quotes-speaker-role {
+      font-size: 0.85rem;
+      color: var(--color-on-surface-variant);
+    }
+
+    .se7en-quotes-cards {
+      margin-top: 1.1rem;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+
+    .se7en-quotes-card {
+      position: relative;
+      margin: 0;
+      border: 1px solid color-mix(in oklab, var(--color-on-surface) 14%, transparent);
+      border-radius: 1rem;
+      background: color-mix(in oklab, var(--color-on-surface) 4%, transparent);
+      padding: 1.25rem 1.4rem 1.1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.7rem;
+      transition: border-color 0.25s ease;
+    }
+
+    .se7en-quotes-card:hover {
+      border-color: color-mix(in oklab, var(--color-brand-accent) 55%, transparent);
+    }
+
+    .se7en-quotes-mark {
+      position: absolute;
+      top: 0.4rem;
+      inline-end: 0.9rem;
+      font-size: 2.6rem;
+      line-height: 1;
+      color: color-mix(in oklab, var(--color-brand-accent) 45%, transparent);
+      font-family: Georgia, serif;
+    }
+
+    .se7en-quotes-card blockquote {
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.55rem;
+    }
+
+    .se7en-quotes-en {
+      font-family: var(--font-heading, inherit);
+      font-size: 1.05rem;
+      font-style: italic;
+      line-height: 1.75;
+      color: var(--color-on-surface);
+    }
+
+    .se7en-quotes-fa {
+      font-size: 0.95rem;
+      line-height: 2;
+      color: var(--color-on-surface-variant);
+    }
+
+    .se7en-quotes-context {
+      font-size: 0.8rem;
+      color: var(--color-brand-accent);
+      line-height: 1.7;
+    }
+
+    .se7en-quotes-attribution {
+      margin-top: clamp(2rem, 4vw, 3rem);
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--color-on-surface-variant);
+      opacity: 0.75;
+    }
+
+    @media (min-width: 768px) {
+      .se7en-quotes-cards {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+  </style>
+</Section>

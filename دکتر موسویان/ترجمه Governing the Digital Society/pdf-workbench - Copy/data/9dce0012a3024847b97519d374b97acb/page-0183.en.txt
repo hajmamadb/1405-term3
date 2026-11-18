@@ -1,0 +1,42 @@
+180                                                    Jing Zeng and Karin van Es
+
+topics. In response to these concerns, a string of right-wing chatbots have
+been imagined, leading the New York Times to describe chatbots “a new
+front in the culture wars” (Thompson et al. 2023).
+   In the case of ErnieBot, as well as other popular chatbots in China, main-
+taining a high “moral standard” holds equal importance alongside meeting
+technological standards. China’s rigorous internet regulations and information
+control creates substantial barriers for international products, such as ChatGPT,
+to operate within the country. For any digital platform to be permitted to exist
+in China, strict adherence to the country’s regulatory framework is mandatory
+(Zhuang 2023). This requirement necessitates conducting censorship in accord-
+ance with local norms or aligning the bot’s moral agency with the country’s
+values. This raises a question: What are the core values that chatbots must
+adhere to within the Chinese regulatory landscape? Authoritative responses
+to this question have been provided by the Cyberspace Administration of
+China. With new regulatory measures dedicated to Generative AI, the Chinese
+authorities underscore that chatbots and other generative models must
+
+   [a]dhere to the core socialist values, and refrain from generating content
+   that incites subversion of state power, overthrowing the socialist system,
+   jeopardizing national security and interests, damaging the national image,
+   inciting division within the country, and disrupting national unity and
+   social stability. (Zhuang 2023)
+
+This statement carries significant weight and demonstrates a strong com-
+mitment to the country’s national values. However, despite addressing
+crucial concerns, the interpretation and implementation of such measures
+remain complex and subject to diverse interpretations for both the country’s
+technology companies and users. For instance, according to the ruling
+party, the core socialist values consist of “prosperity, democracy, civility,
+harmony, freedom, equality, justice, the rule of law, patriotism, dedication,
+integrity, and friendship.” The mandate for generative AI to “adhere to the
+core socialist values” is ambitious, it covers all the positive virtues one
+could expect from technology. However, it is equally empty, as these values
+remain enigmatic and difficult to implement on a technological level.
+The ambiguity in the top-down policies, together with unpredictable and
+uncertainty in users’ interaction with chatbots, makes governing Chinese
+chatbots’ moral agencies a highly challenging task. Tech companies find
+themselves navigating a complex landscape where they must ensure the
+sensitivity of their products to the party’s expectations while simultaneously
+thriving in the domestic race in generative AI.

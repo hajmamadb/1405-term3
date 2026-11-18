@@ -1,0 +1,48 @@
+# فهرست مقالات دانلودشده
+## خروج نخبگان و زوال حافظه سازمانی در رسانه‌ها: رویکردی مروری به راهبردهای نگهداشت دانش در مدیریت منابع انسانی
+
+تاریخ دانلود: ۱۴۰۵/۰۸/۰۴ (2026-10-26)
+منبع: Academia.edu (از طریق مرورگر کروم با حساب کاربری محمد بختیاری)
+
+---
+
+## ۱۰ مقاله انگلیسی
+
+| # | فایل | عنوان | نویسنده/سال | مرتبطی با موضوع پایان‌نامه |
+|---|------|-------|-------------|--------------------------|
+| 01 | 01_Reyna_2021_Newsrooms_as_non_places.pdf | Newsrooms as non places | Víctor Hugo Reyna (2021), Brazilian Journalism Research | **خروج نخبگان**: برچسب‌های Employee Turnover و Turnover Intention در اتاق خبر |
+| 02 | 02_Reyna_2021_This_is_my_exit_sign_turnover_Mexican_journalism.pdf | "This is my exit sign": Job control deficit, role strain and turnover in Mexican journalism | Víctor Hugo Reyna (2021), Journalism Practice | **خروج نخبگان**: دلایل ترک شغل روزنامه‌نگاران (کنترل شغلی، تنش نقش) |
+| 03 | 03_Ivask_2017_Stressed_out_newsroom_journalists_consider_leaving.pdf | Stressed out: print, digital and converged newsroom journalists consider leaving the field | Signe Ivask (2017), Media and Communication | **خروج نخبگان**: استرس و ترک حرفه در خبرگزاری‌های سنتی/دیجیتال |
+| 04 | 04_Josephine_2025_News_Verification_Epistemic_Labour_Kenyan_Newsrooms.pdf | Reconstructing News Verification as Epistemic Labour: Journalism Training, Knowledge Cultures, and Responsibility Failures in Kenyan Newsrooms | Wanangwe Josephine (2025), IJRISS | **حافظه و دانش**: فرهنگ‌های دانشی و آموزش در اتاق خبر |
+| 05 | 05_Nel_Cultural_Fluidity_Newspaper_Editors_Knowledge.pdf | Cultural Fluidity: Weekly Newspaper Editors' Strategies for Building Knowledge and Managing Change | François Nel (کتاب Peter Gade) | **نگهداشت دانش**: راهبردهای مدیران روزنامه برای ساخت دانش و مدیریت تغییر (مهم‌ترین مقاله برای فصل راهبردها) |
+| 06 | 06_Yen_Liu_2022_Teamwork_Journalism_TV_Taiwan.pdf | Teamwork Competence in Journalism Education: Evidence From TV Organizations' News Team in Taiwan | Chia-Dai Yen & Gloria Liu (2022), Frontiers in Psychology | **حافظه سازمانی**: حافظه تعاملی (Transactive Memory) در تیم‌های خبری تلویزیون |
+| 07 | 07_Goyanes_Presentism_newsroom_career_expectations.pdf | Presentism in the newsroom: How uncertainty redefines journalists' career expectations | Manuel Goyanes & E. Rodriguez Gomez | **ماندگاری کارکنان**: عدم‌قطعیت و انتظارات شغلی روزنامه‌نگاران |
+| 08 | 08_Miglani_Organizational_Commitment_North_Indian_Journalists.pdf | Organizational Commitment of North Indian Journalists | Neha Miglani, JCC&C | **ماندگاری کارکنان**: تعهد سازمانی روزنامه‌نگاران (متغیر کلیدی HR در نگهداشت) |
+| 09 | 09_Meier_2021_Journalism_Innovation_Labs_2_Transformation_Learning.pdf | Journalism Innovation Labs 2.0 in Media Organisations: A Motor for Transformation and Constant Learning | Klaus Meier (2021), Journalism and Media | **مدیریت دانش**: یادگیری مستمر و نوآوری در سازمان‌های رسانه‌ای |
+| 10 | 10_Ryfe_2009_Broader_deeper_newsroom_culture.pdf | Broader and deeper: A study of newsroom culture in a time of change | David Ryfe (2009) | **حافظه سازمانی**: فرهنگ اتاق خبر در زمان تغییر |
+
+## ۲ مقاله فارسی
+
+| # | فایل | عنوان | نویسنده/سال | مرتبطی با موضوع پایان‌نامه |
+|---|------|-------|-------------|--------------------------|
+| 11 | 11_Salavatian_2018_الگوی_مدیریت_دانش_صداوسیما.pdf | الگوی مفهومی پیشنهادی مدیریت دانش برای سازمان صداوسیمای جمهوری اسلامی ایران | سیاوش صالحیان (1397)، فصلنامه اندیشه مدیریت راهبردی | **مدیریت دانش در رسانه ایرانی**: الگوی KM برای صداوسیما (مهم‌ترین مقاله فارسی) |
+| 12 | 12_شناسایی_منابع_و_مراکز_دانشی_صداوسیما.pdf | شناسایی منابع و مراکز دانشی در چارچوب مدیریت دانش در سازمان صداوسیما | (فصلنامه علمی مطالعات راهبردی فرهنگ) | **حافظه و دانش**: منابع و مراکز دانشی در رسانه ملی ایران |
+
+---
+
+## جستجوهای انجام‌شده در Academia.edu
+
+1. `("organizational memory" OR "organizational forgetting" OR "knowledge loss") AND ("knowledge retention" OR "knowledge transfer") AND (media OR journalism OR newsroom OR broadcast*)` → ۱۰۷۶ نتیجه عنوانی، اما موتور جستجوی Academia.edu عملگرهای بولی را به‌خوبی پردازش نمی‌کند
+2. `("employee turnover" OR "turnover intention" OR attrition OR "talent retention") AND (media OR journalism OR newsroom OR broadcast*)` → ۲۳۱ نتیجه عنوانی (بیشتر نامرتبط)
+3. `organizational memory newsroom` → ۴۰۹ نتیجه عنوانی (بهترین نتایج)
+4. `turnover intention journalism newsroom` → ۴۴۲۵ نتیجه عنوانی (نتایج بسیار مرتبط)
+5. `knowledge transfer newsroom media journalism` → ۱۲٬۵۸۷ نتیجه عنوانی
+6. `organizational memory journalism media` → ۳٬۷۵۴ نتیجه عنوانی
+7. `حافظه سازمانی رسانه` → ۳۲۱ نتیجه متن‌کامل (۲ مقاله فارسی کلیدی)
+8. `خروج نخبگان رسانه` → ۴۲۴ نتیجه متن‌کامل
+
+## یادداشت
+
+- مقاله 05 (Nel) در Academia.edu به‌صورت docx بارگذاری شده بود و با Microsoft Word به PDF تبدیل شد.
+- مقاله 04 سال 2025 و مقاله 06 سال 2022 است؛ بقیه تاریخ دقیق در صفحه مقاله درج شده.
+- برای استناد در پایان‌نامه، حتماً مشخصات کامل (شماره صفحات، DOI) را از خود PDF استخراج کنید.

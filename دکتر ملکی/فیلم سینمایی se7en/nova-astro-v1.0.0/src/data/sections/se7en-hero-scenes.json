@@ -1,0 +1,16 @@
+{
+  "eyebrow": "سکانس به سکانس",
+  "heading": "سکانس‌های کلیدی",
+  "headingAccent": "تحلیلِ مهم‌ترین لحظه‌ها",
+  "description": "از مونتاژ آغازین تا پرتابِ سکه؛ مهم‌ترین صحنه‌های فیلم یکی‌یکی: چه اتفاقی می‌افتد و چرا در ساختار فیلم مهم است.",
+  "primaryCTA": {
+    "label": "منابع",
+    "href": "/sources/"
+  },
+  "secondaryCTA": {
+    "label": "شخصیت‌ها",
+    "href": "/characters/"
+  },
+  "image": "/assets/images/t001-nova/gwyneth-paltrow.jpg",
+  "imageAlt": "گاینس پالترو در نقش تری"
+}

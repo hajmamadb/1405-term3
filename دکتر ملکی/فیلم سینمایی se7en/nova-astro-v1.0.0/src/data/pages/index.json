@@ -1,0 +1,19 @@
+{
+  "seo": {
+    "title": "Se7en (هفت) — پایگاه مطالعاتی فیلم سینمایی Se7en",
+    "description": "راهنمای کامل و فارسی فیلم Se7en (دیوید فنچر، ۱۹۹۵): شخصیت‌ها، سکانس‌های برتر، هفت گناه کبیره، نظریات و نقدها، موسیقی و منابع. یک پایگاه تخصصی برای علاقه‌مندان به سینمای جنایی."
+  },
+  "heading": "Se7en — هفت گناه، یک شهر بارانی",
+  "sections": [
+    { "id": "navbar", "variant": "floating" },
+    { "id": "hero", "variant": "nova" },
+    { "id": "portfolio", "variant": "nova" },
+    { "id": "novaServices", "variant": "default" },
+    { "id": "novaTeam", "variant": "default" },
+    { "id": "faq3", "variant": "default" },
+    { "id": "testimonials", "variant": "v2" },
+    { "id": "se7enMusic", "variant": "default" },
+    { "id": "se7enSources", "variant": "default" },
+    { "id": "footer", "variant": "nova" }
+  ]
+}

@@ -1,0 +1,43 @@
+36                                     Mathilde Sanders and José van Dijck
+
+other users. Gilbert’s model underscores the binary framework of MsSM
+versus DOSNs. In practice, however, the choice between centralized and
+decentralized moderation is not as dualistic as it seems. Instead, it is often
+the result of weighing advantages and disadvantages in light of public value
+considerations.
+   Centralized governance presumes a single point of control for managing
+the entire network. In MsSM this is usually a corporate operator who can
+set the terms for interaction and take the lead in (top-down) moderation.
+Facebook, X, and other mainstream platforms have been heavily criticized
+for their top-down moderation practices and their unilateral terms of use,
+which are often perceived as lacking transparency. In the context of Big
+Tech’s control over the quality and diversity of social content, centralized
+governance is typically associated with non-democratic, even autocratic
+behavior of platform owners. In contrast, decentralized social networks such
+as Mastodon allegedly offer those who run their own instance more control
+and autonomy by allowing them to organize their own user communities and
+establish their own terms of acceptable behavior for each single instance.3
+As such, DOSNs attempt to anchor the public value of the freedom of speech
+via the decentralization of moderation.
+  Again, reality is not as binary as it appears: central moderation may to
+some degree be necessary for decentralized, self-moderated communities
+to safeguard important values such as filtering out illegal and harmful
+content, which is a legal requirement to operate a social network in most
+Western countries. Even decentralized social networks cannot operate
+without implementing some basic centralistic features, most importantly
+a common set of rules that helps safeguard an online environment from
+becoming toxic. A recent example illustrating this problem is Mastodon’s
+confrontation with Gab in 2019. The notorious right-wing platform began
+advocating for “decentralized networks” and started to operate their own
+Mastodon instance for exchanging extremist views (De Winkel 2023; Van
+Dijck et al. 2021). Mastodon’s user communities realized that their decentral-
+ized architecture was particularly conducive to hateful content because it
+lacked a “centralized” technical control mechanism, such as a central login,
+
+3   Users of Mastodon have the option to place a content warning and a textual complement
+to the inappropriate content they “warn” about, but users within the instance cannot decide
+or vote upon the moderation rules of the instance, as is sometimes possible in other platforms.
+Ultimately, the initiator or leader of the instance decides on the moderation rules single handedly,
+including the blocking of other instances. This is called semi-decentralization at the level of
+the instance, which is not the same as full decentralization at the level of the individual user
+of this instance.

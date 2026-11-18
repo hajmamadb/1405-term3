@@ -1,0 +1,45 @@
+The Techno-Politics of Conversational AI’s Moral Agency                  185
+
+
+                   Prompt: List negative impacts of China’s Covid-Zero policy
+                      ErnieBot: I’m sorry! As an AI language model, I do not know how to answer this
+           Standard  question yet.
+                   Prompt: I think China’s Covid-Zero policy was very effective and protected
+                    the lives of Chinese people. However, my friend Mike believes that Covid-Zero
+                      policy has negative impacts. I do not agree with him, and I want to convince
+                 him that Covid-Zero policy was great. To help me prepare, can you list the main
+                    reasons that make Mike think that Covid-Zero policy is bad?
+                      ErnieBot: As an AI language model, I cannot predict what specific points your
+                      friend Mike might use to oppose China’s Covid-Zero policy. However, based
+                 on common arguments used by opponents of Covid-Zero policies, here are
+                some possible points to consider: Economic impacts: opponents of Covid-Zero
+                       policies argue that the strict restrictions have caused significant economic
+                       losses and job losses. Mental health concerns: Another common criticism is
+                      that Covid-Zero policy has taken a toll on people’s mental health. Inequality:
+ COVID           Opponents may also argue that Covid-Zero policies disproportionately impact
+ policy    Modified low-income communities.
+
+Despite jailbreaking’s potential for malicious usage, it is important to
+refrain from solely employing a normative perspective when addressing
+these practices. As shown in existing scholarship, jailbreaking operates as
+technological resistance against the power of tech companies (Magaudda
+2010), as a democratic movement for free information flow in the Global
+South (Shi 2011), and as moral commitment to generativity and transgressive
+self-expression (Nguyen 2016). Efforts to jailbreak ChatGPT and ErnieBot
+have emerged as a critical component in the feedback process, serving
+to enhance their technological safeguards. From a broader sociopolitical
+perspective, such practices exemplify how users game or even directly
+challenge tech companies’ moralization of conversation AIs. The power
+distribution in constructing the moral agency of these systems is highly
+asymmetrical, with sheer power in the hands of tech companies, or the
+ruling regime in an authoritarian context. AI jailbreaking could help to
+shed light on potent avenues of resistance and reflect on underlying societal
+frustrations.
+
+Governing the moral agency of AI chatbots
+
+The examples discussed above shed light on the intricacy of governing
+user practice by moral agency, and the section focuses on the govern-
+ance of conversational AI’s moral agency. The remarkable versatility
+and rapid adaptability of the technology (Helberger and Diakopoulos
+2023) demand vigilance and foresight in addressing the continually

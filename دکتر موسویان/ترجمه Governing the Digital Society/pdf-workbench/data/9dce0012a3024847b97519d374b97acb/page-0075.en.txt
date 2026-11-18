@@ -1,0 +1,36 @@
+72                                                       Cedric Waterschoot
+
+
+
+
+
+Figure 3.2. Separate tabs with NYT Picks and Readers’ Picks.
+
+NU.nl designates their editorial selection of user comments as “Highlighted
+Posts.” According to their definition, these contributions are “well thought
+out and respectful” and “not selected based on political preferences” (NUjij
+2018). Furthermore, the FAQ page specifies that they serve as an example
+to other users (NUjij 2018). Selected comments receive a star badge and are
+presented in a separate tab on the interface (figure 3.3). In addition to editor
+picks, NU.nl has implemented a user labeling system on their comment
+platform. The news outlet offers the possibility to add your job title as a
+so-called expert label (figure 3.3). To obtain such a label, visible on your
+comments, you will need to provide proof in the form of a contract, diploma,
+company website or a trustworthy LinkedIn page (NU.nl 2020). This strategy
+aims to enhance the trustworthiness of comments and user-contributors.
+Furthermore, the NU.nl editors invite these experts to contribute to future
+stories (NU.nl 2020).
+  The Guardian calls their editor picks “Guardian Picks” and prominently
+displays them at the top of the comment interface, presenting them in a
+speech bubble (figure 3.4). Interestingly, while the previous three platforms
+have a rather uniform implementation of promoting constructive com-
+ments, Die Zeit and El País differ. The former used to have editor picks
+(Redaktionsempfehlungen), but this feature seems to be disabled without
+an editorial statement about its current status (Schmidt 2014).1 Browsing
+through Die Zeit’s sitemap, it seems that they may have partially or fully
+abandoned the approach in 2015 or 2016. Spanish newspaper El País has
+
+
+1   In their renewed comment interface announcement (April 4, 2023), editor picks (Redaktion-
+sempfehlungen) are mentioned. However, there are no examples found within the comments on ar-
+ticles. https://www.zeit.de/administratives/2023-04/kommentarbereich-design-struktur-emojis.

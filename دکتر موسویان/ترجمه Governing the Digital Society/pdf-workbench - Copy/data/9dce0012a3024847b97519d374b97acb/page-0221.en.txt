@@ -1,0 +1,42 @@
+218                   Gerwin van Schie, Laura Candidatu, and Diletta Huyskes
+
+gender, age, marital and employment status, language skills, neighborhood
+of residence, number of children, competencies, psychological problems,
+hobbies, perseverance, the age difference between the children and parents,
+diplomas and certificates, and several other inputs that represented the
+subjective evaluations expressed by local caseworkers in each recipient’s
+file (for a full list, see Moti 2021). For instance, one variable pertained to
+a citizen’s availability for appointments with the benefits office and the
+number of deviated appointments specifically due to their social situation.
+Another variable describes the ability of a person to deal with pressure and
+setbacks. By cross-referencing all available data points, each person was
+assigned a risk score between 0 and 1. Citizens were then sorted by their risk
+score, resulting in a list of citizens ordered by their “trustworthiness.” Those
+with the highest risk, approximately the top 10 percent, were selected for
+investigation and surveillance. While this might appear to be a reasonable
+work practice, the indicator categories used, as well as the measured accuracy
+of the algorithm, reveal several problems.
+   First, training an algorithm by finding correlations of known fraud
+cases with a large number of data categories in order to identify the most
+relevant indicators is notorious for reproducing past biases (Buolamwini
+and Gebru 2018). In such cases, it is always unclear how much of the
+algorithm reflects the entire population of fraudsters and how much
+the algorithm simply mirrors the personal and institutional focus—in
+the form of social norms and biases—of past policing practices that
+created the very specific “sample” on which the algorithm was trained.
+When we compare all explicitly racialized and gendered indicators in
+the algorithm with the history of Dutch welfare and its gendered and
+racializing functions detailed above, we encounter many familiar selection
+criteria (see table 12.2). By combining these criteria, we can easily distill
+the type of gendered and racialized identity that is considered most at
+risk for committing fraud by the municipality of Rotterdam: women with
+a migration background who became mothers at a young age and have a
+more than average amount of children. Furthermore, while the respective
+weights are somewhat on the lower side, the algorithm also takes into
+account past and current relationships and their length, indicating an
+interest in family composition and relationship statuses. Again, the added
+historical context suggests that this is not merely an intrusive government
+practice resulting from the datafication of welfare, but rather the result
+of specific past social norms concerning race, gender, and sexuality that
+were already part of the discourse on welfare and its recipients before
+its digitization.

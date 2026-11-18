@@ -1,0 +1,42 @@
+132                                                            Fabian Ferrari
+
+Regulatory objects in science and technology studies
+
+The field of STS has played a pivotal role in scrutinizing the dynamics
+between constantly changing governance subjects and regulatory frame-
+works. In Fisher’s perspective (2014, 163), a “regulatory object” is defined as
+something perceived by regulatory actors as the focal point for regulation.
+To qualify as a regulatory object, it must be “understood by regulatory actors
+as the ‘thing’ to be regulated” (ibid.). What is the thing to be regulated, and
+how to systematically observe it over time?
+  STS scholarship suggests that the answer to this question is not simple.
+It depends on how complicated and layered the properties of the regulatory
+object are and how much they keep changing over time. An example is the
+governance of high-frequency trading algorithms that are used in stock
+markets. Seyfert demonstrates in his analysis of the German High Frequency
+Trading Act that “the demarcation of a manipulative trading algorithm is
+only a derivative second step after objectifying the algorithm as a distinct
+object” (2021, 6). In this case, the trading algorithm needs to be meticulously
+distinguished from both the trading platform and the trading firm. Although
+these three governance entities are inherently interconnected, it is pivotal
+to differentiate them analytically. Without a clear specification of what
+precisely constitutes the regulatory object, it remains impossible to make
+it publicly inspectable or subject to technical modifications.
+  Another clear example of this complexity can be seen in the regulation
+of genetically modified organisms (GMOs), such as transgenic agricultural
+seeds. In his study on how those organisms become new governance objects,
+Lezaun follows the “administrative practices and detection instruments able
+to track GMOs throughout the food production system, from the farm to the
+table” (2006, 501). The governance of those complex organisms is structured
+by overarching “infrastructures of referentiality” (ibid., 505), which consist of
+two parts. First, there is bureaucratic nominalism, whereby an unambiguous
+label is given to the regulatory object to make it categorizable in bureaucratic
+processes. Second, there is the standardization of detection methods, which
+helps in identifying the regulatory object. For example, GMOs need to be
+separated from non-GMOs, both for finding them in bureaucratic databases
+and detecting them through on-the-ground regulatory authorities.
+   Bureaucratic nominalism and standardized detection methods are also
+highly relevant in the context of generative AI systems. How can (and how
+should) generative AI systems be defined in regulatory frameworks? How
+can their use be detected in a standardized way, and how can changing
+use cases be observed? Those questions signify the importance of coherent

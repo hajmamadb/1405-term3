@@ -1,0 +1,42 @@
+Decentralized Online Social Networks                                     33
+
+Software protocols
+Another technical element that determines the degree of decentralization
+of a platform is the choice of a particular software protocol. A protocol is
+an agreed upon set of rules and actions facilitating common interactions,
+such as following, liking, and sharing (Shaw 2020). Servers that use the same
+protocol can interoperate with one another, as exemplified by the email
+protocol. This interoperability means users from different servers using the
+same protocol can exchange messages and follow users across platforms
+(La Cava et al. 2021). As such, protocol choice can have major implications
+for platform governance.
+  DOSNs typically use protocols that stimulate “decentralized” and inter-
+operable systems to give user communities more control over their own
+data, identity, and content (Klaytn 2023) while also providing a degree of
+openness for all who want to join. In public debates, decentralized social
+networks are commonly associated with affording all users unhampered, free
+access to a social network space, without any identification or central login
+requirements. However, the public values of openness and inclusion may be
+at odds with the need for security; in some cases, persistent authentication
+of one’s verified identity may be needed to guarantee the online safety of
+some or all users across the decentralized network of user communities
+(Jacobs et al. 2023).
+  Consider the two decentralized protocols ActivityPub and Matrix. Mas-
+todon uses the ActivityPub protocol, which lacks a single point of entry and
+allows for “federating” with other platforms in the Fediverse, thus providing
+open access and greater content control for users (Pierce 2023). In contrast,
+the Matrix protocol also maintains a decentralized architecture, but offers
+the technical possibility of a “single point of entry” for user identification.
+ActivityPub does not offer such an option at the central protocol level; it
+enables the possibility of a username–password-based login at the level of
+decentralized instances.
+  This highlights that the choice to prioritize specific public values over
+others is already reflected in the choice of the basic architectural design of a
+particular protocol (Krasodomski-Jones et al. 2018, 8). There are technical so-
+lutions to resolve the dilemma of openness versus persistent authentication,
+such as the use of a decentralized, attribute-based electronic identification
+service (DAN e-ID). This service is an e-wallet alternative to the unique
+identifier services used by Facebook and other centralized platforms, which
+link all activities and personal data of an individual user. DAN e-IDs, in
+contrast, do not connect all pieces of personal data via identification but
+allow users to reveal only one relevant piece of his or her identity (referred to

@@ -1,0 +1,42 @@
+Introduction: Governing the Digital Society                                   15
+
+specific technological and organizational features, effectively curtail toxic
+content and foster constructive public debate. The second aspect pertains
+to how digital technologies can be governed through laws, governmental
+strategies, or (institutional, local, or national) policies. Lawmaking and policy
+design are not exclusive responsibilities of courts or states; they emerge from
+meaningful interactions among state, market, and civil society actors. In
+Western democracies, laws are underpinned by norms and values that are
+publicly weighed and discussed before they are enacted.
+  For this volume we invited contributions from various disciplines to
+address the normative yet open question: “How can we develop and ap-
+ply principles of (good) governance in digital societies that are organized
+democracies?” These principles often involve balancing between conflicting
+(public) values, such as privacy versus security, accuracy versus democratic
+control, and fairness versus efficiency. Public values cannot simply be bought
+“off the shelf” and integrated into technologies; instead, good governance
+requires negotiations between stakeholders and careful reflection about how
+“smart” technologies affect digital and physical environments. Many of these
+negotiations occur within specific sectors or institutions, including schools,
+city councils, neighborhood communities, hospitals, news organizations,
+and government bodies. We explore these value negotiations within and
+across societal sectors, aiming to uncover general rules for fair governance
+at institutional, local, national, and transnational (e.g., EU) levels. A key
+focus of our research is to strengthen independent public institutions in the
+digital era by making them more transparent, accountable, and resilient.
+  As the digital society introduces increasing complexities to the world,
+understanding and “governing” these complexities necessitate a multitude
+of perspectives and diverse intellectual contributions. Recognizing this,
+Utrecht University in the Netherlands encourages its researchers to extend
+their academic expertise beyond their disciplinary boundaries and outside
+of academic walls. The university invites them to join academically diverse
+teams dedicated to addressing grand societal challenges. Over the past
+four years, some forty to fifty researchers at Utrecht University—includ-
+ing graduate students, postdocs, teaching staff, and professors—have
+collaborated within the focus area Governing the Digital Society (GDS).1
+This research program has brought together experts in law, information
+science, public management, media and communication studies, phi-
+losophy, educational science, and other fields, demonstrating the value
+
+1   For information on Utrecht University’s focus area Governing the Digital Society (GDS),
+see https://www.uu.nl/en/research/governing-the-digital-society.

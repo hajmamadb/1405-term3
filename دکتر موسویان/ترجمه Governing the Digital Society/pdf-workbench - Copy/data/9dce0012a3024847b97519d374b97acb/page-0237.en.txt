@@ -1,0 +1,42 @@
+234                                               Niels Kerssens and Karin van Es
+
+Sanoma, developer of the Dutch DEP Bingel, to replace adaptive learning
+technology Knewton with an analytics engine developed in-house (Kerssens
+and Van Dijck 2023). Knewton, developed by an American company with
+40 million users worldwide, powered Bingel with a data-driven analytics
+engine for personalized learning. For Malmberg/Sanoma, Knewton’s engine
+constituted a black box, severely limiting their view and control over data
+processing in Bingel’s algorithmic backend. Pushed by the implementation of
+the GDPR, and the ensuing transparency requested in the privacy covenant,
+Malmberg/Sanoma terminated its Knewton partnership.
+  Another motivation for edtech companies to (re)design their digital
+services and products with a focus on privacy and data protection is the
+inclusion of the model sub-processor agreement in the latest (2022) version
+of the privacy covenant. Such an agreement aims to support suppliers
+to establish GDPR-compliant agreements on data processing with their
+sub-processors. Considering this, it is worth noting that the 2022 privacy
+supplement for Bingel Malmberg/Sanoma mentions that additional agree-
+ments were made with sub- processor Amazon Webservices following the
+abolishment of the Privacy Shield agreement between Europe and the
+United States in 2020.
+
+DPIA on Google Workspace for Education
+While the privacy covenant exemplifies a collaborative sectoral effort aimed
+at strengthening the control of schools over data flows, there is an ongoing
+need for additional collectively initiated and developed checks and balances
+in data protection. This need is particularly important because none of the
+Big Tech platform companies signed the Dutch privacy agreement, while
+their ecosystems of software, hardware, and infrastructural services take up
+a dominant position in the online learning environments of Dutch primary
+schools (Kerssens and Van Dijck 2021). In 2020, the growing dependence on
+Big Tech in schools, combined with a lack of transparency in data flows,
+prompted a thorough data protection impact assessment (DPIA) of Google
+Workspace for Education (Nas and Terra 2021). A DPIA is an instrument to
+identify and possibly mitigate the privacy risks of a data processing operation.
+The GDPR requires organizations to conduct a DPIA if there are high privacy
+risks, for example, due to systematic and extensive processing of personal
+data in DEPs. In addition to the privacy covenant, the DPIA on Google
+Workspace for Education provides an inspiring example of a collaboration
+in data protection on behalf of public schools. The DPIA was conducted
+under the leadership of two cooperative IT procurement organizations
+for education, namely, SURF (higher education) and SIVON (primary and

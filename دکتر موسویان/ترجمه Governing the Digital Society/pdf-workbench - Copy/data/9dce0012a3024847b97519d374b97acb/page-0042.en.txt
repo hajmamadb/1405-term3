@@ -1,0 +1,42 @@
+Decentralized Online Social Networks                                  39
+
+Business model
+Lastly, the term “decentralized” also refers to the business model of a
+platform. MsSM are typically associated with for-profit business models
+based on the commercial exploitation of data, such as targeted advertising
+and algorithmic content recommendation. In contrast, DOSNs are linked
+with not-for-profit models based on data minimization, aligning with values
+of privacy and user autonomy. The choice for a platform’s business model
+requires a profound value negotiation weighing the (financial or social)
+benefits of data exploitation against respect for (personal) user data and
+investments in public interests. Centralized model examples like Facebook,
+Instagram, and X rely almost entirely on a business model of online personal-
+ized advertising and data exploitation for user profiling. By contrast, a
+decentralized platform like Mastodon does not feature advertising, (paid)
+subscriptions, nor sale of goods. Mastodon’s revenue primarily comes from
+crowdfunding through Patreon and the platform is supported by a long list
+of sponsors—not big firms, but lesser-known organizations and individuals.
+  Indeed, while Mastodon does not exploit big data, this also means it
+has fewer revenues than MsSM to invest in technical and organizational
+support for improving its security levels and user-friendliness. Business
+models based on data minimization not only advance a platform’s privacy
+protection goals but also contribute to its sustainability objectives, as they
+lower the energy consumption needed for big data storage. However, these
+models limit data analysis that could benefit society and collective interests
+through innovation. The new insights and discoveries that may derive from
+big data analysis via AI systems cannot be deployed to improve the quality
+of decentralized networks either.
+  Another trade-off underpinning business models concerns the choice
+between paid professionalism and unpaid volunteerism. In most DOSNs,
+the dependence on volunteers for platform moderation is both a strength
+and a serious liability for its economic and operational stability—a para-
+doxical concern that needs to be addressed. As we observed in section 3,
+society benefits greatly from the availability of open-source software, but
+its development relies heavily on charity and volunteerism (Eghbal 2016).
+At Mastodon, open-source software development and moderation are
+carried out by volunteers, while material costs are covered by donations,
+sponsorships, and grants. Approximately 8,500 Patreon donors bring in
+about €30,000 per month (Belager 2023). A subscription-based model—a
+model that both X and Facebook recently started to offer—could provide
+DOSNs with a more sustainable revenue base that would empower end users
+vis-à-vis other stakeholders (Sanders 2021; Sanders and Van de Vrande 2024).

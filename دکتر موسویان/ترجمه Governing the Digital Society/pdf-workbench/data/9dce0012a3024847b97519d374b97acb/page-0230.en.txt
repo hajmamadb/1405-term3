@@ -1,0 +1,37 @@
+13.  Fostering Autonomy in the Digital
+    Classroom : Strengthening Schools’
+    Control over Data and Pedagogy
+    through Collective Action
+        Niels Kerssens and Karin van Es
+
+
+         Abstract: In this chapter, we explore strategies to safeguard and strengthen
+        the digital autonomy (control over data and pedagogy) of primary schools
+        during their transition to digital education. We emphasize the importance
+         of collective and cooperative actions involving schools, public organiza-
+         tions, and edtech market players, supported by examples from Dutch
+       primary education. We stress the need to broaden the focus of education
+        platform governance from data autonomy to pedagogical autonomy and
+        outline prospective pathways for collective action to fortify schools’
+        pedagogical autonomy. Additionally, we underscore the necessity of
+        developing alternative ecosystems for digital education. These pathways
+        serve as a crucial counterbalance to the mounting influence of Big Tech
+        within “platformized” national educational systems across Europe and
+         globally.
+
+       Keywords: edtech, pedagogy, autonomy, Big Tech, collective action
+
+Introduction
+
+In the digital transformation of K–12 education, classroom learning environ-
+ments in Europe and many other countries around the world are increasingly
+reliant on ecosystems of digital applications and infrastructural services
+provided by global and national edtech companies. Scholars refer to this
+process as “platformization” (Kerssens and Van Dijck 2021), wherein digital
+
+
+
+Van Dijck, José, Karin van Es, Anne Helmond, and Fernando van der Vlist, eds. Governing the
+Digital Society: Platforms, Artificial Intelligence, and Public Values. Amsterdam: Amsterdam
+University Press, 2025
+doi 10.5117/9789048562718_ch13

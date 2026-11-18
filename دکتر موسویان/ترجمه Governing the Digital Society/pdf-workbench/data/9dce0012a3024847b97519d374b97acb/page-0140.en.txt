@@ -1,0 +1,42 @@
+The Governance of Generative AI: Three Conditions for Research and Policy  137
+
+Inspecting generative AI systems
+The condition of “public inspectability” in generative AI oversight raises the
+question of how those systems should be subjected to public scrutiny. In
+this context, “inspectability” means that generative AI systems are available
+for in-depth examination at the most detailed level. This idea of public
+inspectability presents a policy dilemma regarding whether generative AI
+systems should be entirely open, as advocated by open-source proponents,
+or entirely closed, as argued by their proprietors. However, this is not a
+binary question, and it is useful to allow for granular differences. Solaiman
+(2023) usefully introduces a gradient of inspectability levels, ranging from
+fully closed (whereby systems remain sealed off by their developers and
+inaccessible to the public) to fully open, where they are entirely accessible
+to the public. The granular levels of access in between include gradual or
+staged access, hosted access, cloud-based or application programming
+interface (API) access, and downloadable access.
+  The concept of public inspectability includes a delicate balance between
+public values like safety and security and ideals of openness and democratic
+control. Public inspectability also intertwines with concerns about detecting
+and managing misinformation, manipulation, and unauthorized use of
+resources. For example, an open-source model lacking adequate safety
+measures (e.g., Stanford’s Alpaca model, which was taken offline due to
+safety concerns) may not be a better option than a closed, proprietary
+model that does have robust safety controls. So-called “model cards” have
+emerged as a standardization tool for AI developers to comprehensively
+document all key aspects of generative AI systems, including domain-
+specific training datasets, biases, and ethical considerations (Mitchell et
+al. 2019). In cases involving closed models, opacity sometimes masquerades
+as superficial transparency: model cards previously released by OpenAI and
+Meta attracted valid criticism from the research community (Birhane et
+al. 2021) and policymakers (Blumenthal and Hawley 2023) for being severely
+under-detailed, possibly intentionally so. Consequently, the concept of
+public inspectability prompts a challenging question: What components
+of proprietary generative AI systems should be made inspectable, to whom,
+and for what purposes?
+  Based on cross-disciplinary research conducted at the Governing the
+Digital Society focus area with Antal van den Bosch and José van Dijck,
+a structure of a five-layer model of different types of information about
+foundation models was developed (Ferrari et al. 2023b). Table 7.1 provides
+an overview of this basic structure, making a structural distinction between
+“types of information” (e.g., training datasets), “formats of information” (e.g.,

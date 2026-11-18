@@ -1,0 +1,41 @@
+246                                                       Viktorija Morozovaite
+
+VM: Let’s start by taking a step back to the year 2021. Could you explain the
+context in which FRAIA was developed? What concerns and risks related to
+fundamental rights in the Dutch and the broader European digital society
+inspired its development?
+
+JG: Algorithms have been around for quite some time, but around 2020,
+public authorities in the Netherlands started to realize that there can be
+many fundamental rights’ risks involved. At the time, everyone was aware of
+data protection issues, but there were increasing examples of fundamental
+rights’ risks coupled with an increasing use of algorithms by governmental
+organizations. For instance, the System Risk Indication (SyRI) algorithm
+(a risk-management algorithm, used by the Dutch government to predict
+the risk of detecting social security fraud) created a lot of debate because
+it had discriminatory aspects to it, and while everyone was thinking about
+data protection, non-discrimination concerns suddenly became relevant
+(Wieringa 2023).
+  At the time, the Dutch Ministry of the Interior and Kingdom Relations
+was developing a program on the various risks related to the use of algo-
+rithmic systems. As a first step, they needed some kind of inventory of the
+fundamental rights problems related to big data analyses and algorithms.
+They asked me to do that and together with research master student Max
+Vetzo and Professor Remco Nehmelman, we tried to identify all fundamental
+rights risks that could be relevant and showed the relevant legal framework.
+  As a follow-up on this, the ministry then asked me to develop a FRAIA-
+like instrument. The background to this was that the ministry saw public
+institutions jump on the train of adopting big data analyses, algorithmic
+systems, and AI technologies, without being fully aware of the risks. They
+felt there was a clear need for policy instruments to ensure that this was
+done in a streamlined and responsible manner.
+   Initially, the ministry asked us to design an assessment that purely
+focused on fundamental rights assessment, but it very quickly turned out
+that it would be much more useful to have a more holistic instrument.
+Such an instrument could include a variety of elements of ethical and
+responsible AI, as well as insights from political and governance sciences
+on the legitimacy and quality of public bodies’ decision-making processes.
+To allow me to design a useful and workable model, I then joined forces with
+Utrecht University’s Data School, which employs a number of great people
+working on how algorithmization and datafication transform democracy,
+and which has also developed the Data Ethics Decision Aid (DEDA). The

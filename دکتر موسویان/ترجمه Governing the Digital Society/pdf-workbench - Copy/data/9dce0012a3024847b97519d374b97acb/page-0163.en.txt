@@ -1,0 +1,41 @@
+160                                                          Lisanne Hummel
+
+to regulate AI, it might be worthwhile to stimulate (future) diversity of
+foundational models when regulating AI.
+
+Regulating AI in the long run
+It is not surprising that the EU has not addressed power concentration
+of Big Tech companies in AI markets as a part of the AI Act. AI markets
+are still emerging, and it is unclear how the power concentration of these
+companies will play out. Regulators are often hesitant to regulate markets
+that are still developing. Moreover, the risk-based approach focuses on a
+sectoral application of AI. Therefore, it does not automatically lend itself
+to a focus on broader foundational models and the potential for platform
+power and market power concentrations in AI markets.
+  However, I would argue that disregarding the movement of Big Tech
+companies into the market for foundational models should indeed be
+considered as part of the AI Act. By foreseeing the same dynamics that
+have proven to be problematic in other digital markets, the EU could in fact
+avoid the likely situation where a few large companies obtain a powerful
+position in the AI markets. When it comes to regulating AI in the EU, the
+European Parliament’s proposal to include foundational models in the AI
+Act needs to be taken seriously. Foundational models greatly impact the
+further deployment of AI by other companies. However, such a proposal
+alone is insufficient to curtail the power of Big Tech companies. Using
+indeterminate concepts such as mitigating unforeseeable risks and using
+appropriate design will not curtail the power of companies developing and
+commercializing foundational models. As we can learn from the DMA and
+the DSA, more specific rules on how companies can use their power are
+required.
+  For legislators working on the AI Act, it might be worthwhile to consider
+the future development of AI markets and power dynamics that will come
+into play in AI markets over the next few years. It is therefore recommended
+to focus regulation on foundational models rather than just AI applications.
+More precisely, when it comes to the role of Big Tech companies, the focus
+on foundational models will help prevent the kind of power dynamics that
+regulators have witnessed in other digital markets.
+
+Conclusion
+
+The question asked in this chapter is: Does the AI Act sufficiently address
+the undesirable concentration of power of Big Tech companies in the
